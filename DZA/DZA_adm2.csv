@@ -1,0 +1,1505 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,5,"DZA","Algeria",1,"Aïn Defla",1,"Ain Benian","Commune-Cotiere","Commune-Cotiere",NA,NA
+2,5,"DZA","Algeria",1,"Aïn Defla",2,"Ain Bouihi","Commune","Commune",NA,"Ain Bouyahia"
+3,5,"DZA","Algeria",1,"Aïn Defla",3,"Ain Defla","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Ain-Defla|`Ayn Daflah"
+4,5,"DZA","Algeria",1,"Aïn Defla",4,"Ain Lechiakh","Commune","Commune",NA,NA
+5,5,"DZA","Algeria",1,"Aïn Defla",5,"Ain Soltane","Commune","Commune",NA,NA
+6,5,"DZA","Algeria",1,"Aïn Defla",6,"Ain Tork","Commune","Commune",NA,"Ain Torki"
+7,5,"DZA","Algeria",1,"Aïn Defla",7,"Arib","Commune","Commune",NA,NA
+8,5,"DZA","Algeria",1,"Aïn Defla",8,"Barbouche","Commune","Commune",NA,NA
+9,5,"DZA","Algeria",1,"Aïn Defla",9,"Bathia","Commune","Commune",NA,NA
+10,5,"DZA","Algeria",1,"Aïn Defla",10,"Belaas","Commune","Commune",NA,NA
+11,5,"DZA","Algeria",1,"Aïn Defla",11,"Ben Allal","Commune","Commune",NA,NA
+12,5,"DZA","Algeria",1,"Aïn Defla",12,"Bir Ould Khelifa","Commune","Commune",NA,"Bir Ouled Khelifa"
+13,5,"DZA","Algeria",1,"Aïn Defla",13,"Bordj Emir Khaled","Commune","Commune",NA,NA
+14,5,"DZA","Algeria",1,"Aïn Defla",14,"Boumedfaa","Commune","Commune",NA,NA
+15,5,"DZA","Algeria",1,"Aïn Defla",15,"Bourached","Commune","Commune",NA,NA
+16,5,"DZA","Algeria",1,"Aïn Defla",16,"Djelida","Commune","Commune",NA,NA
+17,5,"DZA","Algeria",1,"Aïn Defla",17,"Djemaa Ouled Cheikh","Commune","Commune",NA,NA
+18,5,"DZA","Algeria",1,"Aïn Defla",18,"Djendel","Commune","Commune",NA,"Jandal"
+19,5,"DZA","Algeria",1,"Aïn Defla",19,"El Abadia","Commune","Commune",NA,"El Abbadia|al-Ab`a-di-yah"
+20,5,"DZA","Algeria",1,"Aïn Defla",20,"El Amra","Commune","Commune",NA,"al-Amrah"
+21,5,"DZA","Algeria",1,"Aïn Defla",21,"El Attaf","Commune","Commune",NA,"al-Ashir"
+22,5,"DZA","Algeria",1,"Aïn Defla",22,"El Hassania","Commune","Commune",NA,NA
+23,5,"DZA","Algeria",1,"Aïn Defla",23,"El Maine","Commune","Commune",NA,"El Mayene"
+24,5,"DZA","Algeria",1,"Aïn Defla",24,"Hammam Righa","Commune","Commune",NA,NA
+25,5,"DZA","Algeria",1,"Aïn Defla",25,"Hoceinia","Commune","Commune",NA,"El Hoceinia"
+26,5,"DZA","Algeria",1,"Aïn Defla",26,"Khemis Miliana","Commune","Commune",NA,"Khamis Milyanah"
+27,5,"DZA","Algeria",1,"Aïn Defla",27,"Mekhatria","Commune","Commune",NA,NA
+28,5,"DZA","Algeria",1,"Aïn Defla",28,"Miliana","Commune","Commune",NA,"Milyanah"
+29,5,"DZA","Algeria",1,"Aïn Defla",29,"Oued Chorfa","Commune","Commune",NA,NA
+30,5,"DZA","Algeria",1,"Aïn Defla",30,"Oued Djemaa","Commune","Commune",NA,NA
+31,5,"DZA","Algeria",1,"Aïn Defla",31,"Rouina","Commune","Commune",NA,"Ruwinah"
+32,5,"DZA","Algeria",1,"Aïn Defla",32,"Sidi Lakhdar","Commune","Commune",NA,NA
+33,5,"DZA","Algeria",1,"Aïn Defla",33,"Tacheta Zegagha","Commune","Commune",NA,"Tachta Zegarra"
+34,5,"DZA","Algeria",1,"Aïn Defla",34,"Tarik Ibn-Ziad","Commune","Commune",NA,"Tarik Ibn Ziad"
+35,5,"DZA","Algeria",1,"Aïn Defla",35,"Tiberkanine","Commune","Commune",NA,NA
+36,5,"DZA","Algeria",1,"Aïn Defla",36,"Zeddine","Commune","Commune",NA,NA
+37,5,"DZA","Algeria",2,"Aïn Témouchent",37,"Aghlal","Commune","Commune",NA,NA
+38,5,"DZA","Algeria",2,"Aïn Témouchent",38,"Ain El Arbaa","Commune","Commune",NA,NA
+39,5,"DZA","Algeria",2,"Aïn Témouchent",39,"Ain Kihel","Commune","Commune",NA,NA
+40,5,"DZA","Algeria",2,"Aïn Témouchent",40,"Ain Temouchent","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Ain-Temouchent|`Ayn Tamushanat"
+41,5,"DZA","Algeria",2,"Aïn Témouchent",41,"Ain Tolba","Commune","Commune",NA,NA
+42,5,"DZA","Algeria",2,"Aïn Témouchent",42,"Aoubellil","Commune","Commune",NA,"Ougbellil"
+43,5,"DZA","Algeria",2,"Aïn Témouchent",43,"Beni Saf","Commune-Cotiere","Commune-Cotiere",NA,"Bani- Sa-f"
+44,5,"DZA","Algeria",2,"Aïn Témouchent",44,"Bou Zedjar","Commune-Cotiere","Commune-Cotiere",NA,"Bouzedjar"
+45,5,"DZA","Algeria",2,"Aïn Témouchent",45,"Chaabet El Ham","Commune","Commune",NA,"Sha`abat-al-Laham"
+46,5,"DZA","Algeria",2,"Aïn Témouchent",46,"Chentouf","Commune","Commune",NA,NA
+47,5,"DZA","Algeria",2,"Aïn Témouchent",47,"El Amria","Commune","Commune",NA,"al-Amriyah"
+48,5,"DZA","Algeria",2,"Aïn Témouchent",48,"El Malah","Commune","Commune",NA,"al-Malah"
+49,5,"DZA","Algeria",2,"Aïn Témouchent",49,"El Messaid","Commune-Cotiere","Commune-Cotiere",NA,"El Msaid"
+50,5,"DZA","Algeria",2,"Aïn Témouchent",50,"Emir Abdelkader","Commune","Commune",NA,"El Emir Abdelkader"
+51,5,"DZA","Algeria",2,"Aïn Témouchent",51,"Hammam Bouhadjar","Commune","Commune",NA,"Hamman Bu Hajjar"
+52,5,"DZA","Algeria",2,"Aïn Témouchent",52,"Hassasna","Commune","Commune",NA,NA
+53,5,"DZA","Algeria",2,"Aïn Témouchent",53,"Hassi El Ghella","Commune","Commune",NA,NA
+54,5,"DZA","Algeria",2,"Aïn Témouchent",54,"Oued Berkeche","Commune","Commune",NA,NA
+55,5,"DZA","Algeria",2,"Aïn Témouchent",55,"Oued Sebbah","Commune","Commune",NA,NA
+56,5,"DZA","Algeria",2,"Aïn Témouchent",56,"Ouled Boudjemaa","Commune-Cotiere","Commune-Cotiere",NA,NA
+57,5,"DZA","Algeria",2,"Aïn Témouchent",57,"Ouled Kihel","Commune-Cotiere","Commune-Cotiere",NA,"Ouled Kihal"
+58,5,"DZA","Algeria",2,"Aïn Témouchent",58,"Oulhaca El Gheraba","Commune-Cotiere","Commune-Cotiere",NA,"Oulhaca Gherraba"
+59,5,"DZA","Algeria",2,"Aïn Témouchent",59,"Sidi Ben Adda","Commune-Cotiere","Commune-Cotiere",NA,NA
+60,5,"DZA","Algeria",2,"Aïn Témouchent",60,"Sidi Boumediene","Commune","Commune",NA,NA
+61,5,"DZA","Algeria",2,"Aïn Témouchent",61,"Sidi Ouriache|Tadmaya","Commune","Commune",NA,"Tadmaya"
+62,5,"DZA","Algeria",2,"Aïn Témouchent",62,"Sidi Safi","Commune-Cotiere","Commune-Cotiere",NA,NA
+63,5,"DZA","Algeria",2,"Aïn Témouchent",63,"Tamzoura","Commune","Commune",NA,"Tamzougha"
+64,5,"DZA","Algeria",2,"Aïn Témouchent",64,"Terga","Commune-Cotiere","Commune-Cotiere",NA,NA
+65,5,"DZA","Algeria",3,"Adrar",65,"Adrar","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Adrar"
+66,5,"DZA","Algeria",3,"Adrar",66,"Akabli","Commune","Commune",NA,"Akabili"
+67,5,"DZA","Algeria",3,"Adrar",67,"Aougrout","Commune","Commune",NA,NA
+68,5,"DZA","Algeria",3,"Adrar",68,"Aoulef","Commune","Commune",NA,"Awla-f"
+69,5,"DZA","Algeria",3,"Adrar",69,"Bordj Badji Mokhtar","Commune","Commune",NA,NA
+70,5,"DZA","Algeria",3,"Adrar",70,"Bouda","Commune","Commune",NA,NA
+71,5,"DZA","Algeria",3,"Adrar",71,"Charouine","Commune","Commune",NA,"Gharouine"
+72,5,"DZA","Algeria",3,"Adrar",72,"Deldoul","Commune","Commune",NA,NA
+73,5,"DZA","Algeria",3,"Adrar",73,"Fenoughil","Commune","Commune",NA,NA
+74,5,"DZA","Algeria",3,"Adrar",74,"In Zghmir","Commune","Commune",NA,"Inzegmir"
+75,5,"DZA","Algeria",3,"Adrar",75,"Ksar Kaddour","Commune","Commune",NA,NA
+76,5,"DZA","Algeria",3,"Adrar",76,"Metarfa","Commune","Commune",NA,NA
+77,5,"DZA","Algeria",3,"Adrar",77,"Ouled Ahmed Temmi","Commune","Commune",NA,"Ouled Ahmed Timi"
+78,5,"DZA","Algeria",3,"Adrar",78,"Ouled Aissa","Commune","Commune",NA,NA
+79,5,"DZA","Algeria",3,"Adrar",79,"Ouled Said","Commune","Commune",NA,NA
+80,5,"DZA","Algeria",3,"Adrar",80,"Reggane","Commune","Commune",NA,"Rijan"
+81,5,"DZA","Algeria",3,"Adrar",81,"Sali","Commune","Commune",NA,NA
+82,5,"DZA","Algeria",3,"Adrar",82,"Sebaa","Commune","Commune",NA,NA
+83,5,"DZA","Algeria",3,"Adrar",83,"Talmine","Commune","Commune",NA,NA
+84,5,"DZA","Algeria",3,"Adrar",84,"Tamantit","Commune","Commune",NA,"Tamentit"
+85,5,"DZA","Algeria",3,"Adrar",85,"Tamekten","Commune","Commune",NA,"Timokten"
+86,5,"DZA","Algeria",3,"Adrar",86,"Tamest","Commune","Commune",NA,NA
+87,5,"DZA","Algeria",3,"Adrar",87,"Timiaouine","Commune","Commune",NA,NA
+88,5,"DZA","Algeria",3,"Adrar",88,"Timmimoun","Commune","Commune",NA,"Timimoun|Timimun"
+89,5,"DZA","Algeria",3,"Adrar",89,"Tinerkouk","Commune","Commune",NA,NA
+90,5,"DZA","Algeria",3,"Adrar",90,"Tit","Commune","Commune",NA,NA
+91,5,"DZA","Algeria",3,"Adrar",91,"Tsabit","Commune","Commune",NA,NA
+92,5,"DZA","Algeria",3,"Adrar",92,"Zaouiet Kounta","Commune","Commune",NA,NA
+93,5,"DZA","Algeria",4,"Alger",93,"Ain Benian","Commune-Cotiere","Commune-Cotiere",NA,NA
+94,5,"DZA","Algeria",4,"Alger",94,"Baraki","Commune","Commune",NA,NA
+95,5,"DZA","Algeria",4,"Alger",95,"Birtouta","Commune","Commune",NA,NA
+96,5,"DZA","Algeria",4,"Alger",96,"Bordj El Kiffan","Commune-Cotiere","Commune-Cotiere",NA,"Burj-al-Kiffan"
+97,5,"DZA","Algeria",4,"Alger",97,"Bouzareah","Commune","Commune",NA,NA
+98,5,"DZA","Algeria",4,"Alger",98,"Cheraga","Commune","Commune",NA,"Shiragha"
+99,5,"DZA","Algeria",4,"Alger",99,"Dar El Beida","Commune","Commune",NA,"Dar-al-Bayda"
+100,5,"DZA","Algeria",4,"Alger",100,"Djasr Kasentina","Commune","Commune",NA,"Djisr Ksentina"
+101,5,"DZA","Algeria",4,"Alger",101,"Douera","Commune","Commune",NA,"Duwirah"
+102,5,"DZA","Algeria",4,"Alger",102,"Draria","Commune","Commune",NA,NA
+103,5,"DZA","Algeria",4,"Alger",103,"El Achour","Commune","Commune",NA,NA
+104,5,"DZA","Algeria",4,"Alger",104,"Haraoua","Commune-Cotiere","Commune-Cotiere",NA,NA
+105,5,"DZA","Algeria",4,"Alger",105,"Khraicia","Commune","Commune",NA,"Khraissia"
+106,5,"DZA","Algeria",4,"Alger",106,"Kouba","Commune","Commune",NA,NA
+107,5,"DZA","Algeria",4,"Alger",107,"Les Eucalyptus","Commune","Commune",NA,NA
+108,5,"DZA","Algeria",4,"Alger",108,"Mahelma","Commune","Commune",NA,NA
+109,5,"DZA","Algeria",4,"Alger",109,"Ouled Chebel","Commune","Commune",NA,NA
+110,5,"DZA","Algeria",4,"Alger",110,"Ouled Fayet","Commune","Commune",NA,NA
+111,5,"DZA","Algeria",4,"Alger",111,"Reghaia","Commune-Cotiere","Commune-Cotiere",NA,"Raghayah"
+112,5,"DZA","Algeria",4,"Alger",112,"Rouiba","Commune","Commune",NA,"ar-Ruwibah"
+113,5,"DZA","Algeria",4,"Alger",113,"Saoula","Commune","Commune",NA,"Sawlah"
+114,5,"DZA","Algeria",4,"Alger",114,"Sidi Moussa","Commune","Commune",NA,"Sidi Mussa"
+115,5,"DZA","Algeria",4,"Alger",115,"Souidania","Commune","Commune",NA,NA
+116,5,"DZA","Algeria",4,"Alger",116,"Staoueli","Commune-Cotiere","Commune-Cotiere",NA,"Stawali"
+117,5,"DZA","Algeria",4,"Alger",117,"Tessala-El-Merdja","Commune","Commune",NA,"Tassala El Merdja"
+118,5,"DZA","Algeria",4,"Alger",118,"Zeralda","Commune-Cotiere","Commune-Cotiere",NA,"Ziralda"
+119,5,"DZA","Algeria",5,"Annaba",119,"Ain El Berda","Commune","Commune",NA,"Ain Berda"
+120,5,"DZA","Algeria",5,"Annaba",120,"Annaba","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Annabah"
+121,5,"DZA","Algeria",5,"Annaba",121,"Berrahal","Commune","Commune",NA,"Berrahel"
+122,5,"DZA","Algeria",5,"Annaba",122,"Chetaibi","Commune-Cotiere","Commune-Cotiere",NA,NA
+123,5,"DZA","Algeria",5,"Annaba",123,"Chorfa","Commune","Commune",NA,"Cheurfa"
+124,5,"DZA","Algeria",5,"Annaba",124,"El Bouni","Commune-Cotiere","Commune-Cotiere",NA,"al-Bu-ni"
+125,5,"DZA","Algeria",5,"Annaba",125,"El Eulma","Commune","Commune",NA,"Eulma"
+126,5,"DZA","Algeria",5,"Annaba",126,"El Hadjar","Commune","Commune",NA,"al-Hajar"
+127,5,"DZA","Algeria",5,"Annaba",127,"Oued El Aneb","Commune-Cotiere","Commune-Cotiere",NA,NA
+128,5,"DZA","Algeria",5,"Annaba",128,"Seraidi","Commune-Cotiere","Commune-Cotiere",NA,"Saraydih"
+129,5,"DZA","Algeria",5,"Annaba",129,"Sidi Amar","Commune","Commune",NA,"Sidi Amer"
+130,5,"DZA","Algeria",5,"Annaba",130,"Treat","Commune","Commune",NA,NA
+131,5,"DZA","Algeria",6,"Béchar",131,"Abadla","Commune","Commune",NA,"`Abadlah"
+132,5,"DZA","Algeria",6,"Béchar",132,"Bechar","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Bashshar"
+133,5,"DZA","Algeria",6,"Béchar",133,"Beni Abbes","Commune","Commune",NA,NA
+134,5,"DZA","Algeria",6,"Béchar",134,"Beni Ikhlef","Commune","Commune",NA,NA
+135,5,"DZA","Algeria",6,"Béchar",135,"Beni Ounif","Commune","Commune",NA,"Bani- Wanif"
+136,5,"DZA","Algeria",6,"Béchar",136,"Boukais","Commune","Commune",NA,NA
+137,5,"DZA","Algeria",6,"Béchar",137,"El Ouata","Commune","Commune",NA,NA
+138,5,"DZA","Algeria",6,"Béchar",138,"Erg Ferradj","Commune","Commune",NA,NA
+139,5,"DZA","Algeria",6,"Béchar",139,"Igli","Commune","Commune",NA,NA
+140,5,"DZA","Algeria",6,"Béchar",140,"Kenadsa","Commune","Commune",NA,"Qanadsan"
+141,5,"DZA","Algeria",6,"Béchar",141,"Kerzaz","Commune","Commune",NA,NA
+142,5,"DZA","Algeria",6,"Béchar",142,"Ksabi","Commune","Commune",NA,NA
+143,5,"DZA","Algeria",6,"Béchar",143,"Lahmar","Commune","Commune",NA,NA
+144,5,"DZA","Algeria",6,"Béchar",144,"Mechraa Houari Boumediene","Commune","Commune",NA,NA
+145,5,"DZA","Algeria",6,"Béchar",145,"Meridja","Commune","Commune",NA,NA
+146,5,"DZA","Algeria",6,"Béchar",146,"Mogheul","Commune","Commune",NA,"Mougheul"
+147,5,"DZA","Algeria",6,"Béchar",147,"Ouled Khoudir","Commune","Commune",NA,NA
+148,5,"DZA","Algeria",6,"Béchar",148,"Tabelbala","Commune","Commune",NA,NA
+149,5,"DZA","Algeria",6,"Béchar",149,"Taghit","Commune","Commune",NA,"Taghit"
+150,5,"DZA","Algeria",6,"Béchar",150,"Tamtert","Commune","Commune",NA,"Tamert"
+151,5,"DZA","Algeria",6,"Béchar",151,"Timoudi","Commune","Commune",NA,"Timmoudi"
+152,5,"DZA","Algeria",7,"Béjaïa",152,"Adekar","Commune","Commune",NA,NA
+153,5,"DZA","Algeria",7,"Béjaïa",153,"Ait-Smail","Commune","Commune",NA,"Ait Smail"
+154,5,"DZA","Algeria",7,"Béjaïa",154,"Ait R'Zine","Commune","Commune",NA,"Ait R_Zine|`Ayt Rizin"
+155,5,"DZA","Algeria",7,"Béjaïa",155,"Akbou","Commune","Commune",NA,"Akbu"
+156,5,"DZA","Algeria",7,"Béjaïa",156,"Akfadou","Commune","Commune",NA,NA
+157,5,"DZA","Algeria",7,"Béjaïa",157,"Amalou","Commune","Commune",NA,NA
+158,5,"DZA","Algeria",7,"Béjaïa",158,"Amizour","Commune","Commune",NA,"Amizur"
+159,5,"DZA","Algeria",7,"Béjaïa",159,"Aokas","Commune-Cotiere","Commune-Cotiere",NA,NA
+160,5,"DZA","Algeria",7,"Béjaïa",160,"Bejaia","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Bija-yah"
+161,5,"DZA","Algeria",7,"Béjaïa",161,"Beni-Mellikeche","Commune","Commune",NA,"Beni Melikech"
+162,5,"DZA","Algeria",7,"Béjaïa",162,"Beni Dejllil","Commune","Commune",NA,"Beni Djellil"
+163,5,"DZA","Algeria",7,"Béjaïa",163,"Beni K'Sila","Commune-Cotiere","Commune-Cotiere",NA,"Beni Ksila"
+164,5,"DZA","Algeria",7,"Béjaïa",164,"Benimaouche","Commune","Commune",NA,"Beni Maouche"
+165,5,"DZA","Algeria",7,"Béjaïa",165,"Berbacha","Commune","Commune",NA,"Barbacha"
+166,5,"DZA","Algeria",7,"Béjaïa",166,"Boudjellil","Commune","Commune",NA,NA
+167,5,"DZA","Algeria",7,"Béjaïa",167,"Bouhamza","Commune","Commune",NA,NA
+168,5,"DZA","Algeria",7,"Béjaïa",168,"Boukhlifa","Commune-Cotiere","Commune-Cotiere",NA,"Boukhelifa"
+169,5,"DZA","Algeria",7,"Béjaïa",169,"Chellata","Commune","Commune",NA,"Chelata"
+170,5,"DZA","Algeria",7,"Béjaïa",170,"Chemini","Commune","Commune",NA,"Shamini"
+171,5,"DZA","Algeria",7,"Béjaïa",171,"Darguina","Commune","Commune",NA,NA
+172,5,"DZA","Algeria",7,"Béjaïa",172,"Draa El Caid","Commune","Commune",NA,"Draa El Kaid"
+173,5,"DZA","Algeria",7,"Béjaïa",173,"El Kseur","Commune","Commune",NA,"al-Qasr"
+174,5,"DZA","Algeria",7,"Béjaïa",174,"Feraoun","Commune","Commune",NA,"Ferraoun|Farrawn"
+175,5,"DZA","Algeria",7,"Béjaïa",175,"Ifelain Ilmathen","Commune","Commune",NA,NA
+176,5,"DZA","Algeria",7,"Béjaïa",176,"Ighil-Ali","Commune","Commune",NA,"Ighil Ali"
+177,5,"DZA","Algeria",7,"Béjaïa",177,"Ighrem","Commune","Commune",NA,"Ighram"
+178,5,"DZA","Algeria",7,"Béjaïa",178,"Kendira","Commune","Commune",NA,NA
+179,5,"DZA","Algeria",7,"Béjaïa",179,"Kherrata","Commune","Commune",NA,NA
+180,5,"DZA","Algeria",7,"Béjaïa",180,"Melbou","Commune-Cotiere","Commune-Cotiere",NA,NA
+181,5,"DZA","Algeria",7,"Béjaïa",181,"Oued Ghir","Commune","Commune",NA,NA
+182,5,"DZA","Algeria",7,"Béjaïa",182,"Ouzzelaguen","Commune","Commune",NA,"Ouzellaguen|Ûz-al-Laqin"
+183,5,"DZA","Algeria",7,"Béjaïa",183,"Seddouk","Commune","Commune",NA,"Sadduk"
+184,5,"DZA","Algeria",7,"Béjaïa",184,"Sidi Said","Commune","Commune",NA,NA
+185,5,"DZA","Algeria",7,"Béjaïa",185,"Smaoun","Commune","Commune",NA,"Semaoune"
+186,5,"DZA","Algeria",7,"Béjaïa",186,"Souk El Tenine","Commune-Cotiere","Commune-Cotiere",NA,"Souk El Thenine"
+187,5,"DZA","Algeria",7,"Béjaïa",187,"Souk Oufella","Commune","Commune",NA,NA
+188,5,"DZA","Algeria",7,"Béjaïa",188,"Tala Hamza","Commune","Commune",NA,NA
+189,5,"DZA","Algeria",7,"Béjaïa",189,"Tamokra","Commune","Commune",NA,NA
+190,5,"DZA","Algeria",7,"Béjaïa",190,"Tamridjet","Commune","Commune",NA,NA
+191,5,"DZA","Algeria",7,"Béjaïa",191,"Taourit Ighil","Commune","Commune",NA,"Taourirt Ighil"
+192,5,"DZA","Algeria",7,"Béjaïa",192,"Taskriout","Commune","Commune",NA,"Taskaryut"
+193,5,"DZA","Algeria",7,"Béjaïa",193,"Tazmalt","Commune","Commune",NA,"Tazmalt"
+194,5,"DZA","Algeria",7,"Béjaïa",194,"Tichy","Commune-Cotiere","Commune-Cotiere",NA,"Tichi"
+195,5,"DZA","Algeria",7,"Béjaïa",195,"Tifra","Commune","Commune",NA,NA
+196,5,"DZA","Algeria",7,"Béjaïa",196,"Timezrit","Commune","Commune",NA,"Timzrit"
+197,5,"DZA","Algeria",7,"Béjaïa",197,"Tinedbar","Commune","Commune",NA,"Tinebdar"
+198,5,"DZA","Algeria",7,"Béjaïa",198,"Tizi-N'Berber","Commune","Commune",NA,"Tizi Nberber"
+199,5,"DZA","Algeria",7,"Béjaïa",199,"Toudja","Commune-Cotiere","Commune-Cotiere",NA,NA
+200,5,"DZA","Algeria",8,"Batna",200,"Ain Djasser","Commune","Commune",NA,NA
+201,5,"DZA","Algeria",8,"Batna",201,"Ain Touta","Commune","Commune",NA,"`Ayn Tutah"
+202,5,"DZA","Algeria",8,"Batna",202,"Ain Yagout","Commune","Commune",NA,NA
+203,5,"DZA","Algeria",8,"Batna",203,"Arris","Commune","Commune",NA,"`Ari-s"
+204,5,"DZA","Algeria",8,"Batna",204,"Azil Abdelkader (Metkouak)","Commune","Commune",NA,"Metkaouak"
+205,5,"DZA","Algeria",8,"Batna",205,"Barika","Commune","Commune",NA,"Barikah"
+206,5,"DZA","Algeria",8,"Batna",206,"Batna","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Batnah"
+207,5,"DZA","Algeria",8,"Batna",207,"Beni Foudala El Hakania","Commune","Commune",NA,"Beni Foudhala El Hakania"
+208,5,"DZA","Algeria",8,"Batna",208,"Bitam","Commune","Commune",NA,NA
+209,5,"DZA","Algeria",8,"Batna",209,"Boulhilat","Commune","Commune",NA,"Boulehilet"
+210,5,"DZA","Algeria",8,"Batna",210,"Boumegueur","Commune","Commune",NA,"Boumaguer"
+211,5,"DZA","Algeria",8,"Batna",211,"Boumia","Commune","Commune",NA,NA
+212,5,"DZA","Algeria",8,"Batna",212,"Bouzina","Commune","Commune",NA,NA
+213,5,"DZA","Algeria",8,"Batna",213,"Chemora","Commune","Commune",NA,NA
+214,5,"DZA","Algeria",8,"Batna",214,"Chir","Commune","Commune",NA,NA
+215,5,"DZA","Algeria",8,"Batna",215,"Djerma","Commune","Commune",NA,NA
+216,5,"DZA","Algeria",8,"Batna",216,"Djezzar","Commune","Commune",NA,NA
+217,5,"DZA","Algeria",8,"Batna",217,"El Hassi","Commune","Commune",NA,NA
+218,5,"DZA","Algeria",8,"Batna",218,"El Madher","Commune","Commune",NA,NA
+219,5,"DZA","Algeria",8,"Batna",219,"Fesdis","Commune","Commune",NA,NA
+220,5,"DZA","Algeria",8,"Batna",220,"Foum Toub","Commune","Commune",NA,NA
+221,5,"DZA","Algeria",8,"Batna",221,"Ghessira","Commune","Commune",NA,"Ghassira"
+222,5,"DZA","Algeria",8,"Batna",222,"Gosbat","Commune","Commune",NA,NA
+223,5,"DZA","Algeria",8,"Batna",223,"Guiga","Commune","Commune",NA,"Guigba"
+224,5,"DZA","Algeria",8,"Batna",224,"Hidoussa","Commune","Commune",NA,NA
+225,5,"DZA","Algeria",8,"Batna",225,"Ichmoul","Commune","Commune",NA,"Ichemoul"
+226,5,"DZA","Algeria",8,"Batna",226,"Inoughissen","Commune","Commune",NA,"Inoughissene"
+227,5,"DZA","Algeria",8,"Batna",227,"Kimmel","Commune","Commune",NA,NA
+228,5,"DZA","Algeria",8,"Batna",228,"Ksar Bellezma","Commune","Commune",NA,"Ksar Belezma"
+229,5,"DZA","Algeria",8,"Batna",229,"Larbaa","Commune","Commune",NA,"al-Arba`a"
+230,5,"DZA","Algeria",8,"Batna",230,"Lazrou","Commune","Commune",NA,NA
+231,5,"DZA","Algeria",8,"Batna",231,"Lemsane","Commune","Commune",NA,"Lemcen"
+232,5,"DZA","Algeria",8,"Batna",232,"M'Doukal","Commune","Commune",NA,"Mdoukal"
+233,5,"DZA","Algeria",8,"Batna",233,"Maafa","Commune","Commune",NA,NA
+234,5,"DZA","Algeria",8,"Batna",234,"Menaa","Commune","Commune",NA,NA
+235,5,"DZA","Algeria",8,"Batna",235,"Merouana","Commune","Commune",NA,"Marwanah"
+236,5,"DZA","Algeria",8,"Batna",236,"N'Gaous","Commune","Commune",NA,"Ngaous"
+237,5,"DZA","Algeria",8,"Batna",237,"Oued Chaaba","Commune","Commune",NA,NA
+238,5,"DZA","Algeria",8,"Batna",238,"Oued El Ma","Commune","Commune",NA,NA
+239,5,"DZA","Algeria",8,"Batna",239,"Oued Taga","Commune","Commune",NA,NA
+240,5,"DZA","Algeria",8,"Batna",240,"Ouled Ammar","Commune","Commune",NA,NA
+241,5,"DZA","Algeria",8,"Batna",241,"Ouled Aouf","Commune","Commune",NA,NA
+242,5,"DZA","Algeria",8,"Batna",242,"Ouled Fadhel","Commune","Commune",NA,"Ouled Fadel"
+243,5,"DZA","Algeria",8,"Batna",243,"Ouled Sellem","Commune","Commune",NA,"Ouled Sellam"
+244,5,"DZA","Algeria",8,"Batna",244,"Ouled Si Slimane","Commune","Commune",NA,NA
+245,5,"DZA","Algeria",8,"Batna",245,"Ouyoun El Assafir","Commune","Commune",NA,NA
+246,5,"DZA","Algeria",8,"Batna",246,"Ras El Aioun","Commune","Commune",NA,"Ra's-al-`Ayun"
+247,5,"DZA","Algeria",8,"Batna",247,"Rehbat","Commune","Commune",NA,"Rahbat"
+248,5,"DZA","Algeria",8,"Batna",248,"Sefiane","Commune","Commune",NA,NA
+249,5,"DZA","Algeria",8,"Batna",249,"Seggana","Commune","Commune",NA,NA
+250,5,"DZA","Algeria",8,"Batna",250,"Seriana","Commune","Commune",NA,NA
+251,5,"DZA","Algeria",8,"Batna",251,"T Kout","Commune","Commune",NA,"Tkout"
+252,5,"DZA","Algeria",8,"Batna",252,"Talkhamt","Commune","Commune",NA,"Talkhemt"
+253,5,"DZA","Algeria",8,"Batna",253,"Taxlent","Commune","Commune",NA,NA
+254,5,"DZA","Algeria",8,"Batna",254,"Tazoult","Commune","Commune",NA,"Tazult"
+255,5,"DZA","Algeria",8,"Batna",255,"Teniet El Abed","Commune","Commune",NA,"Theniet El Abed"
+256,5,"DZA","Algeria",8,"Batna",256,"Tighanimine","Commune","Commune",NA,NA
+257,5,"DZA","Algeria",8,"Batna",257,"Tigharghar","Commune","Commune",NA,NA
+258,5,"DZA","Algeria",8,"Batna",258,"Tilatou","Commune","Commune",NA,NA
+259,5,"DZA","Algeria",8,"Batna",259,"Timgad","Commune","Commune",NA,NA
+260,5,"DZA","Algeria",8,"Batna",260,"Zanet El Beida","Commune","Commune",NA,"Zana El Beida"
+261,5,"DZA","Algeria",9,"Biskra",261,"Ain Naga","Commune","Commune",NA,NA
+262,5,"DZA","Algeria",9,"Biskra",262,"Ain Zaatout","Commune","Commune",NA,NA
+263,5,"DZA","Algeria",9,"Biskra",263,"Besbes","Commune","Commune",NA,NA
+264,5,"DZA","Algeria",9,"Biskra",264,"Biskra","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Biskrah"
+265,5,"DZA","Algeria",9,"Biskra",265,"Bordj Ben Azzouz","Commune","Commune",NA,NA
+266,5,"DZA","Algeria",9,"Biskra",266,"Bouchakroune","Commune","Commune",NA,"Bouchagroun"
+267,5,"DZA","Algeria",9,"Biskra",267,"Branis","Commune","Commune",NA,NA
+268,5,"DZA","Algeria",9,"Biskra",268,"Chetma","Commune","Commune",NA,NA
+269,5,"DZA","Algeria",9,"Biskra",269,"Chouaiba|Ouled Rahma","Commune","Commune",NA,"Ech Chaiba"
+270,5,"DZA","Algeria",9,"Biskra",270,"Daoussen","Commune","Commune",NA,"Doucen"
+271,5,"DZA","Algeria",9,"Biskra",271,"Djamora","Commune","Commune",NA,"Djemorah"
+272,5,"DZA","Algeria",9,"Biskra",272,"El Feidh","Commune","Commune",NA,NA
+273,5,"DZA","Algeria",9,"Biskra",273,"El Ghrous","Commune","Commune",NA,NA
+274,5,"DZA","Algeria",9,"Biskra",274,"El Hadjab","Commune","Commune",NA,"El Hadjeb"
+275,5,"DZA","Algeria",9,"Biskra",275,"El Haouch","Commune","Commune",NA,NA
+276,5,"DZA","Algeria",9,"Biskra",276,"El Kentara","Commune","Commune",NA,"El Kantara"
+277,5,"DZA","Algeria",9,"Biskra",277,"El Ouitaya","Commune","Commune",NA,"El Outaya"
+278,5,"DZA","Algeria",9,"Biskra",278,"Foughala","Commune","Commune",NA,NA
+279,5,"DZA","Algeria",9,"Biskra",279,"Khenguet Sidi Nadji","Commune","Commune",NA,"Khangat Sidi Nadji"
+280,5,"DZA","Algeria",9,"Biskra",280,"Lichana","Commune","Commune",NA,NA
+281,5,"DZA","Algeria",9,"Biskra",281,"Lioua","Commune","Commune",NA,NA
+282,5,"DZA","Algeria",9,"Biskra",282,"M'Lili","Commune","Commune",NA,"Mlili"
+283,5,"DZA","Algeria",9,"Biskra",283,"M_Ziraa","Commune","Commune",NA,NA
+284,5,"DZA","Algeria",9,"Biskra",284,"Mechouneche","Commune","Commune",NA,"M_Chouneche"
+285,5,"DZA","Algeria",9,"Biskra",285,"Mekhadma","Commune","Commune",NA,NA
+286,5,"DZA","Algeria",9,"Biskra",286,"Ouled Djellal","Commune","Commune",NA,"Awla-d Jallal"
+287,5,"DZA","Algeria",9,"Biskra",287,"Oumache","Commune","Commune",NA,"	Ûm`ash"
+288,5,"DZA","Algeria",9,"Biskra",288,"Ourlal","Commune","Commune",NA,"Oughlal"
+289,5,"DZA","Algeria",9,"Biskra",289,"Ras Miaad|Ouled Sassi","Commune","Commune",NA,"Ras El Miaad"
+290,5,"DZA","Algeria",9,"Biskra",290,"Sidi Khaled","Commune","Commune",NA,"Sidi Khalid"
+291,5,"DZA","Algeria",9,"Biskra",291,"Sidi Okba","Commune","Commune",NA,"Sidi Ukbah"
+292,5,"DZA","Algeria",9,"Biskra",292,"Tolga","Commune","Commune",NA,"Tulja"
+293,5,"DZA","Algeria",9,"Biskra",293,"Zeribet El Oued","Commune","Commune",NA,"Zaribat-al-Wad"
+294,5,"DZA","Algeria",10,"Blida",294,"Ain Romana","Commune","Commune",NA,NA
+295,5,"DZA","Algeria",10,"Blida",295,"Beni-Tamou","Commune","Commune",NA,"Beni Tamou"
+296,5,"DZA","Algeria",10,"Blida",296,"Beni Merad","Commune","Commune",NA,"Beni Mered|Bani- Mara-d"
+297,5,"DZA","Algeria",10,"Blida",297,"Benkhelil","Commune","Commune",NA,"Ben Khelil|Bani- Khali-l"
+298,5,"DZA","Algeria",10,"Blida",298,"Blida","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Blidah"
+299,5,"DZA","Algeria",10,"Blida",299,"Bouaarfa","Commune","Commune",NA,"Bouarfa|Bu Arfa"
+300,5,"DZA","Algeria",10,"Blida",300,"Boufarik","Commune","Commune",NA,"Bufarik"
+301,5,"DZA","Algeria",10,"Blida",301,"Bougara","Commune","Commune",NA,"Bouguerra|Bu-qara"
+302,5,"DZA","Algeria",10,"Blida",302,"Bouinan","Commune","Commune",NA,"Buinan"
+303,5,"DZA","Algeria",10,"Blida",303,"Chebli","Commune","Commune",NA,"Shabli"
+304,5,"DZA","Algeria",10,"Blida",304,"Chiffa","Commune","Commune",NA,"Shiffa"
+305,5,"DZA","Algeria",10,"Blida",305,"Chrea","Commune","Commune",NA,NA
+306,5,"DZA","Algeria",10,"Blida",306,"Djebabra","Commune","Commune",NA,NA
+307,5,"DZA","Algeria",10,"Blida",307,"El-Affroun","Commune","Commune",NA,"El Affroun|al-`Afru-n"
+308,5,"DZA","Algeria",10,"Blida",308,"Gherouaou","Commune","Commune",NA,"Guerrouaou"
+309,5,"DZA","Algeria",10,"Blida",309,"Hammam Melouane","Commune","Commune",NA,NA
+310,5,"DZA","Algeria",10,"Blida",310,"Larbaa","Commune","Commune",NA,"al-Arba`a"
+311,5,"DZA","Algeria",10,"Blida",311,"Meftah","Commune","Commune",NA,"Maftah"
+312,5,"DZA","Algeria",10,"Blida",312,"Mouzaia","Commune","Commune",NA,"Muzayah"
+313,5,"DZA","Algeria",10,"Blida",313,"Oued Djer","Commune","Commune",NA,NA
+314,5,"DZA","Algeria",10,"Blida",314,"Oued El Alleug","Commune","Commune",NA,"Wadi al-Allagh"
+315,5,"DZA","Algeria",10,"Blida",315,"Ouled Slama","Commune","Commune",NA,"Awla-d Salam"
+316,5,"DZA","Algeria",10,"Blida",316,"Ouled Yaich","Commune","Commune",NA,"Ouled Yaiche"
+317,5,"DZA","Algeria",10,"Blida",317,"Souhan","Commune","Commune",NA,"Souhane"
+318,5,"DZA","Algeria",10,"Blida",318,"Soumaa","Commune","Commune",NA,"	Suma"
+319,5,"DZA","Algeria",11,"Bordj Bou Arréridj",319,"Ain Taghrout","Commune","Commune",NA,NA
+320,5,"DZA","Algeria",11,"Bordj Bou Arréridj",320,"Ain Tesra","Commune","Commune",NA,"Ain Tassera"
+321,5,"DZA","Algeria",11,"Bordj Bou Arréridj",321,"Belimour","Commune","Commune",NA,NA
+322,5,"DZA","Algeria",11,"Bordj Bou Arréridj",322,"Bendaoud","Commune","Commune",NA,"Ben Daoud"
+323,5,"DZA","Algeria",11,"Bordj Bou Arréridj",323,"Bir Kasdali","Commune","Commune",NA,NA
+324,5,"DZA","Algeria",11,"Bordj Bou Arréridj",324,"Bordj Bou Arreridj","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Burj Bu Arririj"
+325,5,"DZA","Algeria",11,"Bordj Bou Arréridj",325,"Bordj Ghdir","Commune","Commune",NA,"Burj Ghadir"
+326,5,"DZA","Algeria",11,"Bordj Bou Arréridj",326,"Bordj Zemoura","Commune","Commune",NA,"Burj Zamura"
+327,5,"DZA","Algeria",11,"Bordj Bou Arréridj",327,"Colla","Commune","Commune",NA,NA
+328,5,"DZA","Algeria",11,"Bordj Bou Arréridj",328,"Djaafra","Commune","Commune",NA,NA
+329,5,"DZA","Algeria",11,"Bordj Bou Arréridj",329,"El Ach","Commune","Commune",NA,"El Euch"
+330,5,"DZA","Algeria",11,"Bordj Bou Arréridj",330,"El Achir","Commune","Commune",NA,"al-Ashir"
+331,5,"DZA","Algeria",11,"Bordj Bou Arréridj",331,"El Anseur","Commune","Commune",NA,NA
+332,5,"DZA","Algeria",11,"Bordj Bou Arréridj",332,"El Hamadia","Commune","Commune",NA,"El Hammadia"
+333,5,"DZA","Algeria",11,"Bordj Bou Arréridj",333,"El M'Hir","Commune","Commune",NA,"El Mhir"
+334,5,"DZA","Algeria",11,"Bordj Bou Arréridj",334,"El Main","Commune","Commune",NA,NA
+335,5,"DZA","Algeria",11,"Bordj Bou Arréridj",335,"Ghilassa","Commune","Commune",NA,NA
+336,5,"DZA","Algeria",11,"Bordj Bou Arréridj",336,"Haraza","Commune","Commune",NA,NA
+337,5,"DZA","Algeria",11,"Bordj Bou Arréridj",337,"Hasnaoua","Commune","Commune",NA,NA
+338,5,"DZA","Algeria",11,"Bordj Bou Arréridj",338,"Khelil","Commune","Commune",NA,NA
+339,5,"DZA","Algeria",11,"Bordj Bou Arréridj",339,"Ksour","Commune","Commune",NA,NA
+340,5,"DZA","Algeria",11,"Bordj Bou Arréridj",340,"Mansoura","Commune","Commune",NA,"al-Mansurah"
+341,5,"DZA","Algeria",11,"Bordj Bou Arréridj",341,"Medjana","Commune","Commune",NA,NA
+342,5,"DZA","Algeria",11,"Bordj Bou Arréridj",342,"Ouled Brahem","Commune","Commune",NA,NA
+343,5,"DZA","Algeria",11,"Bordj Bou Arréridj",343,"Ouled Dahmane","Commune","Commune",NA,NA
+344,5,"DZA","Algeria",11,"Bordj Bou Arréridj",344,"Ouled Sidi Brahim","Commune","Commune",NA,NA
+345,5,"DZA","Algeria",11,"Bordj Bou Arréridj",345,"Rabta","Commune","Commune",NA,NA
+346,5,"DZA","Algeria",11,"Bordj Bou Arréridj",346,"Ras El Oued","Commune","Commune",NA,"Ra's-al-Wad"
+347,5,"DZA","Algeria",11,"Bordj Bou Arréridj",347,"Sidi Embarek","Commune","Commune",NA,NA
+348,5,"DZA","Algeria",11,"Bordj Bou Arréridj",348,"Tafreg","Commune","Commune",NA,NA
+349,5,"DZA","Algeria",11,"Bordj Bou Arréridj",349,"Taglait","Commune","Commune",NA,NA
+350,5,"DZA","Algeria",11,"Bordj Bou Arréridj",350,"Teniet En Nasr","Commune","Commune",NA,"Theniet El Anseur"
+351,5,"DZA","Algeria",11,"Bordj Bou Arréridj",351,"Tesmart","Commune","Commune",NA,NA
+352,5,"DZA","Algeria",11,"Bordj Bou Arréridj",352,"Tixter","Commune","Commune",NA,NA
+353,5,"DZA","Algeria",12,"Bouira",353,"Aghbalou","Commune","Commune",NA,"Aghbalu"
+354,5,"DZA","Algeria",12,"Bouira",354,"Ahl El Ksar","Commune","Commune",NA,NA
+355,5,"DZA","Algeria",12,"Bouira",355,"Ahnif","Commune","Commune",NA,"Hanif"
+356,5,"DZA","Algeria",12,"Bouira",356,"Ain-Bessem","Commune","Commune",NA,"Ain Bessam"
+357,5,"DZA","Algeria",12,"Bouira",357,"Ain El Hadjar","Commune","Commune",NA,NA
+358,5,"DZA","Algeria",12,"Bouira",358,"Ain Laloui","Commune","Commune",NA,NA
+359,5,"DZA","Algeria",12,"Bouira",359,"Ain Turk","Commune","Commune",NA,NA
+360,5,"DZA","Algeria",12,"Bouira",360,"Ait Laaziz","Commune","Commune",NA,NA
+361,5,"DZA","Algeria",12,"Bouira",361,"Aomar","Commune","Commune",NA,NA
+362,5,"DZA","Algeria",12,"Bouira",362,"Ath Mansour Taourirt","Commune","Commune",NA,"Ath Mansour"
+363,5,"DZA","Algeria",12,"Bouira",363,"Bechloul","Commune","Commune",NA,NA
+364,5,"DZA","Algeria",12,"Bouira",364,"Bir Ghbalou","Commune","Commune",NA,"Bi`r Ghabalu"
+365,5,"DZA","Algeria",12,"Bouira",365,"Bordj Okhriss","Commune","Commune",NA,"Bordj Oukhriss"
+366,5,"DZA","Algeria",12,"Bouira",366,"Bouderbala","Commune","Commune",NA,NA
+367,5,"DZA","Algeria",12,"Bouira",367,"Bouira","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Buirah"
+368,5,"DZA","Algeria",12,"Bouira",368,"Boukram","Commune","Commune",NA,NA
+369,5,"DZA","Algeria",12,"Bouira",369,"Chorfa","Commune","Commune",NA,"Shurfa"
+370,5,"DZA","Algeria",12,"Bouira",370,"Dechmia","Commune","Commune",NA,NA
+371,5,"DZA","Algeria",12,"Bouira",371,"Dirrah","Commune","Commune",NA,"Dirah"
+372,5,"DZA","Algeria",12,"Bouira",372,"Djebahia","Commune","Commune",NA,NA
+373,5,"DZA","Algeria",12,"Bouira",373,"El Adjiba","Commune","Commune",NA,NA
+374,5,"DZA","Algeria",12,"Bouira",374,"El Asnam","Commune","Commune",NA,NA
+375,5,"DZA","Algeria",12,"Bouira",375,"El Hachimia","Commune","Commune",NA,NA
+376,5,"DZA","Algeria",12,"Bouira",376,"El Hakimia","Commune","Commune",NA,NA
+377,5,"DZA","Algeria",12,"Bouira",377,"El Khabouzia","Commune","Commune",NA,NA
+378,5,"DZA","Algeria",12,"Bouira",378,"El Mokrani|El Madjen","Commune","Commune",NA,"El Mokrani"
+379,5,"DZA","Algeria",12,"Bouira",379,"Guerrouma","Commune","Commune",NA,NA
+380,5,"DZA","Algeria",12,"Bouira",380,"Hadjera Zerga","Commune","Commune",NA,NA
+381,5,"DZA","Algeria",12,"Bouira",381,"Haizer","Commune","Commune",NA,NA
+382,5,"DZA","Algeria",12,"Bouira",382,"Kadiria","Commune","Commune",NA,NA
+383,5,"DZA","Algeria",12,"Bouira",383,"Lakhdaria","Commune","Commune",NA,"Lakhdariyah"
+384,5,"DZA","Algeria",12,"Bouira",384,"M'Chedallah","Commune","Commune",NA,"Mchedallah"
+385,5,"DZA","Algeria",12,"Bouira",385,"Maala","Commune","Commune",NA,NA
+386,5,"DZA","Algeria",12,"Bouira",386,"Maamora","Commune","Commune",NA,NA
+387,5,"DZA","Algeria",12,"Bouira",387,"Mezdour","Commune","Commune",NA,NA
+388,5,"DZA","Algeria",12,"Bouira",388,"Oued El Berdi","Commune","Commune",NA,NA
+389,5,"DZA","Algeria",12,"Bouira",389,"Ouled Rached","Commune","Commune",NA,NA
+390,5,"DZA","Algeria",12,"Bouira",390,"Raouraoua","Commune","Commune",NA,NA
+391,5,"DZA","Algeria",12,"Bouira",391,"Ridane","Commune","Commune",NA,NA
+392,5,"DZA","Algeria",12,"Bouira",392,"Saharidj","Commune","Commune",NA,NA
+393,5,"DZA","Algeria",12,"Bouira",393,"Souk El Khemis","Commune","Commune",NA,NA
+394,5,"DZA","Algeria",12,"Bouira",394,"Sour El Ghouzlane","Commune","Commune",NA,"Sour El Ghozlane|Sur-al-Ghuzlan"
+395,5,"DZA","Algeria",12,"Bouira",395,"Taghzout","Commune","Commune",NA,NA
+396,5,"DZA","Algeria",12,"Bouira",396,"Taguedit","Commune","Commune",NA,NA
+397,5,"DZA","Algeria",12,"Bouira",397,"Zbarbar|El Isseri","Commune","Commune",NA,"Zbarbar"
+398,5,"DZA","Algeria",13,"Boumerdès",398,"Afir","Commune-Cotiere","Commune-Cotiere",NA,NA
+399,5,"DZA","Algeria",13,"Boumerdès",399,"Ammal","Commune","Commune",NA,NA
+400,5,"DZA","Algeria",13,"Boumerdès",400,"Baghlia","Commune","Commune",NA,NA
+401,5,"DZA","Algeria",13,"Boumerdès",401,"Ben Choud","Commune","Commune",NA,NA
+402,5,"DZA","Algeria",13,"Boumerdès",402,"Beni Amrane","Commune","Commune",NA,"Bani- Amran"
+403,5,"DZA","Algeria",13,"Boumerdès",403,"Bordj Menaiel","Commune","Commune",NA,"Burj Minayal"
+404,5,"DZA","Algeria",13,"Boumerdès",404,"Boudouaou El Bahri","Commune-Cotiere","Commune-Cotiere",NA,"Budwawu al-Bahri"
+405,5,"DZA","Algeria",13,"Boumerdès",405,"Boudouaou","Commune","Commune",NA,"Budwawu"
+406,5,"DZA","Algeria",13,"Boumerdès",406,"Boumerdes","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Bumardas"
+407,5,"DZA","Algeria",13,"Boumerdès",407,"Bouzegza Keddara","Commune","Commune",NA,NA
+408,5,"DZA","Algeria",13,"Boumerdès",408,"Chabet El Ameur","Commune","Commune",NA,"Sa`abat"
+409,5,"DZA","Algeria",13,"Boumerdès",409,"Corso","Commune-Cotiere","Commune-Cotiere",NA,NA
+410,5,"DZA","Algeria",13,"Boumerdès",410,"Dellys","Commune-Cotiere","Commune-Cotiere",NA,"Dalis"
+411,5,"DZA","Algeria",13,"Boumerdès",411,"Djinet","Commune-Cotiere","Commune-Cotiere",NA,NA
+412,5,"DZA","Algeria",13,"Boumerdès",412,"El Kharrouba","Commune","Commune",NA,NA
+413,5,"DZA","Algeria",13,"Boumerdès",413,"Hammadi","Commune","Commune",NA,"Hammedi"
+414,5,"DZA","Algeria",13,"Boumerdès",414,"Isser","Commune","Commune",NA,"Issar"
+415,5,"DZA","Algeria",13,"Boumerdès",415,"Khemis El Khechna","Commune","Commune",NA,"Khamis-al-Khashnah"
+416,5,"DZA","Algeria",13,"Boumerdès",416,"Larbatache","Commune","Commune",NA,NA
+417,5,"DZA","Algeria",13,"Boumerdès",417,"Leghata","Commune-Cotiere","Commune-Cotiere",NA,"Laghata"
+418,5,"DZA","Algeria",13,"Boumerdès",418,"Naciria","Commune","Commune",NA,"Naghaus"
+419,5,"DZA","Algeria",13,"Boumerdès",419,"Ouled Aissa","Commune","Commune",NA,NA
+420,5,"DZA","Algeria",13,"Boumerdès",420,"Ouled Hedadj","Commune","Commune",NA,"Ouled Hadjadj|Awla-d Hadda-j"
+421,5,"DZA","Algeria",13,"Boumerdès",421,"Ouled Moussa","Commune","Commune",NA,"Awla-d Mussa"
+422,5,"DZA","Algeria",13,"Boumerdès",422,"Si Mustapha","Commune","Commune",NA,NA
+423,5,"DZA","Algeria",13,"Boumerdès",423,"Sidi Daoud","Commune-Cotiere","Commune-Cotiere",NA,NA
+424,5,"DZA","Algeria",13,"Boumerdès",424,"Souk El Had","Commune","Commune",NA,NA
+425,5,"DZA","Algeria",13,"Boumerdès",425,"Taourga","Commune","Commune",NA,NA
+426,5,"DZA","Algeria",13,"Boumerdès",426,"Thenia","Commune-Cotiere","Commune-Cotiere",NA,"Tinyah"
+427,5,"DZA","Algeria",13,"Boumerdès",427,"Tidjelabine","Commune","Commune",NA,NA
+428,5,"DZA","Algeria",13,"Boumerdès",428,"Timezrit","Commune","Commune",NA,"Timazrit"
+429,5,"DZA","Algeria",13,"Boumerdès",429,"Zemmouri","Commune-Cotiere","Commune-Cotiere",NA,NA
+430,5,"DZA","Algeria",14,"Chlef",430,"Abou El Hassen","Commune","Commune",NA,"Abu-al-Hassan"
+431,5,"DZA","Algeria",14,"Chlef",431,"Ain Merrane","Commune","Commune",NA,"Ain Merane|`Ayn Maran"
+432,5,"DZA","Algeria",14,"Chlef",432,"Benairia","Commune","Commune",NA,NA
+433,5,"DZA","Algeria",14,"Chlef",433,"Beni Bouattab","Commune","Commune",NA,NA
+434,5,"DZA","Algeria",14,"Chlef",434,"Beni Haoua","Commune-Cotiere","Commune-Cotiere",NA,"Bani- Hawa"
+435,5,"DZA","Algeria",14,"Chlef",435,"Beni Rached","Commune","Commune",NA,NA
+436,5,"DZA","Algeria",14,"Chlef",436,"Boukadir","Commune","Commune",NA,"Bu Qadir"
+437,5,"DZA","Algeria",14,"Chlef",437,"Bouzeghaia","Commune","Commune",NA,NA
+438,5,"DZA","Algeria",14,"Chlef",438,"Breira","Commune","Commune",NA,NA
+439,5,"DZA","Algeria",14,"Chlef",439,"Chettia","Commune","Commune",NA,"ash-Shattiyah"
+440,5,"DZA","Algeria",14,"Chlef",440,"Chlef","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"ash-Shalif"
+441,5,"DZA","Algeria",14,"Chlef",441,"Dahra","Commune-Cotiere","Commune-Cotiere",NA,NA
+442,5,"DZA","Algeria",14,"Chlef",442,"El Hadjadj","Commune","Commune",NA,NA
+443,5,"DZA","Algeria",14,"Chlef",443,"El Karimia","Commune","Commune",NA,NA
+444,5,"DZA","Algeria",14,"Chlef",444,"El Marsa","Commune-Cotiere","Commune-Cotiere",NA,NA
+445,5,"DZA","Algeria",14,"Chlef",445,"Harchoune","Commune","Commune",NA,"Harchoun"
+446,5,"DZA","Algeria",14,"Chlef",446,"Herenfa","Commune","Commune",NA,NA
+447,5,"DZA","Algeria",14,"Chlef",447,"Labiod Medjadja","Commune","Commune",NA,"Labiodh Medjadja"
+448,5,"DZA","Algeria",14,"Chlef",448,"Moussadek","Commune","Commune",NA,NA
+449,5,"DZA","Algeria",14,"Chlef",449,"Oued Fodda","Commune","Commune",NA,"Wadi al-Fiddah"
+450,5,"DZA","Algeria",14,"Chlef",450,"Oued Goussine","Commune-Cotiere","Commune-Cotiere",NA,"Oued Ghoussine"
+451,5,"DZA","Algeria",14,"Chlef",451,"Oued Sly","Commune","Commune",NA,"Wadi Sali"
+452,5,"DZA","Algeria",14,"Chlef",452,"Ouled Abbes","Commune","Commune",NA,NA
+453,5,"DZA","Algeria",14,"Chlef",453,"Ouled Ben Abdelkader","Commune","Commune",NA,NA
+454,5,"DZA","Algeria",14,"Chlef",454,"Ouled Fares","Commune","Commune",NA,NA
+455,5,"DZA","Algeria",14,"Chlef",455,"Oum Drou","Commune","Commune",NA,NA
+456,5,"DZA","Algeria",14,"Chlef",456,"Sendjas","Commune","Commune",NA,NA
+457,5,"DZA","Algeria",14,"Chlef",457,"Sidi Abderrahmane","Commune-Cotiere","Commune-Cotiere",NA,NA
+458,5,"DZA","Algeria",14,"Chlef",458,"Sidi Akkacha","Commune","Commune",NA,"Sidi Ukaskah"
+459,5,"DZA","Algeria",14,"Chlef",459,"Sobha","Commune","Commune",NA,NA
+460,5,"DZA","Algeria",14,"Chlef",460,"Tadjena","Commune","Commune",NA,NA
+461,5,"DZA","Algeria",14,"Chlef",461,"Taougrit","Commune","Commune",NA,"Taougrite"
+462,5,"DZA","Algeria",14,"Chlef",462,"Telassa","Commune","Commune",NA,"Talassa"
+463,5,"DZA","Algeria",14,"Chlef",463,"Tenes","Commune-Cotiere","Commune-Cotiere",NA,"Tanas"
+464,5,"DZA","Algeria",14,"Chlef",464,"Zeboudja","Commune","Commune",NA,NA
+465,5,"DZA","Algeria",15,"Constantine",465,"Ain Abid","Commune","Commune",NA,"`Ayn Abid"
+466,5,"DZA","Algeria",15,"Constantine",466,"Ain Semara","Commune","Commune",NA,"Ain Smara|`Ayn Samara"
+467,5,"DZA","Algeria",15,"Constantine",467,"Ben Badis","Commune","Commune",NA,"El Horia"
+468,5,"DZA","Algeria",15,"Constantine",468,"Beni Hamidane","Commune","Commune",NA,"Beni Hamidene"
+469,5,"DZA","Algeria",15,"Constantine",469,"Boudjeriou Messaoud","Commune","Commune",NA,"Mesaoud Boudjeriou"
+470,5,"DZA","Algeria",15,"Constantine",470,"Constantine","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Qustantinah"
+471,5,"DZA","Algeria",15,"Constantine",471,"Didouche Mourad","Commune","Commune",NA,"Didush Murad"
+472,5,"DZA","Algeria",15,"Constantine",472,"El Khroub","Commune","Commune",NA,"al-Khurub"
+473,5,"DZA","Algeria",15,"Constantine",473,"Hamma Bouziane","Commune","Commune",NA,"Hamma Bu Ziyan"
+474,5,"DZA","Algeria",15,"Constantine",474,"Ibn Ziad","Commune","Commune",NA,NA
+475,5,"DZA","Algeria",15,"Constantine",475,"Ouled Rahmoune","Commune","Commune",NA,"Ouled Rahmoun"
+476,5,"DZA","Algeria",15,"Constantine",476,"Zighoud Youcef","Commune","Commune",NA,"Zighut Yusuf"
+477,5,"DZA","Algeria",16,"Djelfa",477,"Ain Chouhada","Commune","Commune",NA,NA
+478,5,"DZA","Algeria",16,"Djelfa",478,"Ain El Ibel","Commune","Commune",NA,"`Ayn-al-Ibil"
+479,5,"DZA","Algeria",16,"Djelfa",479,"Ain Fekka","Commune","Commune",NA,NA
+480,5,"DZA","Algeria",16,"Djelfa",480,"Ain Maabed","Commune","Commune",NA,NA
+481,5,"DZA","Algeria",16,"Djelfa",481,"Ain Oussera","Commune","Commune",NA,"Ain Ouessara|`Ayn Wissarah"
+482,5,"DZA","Algeria",16,"Djelfa",482,"Amourah","Commune","Commune",NA,"Amoura"
+483,5,"DZA","Algeria",16,"Djelfa",483,"Benhar","Commune","Commune",NA,NA
+484,5,"DZA","Algeria",16,"Djelfa",484,"Benyacoub","Commune","Commune",NA,"Beni Yagoub"
+485,5,"DZA","Algeria",16,"Djelfa",485,"Birine","Commune","Commune",NA,"Birin"
+486,5,"DZA","Algeria",16,"Djelfa",486,"Bouira Lahdab","Commune","Commune",NA,NA
+487,5,"DZA","Algeria",16,"Djelfa",487,"Charef","Commune","Commune",NA,"Sha-rif"
+488,5,"DZA","Algeria",16,"Djelfa",488,"Dar Chioukh","Commune","Commune",NA,"Dar Shiyukh"
+489,5,"DZA","Algeria",16,"Djelfa",489,"Deldoul","Commune","Commune",NA,NA
+490,5,"DZA","Algeria",16,"Djelfa",490,"Djelfa","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Jilfah"
+491,5,"DZA","Algeria",16,"Djelfa",491,"Douis","Commune","Commune",NA,NA
+492,5,"DZA","Algeria",16,"Djelfa",492,"El Guedid","Commune","Commune",NA,"El Gueddid"
+493,5,"DZA","Algeria",16,"Djelfa",493,"El Idrissia","Commune","Commune",NA,"al-Idrisiyah"
+494,5,"DZA","Algeria",16,"Djelfa",494,"El Khemis","Commune","Commune",NA,NA
+495,5,"DZA","Algeria",16,"Djelfa",495,"Faidh El Botma","Commune","Commune",NA,"Feidh El Botma"
+496,5,"DZA","Algeria",16,"Djelfa",496,"Guernini","Commune","Commune",NA,NA
+497,5,"DZA","Algeria",16,"Djelfa",497,"Guettara","Commune","Commune",NA,NA
+498,5,"DZA","Algeria",16,"Djelfa",498,"Had Sahary","Commune","Commune",NA,NA
+499,5,"DZA","Algeria",16,"Djelfa",499,"Hassi Bahbah","Commune","Commune",NA,"Hassi Bahbah"
+500,5,"DZA","Algeria",16,"Djelfa",500,"Hassi El Euch","Commune","Commune",NA,NA
+501,5,"DZA","Algeria",16,"Djelfa",501,"Hassi Fedoul","Commune","Commune",NA,"Hassi Fdoul"
+502,5,"DZA","Algeria",16,"Djelfa",502,"M'Liliha","Commune","Commune",NA,"Mliliha"
+503,5,"DZA","Algeria",16,"Djelfa",503,"Messaad","Commune","Commune",NA,"Mi-s`ad"
+504,5,"DZA","Algeria",16,"Djelfa",504,"Moudjebara","Commune","Commune",NA,"Mouadjebar"
+505,5,"DZA","Algeria",16,"Djelfa",505,"Oum Laadham","Commune","Commune",NA,NA
+506,5,"DZA","Algeria",16,"Djelfa",506,"Sed Rahal","Commune","Commune",NA,NA
+507,5,"DZA","Algeria",16,"Djelfa",507,"Selmana","Commune","Commune",NA,NA
+508,5,"DZA","Algeria",16,"Djelfa",508,"Sidi Baizid","Commune","Commune",NA,NA
+509,5,"DZA","Algeria",16,"Djelfa",509,"Sidi Ladjel","Commune","Commune",NA,"Sidi Laadjel"
+510,5,"DZA","Algeria",16,"Djelfa",510,"Tadmit","Commune","Commune",NA,NA
+511,5,"DZA","Algeria",16,"Djelfa",511,"Zaafrane","Commune","Commune",NA,NA
+512,5,"DZA","Algeria",16,"Djelfa",512,"Zaccar","Commune","Commune",NA,"Zakkar"
+513,5,"DZA","Algeria",17,"El Bayadh",513,"Ain El Orak","Commune","Commune",NA,NA
+514,5,"DZA","Algeria",17,"El Bayadh",514,"Arbaouat","Commune","Commune",NA,NA
+515,5,"DZA","Algeria",17,"El Bayadh",515,"Boualem","Commune","Commune",NA,"Hadj Mechri Boualem"
+516,5,"DZA","Algeria",17,"El Bayadh",516,"Bougtoub","Commune","Commune",NA,NA
+517,5,"DZA","Algeria",17,"El Bayadh",517,"Boussemghoun","Commune","Commune",NA,NA
+518,5,"DZA","Algeria",17,"El Bayadh",518,"Brezina","Commune","Commune",NA,"Brizyanah"
+519,5,"DZA","Algeria",17,"El Bayadh",519,"Cheguig","Commune","Commune",NA,NA
+520,5,"DZA","Algeria",17,"El Bayadh",520,"Chellala","Commune","Commune",NA,NA
+521,5,"DZA","Algeria",17,"El Bayadh",521,"El Bayadh","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"al-Bayadh"
+522,5,"DZA","Algeria",17,"El Bayadh",522,"El Biodh Sidi Cheikh","Commune","Commune",NA,"El Abiodh Sidi Cheikh|al-Abyad Si-di- Shaykh"
+523,5,"DZA","Algeria",17,"El Bayadh",523,"El Bnoud","Commune","Commune",NA,NA
+524,5,"DZA","Algeria",17,"El Bayadh",524,"El Kheither","Commune","Commune",NA,NA
+525,5,"DZA","Algeria",17,"El Bayadh",525,"El Mehara","Commune","Commune",NA,NA
+526,5,"DZA","Algeria",17,"El Bayadh",526,"Ghassoul","Commune","Commune",NA,NA
+527,5,"DZA","Algeria",17,"El Bayadh",527,"Kef El Ahmar","Commune","Commune",NA,NA
+528,5,"DZA","Algeria",17,"El Bayadh",528,"Krakda","Commune","Commune",NA,NA
+529,5,"DZA","Algeria",17,"El Bayadh",529,"Rogassa","Commune","Commune",NA,NA
+530,5,"DZA","Algeria",17,"El Bayadh",530,"Sidi Ameur","Commune","Commune",NA,NA
+531,5,"DZA","Algeria",17,"El Bayadh",531,"Sidi Slimane","Commune","Commune",NA,NA
+532,5,"DZA","Algeria",17,"El Bayadh",532,"Sidi Tifour","Commune","Commune",NA,NA
+533,5,"DZA","Algeria",17,"El Bayadh",533,"Stitten","Commune","Commune",NA,NA
+534,5,"DZA","Algeria",17,"El Bayadh",534,"Tousmouline","Commune","Commune",NA,NA
+535,5,"DZA","Algeria",18,"El Oued",535,"Bayadha","Commune","Commune",NA,NA
+536,5,"DZA","Algeria",18,"El Oued",536,"Ben Guecha","Commune","Commune",NA,"Beni Guecha"
+537,5,"DZA","Algeria",18,"El Oued",537,"Debila","Commune","Commune",NA,"Djebila|Dabilah"
+538,5,"DZA","Algeria",18,"El Oued",538,"Djamaa","Commune","Commune",NA,"Jama`a"
+539,5,"DZA","Algeria",18,"El Oued",539,"Douar El Ma","Commune","Commune",NA,NA
+540,5,"DZA","Algeria",18,"El Oued",540,"El M'Ghair","Commune","Commune",NA,"El Mghair|al-Mighair"
+541,5,"DZA","Algeria",18,"El Oued",541,"El Ogla","Commune","Commune",NA,NA
+542,5,"DZA","Algeria",18,"El Oued",542,"El Oued","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"al-Wad"
+543,5,"DZA","Algeria",18,"El Oued",543,"Guemar","Commune","Commune",NA,"Qamar"
+544,5,"DZA","Algeria",18,"El Oued",544,"Hamraia","Commune","Commune",NA,NA
+545,5,"DZA","Algeria",18,"El Oued",545,"Hassani Abdelkrim","Commune","Commune",NA,"Hassan `Abd-al-Karim"
+546,5,"DZA","Algeria",18,"El Oued",546,"Hassi Khalifa","Commune","Commune",NA,"Hassi Khelifa|Hassi Halifa"
+547,5,"DZA","Algeria",18,"El Oued",547,"Kouinine","Commune","Commune",NA,NA
+548,5,"DZA","Algeria",18,"El Oued",548,"M'Rara","Commune","Commune",NA,"Mrara"
+549,5,"DZA","Algeria",18,"El Oued",549,"Magrane","Commune","Commune",NA,"Maqran"
+550,5,"DZA","Algeria",18,"El Oued",550,"Mih Ouansa","Commune","Commune",NA,"Mih Ouensa"
+551,5,"DZA","Algeria",18,"El Oued",551,"Nakhla","Commune","Commune",NA,NA
+552,5,"DZA","Algeria",18,"El Oued",552,"Oued El Alenda","Commune","Commune",NA,NA
+553,5,"DZA","Algeria",18,"El Oued",553,"Oum Touyour","Commune","Commune",NA,"Oum Tiour"
+554,5,"DZA","Algeria",18,"El Oued",554,"Ourmes","Commune","Commune",NA,NA
+555,5,"DZA","Algeria",18,"El Oued",555,"Reguiba","Commune","Commune",NA,"Raqiba"
+556,5,"DZA","Algeria",18,"El Oued",556,"Robbah","Commune","Commune",NA,"Rubbah"
+557,5,"DZA","Algeria",18,"El Oued",557,"Sidi Amrane","Commune","Commune",NA,"Sidi Amran"
+558,5,"DZA","Algeria",18,"El Oued",558,"Sidi Aoun","Commune","Commune",NA,NA
+559,5,"DZA","Algeria",18,"El Oued",559,"Sidi Khelil","Commune","Commune",NA,"Sidi Khellil"
+560,5,"DZA","Algeria",18,"El Oued",560,"Still","Commune","Commune",NA,NA
+561,5,"DZA","Algeria",18,"El Oued",561,"Taghzout","Commune","Commune",NA,NA
+562,5,"DZA","Algeria",18,"El Oued",562,"Taleb Larbi","Commune","Commune",NA,NA
+563,5,"DZA","Algeria",18,"El Oued",563,"Tenedla","Commune","Commune",NA,"Tendla"
+564,5,"DZA","Algeria",18,"El Oued",564,"Trifaoui","Commune","Commune",NA,"Trifaou"
+565,5,"DZA","Algeria",19,"El Tarf",565,"Ain El Assel","Commune","Commune",NA,NA
+566,5,"DZA","Algeria",19,"El Tarf",566,"Ain Kerma","Commune","Commune",NA,NA
+567,5,"DZA","Algeria",19,"El Tarf",567,"Asfour","Commune","Commune",NA,NA
+568,5,"DZA","Algeria",19,"El Tarf",568,"Ben M'Hidi","Commune-Cotiere","Commune-Cotiere",NA,"Ben Mhidi|Ban Mahdi"
+569,5,"DZA","Algeria",19,"El Tarf",569,"Berrihane","Commune-Cotiere","Commune-Cotiere",NA,NA
+570,5,"DZA","Algeria",19,"El Tarf",570,"Besbes","Commune","Commune",NA,NA
+571,5,"DZA","Algeria",19,"El Tarf",571,"Bougous","Commune","Commune",NA,NA
+572,5,"DZA","Algeria",19,"El Tarf",572,"Bouhadjar","Commune","Commune",NA,NA
+573,5,"DZA","Algeria",19,"El Tarf",573,"Bouteldja","Commune","Commune",NA,NA
+574,5,"DZA","Algeria",19,"El Tarf",574,"Chebaita Mokhtar","Commune","Commune",NA,"Chbaita Mokhtar|Saba`ita Muk"
+575,5,"DZA","Algeria",19,"El Tarf",575,"Chefia","Commune","Commune",NA,NA
+576,5,"DZA","Algeria",19,"El Tarf",576,"Chihani","Commune","Commune",NA,NA
+577,5,"DZA","Algeria",19,"El Tarf",577,"Drean","Commune","Commune",NA,"	Dariyan"
+578,5,"DZA","Algeria",19,"El Tarf",578,"Echatt","Commune-Cotiere","Commune-Cotiere",NA,NA
+579,5,"DZA","Algeria",19,"El Tarf",579,"El Aioun","Commune","Commune",NA,NA
+580,5,"DZA","Algeria",19,"El Tarf",580,"El Kala","Commune-Cotiere","Commune-Cotiere",NA,"al-Qal`ah"
+581,5,"DZA","Algeria",19,"El Tarf",581,"El Tarf","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"El-Tarf|at-Tarif"
+582,5,"DZA","Algeria",19,"El Tarf",582,"Hammam Ben Salah","Commune","Commune",NA,"Hammam Beni Salah"
+583,5,"DZA","Algeria",19,"El Tarf",583,"Lac Des Oiseaux","Commune","Commune",NA,NA
+584,5,"DZA","Algeria",19,"El Tarf",584,"Oued Zitoun","Commune","Commune",NA,NA
+585,5,"DZA","Algeria",19,"El Tarf",585,"Raml Souk","Commune","Commune",NA,NA
+586,5,"DZA","Algeria",19,"El Tarf",586,"Souarekh","Commune-Cotiere","Commune-Cotiere",NA,NA
+587,5,"DZA","Algeria",19,"El Tarf",587,"Zerizer","Commune","Commune",NA,NA
+588,5,"DZA","Algeria",19,"El Tarf",588,"Zitouna","Commune","Commune",NA,NA
+589,5,"DZA","Algeria",20,"Ghardaïa",589,"Berriane","Commune","Commune",NA,"Biryan"
+590,5,"DZA","Algeria",20,"Ghardaïa",590,"Bounoura","Commune","Commune",NA,"Bu Nura"
+591,5,"DZA","Algeria",20,"Ghardaïa",591,"Dhayet Bendhahoua","Commune","Commune",NA,"Dhayet Bendahoua"
+592,5,"DZA","Algeria",20,"Ghardaïa",592,"El Atteuf","Commune","Commune",NA,NA
+593,5,"DZA","Algeria",20,"Ghardaïa",593,"El Guerrarra","Commune","Commune",NA,"El Guerrara|al-Qararah"
+594,5,"DZA","Algeria",20,"Ghardaïa",594,"El Meniaa","Commune","Commune",NA,"Golea|al-Ghuli-`ah"
+595,5,"DZA","Algeria",20,"Ghardaïa",595,"Ghardaia","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Ghardayah"
+596,5,"DZA","Algeria",20,"Ghardaïa",596,"Hassi Fehal","Commune","Commune",NA,"Hassi Lefhal"
+597,5,"DZA","Algeria",20,"Ghardaïa",597,"Hassi Gara","Commune","Commune",NA,"Hassi El Garaa"
+598,5,"DZA","Algeria",20,"Ghardaïa",598,"Mansoura","Commune","Commune",NA,"El Mansoura|al-Mansurah"
+599,5,"DZA","Algeria",20,"Ghardaïa",599,"Metlili","Commune","Commune",NA,"	Matlili"
+600,5,"DZA","Algeria",20,"Ghardaïa",600,"Sebseb","Commune","Commune",NA,NA
+601,5,"DZA","Algeria",20,"Ghardaïa",601,"Zelfana","Commune","Commune",NA,NA
+602,5,"DZA","Algeria",21,"Guelma",602,"Ain Ben Beida","Commune","Commune",NA,NA
+603,5,"DZA","Algeria",21,"Guelma",603,"Ain Larbi","Commune","Commune",NA,NA
+604,5,"DZA","Algeria",21,"Guelma",604,"Ain Makhlouf","Commune","Commune",NA,NA
+605,5,"DZA","Algeria",21,"Guelma",605,"Ain Rekada","Commune","Commune",NA,"Ain Reggada"
+606,5,"DZA","Algeria",21,"Guelma",606,"Ain Sandel","Commune","Commune",NA,NA
+607,5,"DZA","Algeria",21,"Guelma",607,"Belkheir","Commune","Commune",NA,NA
+608,5,"DZA","Algeria",21,"Guelma",608,"Ben Djerrah","Commune","Commune",NA,"Bendjerrah"
+609,5,"DZA","Algeria",21,"Guelma",609,"Beni Mezline","Commune","Commune",NA,NA
+610,5,"DZA","Algeria",21,"Guelma",610,"Bordj Sebbat","Commune","Commune",NA,"Bordj Sabath"
+611,5,"DZA","Algeria",21,"Guelma",611,"Bou Hachana","Commune","Commune",NA,"Bouhachana"
+612,5,"DZA","Algeria",21,"Guelma",612,"Bou Hamdane","Commune","Commune",NA,"Bouhamdane"
+613,5,"DZA","Algeria",21,"Guelma",613,"Bouati Mahmoud","Commune","Commune",NA,NA
+614,5,"DZA","Algeria",21,"Guelma",614,"Bouchekouf","Commune","Commune",NA,"Bouchegouf"
+615,5,"DZA","Algeria",21,"Guelma",615,"Boumahra Ahmed","Commune","Commune",NA,"Bumahra Ahmad"
+616,5,"DZA","Algeria",21,"Guelma",616,"Dahouara","Commune","Commune",NA,NA
+617,5,"DZA","Algeria",21,"Guelma",617,"Djebala El Khemissi","Commune","Commune",NA,"Djeballah Khemissi"
+618,5,"DZA","Algeria",21,"Guelma",618,"El Fedjoudj","Commune","Commune",NA,NA
+619,5,"DZA","Algeria",21,"Guelma",619,"Guelma","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Qalmah"
+620,5,"DZA","Algeria",21,"Guelma",620,"Hammam Debagh","Commune","Commune",NA,NA
+621,5,"DZA","Algeria",21,"Guelma",621,"Hammam N'Bail","Commune","Commune",NA,"Hammam Nbail"
+622,5,"DZA","Algeria",21,"Guelma",622,"Helliopolis","Commune","Commune",NA,"Heliopolis"
+623,5,"DZA","Algeria",21,"Guelma",623,"Houari Boumediene","Commune","Commune",NA,NA
+624,5,"DZA","Algeria",21,"Guelma",624,"Kalaat Bousbaa","Commune","Commune",NA,"Guelaat Bousbaa"
+625,5,"DZA","Algeria",21,"Guelma",625,"Khezzara","Commune","Commune",NA,"Khezara"
+626,5,"DZA","Algeria",21,"Guelma",626,"Medjaz Ammar","Commune","Commune",NA,"Medjez Amar"
+627,5,"DZA","Algeria",21,"Guelma",627,"Medjaz Sfa","Commune","Commune",NA,"Medjez Sfa"
+628,5,"DZA","Algeria",21,"Guelma",628,"Nechemaya","Commune","Commune",NA,"Nechmaya"
+629,5,"DZA","Algeria",21,"Guelma",629,"Oued Cheham","Commune","Commune",NA,NA
+630,5,"DZA","Algeria",21,"Guelma",630,"Oued Fragha","Commune","Commune",NA,NA
+631,5,"DZA","Algeria",21,"Guelma",631,"Oued Zenati","Commune","Commune",NA,"Wadi Zinati"
+632,5,"DZA","Algeria",21,"Guelma",632,"Ras El Agba","Commune","Commune",NA,NA
+633,5,"DZA","Algeria",21,"Guelma",633,"Roknia","Commune","Commune",NA,NA
+634,5,"DZA","Algeria",21,"Guelma",634,"Selaoua Announa","Commune","Commune",NA,"Seliaoua Announa"
+635,5,"DZA","Algeria",21,"Guelma",635,"Tamlouka","Commune","Commune",NA,NA
+636,5,"DZA","Algeria",22,"Illizi",636,"Bordj El Haouasse","Commune","Commune",NA,"Bordj El Haoues"
+637,5,"DZA","Algeria",22,"Illizi",637,"Bordj Omar Driss","Commune","Commune",NA,NA
+638,5,"DZA","Algeria",22,"Illizi",638,"Debdeb","Commune","Commune",NA,NA
+639,5,"DZA","Algeria",22,"Illizi",639,"Djanet","Commune","Commune",NA,NA
+640,5,"DZA","Algeria",22,"Illizi",640,"Illizi","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Ilizi"
+641,5,"DZA","Algeria",22,"Illizi",641,"In Amenas","Commune","Commune",NA,NA
+642,5,"DZA","Algeria",23,"Jijel",642,"Bordj Tahar","Commune","Commune",NA,"Bordj Taher"
+643,5,"DZA","Algeria",23,"Jijel",643,"Boudria Beniyadjis","Commune","Commune",NA,"Boudria Beni Yadjis"
+644,5,"DZA","Algeria",23,"Jijel",644,"Bouraoui Belhadef","Commune","Commune",NA,NA
+645,5,"DZA","Algeria",23,"Jijel",645,"Boussif Ouled Askeur","Commune","Commune",NA,"Boussif Ouled Akseur"
+646,5,"DZA","Algeria",23,"Jijel",646,"Chahna","Commune","Commune",NA,NA
+647,5,"DZA","Algeria",23,"Jijel",647,"Chekfa","Commune","Commune",NA,"Shifka"
+648,5,"DZA","Algeria",23,"Jijel",648,"Djemaa Beni Habibi","Commune","Commune",NA,NA
+649,5,"DZA","Algeria",23,"Jijel",649,"Djemila","Commune","Commune",NA,"Djmila"
+650,5,"DZA","Algeria",23,"Jijel",650,"El Ancer","Commune","Commune",NA,NA
+651,5,"DZA","Algeria",23,"Jijel",651,"El Aouana","Commune-Cotiere","Commune-Cotiere",NA,NA
+652,5,"DZA","Algeria",23,"Jijel",652,"El Kennar Nouchfi","Commune-Cotiere","Commune-Cotiere",NA,NA
+653,5,"DZA","Algeria",23,"Jijel",653,"El Milia","Commune-Cotiere","Commune-Cotiere",NA,"al-Miliyah"
+654,5,"DZA","Algeria",23,"Jijel",654,"Emir Abdelkader","Commune-Cotiere","Commune-Cotiere",NA,NA
+655,5,"DZA","Algeria",23,"Jijel",655,"Erraguene","Commune","Commune",NA,NA
+656,5,"DZA","Algeria",23,"Jijel",656,"Ghebala","Commune","Commune",NA,"Chebbala Milat"
+657,5,"DZA","Algeria",23,"Jijel",657,"Jijel","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"	Jijili"
+658,5,"DZA","Algeria",23,"Jijel",658,"Kheir Oued Adjoul","Commune-Cotiere","Commune-Cotiere",NA,"Kimir Oued Adjoul"
+659,5,"DZA","Algeria",23,"Jijel",659,"Kouas","Commune","Commune",NA,"Kaous"
+660,5,"DZA","Algeria",23,"Jijel",660,"Oudjana","Commune","Commune",NA,NA
+661,5,"DZA","Algeria",23,"Jijel",661,"Ouled Rabah","Commune","Commune",NA,NA
+662,5,"DZA","Algeria",23,"Jijel",662,"Ouled Yahia Khadrouche","Commune","Commune",NA,NA
+663,5,"DZA","Algeria",23,"Jijel",663,"Selma Benziada","Commune","Commune",NA,"Selma Ben Ziada"
+664,5,"DZA","Algeria",23,"Jijel",664,"Settara","Commune","Commune",NA,NA
+665,5,"DZA","Algeria",23,"Jijel",665,"Sidi Abdelaziz","Commune-Cotiere","Commune-Cotiere",NA,NA
+666,5,"DZA","Algeria",23,"Jijel",666,"Sidi Marouf","Commune","Commune",NA,"Sidi Maarouf"
+667,5,"DZA","Algeria",23,"Jijel",667,"Taher","Commune-Cotiere","Commune-Cotiere",NA,"Tahar"
+668,5,"DZA","Algeria",23,"Jijel",668,"Texenna","Commune","Commune",NA,NA
+669,5,"DZA","Algeria",23,"Jijel",669,"Ziama Mansouria","Commune-Cotiere","Commune-Cotiere",NA,NA
+670,5,"DZA","Algeria",24,"Khenchela",670,"Ain Touila","Commune","Commune",NA,NA
+671,5,"DZA","Algeria",24,"Khenchela",671,"Babar","Commune","Commune",NA,NA
+672,5,"DZA","Algeria",24,"Khenchela",672,"Baghai","Commune","Commune",NA,NA
+673,5,"DZA","Algeria",24,"Khenchela",673,"Bouhmama","Commune","Commune",NA,NA
+674,5,"DZA","Algeria",24,"Khenchela",674,"Chechar","Commune","Commune",NA,"Cherchar"
+675,5,"DZA","Algeria",24,"Khenchela",675,"Chelia","Commune","Commune",NA,NA
+676,5,"DZA","Algeria",24,"Khenchela",676,"Djellal","Commune","Commune",NA,NA
+677,5,"DZA","Algeria",24,"Khenchela",677,"El Hamma","Commune","Commune",NA,NA
+678,5,"DZA","Algeria",24,"Khenchela",678,"El Mahmal","Commune","Commune",NA,"al-Mahmal"
+679,5,"DZA","Algeria",24,"Khenchela",679,"El Oueldja","Commune","Commune",NA,NA
+680,5,"DZA","Algeria",24,"Khenchela",680,"Ensigha","Commune","Commune",NA,NA
+681,5,"DZA","Algeria",24,"Khenchela",681,"Kais","Commune","Commune",NA,NA
+682,5,"DZA","Algeria",24,"Khenchela",682,"Khenchela","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Khanshalah"
+683,5,"DZA","Algeria",24,"Khenchela",683,"Khirane","Commune","Commune",NA,NA
+684,5,"DZA","Algeria",24,"Khenchela",684,"M'Sara","Commune","Commune",NA,"Msara"
+685,5,"DZA","Algeria",24,"Khenchela",685,"M'Toussa","Commune","Commune",NA,"Mtoussa"
+686,5,"DZA","Algeria",24,"Khenchela",686,"Ouled Rechache","Commune","Commune",NA,NA
+687,5,"DZA","Algeria",24,"Khenchela",687,"Remila","Commune","Commune",NA,NA
+688,5,"DZA","Algeria",24,"Khenchela",688,"Tamza","Commune","Commune",NA,NA
+689,5,"DZA","Algeria",24,"Khenchela",689,"Taouzianat","Commune","Commune",NA,"Tawziyanat"
+690,5,"DZA","Algeria",24,"Khenchela",690,"Yabous","Commune","Commune",NA,NA
+691,5,"DZA","Algeria",25,"Laghouat",691,"Aflou","Commune","Commune",NA,"Aflu"
+692,5,"DZA","Algeria",25,"Laghouat",692,"Ain Madhi","Commune","Commune",NA,NA
+693,5,"DZA","Algeria",25,"Laghouat",693,"Ain Sidi Ali","Commune","Commune",NA,NA
+694,5,"DZA","Algeria",25,"Laghouat",694,"Brida","Commune","Commune",NA,NA
+695,5,"DZA","Algeria",25,"Laghouat",695,"El Assafia","Commune","Commune",NA,NA
+696,5,"DZA","Algeria",25,"Laghouat",696,"El Beidha","Commune","Commune",NA,"Beidha"
+697,5,"DZA","Algeria",25,"Laghouat",697,"El Ghicha","Commune","Commune",NA,NA
+698,5,"DZA","Algeria",25,"Laghouat",698,"El Haouaita","Commune","Commune",NA,NA
+699,5,"DZA","Algeria",25,"Laghouat",699,"Gueltat Sidi Saad","Commune","Commune",NA,NA
+700,5,"DZA","Algeria",25,"Laghouat",700,"Hadj Mechri","Commune","Commune",NA,NA
+701,5,"DZA","Algeria",25,"Laghouat",701,"Hassi Delaa","Commune","Commune",NA,"Hassi Dhelaa"
+702,5,"DZA","Algeria",25,"Laghouat",702,"Hassi R'Mel","Commune","Commune",NA,"Hassi Rmel|Hassi al-Raml"
+703,5,"DZA","Algeria",25,"Laghouat",703,"Kheneg","Commune","Commune",NA,NA
+704,5,"DZA","Algeria",25,"Laghouat",704,"Ksar Hirane","Commune","Commune",NA,"Ksar El Hirane"
+705,5,"DZA","Algeria",25,"Laghouat",705,"Laghouat","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"al-Aghwa-t"
+706,5,"DZA","Algeria",25,"Laghouat",706,"Mekhareg","Commune","Commune",NA,NA
+707,5,"DZA","Algeria",25,"Laghouat",707,"Oued M'Zi","Commune","Commune",NA,"Oued Mzi"
+708,5,"DZA","Algeria",25,"Laghouat",708,"Oued Mora","Commune","Commune",NA,"Oued Morra"
+709,5,"DZA","Algeria",25,"Laghouat",709,"Sebgag","Commune","Commune",NA,NA
+710,5,"DZA","Algeria",25,"Laghouat",710,"Sidi Bouzid","Commune","Commune",NA,NA
+711,5,"DZA","Algeria",25,"Laghouat",711,"Sidi Makhlouf","Commune","Commune",NA,NA
+712,5,"DZA","Algeria",25,"Laghouat",712,"Tadjemout","Commune","Commune",NA,NA
+713,5,"DZA","Algeria",25,"Laghouat",713,"Tadjrouna","Commune","Commune",NA,NA
+714,5,"DZA","Algeria",25,"Laghouat",714,"Taouala","Commune","Commune",NA,"Taouila"
+715,5,"DZA","Algeria",26,"M'Sila",715,"Ain El Hadjel","Commune","Commune",NA,"`Ayn-al-Hajal"
+716,5,"DZA","Algeria",26,"M'Sila",716,"Ain El Melh","Commune","Commune",NA,"`Ayn-al-Milh"
+717,5,"DZA","Algeria",26,"M'Sila",717,"Ain Errich","Commune","Commune",NA,NA
+718,5,"DZA","Algeria",26,"M'Sila",718,"Ain Fares","Commune","Commune",NA,NA
+719,5,"DZA","Algeria",26,"M'Sila",719,"Ain Khadra","Commune","Commune",NA,NA
+720,5,"DZA","Algeria",26,"M'Sila",720,"Belaiba","Commune","Commune",NA,NA
+721,5,"DZA","Algeria",26,"M'Sila",721,"Ben Srour","Commune","Commune",NA,NA
+722,5,"DZA","Algeria",26,"M'Sila",722,"Beni Ilmane","Commune","Commune",NA,"Beni Ilmene"
+723,5,"DZA","Algeria",26,"M'Sila",723,"Benzouh","Commune","Commune",NA,NA
+724,5,"DZA","Algeria",26,"M'Sila",724,"Berhoum","Commune","Commune",NA,NA
+725,5,"DZA","Algeria",26,"M'Sila",725,"Bir Foda","Commune","Commune",NA,"Bir Fodda"
+726,5,"DZA","Algeria",26,"M'Sila",726,"Bou Saada","Commune","Commune",NA,"Bousaada|Bu Sa`adah"
+727,5,"DZA","Algeria",26,"M'Sila",727,"Bouti Sayeh","Commune","Commune",NA,NA
+728,5,"DZA","Algeria",26,"M'Sila",728,"Chellal","Commune","Commune",NA,NA
+729,5,"DZA","Algeria",26,"M'Sila",729,"Dehahna","Commune","Commune",NA,NA
+730,5,"DZA","Algeria",26,"M'Sila",730,"Djebel Messaad","Commune","Commune",NA,NA
+731,5,"DZA","Algeria",26,"M'Sila",731,"El Houamed","Commune","Commune",NA,NA
+732,5,"DZA","Algeria",26,"M'Sila",732,"Hammam Dalaa","Commune","Commune",NA,"Hammam Dhalaa|Hamma-m Dhala`a"
+733,5,"DZA","Algeria",26,"M'Sila",733,"Hamri","Commune","Commune",NA,"El Hamri"
+734,5,"DZA","Algeria",26,"M'Sila",734,"Khatouti Sed Eldjir","Commune","Commune",NA,"Khettouti Sed El Djir"
+735,5,"DZA","Algeria",26,"M'Sila",735,"Khoubana","Commune","Commune",NA,NA
+736,5,"DZA","Algeria",26,"M'Sila",736,"M'Cif","Commune","Commune",NA,"Mcif"
+737,5,"DZA","Algeria",26,"M'Sila",737,"M'Sila","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Msila|Masilah"
+738,5,"DZA","Algeria",26,"M'Sila",738,"M'Tarfa","Commune","Commune",NA,"Mtarfa"
+739,5,"DZA","Algeria",26,"M'Sila",739,"Maadid","Commune","Commune",NA,"Ma`adid"
+740,5,"DZA","Algeria",26,"M'Sila",740,"Maarif","Commune","Commune",NA,NA
+741,5,"DZA","Algeria",26,"M'Sila",741,"Magra","Commune","Commune",NA,"Maghra"
+742,5,"DZA","Algeria",26,"M'Sila",742,"Medjedel","Commune","Commune",NA,NA
+743,5,"DZA","Algeria",26,"M'Sila",743,"Menaa","Commune","Commune",NA,"Menaa (Ouled Atia)"
+744,5,"DZA","Algeria",26,"M'Sila",744,"Mohamed Boudiaf","Commune","Commune",NA,NA
+745,5,"DZA","Algeria",26,"M'Sila",745,"Ouanougha","Commune","Commune",NA,"Ouenougha|Wanugha"
+746,5,"DZA","Algeria",26,"M'Sila",746,"Ouled Addi Guebala","Commune","Commune",NA,NA
+747,5,"DZA","Algeria",26,"M'Sila",747,"Ouled Derradj","Commune","Commune",NA,NA
+748,5,"DZA","Algeria",26,"M'Sila",748,"Ouled Madhi","Commune","Commune",NA,NA
+749,5,"DZA","Algeria",26,"M'Sila",749,"Ouled Mansour","Commune","Commune",NA,NA
+750,5,"DZA","Algeria",26,"M'Sila",750,"Ouled Sidi Brahim","Commune","Commune",NA,NA
+751,5,"DZA","Algeria",26,"M'Sila",751,"Ouled Slimane","Commune","Commune",NA,NA
+752,5,"DZA","Algeria",26,"M'Sila",752,"Oultene","Commune","Commune",NA,NA
+753,5,"DZA","Algeria",26,"M'Sila",753,"Sidi Aissa","Commune","Commune",NA,"	Sidi `Aysa"
+754,5,"DZA","Algeria",26,"M'Sila",754,"Sidi Ameur","Commune","Commune",NA,NA
+755,5,"DZA","Algeria",26,"M'Sila",755,"Sidi Hadjeres","Commune","Commune",NA,NA
+756,5,"DZA","Algeria",26,"M'Sila",756,"Sidi M'Hamed","Commune","Commune",NA,"Sidi Mhamed"
+757,5,"DZA","Algeria",26,"M'Sila",757,"Slim","Commune","Commune",NA,NA
+758,5,"DZA","Algeria",26,"M'Sila",758,"Soumaa","Commune","Commune",NA,"	Suma"
+759,5,"DZA","Algeria",26,"M'Sila",759,"Tamsa","Commune","Commune",NA,NA
+760,5,"DZA","Algeria",26,"M'Sila",760,"Tarmount","Commune","Commune",NA,NA
+761,5,"DZA","Algeria",26,"M'Sila",761,"Zarzour","Commune","Commune",NA,"Zerzour"
+762,5,"DZA","Algeria",27,"Médéa",762,"Ain Boucif","Commune","Commune",NA,"`Ayn Bu- Sif"
+763,5,"DZA","Algeria",27,"Médéa",763,"Ain Ouksir","Commune","Commune",NA,NA
+764,5,"DZA","Algeria",27,"Médéa",764,"Aissaouia","Commune","Commune",NA,NA
+765,5,"DZA","Algeria",27,"Médéa",765,"Azziz","Commune","Commune",NA,"Aziz"
+766,5,"DZA","Algeria",27,"Médéa",766,"Azzizia","Commune","Commune",NA,"El Azizia"
+767,5,"DZA","Algeria",27,"Médéa",767,"Baata","Commune","Commune",NA,NA
+768,5,"DZA","Algeria",27,"Médéa",768,"Ben Chicao","Commune","Commune",NA,NA
+769,5,"DZA","Algeria",27,"Médéa",769,"Beni Slimane","Commune","Commune",NA,NA
+770,5,"DZA","Algeria",27,"Médéa",770,"Berrouaghia","Commune","Commune",NA,"Birwaghiyah"
+771,5,"DZA","Algeria",27,"Médéa",771,"Bir Ben Laabed","Commune","Commune",NA,"Bir Ben Abed"
+772,5,"DZA","Algeria",27,"Médéa",772,"Bouaiche","Commune","Commune",NA,NA
+773,5,"DZA","Algeria",27,"Médéa",773,"Bouaichoune","Commune","Commune",NA,NA
+774,5,"DZA","Algeria",27,"Médéa",774,"Boucherahil","Commune","Commune",NA,"Bouchrahil"
+775,5,"DZA","Algeria",27,"Médéa",775,"Boughar","Commune","Commune",NA,"Boghar"
+776,5,"DZA","Algeria",27,"Médéa",776,"Boughezoul","Commune","Commune",NA,"Boughzoul"
+777,5,"DZA","Algeria",27,"Médéa",777,"Bouskene","Commune","Commune",NA,NA
+778,5,"DZA","Algeria",27,"Médéa",778,"Chahbounia","Commune","Commune",NA,NA
+779,5,"DZA","Algeria",27,"Médéa",779,"Chellalet Ladhaoura","Commune","Commune",NA,"Chellalat El Adhaoura|Shillalah"
+780,5,"DZA","Algeria",27,"Médéa",780,"Cheniguel","Commune","Commune",NA,NA
+781,5,"DZA","Algeria",27,"Médéa",781,"Derrag","Commune","Commune",NA,NA
+782,5,"DZA","Algeria",27,"Médéa",782,"Deux Bassins","Commune","Commune",NA,NA
+783,5,"DZA","Algeria",27,"Médéa",783,"Djouab","Commune","Commune",NA,NA
+784,5,"DZA","Algeria",27,"Médéa",784,"Draa Smar","Commune","Commune",NA,"Draa Essmar"
+785,5,"DZA","Algeria",27,"Médéa",785,"El Guelb El Kebir","Commune","Commune",NA,"El Guelbelkebir"
+786,5,"DZA","Algeria",27,"Médéa",786,"El Hamdania","Commune","Commune",NA,NA
+787,5,"DZA","Algeria",27,"Médéa",787,"El Kaf Lakhdar","Commune","Commune",NA,"Kef Lakhdar"
+788,5,"DZA","Algeria",27,"Médéa",788,"El Ouinet","Commune","Commune",NA,"El Aouinet"
+789,5,"DZA","Algeria",27,"Médéa",789,"El Oumaria","Commune","Commune",NA,"El Omaria"
+790,5,"DZA","Algeria",27,"Médéa",790,"Hannacha","Commune","Commune",NA,NA
+791,5,"DZA","Algeria",27,"Médéa",791,"Khams Djouamaa","Commune","Commune",NA,NA
+792,5,"DZA","Algeria",27,"Médéa",792,"Ksar El Boukhari","Commune","Commune",NA,"Qasr-al-Bukhari"
+793,5,"DZA","Algeria",27,"Médéa",793,"Medea","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Midyah"
+794,5,"DZA","Algeria",27,"Médéa",794,"Medjebar","Commune","Commune",NA,"Moudjebeur"
+795,5,"DZA","Algeria",27,"Médéa",795,"Meftaha","Commune","Commune",NA,"Mfatha"
+796,5,"DZA","Algeria",27,"Médéa",796,"Megheraoua","Commune","Commune",NA,"Maghraoua"
+797,5,"DZA","Algeria",27,"Médéa",797,"Mezrenna","Commune","Commune",NA,NA
+798,5,"DZA","Algeria",27,"Médéa",798,"Mihoub","Commune","Commune",NA,NA
+799,5,"DZA","Algeria",27,"Médéa",799,"Ouamri","Commune","Commune",NA,NA
+800,5,"DZA","Algeria",27,"Médéa",800,"Oued Harbil","Commune","Commune",NA,NA
+801,5,"DZA","Algeria",27,"Médéa",801,"Ouezra","Commune","Commune",NA,"Ouzera"
+802,5,"DZA","Algeria",27,"Médéa",802,"Ouled Antar","Commune","Commune",NA,NA
+803,5,"DZA","Algeria",27,"Médéa",803,"Ouled Bouachra","Commune","Commune",NA,NA
+804,5,"DZA","Algeria",27,"Médéa",804,"Ouled Brahim","Commune","Commune",NA,NA
+805,5,"DZA","Algeria",27,"Médéa",805,"Ouled Daid","Commune","Commune",NA,"Ouled Deide"
+806,5,"DZA","Algeria",27,"Médéa",806,"Ouled Hellal","Commune","Commune",NA,NA
+807,5,"DZA","Algeria",27,"Médéa",807,"Ouled Maaraf","Commune","Commune",NA,"Ouled Maaref"
+808,5,"DZA","Algeria",27,"Médéa",808,"Oum El Djellil","Commune","Commune",NA,"Oum El Djalil"
+809,5,"DZA","Algeria",27,"Médéa",809,"Roubia","Commune","Commune",NA,"Rebaia"
+810,5,"DZA","Algeria",27,"Médéa",810,"Saneg","Commune","Commune",NA,NA
+811,5,"DZA","Algeria",27,"Médéa",811,"Sedraya","Commune","Commune",NA,"Sedraia"
+812,5,"DZA","Algeria",27,"Médéa",812,"Seghouane","Commune","Commune",NA,NA
+813,5,"DZA","Algeria",27,"Médéa",813,"Si El Mahdjoub","Commune","Commune",NA,"Si Mahdjoub"
+814,5,"DZA","Algeria",27,"Médéa",814,"Sidi Damed","Commune","Commune",NA,NA
+815,5,"DZA","Algeria",27,"Médéa",815,"Sidi Errabia","Commune","Commune",NA,NA
+816,5,"DZA","Algeria",27,"Médéa",816,"Sidi Naamane","Commune","Commune",NA,NA
+817,5,"DZA","Algeria",27,"Médéa",817,"Sidi Zahar","Commune","Commune",NA,NA
+818,5,"DZA","Algeria",27,"Médéa",818,"Sidi Ziane","Commune","Commune",NA,NA
+819,5,"DZA","Algeria",27,"Médéa",819,"Souagui","Commune","Commune",NA,NA
+820,5,"DZA","Algeria",27,"Médéa",820,"Tablat","Commune","Commune",NA,"Tablat"
+821,5,"DZA","Algeria",27,"Médéa",821,"Tafraout","Commune","Commune",NA,NA
+822,5,"DZA","Algeria",27,"Médéa",822,"Tamezguida","Commune","Commune",NA,"Tamesguida"
+823,5,"DZA","Algeria",27,"Médéa",823,"Thleth Douair","Commune","Commune",NA,"Tlatet Ed Douair"
+824,5,"DZA","Algeria",27,"Médéa",824,"Tizi Mahdi","Commune","Commune",NA,NA
+825,5,"DZA","Algeria",27,"Médéa",825,"Zoubiria","Commune","Commune",NA,NA
+826,5,"DZA","Algeria",28,"Mascara",826,"Ain Fares","Commune","Commune",NA,NA
+827,5,"DZA","Algeria",28,"Mascara",827,"Ain Fekan","Commune","Commune",NA,NA
+828,5,"DZA","Algeria",28,"Mascara",828,"Ain Ferah","Commune","Commune",NA,NA
+829,5,"DZA","Algeria",28,"Mascara",829,"Ain Frass","Commune","Commune",NA,NA
+830,5,"DZA","Algeria",28,"Mascara",830,"Alaimia","Commune","Commune",NA,NA
+831,5,"DZA","Algeria",28,"Mascara",831,"Aouf","Commune","Commune",NA,NA
+832,5,"DZA","Algeria",28,"Mascara",832,"Benian","Commune","Commune",NA,NA
+833,5,"DZA","Algeria",28,"Mascara",833,"Bou Henni","Commune","Commune",NA,"Bouhenni"
+834,5,"DZA","Algeria",28,"Mascara",834,"Bouhanifia","Commune","Commune",NA,"Bu Khanifiyah"
+835,5,"DZA","Algeria",28,"Mascara",835,"Chorfa","Commune","Commune",NA,NA
+836,5,"DZA","Algeria",28,"Mascara",836,"El Bordj","Commune","Commune",NA,NA
+837,5,"DZA","Algeria",28,"Mascara",837,"El Gaada","Commune","Commune",NA,NA
+838,5,"DZA","Algeria",28,"Mascara",838,"El Ghomri","Commune","Commune",NA,NA
+839,5,"DZA","Algeria",28,"Mascara",839,"El Guettana","Commune","Commune",NA,"El Gueitna"
+840,5,"DZA","Algeria",28,"Mascara",840,"El Hachem","Commune","Commune",NA,NA
+841,5,"DZA","Algeria",28,"Mascara",841,"El Keurt","Commune","Commune",NA,NA
+842,5,"DZA","Algeria",28,"Mascara",842,"El Mamounia","Commune","Commune",NA,NA
+843,5,"DZA","Algeria",28,"Mascara",843,"El Matmor","Commune","Commune",NA,"Matmore"
+844,5,"DZA","Algeria",28,"Mascara",844,"El Menaouer","Commune","Commune",NA,NA
+845,5,"DZA","Algeria",28,"Mascara",845,"Ferraguig","Commune","Commune",NA,NA
+846,5,"DZA","Algeria",28,"Mascara",846,"Froha","Commune","Commune",NA,NA
+847,5,"DZA","Algeria",28,"Mascara",847,"Gharrous","Commune","Commune",NA,NA
+848,5,"DZA","Algeria",28,"Mascara",848,"Ghriss","Commune","Commune",NA,NA
+849,5,"DZA","Algeria",28,"Mascara",849,"Guerdjoum","Commune","Commune",NA,NA
+850,5,"DZA","Algeria",28,"Mascara",850,"Hacine","Commune","Commune",NA,NA
+851,5,"DZA","Algeria",28,"Mascara",851,"Khalouia","Commune","Commune",NA,NA
+852,5,"DZA","Algeria",28,"Mascara",852,"Magtaa Douz","Commune","Commune",NA,"Moctadouz"
+853,5,"DZA","Algeria",28,"Mascara",853,"Makhda","Commune","Commune",NA,"Makda"
+854,5,"DZA","Algeria",28,"Mascara",854,"Maoussa","Commune","Commune",NA,NA
+855,5,"DZA","Algeria",28,"Mascara",855,"Mascara","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Muaskar"
+856,5,"DZA","Algeria",28,"Mascara",856,"Mohammadia","Commune","Commune",NA,NA
+857,5,"DZA","Algeria",28,"Mascara",857,"Nesmoth","Commune","Commune",NA,NA
+858,5,"DZA","Algeria",28,"Mascara",858,"Oggaz","Commune","Commune",NA,NA
+859,5,"DZA","Algeria",28,"Mascara",859,"Oued El Abtal","Commune","Commune",NA,"Wadi al-Abtal"
+860,5,"DZA","Algeria",28,"Mascara",860,"Oued Taria","Commune","Commune",NA,"Oued Taghia"
+861,5,"DZA","Algeria",28,"Mascara",861,"Ras Ain Amirouche","Commune","Commune",NA,"Ras El Ain Amirouche"
+862,5,"DZA","Algeria",28,"Mascara",862,"Sedjerara","Commune","Commune",NA,NA
+863,5,"DZA","Algeria",28,"Mascara",863,"Sehailia","Commune","Commune",NA,NA
+864,5,"DZA","Algeria",28,"Mascara",864,"Sidi Abdeldjebar","Commune","Commune",NA,"Sidi Abdeldjabar"
+865,5,"DZA","Algeria",28,"Mascara",865,"Sidi Abdelmoumene","Commune","Commune",NA,NA
+866,5,"DZA","Algeria",28,"Mascara",866,"Sidi Boussaid","Commune","Commune",NA,NA
+867,5,"DZA","Algeria",28,"Mascara",867,"Sidi Kada","Commune","Commune",NA,NA
+868,5,"DZA","Algeria",28,"Mascara",868,"Sig","Commune","Commune",NA,"Siq"
+869,5,"DZA","Algeria",28,"Mascara",869,"Tighenif","Commune","Commune",NA,"Tighennif|Tighinnif"
+870,5,"DZA","Algeria",28,"Mascara",870,"Tizi","Commune","Commune",NA,NA
+871,5,"DZA","Algeria",28,"Mascara",871,"Zahana","Commune","Commune",NA,"Zahana"
+872,5,"DZA","Algeria",28,"Mascara",872,"Zelmata","Commune","Commune",NA,NA
+873,5,"DZA","Algeria",29,"Mila",873,"Ahmed Rachedi","Commune","Commune",NA,"Ahmed Rachdi"
+874,5,"DZA","Algeria",29,"Mila",874,"Ain Beida Harriche","Commune","Commune",NA,NA
+875,5,"DZA","Algeria",29,"Mila",875,"Ain Mellouk","Commune","Commune",NA,NA
+876,5,"DZA","Algeria",29,"Mila",876,"Ain Tine","Commune","Commune",NA,NA
+877,5,"DZA","Algeria",29,"Mila",877,"Amirat Arres","Commune","Commune",NA,"Amira Arres"
+878,5,"DZA","Algeria",29,"Mila",878,"Benyahia Abderrahmane","Commune","Commune",NA,NA
+879,5,"DZA","Algeria",29,"Mila",879,"Bouhatem","Commune","Commune",NA,NA
+880,5,"DZA","Algeria",29,"Mila",880,"Chelghoum Laid","Commune","Commune",NA,"Salghum-al-`Ayd"
+881,5,"DZA","Algeria",29,"Mila",881,"Cheraga","Commune","Commune",NA,"Shiragha"
+882,5,"DZA","Algeria",29,"Mila",882,"Derradji Bousselah","Commune","Commune",NA,NA
+883,5,"DZA","Algeria",29,"Mila",883,"El Mechira","Commune","Commune",NA,"El Mchira"
+884,5,"DZA","Algeria",29,"Mila",884,"Elayadi Barbes","Commune","Commune",NA,"El Ayadi Barbes"
+885,5,"DZA","Algeria",29,"Mila",885,"Ferdjioua","Commune","Commune",NA,"Farjiwah"
+886,5,"DZA","Algeria",29,"Mila",886,"Grarem Gouga","Commune","Commune",NA,"Qara-ram Qu-qa"
+887,5,"DZA","Algeria",29,"Mila",887,"Hamala","Commune","Commune",NA,NA
+888,5,"DZA","Algeria",29,"Mila",888,"Mila","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Milah"
+889,5,"DZA","Algeria",29,"Mila",889,"Minar Zarza","Commune","Commune",NA,NA
+890,5,"DZA","Algeria",29,"Mila",890,"Oued Athmenia","Commune","Commune",NA,"Oued Athmania|Wadi Athmaniyah"
+891,5,"DZA","Algeria",29,"Mila",891,"Oued Endja","Commune","Commune",NA,NA
+892,5,"DZA","Algeria",29,"Mila",892,"Oued Seguen","Commune","Commune",NA,NA
+893,5,"DZA","Algeria",29,"Mila",893,"Ouled Khelouf","Commune","Commune",NA,"Ouled Khellouf"
+894,5,"DZA","Algeria",29,"Mila",894,"Rouached","Commune","Commune",NA,"Ruwashad"
+895,5,"DZA","Algeria",29,"Mila",895,"Sidi Khelifa","Commune","Commune",NA,NA
+896,5,"DZA","Algeria",29,"Mila",896,"Sidi Merouane","Commune","Commune",NA,"	Sidi Marwan"
+897,5,"DZA","Algeria",29,"Mila",897,"Tadjenanet","Commune","Commune",NA,"Tajananah"
+898,5,"DZA","Algeria",29,"Mila",898,"Tassadane Haddada","Commune","Commune",NA,NA
+899,5,"DZA","Algeria",29,"Mila",899,"Teleghma","Commune","Commune",NA,"Telaghma|Talighmah"
+900,5,"DZA","Algeria",29,"Mila",900,"Terrai Bainnane","Commune","Commune",NA,"Terrai Bainem"
+901,5,"DZA","Algeria",29,"Mila",901,"Tessala Lamtai","Commune","Commune",NA,"Tassala Lemtai"
+902,5,"DZA","Algeria",29,"Mila",902,"Tiberguent","Commune","Commune",NA,NA
+903,5,"DZA","Algeria",29,"Mila",903,"Yahia Beniguecha","Commune","Commune",NA,"Yahia Beni Guecha"
+904,5,"DZA","Algeria",29,"Mila",904,"Zeghaia","Commune","Commune",NA,NA
+905,5,"DZA","Algeria",30,"Mostaganem",905,"Achaacha","Commune-Cotiere","Commune-Cotiere",NA,NA
+906,5,"DZA","Algeria",30,"Mostaganem",906,"Ain Boudinar","Commune","Commune",NA,NA
+907,5,"DZA","Algeria",30,"Mostaganem",907,"Ain Nouissy","Commune","Commune",NA,"Ain Nouissi"
+908,5,"DZA","Algeria",30,"Mostaganem",908,"Ain Sidi Cherif","Commune","Commune",NA,NA
+909,5,"DZA","Algeria",30,"Mostaganem",909,"Ain Tedles","Commune","Commune",NA,"`Ayn Tadalas"
+910,5,"DZA","Algeria",30,"Mostaganem",910,"Benabdelmalek Ramdane","Commune-Cotiere","Commune-Cotiere",NA,"Abdelmalek Ramdane"
+911,5,"DZA","Algeria",30,"Mostaganem",911,"Bouguirat","Commune","Commune",NA,NA
+912,5,"DZA","Algeria",30,"Mostaganem",912,"Fornaka","Commune-Cotiere","Commune-Cotiere",NA,NA
+913,5,"DZA","Algeria",30,"Mostaganem",913,"Hadjadj","Commune-Cotiere","Commune-Cotiere",NA,NA
+914,5,"DZA","Algeria",30,"Mostaganem",914,"Hassaine|Beni Yahi","Commune","Commune",NA,"El Hessiane"
+915,5,"DZA","Algeria",30,"Mostaganem",915,"Hassi Mameche","Commune","Commune",NA,"Hassi Maameche|Hassi Mamash"
+916,5,"DZA","Algeria",30,"Mostaganem",916,"Khadra","Commune-Cotiere","Commune-Cotiere",NA,NA
+917,5,"DZA","Algeria",30,"Mostaganem",917,"Kheiredine","Commune","Commune",NA,"Kheir Eddine"
+918,5,"DZA","Algeria",30,"Mostaganem",918,"Mansourah","Commune","Commune",NA,NA
+919,5,"DZA","Algeria",30,"Mostaganem",919,"Mesra","Commune","Commune",NA,NA
+920,5,"DZA","Algeria",30,"Mostaganem",920,"Mezghrane","Commune-Cotiere","Commune-Cotiere",NA,"Mezaghrane|Mazaghran"
+921,5,"DZA","Algeria",30,"Mostaganem",921,"Mostaganem","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Mustaghanam"
+922,5,"DZA","Algeria",30,"Mostaganem",922,"Nekmaria","Commune","Commune",NA,NA
+923,5,"DZA","Algeria",30,"Mostaganem",923,"Oued El Kheir","Commune","Commune",NA,NA
+924,5,"DZA","Algeria",30,"Mostaganem",924,"Ouled Boughalem","Commune-Cotiere","Commune-Cotiere",NA,NA
+925,5,"DZA","Algeria",30,"Mostaganem",925,"Ouled Maalah","Commune","Commune",NA,NA
+926,5,"DZA","Algeria",30,"Mostaganem",926,"Safsaf","Commune","Commune",NA,NA
+927,5,"DZA","Algeria",30,"Mostaganem",927,"Sayada","Commune","Commune",NA,NA
+928,5,"DZA","Algeria",30,"Mostaganem",928,"Sidi Ali","Commune","Commune",NA,"Sidi Âli"
+929,5,"DZA","Algeria",30,"Mostaganem",929,"Sidi Belattar","Commune","Commune",NA,NA
+930,5,"DZA","Algeria",30,"Mostaganem",930,"Sidi Lakhdar","Commune","Commune",NA,NA
+931,5,"DZA","Algeria",30,"Mostaganem",931,"Sirat","Commune","Commune",NA,NA
+932,5,"DZA","Algeria",30,"Mostaganem",932,"Souaflia","Commune","Commune",NA,NA
+933,5,"DZA","Algeria",30,"Mostaganem",933,"Sour","Commune","Commune",NA,NA
+934,5,"DZA","Algeria",30,"Mostaganem",934,"Stidia","Commune-Cotiere","Commune-Cotiere",NA,NA
+935,5,"DZA","Algeria",30,"Mostaganem",935,"Tazgait","Commune","Commune",NA,NA
+936,5,"DZA","Algeria",30,"Mostaganem",936,"Touahria","Commune","Commune",NA,NA
+937,5,"DZA","Algeria",31,"Naâma",937,"Ain Ben Khelil","Commune","Commune",NA,NA
+938,5,"DZA","Algeria",31,"Naâma",938,"Ain Safra","Commune","Commune",NA,"Ain Sefra|`Ayn Safra"
+939,5,"DZA","Algeria",31,"Naâma",939,"Assela","Commune","Commune",NA,"Asla"
+940,5,"DZA","Algeria",31,"Naâma",940,"Djeniane Bourzeg","Commune","Commune",NA,"Djenien Bourezg"
+941,5,"DZA","Algeria",31,"Naâma",941,"El Biod","Commune","Commune",NA,NA
+942,5,"DZA","Algeria",31,"Naâma",942,"Kasdir","Commune","Commune",NA,NA
+943,5,"DZA","Algeria",31,"Naâma",943,"Makman Ben Amer","Commune","Commune",NA,"Mekmen Ben Amar"
+944,5,"DZA","Algeria",31,"Naâma",944,"Mecheria","Commune","Commune",NA,"Mechria|Mishriyah"
+945,5,"DZA","Algeria",31,"Naâma",945,"Moghrar","Commune","Commune",NA,NA
+946,5,"DZA","Algeria",31,"Naâma",946,"Naama","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Naama"
+947,5,"DZA","Algeria",31,"Naâma",947,"Sfissifa","Commune","Commune",NA,NA
+948,5,"DZA","Algeria",31,"Naâma",948,"Tiout","Commune","Commune",NA,NA
+949,5,"DZA","Algeria",32,"Oran",949,"Ain Biya","Commune-Cotiere","Commune-Cotiere",NA,"Ain  Biya"
+950,5,"DZA","Algeria",32,"Oran",950,"Ain Kerma","Commune","Commune",NA,NA
+951,5,"DZA","Algeria",32,"Oran",951,"Ain Turk","Commune","Commune",NA,NA
+952,5,"DZA","Algeria",32,"Oran",952,"Arzew","Commune-Cotiere","Commune-Cotiere",NA,"Arzu"
+953,5,"DZA","Algeria",32,"Oran",953,"Ben Freha","Commune","Commune",NA,NA
+954,5,"DZA","Algeria",32,"Oran",954,"Bethioua","Commune-Cotiere","Commune-Cotiere",NA,NA
+955,5,"DZA","Algeria",32,"Oran",955,"Bir El Djir","Commune-Cotiere","Commune-Cotiere",NA,"Bi`r-al-Jir"
+956,5,"DZA","Algeria",32,"Oran",956,"Boufatis","Commune","Commune",NA,NA
+957,5,"DZA","Algeria",32,"Oran",957,"Bousfer","Commune-Cotiere","Commune-Cotiere",NA,NA
+958,5,"DZA","Algeria",32,"Oran",958,"Boutlelis","Commune","Commune",NA,"Butlilis"
+959,5,"DZA","Algeria",32,"Oran",959,"El Ançar","Commune-Cotiere","Commune-Cotiere",NA,"El Ancor"
+960,5,"DZA","Algeria",32,"Oran",960,"El Braya","Commune","Commune",NA,NA
+961,5,"DZA","Algeria",32,"Oran",961,"El Kerma","Commune","Commune",NA,"El Karma"
+962,5,"DZA","Algeria",32,"Oran",962,"Es Senia","Commune","Commune",NA,"as-Saniyah"
+963,5,"DZA","Algeria",32,"Oran",963,"Gdyel","Commune-Cotiere","Commune-Cotiere",NA,"Qadayal"
+964,5,"DZA","Algeria",32,"Oran",964,"Hassi Ben Okba","Commune-Cotiere","Commune-Cotiere",NA,NA
+965,5,"DZA","Algeria",32,"Oran",965,"Hassi Bounif","Commune","Commune",NA,"Hassi Bu Nif"
+966,5,"DZA","Algeria",32,"Oran",966,"Hassi Mefsoukh","Commune","Commune",NA,NA
+967,5,"DZA","Algeria",32,"Oran",967,"Marsat El Hadjadj","Commune-Cotiere","Commune-Cotiere",NA,NA
+968,5,"DZA","Algeria",32,"Oran",968,"Mers El Kebir","Commune-Cotiere","Commune-Cotiere",NA,"Mars-al-Kabir"
+969,5,"DZA","Algeria",32,"Oran",969,"Misserghin","Commune","Commune",NA,NA
+970,5,"DZA","Algeria",32,"Oran",970,"Oran","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Wahran"
+971,5,"DZA","Algeria",32,"Oran",971,"Oued Tlelat","Commune","Commune",NA,"Wadi Thalatha"
+972,5,"DZA","Algeria",32,"Oran",972,"Sidi Ben Yebka","Commune-Cotiere","Commune-Cotiere",NA,"Sidi Ben Yabka"
+973,5,"DZA","Algeria",32,"Oran",973,"Sidi Chahmi","Commune","Commune",NA,"Sidi Chami"
+974,5,"DZA","Algeria",32,"Oran",974,"Tafraoui","Commune","Commune",NA,NA
+975,5,"DZA","Algeria",33,"Ouargla",975,"Ain Beida","Commune","Commune",NA,"`Ayn Bayda"
+976,5,"DZA","Algeria",33,"Ouargla",976,"Baladiet Amor","Commune","Commune",NA,"Balidat Ameur"
+977,5,"DZA","Algeria",33,"Ouargla",977,"Benaceur","Commune","Commune",NA,NA
+978,5,"DZA","Algeria",33,"Ouargla",978,"El Allia","Commune","Commune",NA,NA
+979,5,"DZA","Algeria",33,"Ouargla",979,"El Borma","Commune","Commune",NA,NA
+980,5,"DZA","Algeria",33,"Ouargla",980,"El Hadjira","Commune","Commune",NA,"al-Hajirah"
+981,5,"DZA","Algeria",33,"Ouargla",981,"Hassi Ben Abdellah","Commune","Commune",NA,NA
+982,5,"DZA","Algeria",33,"Ouargla",982,"Hassi Messaoud","Commune","Commune",NA,"Hassi Mas`ud"
+983,5,"DZA","Algeria",33,"Ouargla",983,"M'Naguer","Commune","Commune",NA,"Mnaguer"
+984,5,"DZA","Algeria",33,"Ouargla",984,"Megarine","Commune","Commune",NA,NA
+985,5,"DZA","Algeria",33,"Ouargla",985,"N'Goussa","Commune","Commune",NA,"Ngoussa"
+986,5,"DZA","Algeria",33,"Ouargla",986,"Nezla","Commune","Commune",NA,"Nazla"
+987,5,"DZA","Algeria",33,"Ouargla",987,"Ouargla","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Warqla"
+988,5,"DZA","Algeria",33,"Ouargla",988,"Rouissat","Commune","Commune",NA,"Ruwisiyat"
+989,5,"DZA","Algeria",33,"Ouargla",989,"Sidi Khouiled","Commune","Commune",NA,NA
+990,5,"DZA","Algeria",33,"Ouargla",990,"Sidi Slimane","Commune","Commune",NA,NA
+991,5,"DZA","Algeria",33,"Ouargla",991,"Taibet","Commune","Commune",NA,"Ta-yabat-al-Janu-biyah"
+992,5,"DZA","Algeria",33,"Ouargla",992,"Tebesbest","Commune","Commune",NA,"Tabisbast"
+993,5,"DZA","Algeria",33,"Ouargla",993,"Temacine","Commune","Commune",NA,"Tamacine|Tamasin"
+994,5,"DZA","Algeria",33,"Ouargla",994,"Touggourt","Commune","Commune",NA,"Tughghurt"
+995,5,"DZA","Algeria",33,"Ouargla",995,"Zaouia El Abidia","Commune","Commune",NA,NA
+996,5,"DZA","Algeria",34,"Oum el Bouaghi",996,"Ain Bebouche","Commune","Commune",NA,"Ain Babouche"
+997,5,"DZA","Algeria",34,"Oum el Bouaghi",997,"Ain Beida","Commune","Commune",NA,"`Ayn Bayda"
+998,5,"DZA","Algeria",34,"Oum el Bouaghi",998,"Ain El Diss","Commune","Commune",NA,"Ain Diss"
+999,5,"DZA","Algeria",34,"Oum el Bouaghi",999,"Ain El Fakroun","Commune","Commune",NA,"Ain Fakroun|`Ayn Fakrun"
+1000,5,"DZA","Algeria",34,"Oum el Bouaghi",1000,"Ain El Kercha","Commune","Commune",NA,"Ain Kercha|`Ayn Kirshah"
+1001,5,"DZA","Algeria",34,"Oum el Bouaghi",1001,"Ain M'Lila","Commune","Commune",NA,"Ain Mlila|`Ayn Malilah"
+1002,5,"DZA","Algeria",34,"Oum el Bouaghi",1002,"Ain Zitoun","Commune","Commune",NA,NA
+1003,5,"DZA","Algeria",34,"Oum el Bouaghi",1003,"Belala","Commune","Commune",NA,"El Belala"
+1004,5,"DZA","Algeria",34,"Oum el Bouaghi",1004,"Berriche","Commune","Commune",NA,NA
+1005,5,"DZA","Algeria",34,"Oum el Bouaghi",1005,"Bhir El Chergui","Commune","Commune",NA,"Behir Chergui"
+1006,5,"DZA","Algeria",34,"Oum el Bouaghi",1006,"Bir Chouhada","Commune","Commune",NA,"Bi`r Shuhada"
+1007,5,"DZA","Algeria",34,"Oum el Bouaghi",1007,"El Amiria","Commune","Commune",NA,NA
+1008,5,"DZA","Algeria",34,"Oum el Bouaghi",1008,"El Dhaala","Commune","Commune",NA,"Dhalaa"
+1009,5,"DZA","Algeria",34,"Oum el Bouaghi",1009,"El Djazia","Commune","Commune",NA,"El Djezia"
+1010,5,"DZA","Algeria",34,"Oum el Bouaghi",1010,"El Fedjoudj Boughrara Saoudi","Commune","Commune",NA,NA
+1011,5,"DZA","Algeria",34,"Oum el Bouaghi",1011,"El Harmilia","Commune","Commune",NA,NA
+1012,5,"DZA","Algeria",34,"Oum el Bouaghi",1012,"El Rahia","Commune","Commune",NA,"Rehia"
+1013,5,"DZA","Algeria",34,"Oum el Bouaghi",1013,"Fkirina","Commune","Commune",NA,NA
+1014,5,"DZA","Algeria",34,"Oum el Bouaghi",1014,"Hanchir Toumghani","Commune","Commune",NA,NA
+1015,5,"DZA","Algeria",34,"Oum el Bouaghi",1015,"Ksar El Sbihi","Commune","Commune",NA,"Ksar Sbahi"
+1016,5,"DZA","Algeria",34,"Oum el Bouaghi",1016,"Meskiana","Commune","Commune",NA,"Miskyanah"
+1017,5,"DZA","Algeria",34,"Oum el Bouaghi",1017,"Oued Nini","Commune","Commune",NA,NA
+1018,5,"DZA","Algeria",34,"Oum el Bouaghi",1018,"Ouled Gacem","Commune","Commune",NA,NA
+1019,5,"DZA","Algeria",34,"Oum el Bouaghi",1019,"Ouled Hamla","Commune","Commune",NA,NA
+1020,5,"DZA","Algeria",34,"Oum el Bouaghi",1020,"Ouled Zaoui","Commune","Commune",NA,"Ouled Zouai"
+1021,5,"DZA","Algeria",34,"Oum el Bouaghi",1021,"Oum El Bouaghi","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Umm-al-Bawaghi"
+1022,5,"DZA","Algeria",34,"Oum el Bouaghi",1022,"Sigous","Commune","Commune",NA,"Sigus"
+1023,5,"DZA","Algeria",34,"Oum el Bouaghi",1023,"Souk Naamane","Commune","Commune",NA,"Shamurah"
+1024,5,"DZA","Algeria",34,"Oum el Bouaghi",1024,"Zorg","Commune","Commune",NA,"El Zorg"
+1025,5,"DZA","Algeria",35,"Relizane",1025,"Ain Rahma","Commune","Commune",NA,NA
+1026,5,"DZA","Algeria",35,"Relizane",1026,"Ain Tarek","Commune","Commune",NA,NA
+1027,5,"DZA","Algeria",35,"Relizane",1027,"Ammi Moussa","Commune","Commune",NA,"Ammi Mussa"
+1028,5,"DZA","Algeria",35,"Relizane",1028,"Belaassel Bouzagza","Commune","Commune",NA,"Belaassel Bouzegza"
+1029,5,"DZA","Algeria",35,"Relizane",1029,"Ben Daoud","Commune","Commune",NA,"Bendaoud"
+1030,5,"DZA","Algeria",35,"Relizane",1030,"Beni Dergoun","Commune","Commune",NA,NA
+1031,5,"DZA","Algeria",35,"Relizane",1031,"Beni Zentis","Commune","Commune",NA,NA
+1032,5,"DZA","Algeria",35,"Relizane",1032,"Dar Ben Abdelah","Commune","Commune",NA,"Dar Ben Abdellah"
+1033,5,"DZA","Algeria",35,"Relizane",1033,"Djidiouia","Commune","Commune",NA,NA
+1034,5,"DZA","Algeria",35,"Relizane",1034,"El Guettar","Commune","Commune",NA,NA
+1035,5,"DZA","Algeria",35,"Relizane",1035,"El H'Madna","Commune","Commune",NA,"El Hmadna"
+1036,5,"DZA","Algeria",35,"Relizane",1036,"El Hassi","Commune","Commune",NA,NA
+1037,5,"DZA","Algeria",35,"Relizane",1037,"El Matmar","Commune","Commune",NA,NA
+1038,5,"DZA","Algeria",35,"Relizane",1038,"El Oueldja","Commune","Commune",NA,"El Ouldja"
+1039,5,"DZA","Algeria",35,"Relizane",1039,"Had Echkalla","Commune","Commune",NA,"Had Chekkala"
+1040,5,"DZA","Algeria",35,"Relizane",1040,"Hamri","Commune","Commune",NA,"El Hamri"
+1041,5,"DZA","Algeria",35,"Relizane",1041,"Kalaa","Commune","Commune",NA,NA
+1042,5,"DZA","Algeria",35,"Relizane",1042,"Lahlef","Commune","Commune",NA,NA
+1043,5,"DZA","Algeria",35,"Relizane",1043,"Mazouna","Commune","Commune",NA,"Mazunah"
+1044,5,"DZA","Algeria",35,"Relizane",1044,"Mediouna","Commune","Commune",NA,NA
+1045,5,"DZA","Algeria",35,"Relizane",1045,"Mendes","Commune","Commune",NA,NA
+1046,5,"DZA","Algeria",35,"Relizane",1046,"Merdja Sidi Abed","Commune","Commune",NA,"Merdjet Sidi Abed"
+1047,5,"DZA","Algeria",35,"Relizane",1047,"Ouarizane","Commune","Commune",NA,NA
+1048,5,"DZA","Algeria",35,"Relizane",1048,"Oued El Djemaa","Commune","Commune",NA,"Jidiwiyah"
+1049,5,"DZA","Algeria",35,"Relizane",1049,"Oued Essalem","Commune","Commune",NA,NA
+1050,5,"DZA","Algeria",35,"Relizane",1050,"Oued Rhiou","Commune","Commune",NA,"Wadi Rahiyu"
+1051,5,"DZA","Algeria",35,"Relizane",1051,"Ouled Sidi Mihoub","Commune","Commune",NA,NA
+1052,5,"DZA","Algeria",35,"Relizane",1052,"Ouled Yaich","Commune","Commune",NA,NA
+1053,5,"DZA","Algeria",35,"Relizane",1053,"Ramka","Commune","Commune",NA,NA
+1054,5,"DZA","Algeria",35,"Relizane",1054,"Relizane","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Gha-liza-n"
+1055,5,"DZA","Algeria",35,"Relizane",1055,"Sidi Khettab","Commune","Commune",NA,NA
+1056,5,"DZA","Algeria",35,"Relizane",1056,"Sidi Lazreg","Commune","Commune",NA,NA
+1057,5,"DZA","Algeria",35,"Relizane",1057,"Sidi M'Hamed Benali","Commune","Commune",NA,"Sidi Mhamed Ben Ali|Sidi Muhammad Ban `Âli"
+1058,5,"DZA","Algeria",35,"Relizane",1058,"Sidi M'Hamed Benaouda","Commune","Commune",NA,"Sidi Mhamed Benaouda"
+1059,5,"DZA","Algeria",35,"Relizane",1059,"Sidi Saada","Commune","Commune",NA,NA
+1060,5,"DZA","Algeria",35,"Relizane",1060,"Souk El Had","Commune","Commune",NA,NA
+1061,5,"DZA","Algeria",35,"Relizane",1061,"Yellel","Commune","Commune",NA,NA
+1062,5,"DZA","Algeria",35,"Relizane",1062,"Zemmoura","Commune","Commune",NA,"Zammurah"
+1063,5,"DZA","Algeria",36,"Sétif",1063,"Ain-Legradj","Commune","Commune",NA,"Ain Lagradj"
+1064,5,"DZA","Algeria",36,"Sétif",1064,"Ain-Sebt","Commune","Commune",NA,"Ain Sebt"
+1065,5,"DZA","Algeria",36,"Sétif",1065,"Ain Abessa","Commune","Commune",NA,NA
+1066,5,"DZA","Algeria",36,"Sétif",1066,"Ain Arnat","Commune","Commune",NA,"`Ayn Arnat"
+1067,5,"DZA","Algeria",36,"Sétif",1067,"Ain Azel","Commune","Commune",NA,"Ain Azal|`Ayn `Azl"
+1068,5,"DZA","Algeria",36,"Sétif",1068,"Ain El Kebira","Commune","Commune",NA,"`Ayn-al-Khabira"
+1069,5,"DZA","Algeria",36,"Sétif",1069,"Ain Lahdjar","Commune","Commune",NA,NA
+1070,5,"DZA","Algeria",36,"Sétif",1070,"Ain Oulmane","Commune","Commune",NA,"`Ayn Wilman"
+1071,5,"DZA","Algeria",36,"Sétif",1071,"Ain Roua","Commune","Commune",NA,NA
+1072,5,"DZA","Algeria",36,"Sétif",1072,"Ait-Tizi","Commune","Commune",NA,"Ait Tizi"
+1073,5,"DZA","Algeria",36,"Sétif",1073,"Ait Naoual Mezada","Commune","Commune",NA,"Mzada"
+1074,5,"DZA","Algeria",36,"Sétif",1074,"Amoucha","Commune","Commune",NA,NA
+1075,5,"DZA","Algeria",36,"Sétif",1075,"Babor","Commune","Commune",NA,NA
+1076,5,"DZA","Algeria",36,"Sétif",1076,"Bazer-Sakra","Commune","Commune",NA,"Bazer Sakra"
+1077,5,"DZA","Algeria",36,"Sétif",1077,"Beidha Bordj","Commune","Commune",NA,NA
+1078,5,"DZA","Algeria",36,"Sétif",1078,"Bellaa","Commune","Commune",NA,NA
+1079,5,"DZA","Algeria",36,"Sétif",1079,"Beni-Aziz","Commune","Commune",NA,"Beni Aziz"
+1080,5,"DZA","Algeria",36,"Sétif",1080,"Beni-Mouhli","Commune","Commune",NA,"Beni Mouhli"
+1081,5,"DZA","Algeria",36,"Sétif",1081,"Beni-Ouartilane","Commune","Commune",NA,"Beni Ouartilane"
+1082,5,"DZA","Algeria",36,"Sétif",1082,"Beni Chebana","Commune","Commune",NA,NA
+1083,5,"DZA","Algeria",36,"Sétif",1083,"Beni Fouda","Commune","Commune",NA,NA
+1084,5,"DZA","Algeria",36,"Sétif",1084,"Beni Oussine","Commune","Commune",NA,"Beni Hocine"
+1085,5,"DZA","Algeria",36,"Sétif",1085,"Bir-El-Arch","Commune","Commune",NA,"Bir El Arch"
+1086,5,"DZA","Algeria",36,"Sétif",1086,"Bir Haddada","Commune","Commune",NA,NA
+1087,5,"DZA","Algeria",36,"Sétif",1087,"Bouandas","Commune","Commune",NA,NA
+1088,5,"DZA","Algeria",36,"Sétif",1088,"Bougaa","Commune","Commune",NA,"Buq`ah"
+1089,5,"DZA","Algeria",36,"Sétif",1089,"Bousselam","Commune","Commune",NA,NA
+1090,5,"DZA","Algeria",36,"Sétif",1090,"Boutaleb","Commune","Commune",NA,NA
+1091,5,"DZA","Algeria",36,"Sétif",1091,"Dehamcha","Commune","Commune",NA,NA
+1092,5,"DZA","Algeria",36,"Sétif",1092,"Djemila","Commune","Commune",NA,NA
+1093,5,"DZA","Algeria",36,"Sétif",1093,"Draa-Kebila","Commune","Commune",NA,"Draa Kebila"
+1094,5,"DZA","Algeria",36,"Sétif",1094,"El Eulma","Commune","Commune",NA,NA
+1095,5,"DZA","Algeria",36,"Sétif",1095,"El Oueldja","Commune","Commune",NA,NA
+1096,5,"DZA","Algeria",36,"Sétif",1096,"El Ouricia","Commune","Commune",NA,NA
+1097,5,"DZA","Algeria",36,"Sétif",1097,"Guellal","Commune","Commune",NA,NA
+1098,5,"DZA","Algeria",36,"Sétif",1098,"Guelta Zerka","Commune","Commune",NA,"Guelta Zerga"
+1099,5,"DZA","Algeria",36,"Sétif",1099,"Guenzet Tassameurt","Commune","Commune",NA,NA
+1100,5,"DZA","Algeria",36,"Sétif",1100,"Guidjel","Commune","Commune",NA,NA
+1101,5,"DZA","Algeria",36,"Sétif",1101,"Hamma","Commune","Commune",NA,NA
+1102,5,"DZA","Algeria",36,"Sétif",1102,"Hammam Guergour","Commune","Commune",NA,NA
+1103,5,"DZA","Algeria",36,"Sétif",1103,"Hammam Soukhna","Commune","Commune",NA,"Hammam Skhouna"
+1104,5,"DZA","Algeria",36,"Sétif",1104,"Harbil","Commune","Commune",NA,NA
+1105,5,"DZA","Algeria",36,"Sétif",1105,"Ksar El Abtal","Commune","Commune",NA,NA
+1106,5,"DZA","Algeria",36,"Sétif",1106,"Maaouia","Commune","Commune",NA,NA
+1107,5,"DZA","Algeria",36,"Sétif",1107,"Maouaklane","Commune","Commune",NA,"Maouklane"
+1108,5,"DZA","Algeria",36,"Sétif",1108,"Mezloug","Commune","Commune",NA,NA
+1109,5,"DZA","Algeria",36,"Sétif",1109,"Oued El Barad","Commune","Commune",NA,"Oued El Bared"
+1110,5,"DZA","Algeria",36,"Sétif",1110,"Ouled Addouane","Commune","Commune",NA,NA
+1111,5,"DZA","Algeria",36,"Sétif",1111,"Ouled Saber","Commune","Commune",NA,"Ouled Sabor"
+1112,5,"DZA","Algeria",36,"Sétif",1112,"Ouled Si Ahmed","Commune","Commune",NA,"Ouled Sidi Ahmed"
+1113,5,"DZA","Algeria",36,"Sétif",1113,"Ouled Tebben","Commune","Commune",NA,NA
+1114,5,"DZA","Algeria",36,"Sétif",1114,"Rosfa","Commune","Commune",NA,NA
+1115,5,"DZA","Algeria",36,"Sétif",1115,"Salah Bey","Commune","Commune",NA,"Salah Bay"
+1116,5,"DZA","Algeria",36,"Sétif",1116,"Serdj-El-Ghoul","Commune","Commune",NA,"Serdj El Ghoul"
+1117,5,"DZA","Algeria",36,"Sétif",1117,"Setif","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"	Satif"
+1118,5,"DZA","Algeria",36,"Sétif",1118,"Tachouda","Commune","Commune",NA,NA
+1119,5,"DZA","Algeria",36,"Sétif",1119,"Tala-Ifacene","Commune","Commune",NA,"Tala Ifacene"
+1120,5,"DZA","Algeria",36,"Sétif",1120,"Taya","Commune","Commune",NA,NA
+1121,5,"DZA","Algeria",36,"Sétif",1121,"Telaa","Commune","Commune",NA,"Tella"
+1122,5,"DZA","Algeria",36,"Sétif",1122,"Tizi N'Bechar","Commune","Commune",NA,"Tizi Nbechar"
+1123,5,"DZA","Algeria",37,"Saïda",1123,"Ain El Hadjar","Commune","Commune",NA,NA
+1124,5,"DZA","Algeria",37,"Saïda",1124,"Ain Sekhouna","Commune","Commune",NA,"Ain Skhouna"
+1125,5,"DZA","Algeria",37,"Saïda",1125,"Ain Soltane","Commune","Commune",NA,NA
+1126,5,"DZA","Algeria",37,"Saïda",1126,"Doui Thabet","Commune","Commune",NA,NA
+1127,5,"DZA","Algeria",37,"Saïda",1127,"El Hassasna","Commune","Commune",NA,NA
+1128,5,"DZA","Algeria",37,"Saïda",1128,"Hounet","Commune","Commune",NA,NA
+1129,5,"DZA","Algeria",37,"Saïda",1129,"Maamora","Commune","Commune",NA,NA
+1130,5,"DZA","Algeria",37,"Saïda",1130,"Moulay Larbi","Commune","Commune",NA,NA
+1131,5,"DZA","Algeria",37,"Saïda",1131,"Ouled Brahim","Commune","Commune",NA,NA
+1132,5,"DZA","Algeria",37,"Saïda",1132,"Ouled Khaled","Commune","Commune",NA,NA
+1133,5,"DZA","Algeria",37,"Saïda",1133,"Saida","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Sayda'"
+1134,5,"DZA","Algeria",37,"Saïda",1134,"Sidi Ahmed","Commune","Commune",NA,NA
+1135,5,"DZA","Algeria",37,"Saïda",1135,"Sidi Amar","Commune","Commune",NA,"Sidi Amar"
+1136,5,"DZA","Algeria",37,"Saïda",1136,"Sidi Boubekeur","Commune","Commune",NA,NA
+1137,5,"DZA","Algeria",37,"Saïda",1137,"Tircine","Commune","Commune",NA,NA
+1138,5,"DZA","Algeria",37,"Saïda",1138,"Youb","Commune","Commune",NA,NA
+1139,5,"DZA","Algeria",38,"Sidi Bel Abbès",1139,"Ain Adden","Commune","Commune",NA,NA
+1140,5,"DZA","Algeria",38,"Sidi Bel Abbès",1140,"Ain El Berd","Commune","Commune",NA,"`Ayn-al-Bard"
+1141,5,"DZA","Algeria",38,"Sidi Bel Abbès",1141,"Ain Kada","Commune","Commune",NA,NA
+1142,5,"DZA","Algeria",38,"Sidi Bel Abbès",1142,"Ain Thrid","Commune","Commune",NA,NA
+1143,5,"DZA","Algeria",38,"Sidi Bel Abbès",1143,"Ain Tindamine","Commune","Commune",NA,NA
+1144,5,"DZA","Algeria",38,"Sidi Bel Abbès",1144,"Amernas","Commune","Commune",NA,"Amarnas"
+1145,5,"DZA","Algeria",38,"Sidi Bel Abbès",1145,"Badredine El Mokrani","Commune","Commune",NA,"Bedrabine El Mokrani"
+1146,5,"DZA","Algeria",38,"Sidi Bel Abbès",1146,"Belarbi","Commune","Commune",NA,NA
+1147,5,"DZA","Algeria",38,"Sidi Bel Abbès",1147,"Ben Badis","Commune","Commune",NA,NA
+1148,5,"DZA","Algeria",38,"Sidi Bel Abbès",1148,"Benaicha Chelia","Commune","Commune",NA,"Benachiba Chelia"
+1149,5,"DZA","Algeria",38,"Sidi Bel Abbès",1149,"Bir El Hammam","Commune","Commune",NA,"Bir El Hmam"
+1150,5,"DZA","Algeria",38,"Sidi Bel Abbès",1150,"Boudjebaa El Bordj","Commune","Commune",NA,NA
+1151,5,"DZA","Algeria",38,"Sidi Bel Abbès",1151,"Boukhenifis","Commune","Commune",NA,"Boukanefis"
+1152,5,"DZA","Algeria",38,"Sidi Bel Abbès",1152,"Chetouane Belaila","Commune","Commune",NA,NA
+1153,5,"DZA","Algeria",38,"Sidi Bel Abbès",1153,"Dhaya","Commune","Commune",NA,NA
+1154,5,"DZA","Algeria",38,"Sidi Bel Abbès",1154,"El Hacaiba","Commune","Commune",NA,NA
+1155,5,"DZA","Algeria",38,"Sidi Bel Abbès",1155,"Hassi Dahou","Commune","Commune",NA,"Hassi Daho"
+1156,5,"DZA","Algeria",38,"Sidi Bel Abbès",1156,"Hassi Zehana","Commune","Commune",NA,"Hassi Zahana"
+1157,5,"DZA","Algeria",38,"Sidi Bel Abbès",1157,"Lemtar","Commune","Commune",NA,"Lamtar"
+1158,5,"DZA","Algeria",38,"Sidi Bel Abbès",1158,"M'Cid","Commune","Commune",NA,"Mcid"
+1159,5,"DZA","Algeria",38,"Sidi Bel Abbès",1159,"Mekkedra","Commune","Commune",NA,"Makedra"
+1160,5,"DZA","Algeria",38,"Sidi Bel Abbès",1160,"Merhoum","Commune","Commune",NA,"Marhoum"
+1161,5,"DZA","Algeria",38,"Sidi Bel Abbès",1161,"Merine","Commune","Commune",NA,NA
+1162,5,"DZA","Algeria",38,"Sidi Bel Abbès",1162,"Mezaourou","Commune","Commune",NA,NA
+1163,5,"DZA","Algeria",38,"Sidi Bel Abbès",1163,"Moulay Slissen","Commune","Commune",NA,NA
+1164,5,"DZA","Algeria",38,"Sidi Bel Abbès",1164,"Mustafa Ben Brahim","Commune","Commune",NA,"Mostefa Ben Brahim"
+1165,5,"DZA","Algeria",38,"Sidi Bel Abbès",1165,"Oued Sebaa","Commune","Commune",NA,"Oued Sbaa"
+1166,5,"DZA","Algeria",38,"Sidi Bel Abbès",1166,"Oued Sefioune","Commune","Commune",NA,"Oued Sefioun"
+1167,5,"DZA","Algeria",38,"Sidi Bel Abbès",1167,"Oued Taourira","Commune","Commune",NA,NA
+1168,5,"DZA","Algeria",38,"Sidi Bel Abbès",1168,"Ras El Ma",NA,NA,NA,"Ra's-al-Ma`"
+1169,5,"DZA","Algeria",38,"Sidi Bel Abbès",1169,"Redjem Demouche","Commune","Commune",NA,"Redjem Demmouche"
+1170,5,"DZA","Algeria",38,"Sidi Bel Abbès",1170,"Sehala Thaoura","Commune","Commune",NA,NA
+1171,5,"DZA","Algeria",38,"Sidi Bel Abbès",1171,"Sfisef","Commune","Commune",NA,"Safizaf"
+1172,5,"DZA","Algeria",38,"Sidi Bel Abbès",1172,"Sidi Ali Benyoub","Commune","Commune",NA,NA
+1173,5,"DZA","Algeria",38,"Sidi Bel Abbès",1173,"Sidi Ali Boussidi","Commune","Commune",NA,NA
+1174,5,"DZA","Algeria",38,"Sidi Bel Abbès",1174,"Sidi Bel Abbes","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Sidi ban-al-`Abbas"
+1175,5,"DZA","Algeria",38,"Sidi Bel Abbès",1175,"Sidi Brahim","Commune","Commune",NA,NA
+1176,5,"DZA","Algeria",38,"Sidi Bel Abbès",1176,"Sidi Chouab","Commune","Commune",NA,"Sidi Chaib"
+1177,5,"DZA","Algeria",38,"Sidi Bel Abbès",1177,"Sidi Dahou Zair","Commune","Commune",NA,"Sidi Daho"
+1178,5,"DZA","Algeria",38,"Sidi Bel Abbès",1178,"Sidi Hamadouche","Commune","Commune",NA,NA
+1179,5,"DZA","Algeria",38,"Sidi Bel Abbès",1179,"Sidi Khaled","Commune","Commune",NA,"Sidi Khalid"
+1180,5,"DZA","Algeria",38,"Sidi Bel Abbès",1180,"Sidi Lahcene","Commune","Commune",NA,NA
+1181,5,"DZA","Algeria",38,"Sidi Bel Abbès",1181,"Sidi Yacoub","Commune","Commune",NA,NA
+1182,5,"DZA","Algeria",38,"Sidi Bel Abbès",1182,"Tabia","Commune","Commune",NA,NA
+1183,5,"DZA","Algeria",38,"Sidi Bel Abbès",1183,"Tafissour","Commune","Commune",NA,NA
+1184,5,"DZA","Algeria",38,"Sidi Bel Abbès",1184,"Taghlimet","Commune","Commune",NA,"Teghalimet"
+1185,5,"DZA","Algeria",38,"Sidi Bel Abbès",1185,"Taoudmout","Commune","Commune",NA,NA
+1186,5,"DZA","Algeria",38,"Sidi Bel Abbès",1186,"Tassala","Commune","Commune",NA,"Tessala"
+1187,5,"DZA","Algeria",38,"Sidi Bel Abbès",1187,"Telagh","Commune","Commune",NA,"Talagh"
+1188,5,"DZA","Algeria",38,"Sidi Bel Abbès",1188,"Tenira","Commune","Commune",NA,NA
+1189,5,"DZA","Algeria",38,"Sidi Bel Abbès",1189,"Tilmouni","Commune","Commune",NA,NA
+1190,5,"DZA","Algeria",38,"Sidi Bel Abbès",1190,"Zerouala","Commune","Commune",NA,NA
+1191,5,"DZA","Algeria",39,"Skikda",1191,"Ain Bouziane","Commune","Commune",NA,NA
+1192,5,"DZA","Algeria",39,"Skikda",1192,"Ain Charchar","Commune","Commune",NA,"Ain Cherchar"
+1193,5,"DZA","Algeria",39,"Skikda",1193,"Ain Kechra","Commune","Commune",NA,NA
+1194,5,"DZA","Algeria",39,"Skikda",1194,"Ain Zouit","Commune-Cotiere","Commune-Cotiere",NA,NA
+1195,5,"DZA","Algeria",39,"Skikda",1195,"Azzaba","Commune","Commune",NA,"`Azza-bah"
+1196,5,"DZA","Algeria",39,"Skikda",1196,"Bekkouche Lakhdar","Commune","Commune",NA,NA
+1197,5,"DZA","Algeria",39,"Skikda",1197,"Ben Azzouz","Commune-Cotiere","Commune-Cotiere",NA,NA
+1198,5,"DZA","Algeria",39,"Skikda",1198,"Beni Bechir","Commune","Commune",NA,"Beni Bachir"
+1199,5,"DZA","Algeria",39,"Skikda",1199,"Beni Oulbane","Commune","Commune",NA,NA
+1200,5,"DZA","Algeria",39,"Skikda",1200,"Beni Zid","Commune","Commune",NA,NA
+1201,5,"DZA","Algeria",39,"Skikda",1201,"Bin El Ouiden","Commune","Commune",NA,"Bir El Ouiden"
+1202,5,"DZA","Algeria",39,"Skikda",1202,"Bouchetata","Commune","Commune",NA,"Bouchtata"
+1203,5,"DZA","Algeria",39,"Skikda",1203,"Cheraia","Commune-Cotiere","Commune-Cotiere",NA,NA
+1204,5,"DZA","Algeria",39,"Skikda",1204,"Collo","Commune-Cotiere","Commune-Cotiere",NA,"al-Qull"
+1205,5,"DZA","Algeria",39,"Skikda",1205,"Djendel Saadi Mohamed","Commune-Cotiere","Commune-Cotiere",NA,NA
+1206,5,"DZA","Algeria",39,"Skikda",1206,"El Ghedir","Commune","Commune",NA,NA
+1207,5,"DZA","Algeria",39,"Skikda",1207,"El Hadaiek","Commune","Commune",NA,NA
+1208,5,"DZA","Algeria",39,"Skikda",1208,"El Harrouch","Commune","Commune",NA,"al-Harush"
+1209,5,"DZA","Algeria",39,"Skikda",1209,"El Marsa","Commune-Cotiere","Commune-Cotiere",NA,NA
+1210,5,"DZA","Algeria",39,"Skikda",1210,"Emjez Edchich","Commune","Commune",NA,"Emdjez Edchich"
+1211,5,"DZA","Algeria",39,"Skikda",1211,"Es Sebt","Commune","Commune",NA,NA
+1212,5,"DZA","Algeria",39,"Skikda",1212,"Filfila","Commune-Cotiere","Commune-Cotiere",NA,"Fil Fila"
+1213,5,"DZA","Algeria",39,"Skikda",1213,"Hamadi Krouma","Commune","Commune",NA,"Hammadi Krouma"
+1214,5,"DZA","Algeria",39,"Skikda",1214,"Kanoua","Commune-Cotiere","Commune-Cotiere",NA,NA
+1215,5,"DZA","Algeria",39,"Skikda",1215,"Kerkera","Commune-Cotiere","Commune-Cotiere",NA,"Karkira"
+1216,5,"DZA","Algeria",39,"Skikda",1216,"Kheng Maoun","Commune-Cotiere","Commune-Cotiere",NA,"Kheng Mayoum"
+1217,5,"DZA","Algeria",39,"Skikda",1217,"Oued Zhour","Commune-Cotiere","Commune-Cotiere",NA,NA
+1218,5,"DZA","Algeria",39,"Skikda",1218,"Ouldja Boulbalout","Commune","Commune",NA,"Ouldja Boulbellout"
+1219,5,"DZA","Algeria",39,"Skikda",1219,"Ouled Attia","Commune-Cotiere","Commune-Cotiere",NA,NA
+1220,5,"DZA","Algeria",39,"Skikda",1220,"Ouled Hebbaba","Commune","Commune",NA,"Ouled Hebaba"
+1221,5,"DZA","Algeria",39,"Skikda",1221,"Oum Toub","Commune","Commune",NA,NA
+1222,5,"DZA","Algeria",39,"Skikda",1222,"Ramdane Djamel","Commune","Commune",NA,"Ramadan Jamal"
+1223,5,"DZA","Algeria",39,"Skikda",1223,"Salah Bouchaour","Commune","Commune",NA,NA
+1224,5,"DZA","Algeria",39,"Skikda",1224,"Sidi Mezghiche","Commune","Commune",NA,NA
+1225,5,"DZA","Algeria",39,"Skikda",1225,"Skikda","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Sakikdah"
+1226,5,"DZA","Algeria",39,"Skikda",1226,"Tamalous","Commune-Cotiere","Commune-Cotiere",NA,"Tamalus"
+1227,5,"DZA","Algeria",39,"Skikda",1227,"Zerdeza","Commune","Commune",NA,"Zerdezas"
+1228,5,"DZA","Algeria",39,"Skikda",1228,"Zitouna","Commune","Commune",NA,NA
+1229,5,"DZA","Algeria",40,"Souk Ahras",1229,"Ain Soltane","Commune","Commune",NA,NA
+1230,5,"DZA","Algeria",40,"Souk Ahras",1230,"Ain Zana","Commune","Commune",NA,NA
+1231,5,"DZA","Algeria",40,"Souk Ahras",1231,"Bir Bouhouche","Commune","Commune",NA,"Bir Bou Haouch"
+1232,5,"DZA","Algeria",40,"Souk Ahras",1232,"Drea","Commune","Commune",NA,NA
+1233,5,"DZA","Algeria",40,"Souk Ahras",1233,"Haddada","Commune","Commune",NA,NA
+1234,5,"DZA","Algeria",40,"Souk Ahras",1234,"Hanencha","Commune","Commune",NA,"Hanancha"
+1235,5,"DZA","Algeria",40,"Souk Ahras",1235,"Khedara","Commune","Commune",NA,NA
+1236,5,"DZA","Algeria",40,"Souk Ahras",1236,"Khemissa","Commune","Commune",NA,NA
+1237,5,"DZA","Algeria",40,"Souk Ahras",1237,"M'Daourouche","Commune","Commune",NA,"Mdaourouche|Madawrush"
+1238,5,"DZA","Algeria",40,"Souk Ahras",1238,"Machroha","Commune","Commune",NA,"Mechroha"
+1239,5,"DZA","Algeria",40,"Souk Ahras",1239,"Merahna","Commune","Commune",NA,NA
+1240,5,"DZA","Algeria",40,"Souk Ahras",1240,"Oued Kebrit","Commune","Commune",NA,"Oued Keberit"
+1241,5,"DZA","Algeria",40,"Souk Ahras",1241,"Ouillen","Commune","Commune",NA,"Quillen"
+1242,5,"DZA","Algeria",40,"Souk Ahras",1242,"Ouled Driss","Commune","Commune",NA,NA
+1243,5,"DZA","Algeria",40,"Souk Ahras",1243,"Ouled Moumen","Commune","Commune",NA,NA
+1244,5,"DZA","Algeria",40,"Souk Ahras",1244,"Oum El Adhaim","Commune","Commune",NA,NA
+1245,5,"DZA","Algeria",40,"Souk Ahras",1245,"Ragouba","Commune","Commune",NA,"Raggouba"
+1246,5,"DZA","Algeria",40,"Souk Ahras",1246,"Safel El Ouiden","Commune","Commune",NA,NA
+1247,5,"DZA","Algeria",40,"Souk Ahras",1247,"Sedrata","Commune","Commune",NA,"Sadratah"
+1248,5,"DZA","Algeria",40,"Souk Ahras",1248,"Sidi Fredj","Commune","Commune",NA,NA
+1249,5,"DZA","Algeria",40,"Souk Ahras",1249,"Souk Ahras","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Souk-Ahras|Suq Ahras"
+1250,5,"DZA","Algeria",40,"Souk Ahras",1250,"Taoura","Commune","Commune",NA,"Tawrah"
+1251,5,"DZA","Algeria",40,"Souk Ahras",1251,"Terraguelt","Commune","Commune",NA,NA
+1252,5,"DZA","Algeria",40,"Souk Ahras",1252,"Tiffech","Commune","Commune",NA,NA
+1253,5,"DZA","Algeria",40,"Souk Ahras",1253,"Zaarouria","Commune","Commune",NA,NA
+1254,5,"DZA","Algeria",40,"Souk Ahras",1254,"Zouabi","Commune","Commune",NA,NA
+1255,5,"DZA","Algeria",41,"Tébessa",1255,"Ain Zerga","Commune","Commune",NA,NA
+1256,5,"DZA","Algeria",41,"Tébessa",1256,"Bedjene","Commune","Commune",NA,NA
+1257,5,"DZA","Algeria",41,"Tébessa",1257,"Bekkaria","Commune","Commune",NA,NA
+1258,5,"DZA","Algeria",41,"Tébessa",1258,"Bir Dheb","Commune","Commune",NA,"Bir Dheheb"
+1259,5,"DZA","Algeria",41,"Tébessa",1259,"Bir El Ater","Commune","Commune",NA,"Bir-El-Ater"
+1260,5,"DZA","Algeria",41,"Tébessa",1260,"Bir Mokkadem","Commune","Commune",NA,"Bir Mokadem"
+1261,5,"DZA","Algeria",41,"Tébessa",1261,"Boukhadra","Commune","Commune",NA,NA
+1262,5,"DZA","Algeria",41,"Tébessa",1262,"Boulhaf Dyr","Commune","Commune",NA,NA
+1263,5,"DZA","Algeria",41,"Tébessa",1263,"Chrea","Commune","Commune",NA,"Cheria"
+1264,5,"DZA","Algeria",41,"Tébessa",1264,"El Houidjbet","Commune","Commune",NA,NA
+1265,5,"DZA","Algeria",41,"Tébessa",1265,"El Kouif","Commune","Commune",NA,NA
+1266,5,"DZA","Algeria",41,"Tébessa",1266,"El Malabiodh","Commune","Commune",NA,"El Ma Labiod"
+1267,5,"DZA","Algeria",41,"Tébessa",1267,"El Meridj","Commune","Commune",NA,NA
+1268,5,"DZA","Algeria",41,"Tébessa",1268,"El Mezeraa","Commune","Commune",NA,"El Mazeraa"
+1269,5,"DZA","Algeria",41,"Tébessa",1269,"El Ogla","Commune","Commune",NA,NA
+1270,5,"DZA","Algeria",41,"Tébessa",1270,"El Ouinet","Commune","Commune",NA,"El Aouinet|al-`Awaynat"
+1271,5,"DZA","Algeria",41,"Tébessa",1271,"Ferkane","Commune","Commune",NA,NA
+1272,5,"DZA","Algeria",41,"Tébessa",1272,"Guorriguer","Commune","Commune",NA,"Gourigueur"
+1273,5,"DZA","Algeria",41,"Tébessa",1273,"Hammamet","Commune","Commune",NA,"	Hammamat"
+1274,5,"DZA","Algeria",41,"Tébessa",1274,"Morsot","Commune","Commune",NA,"Mursut"
+1275,5,"DZA","Algeria",41,"Tébessa",1275,"Negrine","Commune","Commune",NA,NA
+1276,5,"DZA","Algeria",41,"Tébessa",1276,"Ogla Melha","Commune","Commune",NA,"El Ogla El Malha"
+1277,5,"DZA","Algeria",41,"Tébessa",1277,"Ouenza","Commune","Commune",NA,"El Ouenza|Winzah"
+1278,5,"DZA","Algeria",41,"Tébessa",1278,"Oum Ali","Commune","Commune",NA,NA
+1279,5,"DZA","Algeria",41,"Tébessa",1279,"Safsaf El Ouesra","Commune","Commune",NA,NA
+1280,5,"DZA","Algeria",41,"Tébessa",1280,"Stah Guentis","Commune","Commune",NA,NA
+1281,5,"DZA","Algeria",41,"Tébessa",1281,"Tebessa","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tibissah"
+1282,5,"DZA","Algeria",41,"Tébessa",1282,"Thelidjene","Commune","Commune",NA,"Thlidjene"
+1283,5,"DZA","Algeria",42,"Tamanghasset",1283,"Abalissa","Commune","Commune",NA,"Abalessa"
+1284,5,"DZA","Algeria",42,"Tamanghasset",1284,"Foggaret Azzouia","Commune","Commune",NA,"Fouggarat Ez Zouaia"
+1285,5,"DZA","Algeria",42,"Tamanghasset",1285,"Idles","Commune","Commune",NA,NA
+1286,5,"DZA","Algeria",42,"Tamanghasset",1286,"In Ghar","Commune","Commune",NA,NA
+1287,5,"DZA","Algeria",42,"Tamanghasset",1287,"In Guezzam","Commune","Commune",NA,"`Ayn Qazzan"
+1288,5,"DZA","Algeria",42,"Tamanghasset",1288,"In M'Guel","Commune","Commune",NA,"In Amguel"
+1289,5,"DZA","Algeria",42,"Tamanghasset",1289,"In Salah","Commune","Commune",NA,"`Ayn Salah"
+1290,5,"DZA","Algeria",42,"Tamanghasset",1290,"Tamenghasset","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tamanrasset|Tamanghasat"
+1291,5,"DZA","Algeria",42,"Tamanghasset",1291,"Tazrouk","Commune","Commune",NA,NA
+1292,5,"DZA","Algeria",42,"Tamanghasset",1292,"Tin Zaouatine","Commune","Commune",NA,NA
+1293,5,"DZA","Algeria",43,"Tiaret",1293,"Ain Bouchekif","Commune","Commune",NA,NA
+1294,5,"DZA","Algeria",43,"Tiaret",1294,"Ain Deheb","Commune","Commune",NA,"`Ayn Dhahab"
+1295,5,"DZA","Algeria",43,"Tiaret",1295,"Ain El Hadid","Commune","Commune",NA,NA
+1296,5,"DZA","Algeria",43,"Tiaret",1296,"Ain Kermes","Commune","Commune",NA,NA
+1297,5,"DZA","Algeria",43,"Tiaret",1297,"Ain Zarit","Commune","Commune",NA,NA
+1298,5,"DZA","Algeria",43,"Tiaret",1298,"Bougara","Commune","Commune",NA,NA
+1299,5,"DZA","Algeria",43,"Tiaret",1299,"Chehaima","Commune","Commune",NA,NA
+1300,5,"DZA","Algeria",43,"Tiaret",1300,"Dahmouni","Commune","Commune",NA,NA
+1301,5,"DZA","Algeria",43,"Tiaret",1301,"Djebilet Rosfa","Commune","Commune",NA,NA
+1302,5,"DZA","Algeria",43,"Tiaret",1302,"Djillali Ben Ammar","Commune","Commune",NA,"Djillali Ben Amar"
+1303,5,"DZA","Algeria",43,"Tiaret",1303,"Faidja","Commune","Commune",NA,NA
+1304,5,"DZA","Algeria",43,"Tiaret",1304,"Frenda","Commune","Commune",NA,"Firindah"
+1305,5,"DZA","Algeria",43,"Tiaret",1305,"Guertoufa","Commune","Commune",NA,NA
+1306,5,"DZA","Algeria",43,"Tiaret",1306,"Hamadia","Commune","Commune",NA,NA
+1307,5,"DZA","Algeria",43,"Tiaret",1307,"Ksar Chellala","Commune","Commune",NA,"Qasr Shillalah"
+1308,5,"DZA","Algeria",43,"Tiaret",1308,"Madna","Commune","Commune",NA,NA
+1309,5,"DZA","Algeria",43,"Tiaret",1309,"Mahdia","Commune","Commune",NA,"Mahdiyah"
+1310,5,"DZA","Algeria",43,"Tiaret",1310,"Mechraa Safa","Commune","Commune",NA,"Machraa Sfa|Mashra`a Asfa"
+1311,5,"DZA","Algeria",43,"Tiaret",1311,"Medrissa","Commune","Commune",NA,NA
+1312,5,"DZA","Algeria",43,"Tiaret",1312,"Medroussa","Commune","Commune",NA,NA
+1313,5,"DZA","Algeria",43,"Tiaret",1313,"Meghila","Commune","Commune",NA,NA
+1314,5,"DZA","Algeria",43,"Tiaret",1314,"Mellakou","Commune","Commune",NA,NA
+1315,5,"DZA","Algeria",43,"Tiaret",1315,"Nadorah","Commune","Commune",NA,NA
+1316,5,"DZA","Algeria",43,"Tiaret",1316,"Naima","Commune","Commune",NA,NA
+1317,5,"DZA","Algeria",43,"Tiaret",1317,"Oued Lilli","Commune","Commune",NA,NA
+1318,5,"DZA","Algeria",43,"Tiaret",1318,"Rahouia","Commune","Commune",NA,"Rahuyah"
+1319,5,"DZA","Algeria",43,"Tiaret",1319,"Rechaiga","Commune","Commune",NA,NA
+1320,5,"DZA","Algeria",43,"Tiaret",1320,"Sebaine","Commune","Commune",NA,NA
+1321,5,"DZA","Algeria",43,"Tiaret",1321,"Sebt","Commune","Commune",NA,NA
+1322,5,"DZA","Algeria",43,"Tiaret",1322,"Serghine","Commune","Commune",NA,NA
+1323,5,"DZA","Algeria",43,"Tiaret",1323,"Si Abdelghani","Commune","Commune",NA,"Sidi  Abdelghani"
+1324,5,"DZA","Algeria",43,"Tiaret",1324,"Sidi Abderrahmane","Commune-Cotiere","Commune-Cotiere",NA,NA
+1325,5,"DZA","Algeria",43,"Tiaret",1325,"Sidi Ali Mellal","Commune","Commune",NA,NA
+1326,5,"DZA","Algeria",43,"Tiaret",1326,"Sidi Bakhti","Commune","Commune",NA,NA
+1327,5,"DZA","Algeria",43,"Tiaret",1327,"Sidi Hosni","Commune","Commune",NA,NA
+1328,5,"DZA","Algeria",43,"Tiaret",1328,"Sougueur","Commune","Commune",NA,"Sughar"
+1329,5,"DZA","Algeria",43,"Tiaret",1329,"Tagdemt","Commune","Commune",NA,NA
+1330,5,"DZA","Algeria",43,"Tiaret",1330,"Takhemaret","Commune","Commune",NA,"Takhmaret|Takhamarat"
+1331,5,"DZA","Algeria",43,"Tiaret",1331,"Tiaret","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tiyarat"
+1332,5,"DZA","Algeria",43,"Tiaret",1332,"Tidda","Commune","Commune",NA,NA
+1333,5,"DZA","Algeria",43,"Tiaret",1333,"Tousnina","Commune","Commune",NA,NA
+1334,5,"DZA","Algeria",43,"Tiaret",1334,"Zmalet El Emir Abdelkader","Commune","Commune",NA,"Zmalet Emir Abdelkader"
+1335,5,"DZA","Algeria",44,"Tindouf",1335,"Oum El Assel","Commune","Commune",NA,NA
+1336,5,"DZA","Algeria",44,"Tindouf",1336,"Tindouf","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tinduf"
+1337,5,"DZA","Algeria",45,"Tipaza",1337,"Aghbal","Commune","Commune",NA,NA
+1338,5,"DZA","Algeria",45,"Tipaza",1338,"Ahmer El Ain","Commune","Commune",NA,NA
+1339,5,"DZA","Algeria",45,"Tipaza",1339,"Ain Tagourait","Commune-Cotiere","Commune-Cotiere",NA,NA
+1340,5,"DZA","Algeria",45,"Tipaza",1340,"Beni Mileuk","Commune","Commune",NA,"Beni Milleuk"
+1341,5,"DZA","Algeria",45,"Tipaza",1341,"Bou Ismail","Commune-Cotiere","Commune-Cotiere",NA,"Bu Isma`il"
+1342,5,"DZA","Algeria",45,"Tipaza",1342,"Bourkika","Commune","Commune",NA,NA
+1343,5,"DZA","Algeria",45,"Tipaza",1343,"Chaiba","Commune","Commune",NA,NA
+1344,5,"DZA","Algeria",45,"Tipaza",1344,"Cherchel","Commune-Cotiere","Commune-Cotiere",NA,"Cherchell|Shirsha-ll"
+1345,5,"DZA","Algeria",45,"Tipaza",1345,"Damous","Commune-Cotiere","Commune-Cotiere",NA,"Damus"
+1346,5,"DZA","Algeria",45,"Tipaza",1346,"Douaouda","Commune-Cotiere","Commune-Cotiere",NA,NA
+1347,5,"DZA","Algeria",45,"Tipaza",1347,"Fouka","Commune-Cotiere","Commune-Cotiere",NA,NA
+1348,5,"DZA","Algeria",45,"Tipaza",1348,"Gouraya","Commune-Cotiere","Commune-Cotiere",NA,NA
+1349,5,"DZA","Algeria",45,"Tipaza",1349,"Hadjout","Commune","Commune",NA,"Hajut"
+1350,5,"DZA","Algeria",45,"Tipaza",1350,"Hadjret Ennous","Commune-Cotiere","Commune-Cotiere",NA,"Hadjeret Ennous"
+1351,5,"DZA","Algeria",45,"Tipaza",1351,"Hattatba","Commune","Commune",NA,NA
+1352,5,"DZA","Algeria",45,"Tipaza",1352,"Kolea","Commune","Commune",NA,"al-Qull`ah"
+1353,5,"DZA","Algeria",45,"Tipaza",1353,"Larhat","Commune-Cotiere","Commune-Cotiere",NA,NA
+1354,5,"DZA","Algeria",45,"Tipaza",1354,"Menaceur","Commune","Commune",NA,NA
+1355,5,"DZA","Algeria",45,"Tipaza",1355,"Merad","Commune","Commune",NA,"Meurad"
+1356,5,"DZA","Algeria",45,"Tipaza",1356,"Messelmoun","Commune-Cotiere","Commune-Cotiere",NA,NA
+1357,5,"DZA","Algeria",45,"Tipaza",1357,"Nador","Commune","Commune",NA,NA
+1358,5,"DZA","Algeria",45,"Tipaza",1358,"Sidi Amar","Commune","Commune",NA,"Sidi Amar"
+1359,5,"DZA","Algeria",45,"Tipaza",1359,"Sidi Ghiles","Commune-Cotiere","Commune-Cotiere",NA,NA
+1360,5,"DZA","Algeria",45,"Tipaza",1360,"Sidi Rached","Commune","Commune",NA,NA
+1361,5,"DZA","Algeria",45,"Tipaza",1361,"Sidi Semiane","Commune","Commune",NA,NA
+1362,5,"DZA","Algeria",45,"Tipaza",1362,"Tipaza","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tibazah"
+1363,5,"DZA","Algeria",46,"Tissemsilt",1363,"Ammari","Commune","Commune",NA,NA
+1364,5,"DZA","Algeria",46,"Tissemsilt",1364,"Beni Chaib","Commune","Commune",NA,NA
+1365,5,"DZA","Algeria",46,"Tissemsilt",1365,"Beni Lahcene","Commune","Commune",NA,NA
+1366,5,"DZA","Algeria",46,"Tissemsilt",1366,"Bordj Bounaama","Commune","Commune",NA,NA
+1367,5,"DZA","Algeria",46,"Tissemsilt",1367,"Bordj El Emir Abdelkader","Commune","Commune",NA,NA
+1368,5,"DZA","Algeria",46,"Tissemsilt",1368,"Bou Caid","Commune","Commune",NA,"Boucaid"
+1369,5,"DZA","Algeria",46,"Tissemsilt",1369,"El Youssoufia","Commune","Commune",NA,"Youssoufia"
+1370,5,"DZA","Algeria",46,"Tissemsilt",1370,"Khemisti","Commune","Commune",NA,NA
+1371,5,"DZA","Algeria",46,"Tissemsilt",1371,"Larbaa","Commune","Commune",NA,"al-Arba`a"
+1372,5,"DZA","Algeria",46,"Tissemsilt",1372,"Lardjem","Commune","Commune",NA,NA
+1373,5,"DZA","Algeria",46,"Tissemsilt",1373,"Layoune","Commune","Commune",NA,NA
+1374,5,"DZA","Algeria",46,"Tissemsilt",1374,"Lazharia","Commune","Commune",NA,NA
+1375,5,"DZA","Algeria",46,"Tissemsilt",1375,"Maacem","Commune","Commune",NA,NA
+1376,5,"DZA","Algeria",46,"Tissemsilt",1376,"Melaab","Commune","Commune",NA,NA
+1377,5,"DZA","Algeria",46,"Tissemsilt",1377,"Ouled Bessem","Commune","Commune",NA,NA
+1378,5,"DZA","Algeria",46,"Tissemsilt",1378,"Sidi Abed","Commune","Commune",NA,NA
+1379,5,"DZA","Algeria",46,"Tissemsilt",1379,"Sidi Boutouchent","Commune","Commune",NA,NA
+1380,5,"DZA","Algeria",46,"Tissemsilt",1380,"Sidi Lantri","Commune","Commune",NA,NA
+1381,5,"DZA","Algeria",46,"Tissemsilt",1381,"Sidi Slimane","Commune","Commune",NA,NA
+1382,5,"DZA","Algeria",46,"Tissemsilt",1382,"Tamelaht","Commune","Commune",NA,"Tamalaht"
+1383,5,"DZA","Algeria",46,"Tissemsilt",1383,"Theniet El Had","Commune","Commune",NA,"Thaniyat-al-Had"
+1384,5,"DZA","Algeria",46,"Tissemsilt",1384,"Tissemsilt","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tisamsilt"
+1385,5,"DZA","Algeria",47,"Tizi Ouzou",1385,"Abi Youcef","Commune","Commune",NA,NA
+1386,5,"DZA","Algeria",47,"Tizi Ouzou",1386,"Aghni-Goughrane","Commune","Commune",NA,"Aghni Goughran"
+1387,5,"DZA","Algeria",47,"Tizi Ouzou",1387,"Aghrib","Commune","Commune",NA,"Aghrib"
+1388,5,"DZA","Algeria",47,"Tizi Ouzou",1388,"Ain-El-Hammam","Commune","Commune",NA,"Ain El Hammam|`Ayn-al-Hamma-m"
+1389,5,"DZA","Algeria",47,"Tizi Ouzou",1389,"Ain-Zaouia","Commune","Commune",NA,"Ain Zaouia"
+1390,5,"DZA","Algeria",47,"Tizi Ouzou",1390,"Ait-Chaffaa","Commune-Cotiere","Commune-Cotiere",NA,"Ait Chaffaa"
+1391,5,"DZA","Algeria",47,"Tizi Ouzou",1391,"Ait-Mahmoud","Commune","Commune",NA,"Ait Mahmoud"
+1392,5,"DZA","Algeria",47,"Tizi Ouzou",1392,"Ait-Yahia","Commune","Commune",NA,"Ait Yahia"
+1393,5,"DZA","Algeria",47,"Tizi Ouzou",1393,"Ait Aggouacha","Commune","Commune",NA,NA
+1394,5,"DZA","Algeria",47,"Tizi Ouzou",1394,"Ait Aissa Mimoun","Commune","Commune",NA,NA
+1395,5,"DZA","Algeria",47,"Tizi Ouzou",1395,"Ait Bouadou","Commune","Commune",NA,"`Ayt Buwadu"
+1396,5,"DZA","Algeria",47,"Tizi Ouzou",1396,"Ait Boumehdi","Commune","Commune",NA,"Ait Boumahdi"
+1397,5,"DZA","Algeria",47,"Tizi Ouzou",1397,"Ait Khelili","Commune","Commune",NA,"`Ayt Khalil"
+1398,5,"DZA","Algeria",47,"Tizi Ouzou",1398,"Ait Oumalou","Commune","Commune",NA,NA
+1399,5,"DZA","Algeria",47,"Tizi Ouzou",1399,"Ait Toudert","Commune","Commune",NA,NA
+1400,5,"DZA","Algeria",47,"Tizi Ouzou",1400,"Ait Yahia Moussa","Commune","Commune",NA,"`Ayt Yahiya Mussa"
+1401,5,"DZA","Algeria",47,"Tizi Ouzou",1401,"Akbil","Commune","Commune",NA,NA
+1402,5,"DZA","Algeria",47,"Tizi Ouzou",1402,"Akerrou","Commune","Commune",NA,NA
+1403,5,"DZA","Algeria",47,"Tizi Ouzou",1403,"Assi Youcef","Commune","Commune",NA,"Assi Yusuf"
+1404,5,"DZA","Algeria",47,"Tizi Ouzou",1404,"Azazga","Commune","Commune",NA,"`Azazghah"
+1405,5,"DZA","Algeria",47,"Tizi Ouzou",1405,"Azzefoun","Commune-Cotiere","Commune-Cotiere",NA,"Azeffoun"
+1406,5,"DZA","Algeria",47,"Tizi Ouzou",1406,"Beni-Douala","Commune","Commune",NA,"Beni Douala|Bani- Duwala"
+1407,5,"DZA","Algeria",47,"Tizi Ouzou",1407,"Beni-Zikki","Commune","Commune",NA,"Beni Ziki"
+1408,5,"DZA","Algeria",47,"Tizi Ouzou",1408,"Beni Aissi","Commune","Commune",NA,NA
+1409,5,"DZA","Algeria",47,"Tizi Ouzou",1409,"Beni Yenni","Commune","Commune",NA,NA
+1410,5,"DZA","Algeria",47,"Tizi Ouzou",1410,"Beni Zmenzer","Commune","Commune",NA,NA
+1411,5,"DZA","Algeria",47,"Tizi Ouzou",1411,"Boghni","Commune","Commune",NA,"Bughni"
+1412,5,"DZA","Algeria",47,"Tizi Ouzou",1412,"Boudjima","Commune","Commune",NA,"Bujima"
+1413,5,"DZA","Algeria",47,"Tizi Ouzou",1413,"Bounouh","Commune","Commune",NA,NA
+1414,5,"DZA","Algeria",47,"Tizi Ouzou",1414,"Bouzeguene","Commune","Commune",NA,"Bouzguen|Buzqan"
+1415,5,"DZA","Algeria",47,"Tizi Ouzou",1415,"Draa-Ben-Khedda","Commune","Commune",NA,"Draa Ben Khedda|Dara`a Ban Khaddah"
+1416,5,"DZA","Algeria",47,"Tizi Ouzou",1416,"Draa El Mizan","Commune","Commune",NA,"Dara`-al-Mizan"
+1417,5,"DZA","Algeria",47,"Tizi Ouzou",1417,"Freha","Commune","Commune",NA,"Fariha"
+1418,5,"DZA","Algeria",47,"Tizi Ouzou",1418,"Frikat","Commune","Commune",NA,NA
+1419,5,"DZA","Algeria",47,"Tizi Ouzou",1419,"Iboudraren","Commune","Commune",NA,NA
+1420,5,"DZA","Algeria",47,"Tizi Ouzou",1420,"Idjeur","Commune","Commune",NA,NA
+1421,5,"DZA","Algeria",47,"Tizi Ouzou",1421,"Iferhounene","Commune","Commune",NA,NA
+1422,5,"DZA","Algeria",47,"Tizi Ouzou",1422,"Ifigha","Commune","Commune",NA,NA
+1423,5,"DZA","Algeria",47,"Tizi Ouzou",1423,"Iflissen","Commune-Cotiere","Commune-Cotiere",NA,NA
+1424,5,"DZA","Algeria",47,"Tizi Ouzou",1424,"Illilten","Commune","Commune",NA,NA
+1425,5,"DZA","Algeria",47,"Tizi Ouzou",1425,"Illoula Oumalou","Commune","Commune",NA,"Iloula Oumalou"
+1426,5,"DZA","Algeria",47,"Tizi Ouzou",1426,"Imsouhal","Commune","Commune",NA,NA
+1427,5,"DZA","Algeria",47,"Tizi Ouzou",1427,"Irdjen","Commune","Commune",NA,"Irjan"
+1428,5,"DZA","Algeria",47,"Tizi Ouzou",1428,"Larbaa-Nath-Irathen","Commune","Commune",NA,"Larba Nait Irathen|Arba-`a- Nayat"
+1429,5,"DZA","Algeria",47,"Tizi Ouzou",1429,"M'Kira","Commune","Commune",NA,"Mkira|Makirah"
+1430,5,"DZA","Algeria",47,"Tizi Ouzou",1430,"Maatkas","Commune","Commune",NA,"Maatka|Ma`atka"
+1431,5,"DZA","Algeria",47,"Tizi Ouzou",1431,"Makouda","Commune","Commune",NA,"Makuda"
+1432,5,"DZA","Algeria",47,"Tizi Ouzou",1432,"Mechtrass","Commune","Commune",NA,NA
+1433,5,"DZA","Algeria",47,"Tizi Ouzou",1433,"Mekla","Commune","Commune",NA,"Maklah"
+1434,5,"DZA","Algeria",47,"Tizi Ouzou",1434,"Mizrana","Commune-Cotiere","Commune-Cotiere",NA,NA
+1435,5,"DZA","Algeria",47,"Tizi Ouzou",1435,"Ouacif","Commune","Commune",NA,"Wasif"
+1436,5,"DZA","Algeria",47,"Tizi Ouzou",1436,"Ouadhia","Commune","Commune",NA,"Wadhiyah"
+1437,5,"DZA","Algeria",47,"Tizi Ouzou",1437,"Ouaguenoun","Commune","Commune",NA,NA
+1438,5,"DZA","Algeria",47,"Tizi Ouzou",1438,"Sidi Naamane","Commune","Commune",NA,NA
+1439,5,"DZA","Algeria",47,"Tizi Ouzou",1439,"Souamaa","Commune","Commune",NA,NA
+1440,5,"DZA","Algeria",47,"Tizi Ouzou",1440,"Souk El Tenine","Commune","Commune",NA,"Souk-El-Thenine"
+1441,5,"DZA","Algeria",47,"Tizi Ouzou",1441,"Tadmait","Commune","Commune",NA,"Tadma`it"
+1442,5,"DZA","Algeria",47,"Tizi Ouzou",1442,"Tigzirt","Commune-Cotiere","Commune-Cotiere",NA,"Tighzirt"
+1443,5,"DZA","Algeria",47,"Tizi Ouzou",1443,"Timizart","Commune","Commune",NA,"Timizart"
+1444,5,"DZA","Algeria",47,"Tizi Ouzou",1444,"Tirmitine","Commune","Commune",NA,"Tirmirtin"
+1445,5,"DZA","Algeria",47,"Tizi Ouzou",1445,"Tizi-Ghenif","Commune","Commune",NA,"Tizi Ghenif"
+1446,5,"DZA","Algeria",47,"Tizi Ouzou",1446,"Tizi-Rached","Commune","Commune",NA,"Tizi Rached"
+1447,5,"DZA","Algeria",47,"Tizi Ouzou",1447,"Tizi N'Tleta","Commune","Commune",NA,"Tizi Nthleta|Thizi Natlata"
+1448,5,"DZA","Algeria",47,"Tizi Ouzou",1448,"Tizi Ouzou","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tizi Wazu"
+1449,5,"DZA","Algeria",47,"Tizi Ouzou",1449,"Yakourene","Commune","Commune",NA,"Yakouren"
+1450,5,"DZA","Algeria",47,"Tizi Ouzou",1450,"Yatafene","Commune","Commune",NA,"Yatafen"
+1451,5,"DZA","Algeria",47,"Tizi Ouzou",1451,"Zekri","Commune","Commune",NA,NA
+1452,5,"DZA","Algeria",48,"Tlemcen",1452,"Ain Fettah","Commune","Commune",NA,"Ain Fetah"
+1453,5,"DZA","Algeria",48,"Tlemcen",1453,"Ain Fezza","Commune","Commune",NA,NA
+1454,5,"DZA","Algeria",48,"Tlemcen",1454,"Ain Ghoraba","Commune","Commune",NA,NA
+1455,5,"DZA","Algeria",48,"Tlemcen",1455,"Ain Kebira","Commune","Commune",NA,NA
+1456,5,"DZA","Algeria",48,"Tlemcen",1456,"Ain Nehala","Commune","Commune",NA,NA
+1457,5,"DZA","Algeria",48,"Tlemcen",1457,"Ain Tallout","Commune","Commune",NA,NA
+1458,5,"DZA","Algeria",48,"Tlemcen",1458,"Ain Youcef","Commune","Commune",NA,NA
+1459,5,"DZA","Algeria",48,"Tlemcen",1459,"Amieur","Commune","Commune",NA,NA
+1460,5,"DZA","Algeria",48,"Tlemcen",1460,"Azails","Commune","Commune",NA,NA
+1461,5,"DZA","Algeria",48,"Tlemcen",1461,"Bab El Assa","Commune","Commune",NA,NA
+1462,5,"DZA","Algeria",48,"Tlemcen",1462,"Beni Bahdel","Commune","Commune",NA,NA
+1463,5,"DZA","Algeria",48,"Tlemcen",1463,"Beni Boussaid","Commune","Commune",NA,NA
+1464,5,"DZA","Algeria",48,"Tlemcen",1464,"Beni Khellad","Commune-Cotiere","Commune-Cotiere",NA,NA
+1465,5,"DZA","Algeria",48,"Tlemcen",1465,"Beni Mester","Commune","Commune",NA,"Bani- Mastar"
+1466,5,"DZA","Algeria",48,"Tlemcen",1466,"Beni Ouarsous","Commune","Commune",NA,NA
+1467,5,"DZA","Algeria",48,"Tlemcen",1467,"Beni Smiel","Commune","Commune",NA,"Beni Semiel"
+1468,5,"DZA","Algeria",48,"Tlemcen",1468,"Beni Snous","Commune","Commune",NA,NA
+1469,5,"DZA","Algeria",48,"Tlemcen",1469,"Bensekrane","Commune","Commune",NA,"Bani- Sikra-n"
+1470,5,"DZA","Algeria",48,"Tlemcen",1470,"Bouhlou","Commune","Commune",NA,NA
+1471,5,"DZA","Algeria",48,"Tlemcen",1471,"Bouihi","Commune","Commune",NA,"El Bouihi"
+1472,5,"DZA","Algeria",48,"Tlemcen",1472,"Chetouane","Commune","Commune",NA,"Shatwan"
+1473,5,"DZA","Algeria",48,"Tlemcen",1473,"Dar Yaghmouracene","Commune-Cotiere","Commune-Cotiere",NA,"Dar Yaghmourassene"
+1474,5,"DZA","Algeria",48,"Tlemcen",1474,"Djebala","Commune","Commune",NA,NA
+1475,5,"DZA","Algeria",48,"Tlemcen",1475,"El Aricha","Commune","Commune",NA,NA
+1476,5,"DZA","Algeria",48,"Tlemcen",1476,"El Fehoul","Commune","Commune",NA,NA
+1477,5,"DZA","Algeria",48,"Tlemcen",1477,"El Gor","Commune","Commune",NA,NA
+1478,5,"DZA","Algeria",48,"Tlemcen",1478,"Fellaoucene","Commune","Commune",NA,NA
+1479,5,"DZA","Algeria",48,"Tlemcen",1479,"Ghazaouet","Commune-Cotiere","Commune-Cotiere",NA,"Ghazawat"
+1480,5,"DZA","Algeria",48,"Tlemcen",1480,"Hammam Boughrara","Commune","Commune",NA,NA
+1481,5,"DZA","Algeria",48,"Tlemcen",1481,"Hennaya","Commune","Commune",NA,"Henaya|Hannayah"
+1482,5,"DZA","Algeria",48,"Tlemcen",1482,"Honaine","Commune-Cotiere","Commune-Cotiere",NA,NA
+1483,5,"DZA","Algeria",48,"Tlemcen",1483,"Maghnia","Commune","Commune",NA,"Maghniyah"
+1484,5,"DZA","Algeria",48,"Tlemcen",1484,"Mansourah","Commune","Commune",NA,NA
+1485,5,"DZA","Algeria",48,"Tlemcen",1485,"Marsa Ben M'Hidi","Commune-Cotiere","Commune-Cotiere",NA,"Mersa Ben Mhidi"
+1486,5,"DZA","Algeria",48,"Tlemcen",1486,"Msirda Fouaga","Commune-Cotiere","Commune-Cotiere",NA,NA
+1487,5,"DZA","Algeria",48,"Tlemcen",1487,"Nedroma","Commune","Commune",NA,"Nidruma"
+1488,5,"DZA","Algeria",48,"Tlemcen",1488,"Oued Chouly","Commune","Commune",NA,NA
+1489,5,"DZA","Algeria",48,"Tlemcen",1489,"Ouled Mimoun","Commune","Commune",NA,"Awla-d Mi-mu-n"
+1490,5,"DZA","Algeria",48,"Tlemcen",1490,"Ouled Riyah","Commune","Commune",NA,"Ouled Riah"
+1491,5,"DZA","Algeria",48,"Tlemcen",1491,"Remchi","Commune","Commune",NA,"Ramsh"
+1492,5,"DZA","Algeria",48,"Tlemcen",1492,"Sabra","Commune","Commune",NA,NA
+1493,5,"DZA","Algeria",48,"Tlemcen",1493,"Sebbaa Chioukh","Commune","Commune",NA,"Sebaa Chioukh"
+1494,5,"DZA","Algeria",48,"Tlemcen",1494,"Sebdou","Commune","Commune",NA,"Sibdu"
+1495,5,"DZA","Algeria",48,"Tlemcen",1495,"Sidi Abdelli","Commune","Commune",NA,"Sidi `Abdallah"
+1496,5,"DZA","Algeria",48,"Tlemcen",1496,"Sidi Djilali","Commune","Commune",NA,"Sidi Djillali"
+1497,5,"DZA","Algeria",48,"Tlemcen",1497,"Sidi Medjahed","Commune","Commune",NA,NA
+1498,5,"DZA","Algeria",48,"Tlemcen",1498,"Souahlia","Commune-Cotiere","Commune-Cotiere",NA,NA
+1499,5,"DZA","Algeria",48,"Tlemcen",1499,"Souani","Commune","Commune",NA,NA
+1500,5,"DZA","Algeria",48,"Tlemcen",1500,"Souk Tleta","Commune-Cotiere","Commune-Cotiere",NA,"Souk Thlata"
+1501,5,"DZA","Algeria",48,"Tlemcen",1501,"Terny Beni Hediel","Commune","Commune",NA,"Terni Beni Hediel"
+1502,5,"DZA","Algeria",48,"Tlemcen",1502,"Tianet","Commune","Commune",NA,"Tienet"
+1503,5,"DZA","Algeria",48,"Tlemcen",1503,"Tlemcen","Chef-Lieu-Wilaya","Chef-Lieu-Wilaya",NA,"Tilimsan"
+1504,5,"DZA","Algeria",48,"Tlemcen",1504,"Zenata","Commune","Commune",NA,NA
