@@ -37,11 +37,11 @@ QgsApplication.setPrefixPath(js['HOME'], True)
 qgs = QgsApplication([], False)
 qgs.initQgis() # use qgs.exitQgis() to exit the processing module at the end of the script.
 # initialize processing algorithms
+# Pycharm gives an error but it works...
 from processing.core.Processing import Processing
 Processing.initialize()
 import processing
 QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
-
 
 def download():
     inputcountry = input("Country: ")
@@ -64,6 +64,7 @@ def download():
 def process(data, ctr):
     print("Entering Processing")
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
+    print(filtered_list)
     layer = QgsVectorLayer("/{}".format(ctr), filtered_list[0], "ogr")
     processing.run("qgis:randompointsinsidepolygons", {'INPUT': layer,
                     'STRATEGY': 0, 'VALUE': 100,
@@ -71,25 +72,22 @@ def process(data, ctr):
     processing.run("qgis:heatmapkerneldensityestimation", {'INPUT': layer, 'RADIUS': 0.5, 'RADIUS_FIELD': '', 'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
                     'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': 'TEMPORARY_OUTPUT'})
 
-    processing.run("gdal:cliprasterbymasklayer", {
-        'INPUT': 'C:/Users/martin/Documents/QGIS_temp/processing_yRndbJ/50c7494b1a7a456c8a388683633495bb/OUTPUT.tif',
-        'MASK': 'C:/Users/martin/PycharmProjects/HeatMapMaker/ZMB/ZMB_adm0.shp', 'SOURCE_CRS': None, 'TARGET_CRS': None,
-        'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': False, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
-        'SET_RESOLUTION': False, 'X_RESOLUTION': None, 'Y_RESOLUTION': None, 'MULTITHREADING': False, 'OPTIONS': '',
-        'DATA_TYPE': 0, 'EXTRA': '', 'OUTPUT': 'TEMPORARY_OUTPUT'})
+    # processing.run("gdal:cliprasterbymasklayer", {
+    #     'INPUT': 'C:/Users/martin/Documents/QGIS_temp/processing_yRndbJ/50c7494b1a7a456c8a388683633495bb/OUTPUT.tif',
+    #     'MASK': 'C:/Users/martin/PycharmProjects/HeatMapMaker/ZMB/ZMB_adm0.shp', 'SOURCE_CRS': None, 'TARGET_CRS': None,
+    #     'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': False, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
+    #     'SET_RESOLUTION': False, 'X_RESOLUTION': None, 'Y_RESOLUTION': None, 'MULTITHREADING': False, 'OPTIONS': '',
+    #     'DATA_TYPE': 0, 'EXTRA': '', 'OUTPUT': 'TEMPORARY_OUTPUT'})
 
     print("End of processing")
 
-
 def cleanworkspace():
     pass
-
 
 def main():
     admlist, ctr = download()
     process(admlist, ctr)
     # cleanworkspace()
-
 
 if __name__ == "__main__":
     main()
