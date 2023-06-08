@@ -43,13 +43,13 @@ Processing.initialize()
 import processing
 QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
 
+
+
 def download():
 
-    value_to_check = input("Enter a value to check: ")
-    # Call the function to check if the value exists in the CSV file
-    print(check_value_in_csv(value_to_check))
-
-
+    # value_to_check = input("Enter a value to check: ")
+    # # Call the function to check if the value exists in the CSV file
+    # print(check_value_in_csv(value_to_check))
     inputcountry = input("Country: ")
 
     if not os.path.isdir(f'{inputcountry}'):
@@ -75,25 +75,46 @@ def process(data, ctr):
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
     print(filtered_list)
     layer = QgsVectorLayer("{}".format(ctr), filtered_list[0], "ogr")
-    print(layer.isValid())
-    a = processing.run("qgis:randompointsinsidepolygons", {'INPUT': layer,
-                    'STRATEGY': 0, 'VALUE': 100,
-                    'MIN_DISTANCE': None, 'OUTPUT': 'TEMPORARY_OUTPUT'})
-    processing.run("qgis:heatmapkerneldensityestimation", {'INPUT': a, 'RADIUS': 0.5, 'RADIUS_FIELD': '', 'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
-                    'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': 'TEMPORARY_OUTPUT'})
+    print("Input Layer Valid?",layer.isValid())
+    processing.run("qgis:randompointsinsidepolygons", {
+        'INPUT': layer,
+        'STRATEGY': 0, 'VALUE': 500,
+        'MIN_DISTANCE': None, 'OUTPUT': 'randompoints.shp'})
+    processing.run("qgis:heatmapkerneldensityestimation", {
+        'INPUT': 'randompoints.shp', 'RADIUS': 0.5, 'RADIUS_FIELD': '',
+        'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
+        'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': 'heatmap.tiff'})
+    processing.run("gdal:cliprasterbymasklayer", {
+        'INPUT': 'heatmap.tiff',
+        'MASK': "{}/".format(ctr) + filtered_list[0], 'SOURCE_CRS': None, 'TARGET_CRS': None,
+        'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': False, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
+        'SET_RESOLUTION': False, 'X_RESOLUTION': None, 'Y_RESOLUTION': None, 'MULTITHREADING': False, 'OPTIONS': '',
+        'DATA_TYPE': 0, 'EXTRA': '', 'OUTPUT': "clipped_heatmap.tiff"})
+    os.remove('randompoints.shp')
+    os.remove('heatmap.tiff')
 
-    # processing.run("gdal:cliprasterbymasklayer", {
-    #     'INPUT': 'C:/Users/martin/Documents/QGIS_temp/processing_yRndbJ/50c7494b1a7a456c8a388683633495bb/OUTPUT.tif',
-    #     'MASK': 'C:/Users/martin/PycharmProjects/HeatMapMaker/ZMB/ZMB_adm0.shp', 'SOURCE_CRS': None, 'TARGET_CRS': None,
-    #     'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': False, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
-    #     'SET_RESOLUTION': False, 'X_RESOLUTION': None, 'Y_RESOLUTION': None, 'MULTITHREADING': False, 'OPTIONS': '',
-    #     'DATA_TYPE': 0, 'EXTRA': '', 'OUTPUT': 'TEMPORARY_OUTPUT'})
-
-    print("End of processing")
+    print("Success: End of processing")
 
 def cleanworkspace():
     pass
+def plot_map():
+    print("entering plotting")
+    """This creates a new print layout"""
+    project = QgsProject.instance()  # gets a reference to the project instance
+    manager = project.layoutManager()  # gets a reference to the layout manager
+    layout = QgsPrintLayout(project)  # makes a new print layout object, takes a QgsProject as argument
+    layoutName = "PrintLayout"
 
+    layouts_list = manager.printLayouts()
+    for layout in layouts_list:
+        if layout.name() == layoutName:
+            manager.removeLayout(layout)
+
+    layout = QgsPrintLayout(project)
+    layout.initializeDefaults()  # create default map canvas
+    layout.setName(layoutName)
+    manager.addLayout(layout)
+    print("finished plotting")
 def check_value_in_csv(value):
     with open('countries.csv', 'r') as file:
         csv_reader = csv.reader(file)
@@ -106,12 +127,14 @@ def check_value_in_csv(value):
                 return row[0]
     return False
 
-# Get user input
 
 def main():
     admlist, ctr = download()
     process(admlist, ctr)
+    plot_map()
     # cleanworkspace()
 
 if __name__ == "__main__":
     main()
+
+
