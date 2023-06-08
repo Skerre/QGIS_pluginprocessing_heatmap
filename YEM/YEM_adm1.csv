@@ -1,0 +1,22 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,254,"YEM","Yemen",1,"`Adan","Muhafazah","Governorate","<U+0639><U+062F><U+0646>","Aden"
+2,254,"YEM","Yemen",2,"Abyan","Muhafazah","Governorate","<U+0623><U+0628><U+064A><U+0646>",NA
+3,254,"YEM","Yemen",3,"Al Bayda'","Muhafazah","Governorate","<U+0627><U+0644><U+0628><U+064A><U+0636><U+0627><U+0621>","Albaidah|Al Baidha|Al-Baydha|Al Beida|Baidaa|Al Bayda"
+4,254,"YEM","Yemen",4,"Al Dali'","Muhafazah","Governorate","<U+0627><U+0644><U+0636><U+0627><U+0644><U+0639>","Al Dhale'e"
+5,254,"YEM","Yemen",5,"Al Hudaydah","Muhafazah","Governorate","<U+0627><U+0644><U+062D><U+062F><U+064A><U+062F><U+0647>","Al Hodeida|Al-Hodeidah|Al Hudaidah|Hodiedah|Hudaidah"
+6,254,"YEM","Yemen",6,"Al Jawf","Muhafazah","Governorate","<U+0627><U+0644><U+062C><U+0648><U+0641>","Al Jouf|Aljowf|Jawf"
+7,254,"YEM","Yemen",7,"Al Mahrah","Muhafazah","Governorate","<U+0627><U+0644><U+0645><U+0647><U+0631><U+0647>","Al Ghaydah|Al-Mahara|Almaharah|al-Mahra|Mahra"
+8,254,"YEM","Yemen",8,"Al Mahwit","Muhafazah","Governorate","<U+0627><U+0644><U+0645><U+062D><U+0648><U+064A><U+062A>","Almahweet|Mahweet"
+9,254,"YEM","Yemen",9,"Amanat Al Asimah","Muhafazah","Governorate","<U+0623><U+0645><U+0627><U+0646><U+0629> <U+0627><U+0644><U+0639><U+0627><U+0635><U+0645><U+0629>",NA
+10,254,"YEM","Yemen",10,"Amran","Muhafazah","Governorate","<U+0639><U+0645><U+0631><U+0627><U+0646>","'Amran"
+11,254,"YEM","Yemen",11,"Dhamar","Muhafazah","Governorate","<U+0630><U+0645><U+0627><U+0631>",NA
+12,254,"YEM","Yemen",12,"Hadramawt","Muhafazah","Governorate","<U+062D><U+0636><U+0631><U+0645><U+0648><U+062A>","Hadhramaut|Hadhramawt|Hadhramout|HadramautHadramout"
+13,254,"YEM","Yemen",13,"Hajjah","Muhafazah","Governorate","<U+062D><U+062C><U+0647>","Hajja"
+14,254,"YEM","Yemen",14,"Ibb","Muhafazah","Governorate","<U+0625><U+0628>",NA
+15,254,"YEM","Yemen",15,"Lahij","Muhafazah","Governorate","<U+0644><U+062D><U+062C>","Laheg|Lahej|Lahj|Tuban"
+16,254,"YEM","Yemen",16,"Ma'rib","Muhafazah","Governorate","<U+0645><U+0623><U+0631><U+0628>","Mareb|Marib"
+17,254,"YEM","Yemen",17,"Raymah","Muhafazah","Governorate","<U+0631><U+064A><U+0645><U+0629>",NA
+18,254,"YEM","Yemen",18,"Sa`dah","Muhafazah","Governorate","<U+0635><U+0639><U+062F><U+0629>","Sa'ada|Saadah|Sa'da|Saidah|Sa'adah"
+19,254,"YEM","Yemen",19,"San`a'","City","City","<U+0635><U+0646><U+0639><U+0627><U+0621>","Sana'a"
+20,254,"YEM","Yemen",20,"Shabwah","Muhafazah","Governorate","<U+0634><U+0628><U+0648><U+0629>","Shabwa|Shibwah|Ataq"
+21,254,"YEM","Yemen",21,"Ta`izz","Muhafazah","Governorate","<U+062A><U+0639><U+0632>","Taez|Taiz|Taizz"

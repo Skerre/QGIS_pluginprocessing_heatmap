@@ -1,0 +1,334 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,254,"YEM","Yemen",1,"`Adan",1,"Al Buraiqeh","Muderiah","District","<U+0627><U+0644><U+0628><U+0631><U+064A><U+0642><U+0647>",NA
+2,254,"YEM","Yemen",1,"`Adan",2,"Al Mansura","Muderiah","District","<U+0627><U+0644><U+0645><U+0646><U+0635><U+0648><U+0631><U+0629>",NA
+3,254,"YEM","Yemen",1,"`Adan",3,"Al Mualla","Muderiah","District","<U+0627><U+0644><U+0645><U+0639><U+0644><U+0627>",NA
+4,254,"YEM","Yemen",1,"`Adan",4,"Ash Shaikh Outhman","Muderiah","District","<U+0627><U+0644><U+0634><U+064A><U+062E> <U+0639><U+062B><U+0645><U+0627><U+0646>",NA
+5,254,"YEM","Yemen",1,"`Adan",5,"Attawahi","Muderiah","District","<U+0627><U+0644><U+062A><U+0648><U+0627><U+0647><U+064A>",NA
+6,254,"YEM","Yemen",1,"`Adan",6,"Craiter","Muderiah","District","<U+0643><U+0631><U+064A><U+062A><U+0631>",NA
+7,254,"YEM","Yemen",1,"`Adan",7,"Dar Sad","Muderiah","District","<U+062F><U+0627><U+0631> <U+0633><U+0639><U+062F>",NA
+8,254,"YEM","Yemen",1,"`Adan",8,"Khur Maksar","Muderiah","District","<U+062E><U+0648><U+0631> <U+0645><U+0643><U+0633><U+0631>",NA
+9,254,"YEM","Yemen",2,"Abyan",9,"Ahwar","Muderiah","District","<U+0627><U+062D><U+0648><U+0627><U+0631>",NA
+10,254,"YEM","Yemen",2,"Abyan",10,"Al Mahfad","Muderiah","District","<U+0627><U+0644><U+0645><U+062D><U+0641><U+062F>",NA
+11,254,"YEM","Yemen",2,"Abyan",11,"Al Wade'a","Muderiah","District","<U+0627><U+0644><U+0648><U+0636><U+064A><U+0639>",NA
+12,254,"YEM","Yemen",2,"Abyan",12,"Jayshan","Muderiah","District","<U+062C><U+064A><U+0634><U+0627><U+0646>",NA
+13,254,"YEM","Yemen",2,"Abyan",13,"Khanfir","Muderiah","District","<U+062E><U+0646><U+0641><U+0631>",NA
+14,254,"YEM","Yemen",2,"Abyan",14,"Lawdar","Muderiah","District","<U+0644><U+0648><U+062F><U+0631>",NA
+15,254,"YEM","Yemen",2,"Abyan",15,"Mudiyah","Muderiah","District","<U+0645><U+0648><U+062F><U+064A><U+0647>",NA
+16,254,"YEM","Yemen",2,"Abyan",16,"Rasad","Muderiah","District","<U+0631><U+0635><U+062F>",NA
+17,254,"YEM","Yemen",2,"Abyan",17,"Sarar","Muderiah","District","<U+0633><U+0631><U+0627><U+0631>",NA
+18,254,"YEM","Yemen",2,"Abyan",18,"Sibah","Muderiah","District","<U+0633><U+0628><U+0627><U+062D>",NA
+19,254,"YEM","Yemen",2,"Abyan",19,"Zingibar","Muderiah","District","<U+0632><U+0646><U+062C><U+0628><U+0627><U+0631>",NA
+20,254,"YEM","Yemen",3,"Al Bayda'",20,"Al A'rsh","Muderiah","District","<U+0627><U+0644><U+0639><U+0631><U+0634>",NA
+21,254,"YEM","Yemen",3,"Al Bayda'",21,"Al Bayda City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+0627><U+0644><U+0628><U+064A><U+0636><U+0627><U+0621>",NA
+22,254,"YEM","Yemen",3,"Al Bayda'",22,"Al Bayda","Muderiah","District","<U+0627><U+0644><U+0628><U+064A><U+0636><U+0627><U+0621>",NA
+23,254,"YEM","Yemen",3,"Al Bayda'",23,"Al Malagim","Muderiah","District","<U+0627><U+0644><U+0645><U+0644><U+0627><U+062C><U+0645>",NA
+24,254,"YEM","Yemen",3,"Al Bayda'",24,"Al Quraishyah","Muderiah","District","<U+0627><U+0644><U+0642><U+0631><U+064A><U+0634><U+064A><U+0629>",NA
+25,254,"YEM","Yemen",3,"Al Bayda'",25,"Ar Ryashyyah","Muderiah","District","<U+0627><U+0644><U+0631><U+064A><U+0627><U+0634><U+064A><U+0629>",NA
+26,254,"YEM","Yemen",3,"Al Bayda'",26,"As Sawadiyah","Muderiah","District","<U+0627><U+0644><U+0633><U+0648><U+0627><U+062F><U+064A><U+0629>",NA
+27,254,"YEM","Yemen",3,"Al Bayda'",27,"As Sawma'ah","Muderiah","District","<U+0627><U+0644><U+0635><U+0648><U+0645><U+0639><U+0629>",NA
+28,254,"YEM","Yemen",3,"Al Bayda'",28,"Ash Sharyah","Muderiah","District","<U+0627><U+0644><U+0634><U+0631><U+064A><U+0629>",NA
+29,254,"YEM","Yemen",3,"Al Bayda'",29,"At Taffah","Muderiah","District","<U+0627><U+0644><U+0637><U+0641><U+0629>",NA
+30,254,"YEM","Yemen",3,"Al Bayda'",30,"Az Zahir","Muderiah","District","<U+0627><U+0644><U+0632><U+0627><U+0647><U+0631>",NA
+31,254,"YEM","Yemen",3,"Al Bayda'",31,"Dhi Na'im","Muderiah","District","<U+0630><U+064A> <U+0646><U+0627><U+0639><U+0645>",NA
+32,254,"YEM","Yemen",3,"Al Bayda'",32,"Maswarah","Muderiah","District","<U+0645><U+0633><U+0648><U+0631><U+0629>",NA
+33,254,"YEM","Yemen",3,"Al Bayda'",33,"Mukayras","Muderiah","District","<U+0645><U+0643><U+064A><U+0631><U+0627><U+0633>",NA
+34,254,"YEM","Yemen",3,"Al Bayda'",34,"Na'man","Muderiah","District","<U+0646><U+0639><U+0645><U+0627><U+0646>",NA
+35,254,"YEM","Yemen",3,"Al Bayda'",35,"Nati'","Muderiah","District","<U+0646><U+0627><U+0637><U+0639>",NA
+36,254,"YEM","Yemen",3,"Al Bayda'",36,"Rada'","Muderiah","District","<U+0631><U+062F><U+0627><U+0639>",NA
+37,254,"YEM","Yemen",3,"Al Bayda'",37,"Radman Al Awad","Muderiah","District","<U+0631><U+062F><U+0645><U+0627><U+0646>",NA
+38,254,"YEM","Yemen",3,"Al Bayda'",38,"Sabah","Muderiah","District","<U+0635><U+0628><U+0627><U+062D>",NA
+39,254,"YEM","Yemen",3,"Al Bayda'",39,"Wald Rabi'","Muderiah","District","<U+0648><U+0644><U+062F> <U+0631><U+0628><U+064A><U+0639>",NA
+40,254,"YEM","Yemen",4,"Al Dali'",40,"Ad Dhale'e","Muderiah","District","<U+0627><U+0644><U+0636><U+0627><U+0644><U+0639>",NA
+41,254,"YEM","Yemen",4,"Al Dali'",41,"Al Azariq","Muderiah","District","<U+0627><U+0644><U+0627><U+0632><U+0627><U+0631><U+0642>",NA
+42,254,"YEM","Yemen",4,"Al Dali'",42,"Al Husha","Muderiah","District","<U+0627><U+0644><U+062D><U+0634><U+0627><U+0621>",NA
+43,254,"YEM","Yemen",4,"Al Dali'",43,"Al Hussein","Muderiah","District","<U+0627><U+0644><U+062D><U+0635><U+064A><U+0646>",NA
+44,254,"YEM","Yemen",4,"Al Dali'",44,"Ash Shu'ayb","Muderiah","District","<U+0627><U+0644><U+0634><U+0639><U+064A><U+0628>",NA
+45,254,"YEM","Yemen",4,"Al Dali'",45,"Damt","Muderiah","District","<U+062F><U+0645><U+062A>",NA
+46,254,"YEM","Yemen",4,"Al Dali'",46,"Jahaf","Muderiah","District","<U+062C><U+062D><U+0627><U+0641>",NA
+47,254,"YEM","Yemen",4,"Al Dali'",47,"Juban","Muderiah","District","<U+062C><U+0628><U+0646>",NA
+48,254,"YEM","Yemen",4,"Al Dali'",48,"Qa'atabah","Muderiah","District","<U+0642><U+0639><U+0637><U+0628><U+0629>",NA
+49,254,"YEM","Yemen",5,"Al Hudaydah",49,"Ad Dahi","Muderiah","District","<U+0627><U+0644><U+0636><U+062D><U+064A>",NA
+50,254,"YEM","Yemen",5,"Al Hudaydah",50,"Ad Durayhimi","Muderiah","District","<U+0627><U+0644><U+062F><U+0631><U+064A><U+0647><U+0645><U+064A>",NA
+51,254,"YEM","Yemen",5,"Al Hudaydah",51,"Al Garrahi","Muderiah","District","<U+0627><U+0644><U+062C><U+0631><U+0627><U+062D><U+064A>",NA
+52,254,"YEM","Yemen",5,"Al Hudaydah",52,"Al Hajjaylah","Muderiah","District","<U+0627><U+0644><U+062D><U+062C><U+064A><U+0644><U+0629>",NA
+53,254,"YEM","Yemen",5,"Al Hudaydah",53,"Al Hali","Muderiah","District","<U+0627><U+0644><U+062D><U+0627><U+0644><U+064A>",NA
+54,254,"YEM","Yemen",5,"Al Hudaydah",54,"Al Hawak","Muderiah","District","<U+0627><U+0644><U+062D><U+0648><U+0643>",NA
+55,254,"YEM","Yemen",5,"Al Hudaydah",55,"Al Khawkhah","Muderiah","District","<U+0627><U+0644><U+062E><U+0648><U+062E><U+0647>",NA
+56,254,"YEM","Yemen",5,"Al Hudaydah",56,"Al Mansuriyah","Muderiah","District","<U+0627><U+0644><U+0645><U+0646><U+0635><U+0648><U+0631><U+064A><U+0629>",NA
+57,254,"YEM","Yemen",5,"Al Hudaydah",57,"Al Marawi'ah","Muderiah","District","<U+0627><U+0644><U+0645><U+0631><U+0627><U+0648><U+0639><U+0629>",NA
+58,254,"YEM","Yemen",5,"Al Hudaydah",58,"Al Mighlaf","Muderiah","District","<U+0627><U+0644><U+0645><U+063A><U+0644><U+0627><U+0641>",NA
+59,254,"YEM","Yemen",5,"Al Hudaydah",59,"Al Mina","Muderiah","District","<U+0627><U+0644><U+0645><U+064A><U+0646><U+0627><U+0621>",NA
+60,254,"YEM","Yemen",5,"Al Hudaydah",60,"Al Munirah","Muderiah","District","<U+0627><U+0644><U+0645><U+0646><U+064A><U+0631><U+0629>",NA
+61,254,"YEM","Yemen",5,"Al Hudaydah",61,"Al Qanawis","Muderiah","District","<U+0627><U+0644><U+0642><U+0646><U+0627><U+0648><U+0635>",NA
+62,254,"YEM","Yemen",5,"Al Hudaydah",62,"Alluheyah","Muderiah","District","<U+0627><U+0644><U+0644><U+062D><U+064A><U+0629>",NA
+63,254,"YEM","Yemen",5,"Al Hudaydah",63,"As Salif","Muderiah","District","<U+0627><U+0644><U+0635><U+0644><U+064A><U+0641>",NA
+64,254,"YEM","Yemen",5,"Al Hudaydah",64,"As Sukhnah","Muderiah","District","<U+0627><U+0644><U+0633><U+062E><U+0646><U+0629>",NA
+65,254,"YEM","Yemen",5,"Al Hudaydah",65,"At Tuhayat","Muderiah","District","<U+0627><U+0644><U+062A><U+062D><U+064A><U+062A><U+0627>",NA
+66,254,"YEM","Yemen",5,"Al Hudaydah",66,"Az Zaydiyah","Muderiah","District","<U+0627><U+0644><U+0632><U+064A><U+062F><U+064A><U+0629>",NA
+67,254,"YEM","Yemen",5,"Al Hudaydah",67,"Az Zuhrah","Muderiah","District","<U+0627><U+0644><U+0632><U+0647><U+0631><U+0629>",NA
+68,254,"YEM","Yemen",5,"Al Hudaydah",68,"Bajil","Muderiah","District","<U+0628><U+0627><U+062C><U+0644>",NA
+69,254,"YEM","Yemen",5,"Al Hudaydah",69,"Bayt Al Faqiah","Muderiah","District","<U+0628><U+064A><U+062A> <U+0627><U+0644><U+0641><U+0642><U+064A><U+0647>",NA
+70,254,"YEM","Yemen",5,"Al Hudaydah",70,"Bura","Muderiah","District","<U+0628><U+0631><U+0627><U+0639>",NA
+71,254,"YEM","Yemen",5,"Al Hudaydah",71,"Hays","Muderiah","District","<U+062D><U+064A><U+0633>",NA
+72,254,"YEM","Yemen",5,"Al Hudaydah",72,"Jabal Ra's","Muderiah","District","<U+062C><U+0628><U+0644> <U+0631><U+0627><U+0633>",NA
+73,254,"YEM","Yemen",5,"Al Hudaydah",73,"Kamaran","Muderiah","District","<U+0643><U+0645><U+0631><U+0627><U+0646>",NA
+74,254,"YEM","Yemen",5,"Al Hudaydah",74,"Zabid","Muderiah","District","<U+0632><U+0628><U+064A><U+062F>",NA
+75,254,"YEM","Yemen",6,"Al Jawf",75,"Al Ghayl","Muderiah","District","<U+0627><U+0644><U+063A><U+064A><U+0644>",NA
+76,254,"YEM","Yemen",6,"Al Jawf",76,"Al Hazm","Muderiah","District","<U+0627><U+0644><U+062D><U+0632><U+0645>",NA
+77,254,"YEM","Yemen",6,"Al Jawf",77,"Al Humaydat","Muderiah","District","<U+0627><U+0644><U+062D><U+0645><U+064A><U+062F><U+0627><U+062A>",NA
+78,254,"YEM","Yemen",6,"Al Jawf",78,"Al Khalq","Muderiah","District","<U+0627><U+0644><U+062E><U+0644><U+0642>",NA
+79,254,"YEM","Yemen",6,"Al Jawf",79,"Al Maslub","Muderiah","District","<U+0627><U+0644><U+0645><U+0635><U+0644><U+0648><U+0628>",NA
+80,254,"YEM","Yemen",6,"Al Jawf",80,"Al Matammah","Muderiah","District","<U+0627><U+0644><U+0645><U+0637><U+0645><U+0647>",NA
+81,254,"YEM","Yemen",6,"Al Jawf",81,"Al Maton","Muderiah","District","<U+0627><U+0644><U+0645><U+062A><U+0648><U+0646>",NA
+82,254,"YEM","Yemen",6,"Al Jawf",82,"Az Zahir","Muderiah","District","<U+0627><U+0644><U+0632><U+0627><U+0647><U+0631>",NA
+83,254,"YEM","Yemen",6,"Al Jawf",83,"Bart Al Anan","Muderiah","District","<U+0628><U+0631><U+0637> <U+0627><U+0644><U+0639><U+0646><U+0627><U+0646>",NA
+84,254,"YEM","Yemen",6,"Al Jawf",84,"Khabb wa ash Sha'af","Muderiah","District","<U+062E><U+0628> <U+0648> <U+0627><U+0644><U+0634><U+0639><U+0641>",NA
+85,254,"YEM","Yemen",6,"Al Jawf",85,"Kharab Al Marashi","Muderiah","District","<U+062E><U+0631><U+0627><U+0628> <U+0627><U+0644><U+0645><U+0631><U+0627><U+0634><U+0649>",NA
+86,254,"YEM","Yemen",6,"Al Jawf",86,"Rajuzah","Muderiah","District","<U+0631><U+062C><U+0648><U+0632><U+0647>",NA
+87,254,"YEM","Yemen",7,"Al Mahrah",87,"Al Ghaydah","Muderiah","District","<U+0627><U+0644><U+063A><U+064A><U+0638><U+0647>",NA
+88,254,"YEM","Yemen",7,"Al Mahrah",88,"Al Masilah","Muderiah","District","<U+0627><U+0644><U+0645><U+0633><U+064A><U+0644><U+0629>",NA
+89,254,"YEM","Yemen",7,"Al Mahrah",89,"Hat","Muderiah","District","<U+062D><U+0627><U+062A>",NA
+90,254,"YEM","Yemen",7,"Al Mahrah",90,"Hawf","Muderiah","District","<U+062D><U+0648><U+0641>",NA
+91,254,"YEM","Yemen",7,"Al Mahrah",91,"Huswain","Muderiah","District","<U+062D><U+0635><U+0648><U+064A><U+0646>",NA
+92,254,"YEM","Yemen",7,"Al Mahrah",92,"Man'ar","Muderiah","District","<U+0645><U+0646><U+0639><U+0631>",NA
+93,254,"YEM","Yemen",7,"Al Mahrah",93,"Qishn","Muderiah","District","<U+0642><U+0634><U+0646>",NA
+94,254,"YEM","Yemen",7,"Al Mahrah",94,"Sayhut","Muderiah","District","<U+0633><U+064A><U+062D><U+0648><U+062A>",NA
+95,254,"YEM","Yemen",7,"Al Mahrah",95,"Shahan","Muderiah","District","<U+0634><U+062D><U+0646>",NA
+96,254,"YEM","Yemen",8,"Al Mahwit",96,"Al Khabt","Muderiah","District","<U+0627><U+0644><U+062E><U+0628><U+062A>",NA
+97,254,"YEM","Yemen",8,"Al Mahwit",97,"Al Mahwait City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+0627><U+0644><U+0645><U+062D><U+0648><U+064A><U+062A>",NA
+98,254,"YEM","Yemen",8,"Al Mahwit",98,"Al Mahwait","Muderiah","District","<U+0627><U+0644><U+0645><U+062D><U+0648><U+064A><U+062A>",NA
+99,254,"YEM","Yemen",8,"Al Mahwit",99,"Ar Rujum","Muderiah","District","<U+0627><U+0644><U+0631><U+062C><U+0645>",NA
+100,254,"YEM","Yemen",8,"Al Mahwit",100,"At Tawilah","Muderiah","District","<U+0627><U+0644><U+0637><U+0648><U+064A><U+0644><U+0629>",NA
+101,254,"YEM","Yemen",8,"Al Mahwit",101,"Bani Sa'd","Muderiah","District","<U+0628><U+0646><U+064A> <U+0633><U+0639><U+062F>",NA
+102,254,"YEM","Yemen",8,"Al Mahwit",102,"Hufash","Muderiah","District","<U+062D><U+0641><U+0627><U+0634>",NA
+103,254,"YEM","Yemen",8,"Al Mahwit",103,"Milhan","Muderiah","District","<U+0645><U+0644><U+062D><U+0627><U+0646>",NA
+104,254,"YEM","Yemen",8,"Al Mahwit",104,"Shibam Kawkaban","Muderiah","District","<U+0634><U+0628><U+0627><U+0645> <U+0643><U+0648><U+0643><U+0628><U+0627><U+0646>",NA
+105,254,"YEM","Yemen",9,"Amanat Al Asimah",105,"Al Wahdah","Muderiah","District","<U+0627><U+0644><U+0648><U+062D><U+062F><U+0629>",NA
+106,254,"YEM","Yemen",9,"Amanat Al Asimah",106,"As Sabain","Muderiah","District","<U+0627><U+0644><U+0633><U+0628><U+0639><U+064A><U+0646>",NA
+107,254,"YEM","Yemen",9,"Amanat Al Asimah",107,"Assafi'yah","Muderiah","District","<U+0627><U+0644><U+0635><U+0627><U+0641><U+064A><U+0629>",NA
+108,254,"YEM","Yemen",9,"Amanat Al Asimah",108,"At Tahrir","Muderiah","District","<U+0627><U+0644><U+062A><U+062D><U+0631><U+064A><U+0631>",NA
+109,254,"YEM","Yemen",9,"Amanat Al Asimah",109,"Ath'thaorah","Muderiah","District","<U+0627><U+0644><U+062B><U+0648><U+0631><U+0629>",NA
+110,254,"YEM","Yemen",9,"Amanat Al Asimah",110,"Az'zal","Muderiah","District","<U+0623><U+0632><U+0627><U+0644>",NA
+111,254,"YEM","Yemen",9,"Amanat Al Asimah",111,"Bani Al Harith","Muderiah","District","<U+0628><U+0646><U+064A> <U+0627><U+0644><U+062D><U+0627><U+0631><U+062B>",NA
+112,254,"YEM","Yemen",9,"Amanat Al Asimah",112,"Ma'ain","Muderiah","District","<U+0645><U+0639><U+064A><U+0646>",NA
+113,254,"YEM","Yemen",9,"Amanat Al Asimah",113,"Old City","Muderiah","District","<U+0635><U+0646><U+0639><U+0627><U+0621> <U+0627><U+0644><U+0642><U+062F><U+064A><U+0645><U+0629>",NA
+114,254,"YEM","Yemen",9,"Amanat Al Asimah",114,"Shu'aub","Muderiah","District","<U+0634><U+0639><U+0648><U+0628>",NA
+115,254,"YEM","Yemen",10,"Amran",115,"Al Ashah","Muderiah","District","<U+0627><U+0644><U+0639><U+0634><U+0640><U+0640><U+0640><U+0640><U+0640><U+0647>",NA
+116,254,"YEM","Yemen",10,"Amran",116,"Al Madan","Muderiah","District","<U+0627><U+0644><U+0645><U+0640><U+0640><U+062F><U+0627><U+0646>",NA
+117,254,"YEM","Yemen",10,"Amran",117,"Al Qaflah","Muderiah","District","<U+0627><U+0644><U+0642><U+0641><U+0644><U+0629>",NA
+118,254,"YEM","Yemen",10,"Amran",118,"Amran","Muderiah","District","<U+0639><U+0645><U+0631><U+0627><U+0646>",NA
+119,254,"YEM","Yemen",10,"Amran",119,"As Sawd","Muderiah","District","<U+0627><U+0644><U+0633><U+0648><U+062F>",NA
+120,254,"YEM","Yemen",10,"Amran",120,"As Sudah","Muderiah","District","<U+0627><U+0644><U+0633><U+0648><U+062F><U+0647>",NA
+121,254,"YEM","Yemen",10,"Amran",121,"Bani Suraim","Muderiah","District","<U+0628><U+0646><U+064A> <U+0635><U+0631><U+064A><U+0645>",NA
+122,254,"YEM","Yemen",10,"Amran",122,"Dhi Bin","Muderiah","District","<U+0630><U+064A><U+0628><U+064A><U+0646>",NA
+123,254,"YEM","Yemen",10,"Amran",123,"Habur Zulaymah","Muderiah","District","<U+062D><U+0628><U+0648><U+0631> <U+0638><U+0644><U+064A><U+0645><U+0629>",NA
+124,254,"YEM","Yemen",10,"Amran",124,"Harf Sufyan","Muderiah","District","<U+062D><U+0631><U+0641> <U+0633><U+0641><U+064A><U+0627><U+0646>",NA
+125,254,"YEM","Yemen",10,"Amran",125,"Huth","Muderiah","District","<U+062D><U+0648><U+062B>",NA
+126,254,"YEM","Yemen",10,"Amran",126,"Iyal Surayh","Muderiah","District","<U+0639><U+064A><U+0627><U+0644> <U+0633><U+0631><U+064A><U+062D>",NA
+127,254,"YEM","Yemen",10,"Amran",127,"Jabal Iyal Yazid","Muderiah","District","<U+062C><U+0628><U+0644> <U+0639><U+064A><U+0627><U+0644> <U+064A><U+0632><U+064A><U+062F>",NA
+128,254,"YEM","Yemen",10,"Amran",128,"Khamir","Muderiah","District","<U+062E><U+0645><U+0631>",NA
+129,254,"YEM","Yemen",10,"Amran",129,"Kharif","Muderiah","District","<U+062E><U+0627><U+0631><U+0641>",NA
+130,254,"YEM","Yemen",10,"Amran",130,"Maswar","Muderiah","District","<U+0645><U+0633><U+0648><U+0631>",NA
+131,254,"YEM","Yemen",10,"Amran",131,"Raydah","Muderiah","District","<U+0631><U+064A><U+062F><U+0647>",NA
+132,254,"YEM","Yemen",10,"Amran",132,"Shaharah","Muderiah","District","<U+0634><U+0647><U+0627><U+0631><U+0647>",NA
+133,254,"YEM","Yemen",10,"Amran",133,"Suwayr","Muderiah","District","<U+0635><U+0640><U+0648><U+064A><U+0640><U+0640><U+0640><U+0640><U+0631>",NA
+134,254,"YEM","Yemen",10,"Amran",134,"Thula","Muderiah","District","<U+062B><U+0644><U+0627><U+0621>",NA
+135,254,"YEM","Yemen",11,"Dhamar",135,"Al Hada","Muderiah","District","<U+0627><U+0644><U+062D><U+062F><U+0627><U+0621>",NA
+136,254,"YEM","Yemen",11,"Dhamar",136,"Al Manar","Muderiah","District","<U+0627><U+0644><U+0645><U+0646><U+0627><U+0631>",NA
+137,254,"YEM","Yemen",11,"Dhamar",137,"Anss","Muderiah","District","<U+0639><U+0646><U+0633>",NA
+138,254,"YEM","Yemen",11,"Dhamar",138,"Dawran Aness","Muderiah","District","<U+0636><U+0648><U+0631><U+0627><U+0646> <U+0627><U+064B><U+0646><U+0633>",NA
+139,254,"YEM","Yemen",11,"Dhamar",139,"Dhamar City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+0630><U+0645><U+0627><U+0631>",NA
+140,254,"YEM","Yemen",11,"Dhamar",140,"Jabal Ash sharq","Muderiah","District","<U+062C><U+0628><U+0644> <U+0627><U+0644><U+0634><U+0631><U+0642>",NA
+141,254,"YEM","Yemen",11,"Dhamar",141,"Jahran","Muderiah","District","<U+062C><U+0647><U+0631><U+0627><U+0646>",NA
+142,254,"YEM","Yemen",11,"Dhamar",142,"Maghirib Ans","Muderiah","District","<U+0645><U+063A><U+0631><U+0628> <U+0639><U+0646><U+0633>",NA
+143,254,"YEM","Yemen",11,"Dhamar",143,"Mayfa'at Anss","Muderiah","District","<U+0645><U+064A><U+0641><U+0639><U+0629> <U+0639><U+0646><U+0633>",NA
+144,254,"YEM","Yemen",11,"Dhamar",144,"Utmah","Muderiah","District","<U+0639><U+062A><U+0645><U+0629>",NA
+145,254,"YEM","Yemen",11,"Dhamar",145,"Wusab Al Ali","Muderiah","District","<U+0648><U+0635><U+0627><U+0628> <U+0627><U+0644><U+0639><U+0627><U+0644><U+064A>",NA
+146,254,"YEM","Yemen",11,"Dhamar",146,"Wusab As Safil","Muderiah","District","<U+0648><U+0635><U+0627><U+0628> <U+0627><U+0644><U+0633><U+0627><U+0641><U+0644>",NA
+147,254,"YEM","Yemen",12,"Hadramawt",147,"Ad Dis","Muderiah","District","<U+0627><U+0644><U+062F><U+064A><U+0633>",NA
+148,254,"YEM","Yemen",12,"Hadramawt",148,"Adh Dhlia'ah","Muderiah","District","<U+0627><U+0644><U+0636><U+0644><U+064A><U+0639><U+0647>",NA
+149,254,"YEM","Yemen",12,"Hadramawt",149,"Al Abr","Muderiah","District","<U+0627><U+0644><U+0639><U+0628><U+0631>",NA
+150,254,"YEM","Yemen",12,"Hadramawt",150,"Al Mukalla City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+0627><U+0644><U+0645><U+0643><U+0644><U+0627>",NA
+151,254,"YEM","Yemen",12,"Hadramawt",151,"Al Mukalla","Muderiah","District","<U+0627><U+0644><U+0645><U+0643><U+0644><U+0627>",NA
+152,254,"YEM","Yemen",12,"Hadramawt",152,"Al Qaf","Muderiah","District","<U+0627><U+0644><U+0642><U+0641>",NA
+153,254,"YEM","Yemen",12,"Hadramawt",153,"Al Qatn","Muderiah","District","<U+0627><U+0644><U+0642><U+0637><U+0646>",NA
+154,254,"YEM","Yemen",12,"Hadramawt",154,"Amd","Muderiah","District","<U+0639><U+0645><U+062F>",NA
+155,254,"YEM","Yemen",12,"Hadramawt",155,"Ar Raydah Wa Qusayar","Muderiah","District","<U+0627><U+0644><U+0631><U+064A><U+062F><U+0647> <U+0648><U+0642><U+0635><U+064A><U+0639><U+0631>",NA
+156,254,"YEM","Yemen",12,"Hadramawt",156,"As Sawm","Muderiah","District","<U+0627><U+0644><U+0633><U+0648><U+0645>",NA
+157,254,"YEM","Yemen",12,"Hadramawt",157,"Ash Shihr","Muderiah","District","<U+0627><U+0644><U+0634><U+062D><U+0631>",NA
+158,254,"YEM","Yemen",12,"Hadramawt",158,"Brom Mayfa","Muderiah","District","<U+0628><U+0631><U+0648><U+0645> <U+0645><U+064A><U+0641><U+0639>",NA
+159,254,"YEM","Yemen",12,"Hadramawt",159,"Daw'an","Muderiah","District","<U+062F><U+0648><U+0639><U+0646>",NA
+160,254,"YEM","Yemen",12,"Hadramawt",160,"Ghayl Ba Wazir","Muderiah","District","<U+063A><U+064A><U+0644> <U+0628><U+0627><U+0648><U+0632><U+064A><U+0631>",NA
+161,254,"YEM","Yemen",12,"Hadramawt",161,"Ghayl Bin Yamin","Muderiah","District","<U+063A><U+064A><U+0644> <U+0628><U+0646> <U+064A><U+0645><U+064A><U+0646>",NA
+162,254,"YEM","Yemen",12,"Hadramawt",162,"Hagr As Sai'ar","Muderiah","District","<U+062D><U+062C><U+0631> <U+0627><U+0644><U+0635><U+064A><U+0639><U+0631>",NA
+163,254,"YEM","Yemen",12,"Hadramawt",163,"Hajr","Muderiah","District","<U+062D><U+062C><U+0631>",NA
+164,254,"YEM","Yemen",12,"Hadramawt",164,"Hidaybu","Muderiah","District","<U+062D><U+062F><U+064A><U+0628><U+0648>",NA
+165,254,"YEM","Yemen",12,"Hadramawt",165,"Huraidhah","Muderiah","District","<U+062D><U+0631><U+064A><U+0636><U+0647>",NA
+166,254,"YEM","Yemen",12,"Hadramawt",166,"Qulensya Wa Abd Al Kuri","Muderiah","District","<U+0642><U+0644><U+0646><U+0633><U+064A><U+0647> <U+0648><U+0639><U+0628><U+062F><U+0627><U+0644><U+0643><U+0648><U+0631><U+064A>",NA
+167,254,"YEM","Yemen",12,"Hadramawt",167,"Rakhyah","Muderiah","District","<U+0631><U+062E><U+064A><U+0647>",NA
+168,254,"YEM","Yemen",12,"Hadramawt",168,"Rumah","Muderiah","District","<U+0631><U+0645><U+0627><U+0647>",NA
+169,254,"YEM","Yemen",12,"Hadramawt",169,"Sah","Muderiah","District","<U+0633><U+0627><U+0647>",NA
+170,254,"YEM","Yemen",12,"Hadramawt",170,"Sayun","Muderiah","District","<U+0633><U+064A><U+0626><U+0648><U+0646>",NA
+171,254,"YEM","Yemen",12,"Hadramawt",171,"Shibam","Muderiah","District","<U+0634><U+0628><U+0627><U+0645>",NA
+172,254,"YEM","Yemen",12,"Hadramawt",172,"Tarim","Muderiah","District","<U+062A><U+0631><U+064A><U+0645>",NA
+173,254,"YEM","Yemen",12,"Hadramawt",173,"Thamud","Muderiah","District","<U+062B><U+0645><U+0648><U+062F>",NA
+174,254,"YEM","Yemen",12,"Hadramawt",174,"Wadi Al Ayn","Muderiah","District","<U+0648><U+0627><U+062F><U+064A> <U+0627><U+0644><U+0639><U+064A><U+0646> <U+0648><U+062D><U+0648><U+0631><U+0647>",NA
+175,254,"YEM","Yemen",12,"Hadramawt",175,"Yabuth","Muderiah","District","<U+064A><U+0628><U+0639><U+062B>",NA
+176,254,"YEM","Yemen",12,"Hadramawt",176,"Zamakh wa Manwakh","Muderiah","District","<U+0632><U+0645><U+0648><U+062E> <U+0648><U+0645><U+0646><U+0648><U+062E>",NA
+177,254,"YEM","Yemen",13,"Hajjah",177,"Abs","Muderiah","District","<U+0639><U+0628><U+0633>",NA
+178,254,"YEM","Yemen",13,"Hajjah",178,"Aflah Al Yaman","Muderiah","District","<U+0627><U+0641><U+0644><U+062D> <U+0627><U+0644><U+064A><U+0645><U+0646>",NA
+179,254,"YEM","Yemen",13,"Hajjah",179,"Aflah Ash Shawm","Muderiah","District","<U+0627><U+0641><U+0644><U+062D> <U+0627><U+0644><U+0634><U+0627><U+0645>",NA
+180,254,"YEM","Yemen",13,"Hajjah",180,"Al Jamimah","Muderiah","District","<U+0627><U+0644><U+062C><U+0645><U+064A><U+0645><U+0629>",NA
+181,254,"YEM","Yemen",13,"Hajjah",181,"Al Maghrabah","Muderiah","District","<U+0627><U+0644><U+0645><U+063A><U+0631><U+0628><U+0629>",NA
+182,254,"YEM","Yemen",13,"Hajjah",182,"Al Mahabishah","Muderiah","District","<U+0627><U+0644><U+0645><U+062D><U+0627><U+0628><U+0634><U+0629>",NA
+183,254,"YEM","Yemen",13,"Hajjah",183,"Al Miftah","Muderiah","District","<U+0627><U+0644><U+0645><U+0641><U+062A><U+0627><U+062D>",NA
+184,254,"YEM","Yemen",13,"Hajjah",184,"Ash Shaghadirah","Muderiah","District","<U+0627><U+0644><U+0634><U+063A><U+0627><U+062F><U+0631><U+0629>",NA
+185,254,"YEM","Yemen",13,"Hajjah",185,"Ash Shahil","Muderiah","District","<U+0627><U+0644><U+0634><U+0627><U+0647><U+0644>",NA
+186,254,"YEM","Yemen",13,"Hajjah",186,"Aslem","Muderiah","District","<U+0627><U+0633><U+0644><U+0645>",NA
+187,254,"YEM","Yemen",13,"Hajjah",187,"Bakil Al Mir","Muderiah","District","<U+0628><U+0643><U+064A><U+0644> <U+0627><U+0644><U+0645><U+064A><U+0631>",NA
+188,254,"YEM","Yemen",13,"Hajjah",188,"Bani Al Awam","Muderiah","District","<U+0628><U+0646><U+064A> <U+0627><U+0644><U+0639><U+0648><U+0627><U+0645>",NA
+189,254,"YEM","Yemen",13,"Hajjah",189,"Bani Qa'is","Muderiah","District","<U+0628><U+0646><U+064A> <U+0642><U+064A><U+0633>",NA
+190,254,"YEM","Yemen",13,"Hajjah",190,"Hajjah City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+062D><U+062C><U+0629>",NA
+191,254,"YEM","Yemen",13,"Hajjah",191,"Hajjah","Muderiah","District","<U+062D><U+062C><U+0629>",NA
+192,254,"YEM","Yemen",13,"Hajjah",192,"Harad","Muderiah","District","<U+062D><U+0631><U+0636>",NA
+193,254,"YEM","Yemen",13,"Hajjah",193,"Hayran","Muderiah","District","<U+062D><U+064A><U+0631><U+0627><U+0646>",NA
+194,254,"YEM","Yemen",13,"Hajjah",194,"Khayran Al Muharraq","Muderiah","District","<U+062E><U+064A><U+0631><U+0627><U+0646> <U+0627><U+0644><U+0645><U+062D><U+0631><U+0642>",NA
+195,254,"YEM","Yemen",13,"Hajjah",195,"Ku'aydinah","Muderiah","District","<U+0643><U+0639><U+064A><U+062F><U+0646><U+0647>",NA
+196,254,"YEM","Yemen",13,"Hajjah",196,"Kuhlan Affar","Muderiah","District","<U+0643><U+062D><U+0644><U+0627><U+0646> <U+0639><U+0641><U+0627><U+0631>",NA
+197,254,"YEM","Yemen",13,"Hajjah",197,"Kuhlan Ash Sharaf","Muderiah","District","<U+0643><U+062D><U+0644><U+0627><U+0646> <U+0627><U+0644><U+0634><U+0631><U+0641>",NA
+198,254,"YEM","Yemen",13,"Hajjah",198,"Kushar","Muderiah","District","<U+0643><U+0634><U+0631>",NA
+199,254,"YEM","Yemen",13,"Hajjah",199,"Mabyan","Muderiah","District","<U+0645><U+0628><U+064A><U+0646>",NA
+200,254,"YEM","Yemen",13,"Hajjah",200,"Midi","Muderiah","District","<U+0645><U+064A><U+062F><U+064A>",NA
+201,254,"YEM","Yemen",13,"Hajjah",201,"Mustaba","Muderiah","District","<U+0645><U+0633><U+062A><U+0628><U+0627><U+0621>",NA
+202,254,"YEM","Yemen",13,"Hajjah",202,"Najrah","Muderiah","District","<U+0646><U+062C><U+0631><U+0629>",NA
+203,254,"YEM","Yemen",13,"Hajjah",203,"Qafl Shamer","Muderiah","District","<U+0642><U+0641><U+0644> <U+0634><U+0645><U+0631>",NA
+204,254,"YEM","Yemen",13,"Hajjah",204,"Qarah","Muderiah","District","<U+0642><U+0627><U+0631><U+0629>",NA
+205,254,"YEM","Yemen",13,"Hajjah",205,"Sharas","Muderiah","District","<U+0634><U+0631><U+0633>",NA
+206,254,"YEM","Yemen",13,"Hajjah",206,"Wadhrah","Muderiah","District","<U+0648><U+0636><U+0631><U+0629>",NA
+207,254,"YEM","Yemen",13,"Hajjah",207,"Washhah","Muderiah","District","<U+0648><U+0634><U+062D><U+0629>",NA
+208,254,"YEM","Yemen",14,"Ibb",208,"Al Dhihar","Muderiah","District","<U+0627><U+0644><U+0638><U+0647><U+0627><U+0631>",NA
+209,254,"YEM","Yemen",14,"Ibb",209,"Al Makhadir","Muderiah","District","<U+0627><U+0644><U+0645><U+062E><U+0627><U+062F><U+0631>",NA
+210,254,"YEM","Yemen",14,"Ibb",210,"Al Mashannah","Muderiah","District","<U+0627><U+0644><U+0645><U+0634><U+0646><U+0629>",NA
+211,254,"YEM","Yemen",14,"Ibb",211,"Al Qafr","Muderiah","District","<U+0627><U+0644><U+0642><U+0641><U+0631>",NA
+212,254,"YEM","Yemen",14,"Ibb",212,"Al Udayn","Muderiah","District","<U+0627><U+0644><U+0639><U+062F><U+064A><U+0646>",NA
+213,254,"YEM","Yemen",14,"Ibb",213,"An Nadirah","Muderiah","District","<U+0627><U+0644><U+0646><U+0627><U+062F><U+0631><U+0629>",NA
+214,254,"YEM","Yemen",14,"Ibb",214,"Ar Radmah","Muderiah","District","<U+0627><U+0644><U+0631><U+0636><U+0645><U+0629>",NA
+215,254,"YEM","Yemen",14,"Ibb",215,"As Sabrah","Muderiah","District","<U+0627><U+0644><U+0633><U+0628><U+0631><U+0629>",NA
+216,254,"YEM","Yemen",14,"Ibb",216,"As Saddah","Muderiah","District","<U+0627><U+0644><U+0633><U+062F><U+0629>",NA
+217,254,"YEM","Yemen",14,"Ibb",217,"As Sayyani","Muderiah","District","<U+0627><U+0644><U+0633><U+064A><U+0627><U+0646><U+064A>",NA
+218,254,"YEM","Yemen",14,"Ibb",218,"Ash Sha'ir","Muderiah","District","<U+0627><U+0644><U+0634><U+0639><U+0631>",NA
+219,254,"YEM","Yemen",14,"Ibb",219,"Ba'dan","Muderiah","District","<U+0628><U+0639><U+062F><U+0627><U+0646>",NA
+220,254,"YEM","Yemen",14,"Ibb",220,"Dhi As Sufal","Muderiah","District","<U+0630><U+064A> <U+0627><U+0644><U+0633><U+0641><U+0627><U+0644>",NA
+221,254,"YEM","Yemen",14,"Ibb",221,"Far Al Udayn","Muderiah","District","<U+0641><U+0631><U+0639> <U+0627><U+0644><U+0639><U+062F><U+064A><U+0646>",NA
+222,254,"YEM","Yemen",14,"Ibb",222,"Hazm Al Udayn","Muderiah","District","<U+062D><U+0632><U+0645> <U+0627><U+0644><U+0639><U+062F><U+064A><U+0646>",NA
+223,254,"YEM","Yemen",14,"Ibb",223,"Hubaysh","Muderiah","District","<U+062D><U+0628><U+064A><U+0634>",NA
+224,254,"YEM","Yemen",14,"Ibb",224,"Ibb","Muderiah","District","<U+0625><U+0628>",NA
+225,254,"YEM","Yemen",14,"Ibb",225,"Jiblah","Muderiah","District","<U+062C><U+0628><U+0644><U+0629>",NA
+226,254,"YEM","Yemen",14,"Ibb",226,"Mudhaykhirah","Muderiah","District","<U+0645><U+0630><U+064A><U+062E><U+0631><U+0629>",NA
+227,254,"YEM","Yemen",14,"Ibb",227,"Yarim","Muderiah","District","<U+064A><U+0631><U+064A><U+0645>",NA
+228,254,"YEM","Yemen",15,"Lahij",228,"Al  Hawtah","Muderiah","District","<U+0627><U+0644><U+062D><U+0648><U+0637><U+0629>",NA
+229,254,"YEM","Yemen",15,"Lahij",229,"Al Had","Muderiah","District","<U+0627><U+0644><U+062D><U+062F>",NA
+230,254,"YEM","Yemen",15,"Lahij",230,"Al Madaribah Wa Al Arah","Muderiah","District","<U+0627><U+0644><U+0645><U+0636><U+0627><U+0631><U+0628><U+0629> <U+0648> <U+0627><U+0644><U+0639><U+0627><U+0631><U+0647>",NA
+231,254,"YEM","Yemen",15,"Lahij",231,"Al Maflahy","Muderiah","District","<U+0627><U+0644><U+0645><U+0641><U+0644><U+062D><U+064A>",NA
+232,254,"YEM","Yemen",15,"Lahij",232,"Al Maqatirah","Muderiah","District","<U+0627><U+0644><U+0645><U+0642><U+0627><U+0637><U+0631><U+0629>",NA
+233,254,"YEM","Yemen",15,"Lahij",233,"Al Milah","Muderiah","District","<U+0627><U+0644><U+0645><U+0644><U+0627><U+062D>",NA
+234,254,"YEM","Yemen",15,"Lahij",234,"Al Musaymir","Muderiah","District","<U+0627><U+0644><U+0645><U+0633><U+064A><U+0645><U+064A><U+0631>",NA
+235,254,"YEM","Yemen",15,"Lahij",235,"Al Qabbaytah","Muderiah","District","<U+0627><U+0644><U+0642><U+0628><U+064A><U+0637><U+0647>",NA
+236,254,"YEM","Yemen",15,"Lahij",236,"Habil Jabr","Muderiah","District","<U+062D><U+0628><U+064A><U+0644> <U+062C><U+0628><U+0631>",NA
+237,254,"YEM","Yemen",15,"Lahij",237,"Halimayn","Muderiah","District","<U+062D><U+0627><U+0644><U+0645><U+064A><U+0646>",NA
+238,254,"YEM","Yemen",15,"Lahij",238,"Radfan","Muderiah","District","<U+0631><U+062F><U+0641><U+0627><U+0646>",NA
+239,254,"YEM","Yemen",15,"Lahij",239,"Tuban","Muderiah","District","<U+062A><U+0628><U+0646>",NA
+240,254,"YEM","Yemen",15,"Lahij",240,"Tur Al Bahah","Muderiah","District","<U+0637><U+0648><U+0631> <U+0627><U+0644><U+0628><U+0627><U+062D><U+0629>",NA
+241,254,"YEM","Yemen",15,"Lahij",241,"Yafa'a","Muderiah","District","<U+064A><U+0627><U+0641><U+0639>",NA
+242,254,"YEM","Yemen",15,"Lahij",242,"Yahr","Muderiah","District","<U+064A><U+0647><U+0631>",NA
+243,254,"YEM","Yemen",16,"Ma'rib",243,"Al Abdiyah","Muderiah","District","<U+0627><U+0644><U+0639><U+0628><U+062F><U+064A><U+0629>",NA
+244,254,"YEM","Yemen",16,"Ma'rib",244,"Al Jubah","Muderiah","District","<U+0627><U+0644><U+062C><U+0648><U+0628><U+0629>",NA
+245,254,"YEM","Yemen",16,"Ma'rib",245,"Bidbadah","Muderiah","District","<U+0628><U+062F><U+0628><U+062F><U+0647>",NA
+246,254,"YEM","Yemen",16,"Ma'rib",246,"Harib Al Qaramish","Muderiah","District","<U+062D><U+0631><U+064A><U+0628> <U+0627><U+0644><U+0642><U+0631><U+0627><U+0645><U+0634>",NA
+247,254,"YEM","Yemen",16,"Ma'rib",247,"Harib","Muderiah","District","<U+062D><U+0631><U+064A><U+0628>",NA
+248,254,"YEM","Yemen",16,"Ma'rib",248,"Jabal Murad","Muderiah","District","<U+062C><U+0628><U+0644> <U+0645><U+0631><U+0627><U+062F>",NA
+249,254,"YEM","Yemen",16,"Ma'rib",249,"Mahliyah","Muderiah","District","<U+0645><U+0627><U+0647><U+0644><U+064A><U+0647>",NA
+250,254,"YEM","Yemen",16,"Ma'rib",250,"Majzar","Muderiah","District","<U+0645><U+062C><U+0632><U+0631>",NA
+251,254,"YEM","Yemen",16,"Ma'rib",251,"Marib City","Muderiah","District","<U+0645><U+062F><U+064A><U+0646><U+0629> <U+0645><U+0623><U+0631><U+0628>",NA
+252,254,"YEM","Yemen",16,"Ma'rib",252,"Marib","Muderiah","District","<U+0645><U+0623><U+0631><U+0628>",NA
+253,254,"YEM","Yemen",16,"Ma'rib",253,"Medghal","Muderiah","District","<U+0645><U+062F><U+063A><U+0644>",NA
+254,254,"YEM","Yemen",16,"Ma'rib",254,"Raghwan","Muderiah","District","<U+0631><U+063A><U+0648><U+0627><U+0646>",NA
+255,254,"YEM","Yemen",16,"Ma'rib",255,"Rahabah","Muderiah","District","<U+0631><U+062D><U+0628><U+0647>",NA
+256,254,"YEM","Yemen",16,"Ma'rib",256,"Sirwah","Muderiah","District","<U+0635><U+0631><U+0648><U+0627><U+062D>",NA
+257,254,"YEM","Yemen",17,"Raymah",257,"Al Jabin","Muderiah","District","<U+0627><U+0644><U+062C><U+0628><U+064A><U+0646>",NA
+258,254,"YEM","Yemen",17,"Raymah",258,"Al Jafariyah","Muderiah","District","<U+0627><U+0644><U+062C><U+0639><U+0641><U+0631><U+064A><U+0629>",NA
+259,254,"YEM","Yemen",17,"Raymah",259,"As Salafiyah","Muderiah","District","<U+0627><U+0644><U+0633><U+0644><U+0641><U+064A><U+0629>",NA
+260,254,"YEM","Yemen",17,"Raymah",260,"Bilad At Ta'am","Muderiah","District","<U+0628><U+0644><U+0627><U+062F> <U+0627><U+0644><U+0637><U+0639><U+0627><U+0645>",NA
+261,254,"YEM","Yemen",17,"Raymah",261,"Kusmah","Muderiah","District","<U+0643><U+0633><U+0645><U+0647>",NA
+262,254,"YEM","Yemen",17,"Raymah",262,"Mazhar","Muderiah","District","<U+0645><U+0632><U+0647><U+0631>",NA
+263,254,"YEM","Yemen",18,"Sa`dah",263,"Al Dhaher","Muderiah","District","<U+0627><U+0644><U+0638><U+0627><U+0647><U+0631>",NA
+264,254,"YEM","Yemen",18,"Sa`dah",264,"Al Hashwah","Muderiah","District","<U+0627><U+0644><U+062D><U+0634><U+0648><U+0647>",NA
+265,254,"YEM","Yemen",18,"Sa`dah",265,"As Safra","Muderiah","District","<U+0627><U+0644><U+0635><U+0641><U+0631><U+0627><U+0621>",NA
+266,254,"YEM","Yemen",18,"Sa`dah",266,"Baqim","Muderiah","District","<U+0628><U+0627><U+0642><U+0645>",NA
+267,254,"YEM","Yemen",18,"Sa`dah",267,"Ghamr","Muderiah","District","<U+063A><U+0645><U+0631>",NA
+268,254,"YEM","Yemen",18,"Sa`dah",268,"Haydan","Muderiah","District","<U+062D><U+064A><U+062F><U+0627><U+0646>",NA
+269,254,"YEM","Yemen",18,"Sa`dah",269,"Kitaf wa Al Boqe'e","Muderiah","District","<U+0643><U+062A><U+0627><U+0641> <U+0648><U+0627><U+0644><U+0628><U+0642><U+0639>",NA
+270,254,"YEM","Yemen",18,"Sa`dah",270,"Majz","Muderiah","District","<U+0645><U+062C><U+0632>",NA
+271,254,"YEM","Yemen",18,"Sa`dah",271,"Monabbih","Muderiah","District","<U+0645><U+0646><U+0628><U+0647>",NA
+272,254,"YEM","Yemen",18,"Sa`dah",272,"Qatabir","Muderiah","District","<U+0642><U+0637><U+0627><U+0628><U+0631>",NA
+273,254,"YEM","Yemen",18,"Sa`dah",273,"Razih","Muderiah","District","<U+0631><U+0627><U+0632><U+062D>",NA
+274,254,"YEM","Yemen",18,"Sa`dah",274,"Sa'adah","Muderiah","District","<U+0635><U+0639><U+062F><U+0629>",NA
+275,254,"YEM","Yemen",18,"Sa`dah",275,"Sahar","Muderiah","District","<U+0633><U+062D><U+0627><U+0631>",NA
+276,254,"YEM","Yemen",18,"Sa`dah",276,"Saqayn","Muderiah","District","<U+0633><U+0627><U+0642><U+064A><U+0646>",NA
+277,254,"YEM","Yemen",18,"Sa`dah",277,"Shada'a","Muderiah","District","<U+0634><U+062F><U+0627><U+0621>",NA
+278,254,"YEM","Yemen",19,"San`a'",278,"Al Haymah Ad Dakhiliyah","Muderiah","District","<U+0627><U+0644><U+062D><U+064A><U+0645><U+0629> <U+0627><U+0644><U+062F><U+0627><U+062E><U+0644><U+064A><U+0629>",NA
+279,254,"YEM","Yemen",19,"San`a'",279,"Al Haymah Al Kharijiyah","Muderiah","District","<U+0627><U+0644><U+062D><U+064A><U+0645><U+0629> <U+0627><U+0644><U+062E><U+0627><U+0631><U+062C><U+064A><U+0629>",NA
+280,254,"YEM","Yemen",19,"San`a'",280,"Al Husn","Muderiah","District","<U+0627><U+0644><U+062D><U+0635><U+0646>",NA
+281,254,"YEM","Yemen",19,"San`a'",281,"Arhab","Muderiah","District","<U+0627><U+0631><U+062D><U+0628>",NA
+282,254,"YEM","Yemen",19,"San`a'",282,"Attyal","Muderiah","District","<U+0627><U+0644><U+0637><U+064A><U+0627><U+0644>",NA
+283,254,"YEM","Yemen",19,"San`a'",283,"Bani Dhabyan","Muderiah","District","<U+0628><U+0646><U+064A> <U+0636><U+0628><U+064A><U+0627><U+0646>",NA
+284,254,"YEM","Yemen",19,"San`a'",284,"Bani Hushaysh","Muderiah","District","<U+0628><U+0646><U+064A> <U+062D><U+0634><U+064A><U+0634>",NA
+285,254,"YEM","Yemen",19,"San`a'",285,"Bani Matar","Muderiah","District","<U+0628><U+0646><U+064A> <U+0645><U+0637><U+0631>",NA
+286,254,"YEM","Yemen",19,"San`a'",286,"Bilad Ar Rus","Muderiah","District","<U+0628><U+0644><U+0627><U+062F> <U+0627><U+0644><U+0631><U+0648><U+0633>",NA
+287,254,"YEM","Yemen",19,"San`a'",287,"Hamdan","Muderiah","District","<U+0647><U+0645><U+062F><U+0627><U+0646>",NA
+288,254,"YEM","Yemen",19,"San`a'",288,"Jihanah","Muderiah","District","<U+062C><U+062D><U+0627><U+0646><U+0629>",NA
+289,254,"YEM","Yemen",19,"San`a'",289,"Khwlan","Muderiah","District","<U+062E><U+0648><U+0644><U+0627><U+0646>",NA
+290,254,"YEM","Yemen",19,"San`a'",290,"Manakhah","Muderiah","District","<U+0645><U+0646><U+0627><U+062E><U+0647>",NA
+291,254,"YEM","Yemen",19,"San`a'",291,"Nihm","Muderiah","District","<U+0646><U+0647><U+0645>",NA
+292,254,"YEM","Yemen",19,"San`a'",292,"Sa'fan","Muderiah","District","<U+0635><U+0639><U+0641><U+0627><U+0646>",NA
+293,254,"YEM","Yemen",19,"San`a'",293,"Sanhan","Muderiah","District","<U+0633><U+0646><U+062D><U+0627><U+0646> <U+0648><U+0628><U+0646><U+064A> <U+0628><U+0647><U+0644><U+0648><U+0644>",NA
+294,254,"YEM","Yemen",20,"Shabwah",294,"Ain","Muderiah","District","<U+0639><U+064A><U+0646>",NA
+295,254,"YEM","Yemen",20,"Shabwah",295,"Al Talh","Muderiah","District","<U+0627><U+0644><U+0637><U+0644><U+062D>",NA
+296,254,"YEM","Yemen",20,"Shabwah",296,"Ar Rawdah","Muderiah","District","<U+0627><U+0644><U+0631><U+0648><U+0636><U+0647>",NA
+297,254,"YEM","Yemen",20,"Shabwah",297,"Arma","Muderiah","District","<U+0639><U+0631><U+0645><U+0627><U+0621>",NA
+298,254,"YEM","Yemen",20,"Shabwah",298,"As Said","Muderiah","District","<U+0627><U+0644><U+0635><U+0639><U+064A><U+062F>",NA
+299,254,"YEM","Yemen",20,"Shabwah",299,"Ataq","Muderiah","District","<U+0639><U+062A><U+0642>",NA
+300,254,"YEM","Yemen",20,"Shabwah",300,"Bayhan","Muderiah","District","<U+0628><U+064A><U+062D><U+0627><U+0646>",NA
+301,254,"YEM","Yemen",20,"Shabwah",301,"Dhar","Muderiah","District","<U+062F><U+0647><U+0631>",NA
+302,254,"YEM","Yemen",20,"Shabwah",302,"Habban","Muderiah","District","<U+062D><U+0628><U+0627><U+0646>",NA
+303,254,"YEM","Yemen",20,"Shabwah",303,"Hatib","Muderiah","District","<U+062D><U+0637><U+064A><U+0628>",NA
+304,254,"YEM","Yemen",20,"Shabwah",304,"Jardan","Muderiah","District","<U+062C><U+0631><U+062F><U+0627><U+0646>",NA
+305,254,"YEM","Yemen",20,"Shabwah",305,"Mayfa'a","Muderiah","District","<U+0645><U+064A><U+0641><U+0639><U+0647>",NA
+306,254,"YEM","Yemen",20,"Shabwah",306,"Merkhah Al Ulya","Muderiah","District","<U+0645><U+0631><U+062E><U+0647> <U+0627><U+0644><U+0639><U+0644><U+064A><U+0627>",NA
+307,254,"YEM","Yemen",20,"Shabwah",307,"Merkhah As Sufla","Muderiah","District","<U+0645><U+0631><U+062E><U+0647> <U+0627><U+0644><U+0633><U+0641><U+0644><U+0649>",NA
+308,254,"YEM","Yemen",20,"Shabwah",308,"Nisab","Muderiah","District","<U+0646><U+0635><U+0627><U+0628>",NA
+309,254,"YEM","Yemen",20,"Shabwah",309,"Rudum","Muderiah","District","<U+0631><U+0636><U+0648><U+0645>",NA
+310,254,"YEM","Yemen",20,"Shabwah",310,"Usaylan","Muderiah","District","<U+0639><U+0633><U+064A><U+0644><U+0627><U+0646>",NA
+311,254,"YEM","Yemen",21,"Ta`izz",311,"Al  Mukha","Muderiah","District","<U+0627><U+0644><U+0645><U+062E><U+0627><U+0621>",NA
+312,254,"YEM","Yemen",21,"Ta`izz",312,"Al Ma'afer","Muderiah","District","<U+0627><U+0644><U+0645><U+0639><U+0627><U+0641><U+0631>",NA
+313,254,"YEM","Yemen",21,"Ta`izz",313,"Al Mawasit","Muderiah","District","<U+0627><U+0644><U+0645><U+0648><U+0627><U+0633><U+0637>",NA
+314,254,"YEM","Yemen",21,"Ta`izz",314,"Al Misrakh","Muderiah","District","<U+0627><U+0644><U+0645><U+0633><U+0631><U+0627><U+062E>",NA
+315,254,"YEM","Yemen",21,"Ta`izz",315,"Al Mudhaffar","Muderiah","District","<U+0627><U+0644><U+0645><U+0638><U+0641><U+0631>",NA
+316,254,"YEM","Yemen",21,"Ta`izz",316,"Al Qahirah","Muderiah","District","<U+0627><U+0644><U+0642><U+0627><U+0647><U+0631><U+0629>",NA
+317,254,"YEM","Yemen",21,"Ta`izz",317,"Al Wazi'iyah","Muderiah","District","<U+0627><U+0644><U+0648><U+0627><U+0632><U+0639><U+064A><U+0629>",NA
+318,254,"YEM","Yemen",21,"Ta`izz",318,"As Silw","Muderiah","District","<U+0627><U+0644><U+0635><U+0644><U+0648>",NA
+319,254,"YEM","Yemen",21,"Ta`izz",319,"Ash Shamayatayn","Muderiah","District","<U+0627><U+0644><U+0634><U+0645><U+0627><U+064A><U+062A><U+064A><U+0646>",NA
+320,254,"YEM","Yemen",21,"Ta`izz",320,"At Ta'iziyah","Muderiah","District","<U+0627><U+0644><U+062A><U+0639><U+0632><U+064A><U+0629>",NA
+321,254,"YEM","Yemen",21,"Ta`izz",321,"Dhubab","Muderiah","District","<U+0630><U+0628><U+0627><U+0628>",NA
+322,254,"YEM","Yemen",21,"Ta`izz",322,"Dimnat Khadir","Muderiah","District","<U+062F><U+0645><U+0646><U+0629> <U+062E><U+062F><U+064A><U+0631>",NA
+323,254,"YEM","Yemen",21,"Ta`izz",323,"Hayfan","Muderiah","District","<U+062D><U+064A><U+0641><U+0627><U+0646>",NA
+324,254,"YEM","Yemen",21,"Ta`izz",324,"Jabal Habashy","Muderiah","District","<U+062C><U+0628><U+0644> <U+062D><U+0628><U+0634><U+064A>",NA
+325,254,"YEM","Yemen",21,"Ta`izz",325,"Maqbanah","Muderiah","District","<U+0645><U+0642><U+0628><U+0646><U+0629>",NA
+326,254,"YEM","Yemen",21,"Ta`izz",326,"Mashra'a Wa Hadnan","Muderiah","District","<U+0645><U+0634><U+0631><U+0639><U+0629> <U+0648><U+062D><U+062F><U+0646><U+0627><U+0646>",NA
+327,254,"YEM","Yemen",21,"Ta`izz",327,"Mawiyah","Muderiah","District","<U+0645><U+0627><U+0648><U+064A><U+0629>",NA
+328,254,"YEM","Yemen",21,"Ta`izz",328,"Mawza","Muderiah","District","<U+0645><U+0648><U+0632><U+0639>",NA
+329,254,"YEM","Yemen",21,"Ta`izz",329,"Sabir Al Mawadim","Muderiah","District","<U+0635><U+0628><U+0631> <U+0627><U+0644><U+0645><U+0648><U+0627><U+062F><U+0645>",NA
+330,254,"YEM","Yemen",21,"Ta`izz",330,"Salh","Muderiah","District","<U+0635><U+0627><U+0644><U+0629>",NA
+331,254,"YEM","Yemen",21,"Ta`izz",331,"Sama","Muderiah","District","<U+0633><U+0627><U+0645><U+0639>",NA
+332,254,"YEM","Yemen",21,"Ta`izz",332,"Shara'b Ar Rawnah","Muderiah","District","<U+0634><U+0631><U+0639><U+0628> <U+0627><U+0644><U+0631><U+0648><U+0646><U+0629>",NA
+333,254,"YEM","Yemen",21,"Ta`izz",333,"Shara'b As Salam","Muderiah","District","<U+0634><U+0631><U+0639><U+0628> <U+0627><U+0644><U+0633><U+0644><U+0627><U+0645>",NA

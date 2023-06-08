@@ -8,7 +8,7 @@ import os
 import sys
 import json
 import pandas as pd
-
+import csv
 # set up system paths
 qspath = r'C:\Users\martin\PycharmProjects\HeatMapMaker\QGIS script/qgis_sys_paths.csv'
 # provide the path where you saved this file.
@@ -44,13 +44,22 @@ import processing
 QgsApplication.processingRegistry().addProvider(QgsNativeAlgorithms())
 
 def download():
+
+    value_to_check = input("Enter a value to check: ")
+    # Call the function to check if the value exists in the CSV file
+    print(check_value_in_csv(value_to_check))
+
+
     inputcountry = input("Country: ")
+
     if not os.path.isdir(f'{inputcountry}'):
         print("Folder does not exist: Downloading files")
         baseurl = 'https://biogeo.ucdavis.edu/data/diva/adm/'
         url = baseurl + inputcountry + "_adm.zip"
         r = requests.get(url, allow_redirects=True)
-        open('{}.zip'.format(inputcountry), 'wb').write(r.content)
+        with open('{}.zip'.format(inputcountry), 'wb') as file:
+            file.write(r.content)
+        file.close()
         os.mkdir(inputcountry)
         with ZipFile('{}.zip'.format(inputcountry), 'r') as zObject:
             zObject.extractall('{}'.format(inputcountry))
@@ -65,11 +74,12 @@ def process(data, ctr):
     print("Entering Processing")
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
     print(filtered_list)
-    layer = QgsVectorLayer("/{}".format(ctr), filtered_list[0], "ogr")
-    processing.run("qgis:randompointsinsidepolygons", {'INPUT': layer,
+    layer = QgsVectorLayer("{}".format(ctr), filtered_list[0], "ogr")
+    print(layer.isValid())
+    a = processing.run("qgis:randompointsinsidepolygons", {'INPUT': layer,
                     'STRATEGY': 0, 'VALUE': 100,
-                    'MIN_DISTANCE': None, 'OUTPUT': './{}/randompoints_temp.shp'.format(ctr)})
-    processing.run("qgis:heatmapkerneldensityestimation", {'INPUT': layer, 'RADIUS': 0.5, 'RADIUS_FIELD': '', 'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
+                    'MIN_DISTANCE': None, 'OUTPUT': 'TEMPORARY_OUTPUT'})
+    processing.run("qgis:heatmapkerneldensityestimation", {'INPUT': a, 'RADIUS': 0.5, 'RADIUS_FIELD': '', 'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
                     'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': 'TEMPORARY_OUTPUT'})
 
     # processing.run("gdal:cliprasterbymasklayer", {
@@ -83,6 +93,20 @@ def process(data, ctr):
 
 def cleanworkspace():
     pass
+
+def check_value_in_csv(value):
+    with open('countries.csv', 'r') as file:
+        csv_reader = csv.reader(file)
+        for row in csv_reader:
+            # Check if the value exists in the first column
+            if row[0] == value:
+                return row[1]
+            # Check if the value exists in the second column
+            if row[1] == value:
+                return row[0]
+    return False
+
+# Get user input
 
 def main():
     admlist, ctr = download()
