@@ -83,7 +83,7 @@ def process(data, ctr):
         'STRATEGY': 0, 'VALUE': 500,
         'MIN_DISTANCE': None, 'OUTPUT': '{}/randompoints.shp'.format(ctr)})
     processing.run("qgis:heatmapkerneldensityestimation", {
-        'INPUT': '{}/randompoints.shp'.format(ctr), 'RADIUS': 0.5, 'RADIUS_FIELD': '',
+        'INPUT': "{}/randompoints.shp".format(ctr), 'RADIUS': 0.5, 'RADIUS_FIELD': '',
         'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
         'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': '{}/heatmap.tiff'.format(ctr)})
     processing.run("gdal:cliprasterbymasklayer", {
