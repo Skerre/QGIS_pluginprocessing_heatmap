@@ -10,7 +10,11 @@ import json
 import pandas as pd
 import csv
 
+# qgis library imports
+# import PyQt5.QtCore
+# import qgis.PyQt.QtCore
 from qgis.utils import iface
+# from qgis.PyQt.QtGui import QIcon
 
 # set up system paths
 qspath = r'C:\Users\martin\PycharmProjects\HeatMapMaker\QGIS script/qgis_sys_paths.csv'
@@ -26,14 +30,12 @@ js = json.loads(file.read())
 for k, v in js.items():
     os.environ[k] = v
 file.close()
-# qgis library imports
-import PyQt5.QtCore
-import qgis.PyQt.QtCore
+
 from qgis.core import (QgsApplication,
                        QgsProcessingFeedback,
                        QgsProcessingRegistry)
 from qgis.analysis import QgsNativeAlgorithms
-from qgis.PyQt.QtGui import QIcon
+
 feedback = QgsProcessingFeedback()
 # initializing processing module
 QgsApplication.setPrefixPath(js['HOME'], True)
@@ -97,10 +99,10 @@ def process(data, ctr):
 
 def cleanworkspace(ctr):
     print("Cleaning Workspace")
-    os.remove('{}/randompoints.shp'.format(ctr))
-    os.remove('{}/randompoints.dbf'.format(ctr))
-    os.remove('{}/randompoints.prj'.format(ctr))
-    os.remove('{}/randompoints.shx'.format(ctr))
+    # os.remove('{}/randompoints.shp'.format(ctr))
+    # os.remove('{}/randompoints.dbf'.format(ctr))
+    # os.remove('{}/randompoints.prj'.format(ctr))
+    # os.remove('{}/randompoints.shx'.format(ctr))
     os.remove('{}/heatmap.tiff'.format(ctr))
     os.remove('{}/heatmap.tiff.aux.xml'.format(ctr))
     print("Successfully cleaned Workspace")
@@ -127,15 +129,15 @@ def plot_map():
     # Set Extent
     # an example of how to set map extent with coordinates
 
-    rectangle = QgsRectangle(1355502, -46398, 1734534, 137094)
-    map.setExtent(rectangle)
-    canvas = iface.mapCanvas()
-
-    # sets map extent to current map canvas
-    map.setExtent(canvas.extent())
-    layout.addLayoutItem(map)
-    cleanworkspace()
-    print("finished plotting")
+    # rectangle = QgsRectangle(1355502, -46398, 1734534, 137094)
+    # map.setExtent(rectangle)
+    # canvas = iface.mapCanvas()
+    #
+    # # sets map extent to current map canvas
+    # map.setExtent(canvas.extent())
+    # layout.addLayoutItem(map)
+    # cleanworkspace()
+    # print("finished plotting")
 def check_value_in_csv(value):
     with open('countries.csv', 'r') as file:
         csv_reader = csv.reader(file)

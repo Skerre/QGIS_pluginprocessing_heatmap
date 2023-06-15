@@ -1,0 +1,138 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,227,"TZA","Tanzania",1,"Arusha",1,"Arumeru","Wilaya","District",NA,NA
+2,227,"TZA","Tanzania",1,"Arusha",2,"Arusha","Wilaya","District",NA,NA
+3,227,"TZA","Tanzania",1,"Arusha",3,"Karatu","Wilaya","District",NA,NA
+4,227,"TZA","Tanzania",1,"Arusha",4,"Monduli","Wilaya","District",NA,NA
+5,227,"TZA","Tanzania",1,"Arusha",5,"Ngorongoro","Wilaya","District",NA,NA
+6,227,"TZA","Tanzania",1,"Arusha",6,"Simanjiro","Wilaya","District",NA,NA
+7,227,"TZA","Tanzania",2,"Dar-Es-Salaam",7,"Ilala","Wilaya","District",NA,NA
+8,227,"TZA","Tanzania",2,"Dar-Es-Salaam",8,"Kinondoni","Wilaya","District",NA,NA
+9,227,"TZA","Tanzania",2,"Dar-Es-Salaam",9,"Temeke","Wilaya","District",NA,NA
+10,227,"TZA","Tanzania",3,"Dodoma",10,"Dodoma Rural","Wilaya","District",NA,NA
+11,227,"TZA","Tanzania",3,"Dodoma",11,"Dodoma Urban","Wilaya","District",NA,NA
+12,227,"TZA","Tanzania",3,"Dodoma",12,"Kondoa","Wilaya","District",NA,NA
+13,227,"TZA","Tanzania",3,"Dodoma",13,"Kongwa","Wilaya","District",NA,NA
+14,227,"TZA","Tanzania",3,"Dodoma",14,"Mpwapwa","Wilaya","District",NA,NA
+15,227,"TZA","Tanzania",4,"Iringa",15,"Iringa Rural","Wilaya","District",NA,NA
+16,227,"TZA","Tanzania",4,"Iringa",16,"Iringa Urban","Wilaya","District",NA,NA
+17,227,"TZA","Tanzania",4,"Iringa",17,"Kilolo","Wilaya","District",NA,NA
+18,227,"TZA","Tanzania",4,"Iringa",18,"Kilosa","Wilaya","District",NA,NA
+19,227,"TZA","Tanzania",4,"Iringa",19,"Ludewa","Wilaya","District",NA,NA
+20,227,"TZA","Tanzania",4,"Iringa",20,"Makete","Wilaya","District",NA,NA
+21,227,"TZA","Tanzania",4,"Iringa",21,"Mufindi","Wilaya","District",NA,NA
+22,227,"TZA","Tanzania",4,"Iringa",22,"Njombe","Wilaya","District",NA,NA
+23,227,"TZA","Tanzania",5,"Kagera",23,"Biharamulo","Wilaya","District",NA,NA
+24,227,"TZA","Tanzania",5,"Kagera",24,"Bukoba Rural","Wilaya","District",NA,NA
+25,227,"TZA","Tanzania",5,"Kagera",25,"Bukoba Urban","Wilaya","District",NA,NA
+26,227,"TZA","Tanzania",5,"Kagera",26,"Karagwe","Wilaya","District",NA,NA
+27,227,"TZA","Tanzania",5,"Kagera",27,"Lake Victoria","Water body","Water body",NA,NA
+28,227,"TZA","Tanzania",5,"Kagera",28,"Muleba","Wilaya","District",NA,NA
+29,227,"TZA","Tanzania",5,"Kagera",29,"Ngara","Wilaya","District",NA,NA
+30,227,"TZA","Tanzania",6,"Kaskazini-Pemba",30,"Micheweni","Wilaya","District",NA,NA
+31,227,"TZA","Tanzania",6,"Kaskazini-Pemba",31,"Wete","Wilaya","District",NA,NA
+32,227,"TZA","Tanzania",7,"Kaskazini-Unguja",32,"Kaskazini 'A'","Wilaya","District",NA,"North A"
+33,227,"TZA","Tanzania",7,"Kaskazini-Unguja",33,"Kaskazini 'B'","Wilaya","District",NA,"North B;Zansibar North"
+34,227,"TZA","Tanzania",8,"Kigoma",34,"Kasulu","Wilaya","District",NA,NA
+35,227,"TZA","Tanzania",8,"Kigoma",35,"Kibondo","Wilaya","District",NA,NA
+36,227,"TZA","Tanzania",8,"Kigoma",36,"Kigoma Rural","Wilaya","District",NA,NA
+37,227,"TZA","Tanzania",8,"Kigoma",37,"Kigoma Urban","Wilaya","District",NA,NA
+38,227,"TZA","Tanzania",8,"Kigoma",38,"Lake Tanganyika","Wilaya","District",NA,NA
+39,227,"TZA","Tanzania",9,"Kilimanjaro",39,"Hai","Wilaya","District",NA,NA
+40,227,"TZA","Tanzania",9,"Kilimanjaro",40,"Moshi Rural","Wilaya","District",NA,NA
+41,227,"TZA","Tanzania",9,"Kilimanjaro",41,"Moshi Urban","Wilaya","District",NA,NA
+42,227,"TZA","Tanzania",9,"Kilimanjaro",42,"Mwanga","Wilaya","District",NA,NA
+43,227,"TZA","Tanzania",9,"Kilimanjaro",43,"Rombo","Wilaya","District",NA,NA
+44,227,"TZA","Tanzania",9,"Kilimanjaro",44,"Same","Wilaya","District",NA,NA
+45,227,"TZA","Tanzania",10,"Kusini-Pemba",45,"Chakechake","Wilaya","District",NA,"Chake|Chake Chake"
+46,227,"TZA","Tanzania",10,"Kusini-Pemba",46,"Mkoani","Wilaya","District",NA,NA
+47,227,"TZA","Tanzania",11,"Lindi",47,"Kilwa","Wilaya","District",NA,NA
+48,227,"TZA","Tanzania",11,"Lindi",48,"Lindi Rural","Wilaya","District",NA,NA
+49,227,"TZA","Tanzania",11,"Lindi",49,"Lindi Urban","Wilaya","District",NA,NA
+50,227,"TZA","Tanzania",11,"Lindi",50,"Liwale","Wilaya","District",NA,NA
+51,227,"TZA","Tanzania",11,"Lindi",51,"Nachingwea","Wilaya","District",NA,NA
+52,227,"TZA","Tanzania",11,"Lindi",52,"Ruangwa","Wilaya","District",NA,NA
+53,227,"TZA","Tanzania",12,"Manyara",53,"Babati","Wilaya","District",NA,NA
+54,227,"TZA","Tanzania",12,"Manyara",54,"Hanang","Wilaya","District",NA,NA
+55,227,"TZA","Tanzania",12,"Manyara",55,"Karatu","Wilaya","District",NA,NA
+56,227,"TZA","Tanzania",12,"Manyara",56,"Kiteto","Wilaya","District",NA,NA
+57,227,"TZA","Tanzania",12,"Manyara",57,"Mbulu","Wilaya","District",NA,NA
+58,227,"TZA","Tanzania",12,"Manyara",58,"Simanjiro","Wilaya","District",NA,NA
+59,227,"TZA","Tanzania",13,"Mara",59,"Bunda","Wilaya","District",NA,NA
+60,227,"TZA","Tanzania",13,"Mara",60,"Lake Victoria","Water body","Water body",NA,NA
+61,227,"TZA","Tanzania",13,"Mara",61,"Musoma Rural","Wilaya","District",NA,NA
+62,227,"TZA","Tanzania",13,"Mara",62,"Musoma Urban","Wilaya","District",NA,NA
+63,227,"TZA","Tanzania",13,"Mara",63,"Serengeti","Wilaya","District",NA,NA
+64,227,"TZA","Tanzania",13,"Mara",64,"Tarime","Wilaya","District",NA,NA
+65,227,"TZA","Tanzania",14,"Mbeya",65,"Chunya","Wilaya","District",NA,NA
+66,227,"TZA","Tanzania",14,"Mbeya",66,"Ileje","Wilaya","District",NA,NA
+67,227,"TZA","Tanzania",14,"Mbeya",67,"Kyela","Wilaya","District",NA,NA
+68,227,"TZA","Tanzania",14,"Mbeya",68,"Mbarali","Wilaya","District",NA,NA
+69,227,"TZA","Tanzania",14,"Mbeya",69,"Mbeya Rural","Wilaya","District",NA,NA
+70,227,"TZA","Tanzania",14,"Mbeya",70,"Mbeya Urban","Wilaya","District",NA,NA
+71,227,"TZA","Tanzania",14,"Mbeya",71,"Mbozi","Wilaya","District",NA,NA
+72,227,"TZA","Tanzania",14,"Mbeya",72,"Rungwe","Wilaya","District",NA,NA
+73,227,"TZA","Tanzania",15,"Morogoro",73,"Kilombero","Wilaya","District",NA,NA
+74,227,"TZA","Tanzania",15,"Morogoro",74,"Kilosa","Wilaya","District",NA,NA
+75,227,"TZA","Tanzania",15,"Morogoro",75,"Morogoro Rural","Wilaya","District",NA,NA
+76,227,"TZA","Tanzania",15,"Morogoro",76,"Morogoro Urban","Wilaya","District",NA,NA
+77,227,"TZA","Tanzania",15,"Morogoro",77,"Mvomero","Wilaya","District",NA,NA
+78,227,"TZA","Tanzania",15,"Morogoro",78,"Ulanga","Wilaya","District",NA,NA
+79,227,"TZA","Tanzania",16,"Mtwara",79,"Masasi","Wilaya","District",NA,NA
+80,227,"TZA","Tanzania",16,"Mtwara",80,"Mtwara Rural","Wilaya","District",NA,NA
+81,227,"TZA","Tanzania",16,"Mtwara",81,"Mtwara Urban","Wilaya","District",NA,NA
+82,227,"TZA","Tanzania",16,"Mtwara",82,"Newala","Wilaya","District",NA,NA
+83,227,"TZA","Tanzania",16,"Mtwara",83,"Tandahimba","Wilaya","District",NA,NA
+84,227,"TZA","Tanzania",17,"Mwanza",84,"Geita","Wilaya","District",NA,NA
+85,227,"TZA","Tanzania",17,"Mwanza",85,"Ilemela","Wilaya","District",NA,NA
+86,227,"TZA","Tanzania",17,"Mwanza",86,"Kwimba","Wilaya","District",NA,NA
+87,227,"TZA","Tanzania",17,"Mwanza",87,"Lake Victoria","Wilaya","District",NA,NA
+88,227,"TZA","Tanzania",17,"Mwanza",88,"Magu","Wilaya","District",NA,NA
+89,227,"TZA","Tanzania",17,"Mwanza",89,"Misungwi","Wilaya","District",NA,NA
+90,227,"TZA","Tanzania",17,"Mwanza",90,"Nyamagana","Wilaya","District",NA,NA
+91,227,"TZA","Tanzania",17,"Mwanza",91,"Sengerema","Wilaya","District",NA,NA
+92,227,"TZA","Tanzania",17,"Mwanza",92,"Ukerewe","Wilaya","District",NA,NA
+93,227,"TZA","Tanzania",18,"Pwani",93,"Bagamoyo","Wilaya","District",NA,NA
+94,227,"TZA","Tanzania",18,"Pwani",94,"Kibaha","Wilaya","District",NA,NA
+95,227,"TZA","Tanzania",18,"Pwani",95,"Kisarawe","Wilaya","District",NA,NA
+96,227,"TZA","Tanzania",18,"Pwani",96,"Mafia","Wilaya","District",NA,NA
+97,227,"TZA","Tanzania",18,"Pwani",97,"Mkuranga","Wilaya","District",NA,NA
+98,227,"TZA","Tanzania",18,"Pwani",98,"Rufiji","Wilaya","District",NA,NA
+99,227,"TZA","Tanzania",19,"Rukwa",99,"Mpanda","Wilaya","District",NA,"Nkansi"
+100,227,"TZA","Tanzania",19,"Rukwa",100,"Nkasi","Wilaya","District",NA,"Nkansi"
+101,227,"TZA","Tanzania",19,"Rukwa",101,"Sumbawanga Rural","Wilaya","District",NA,NA
+102,227,"TZA","Tanzania",19,"Rukwa",102,"Sumbawanga Urban","Wilaya","District",NA,"Sumbawanga Rural"
+103,227,"TZA","Tanzania",20,"Ruvuma",103,"Mbinga","Wilaya","District",NA,NA
+104,227,"TZA","Tanzania",20,"Ruvuma",104,"Namtumbo","Wilaya","District",NA,NA
+105,227,"TZA","Tanzania",20,"Ruvuma",105,"Songea Rural","Wilaya","District",NA,NA
+106,227,"TZA","Tanzania",20,"Ruvuma",106,"Songea Urban","Wilaya","District",NA,NA
+107,227,"TZA","Tanzania",20,"Ruvuma",107,"Tunduru","Wilaya","District",NA,NA
+108,227,"TZA","Tanzania",21,"Shinyanga",108,"Bariadi","Wilaya","District",NA,NA
+109,227,"TZA","Tanzania",21,"Shinyanga",109,"Bukombe","Wilaya","District",NA,NA
+110,227,"TZA","Tanzania",21,"Shinyanga",110,"Kahama","Wilaya","District",NA,NA
+111,227,"TZA","Tanzania",21,"Shinyanga",111,"Kishapu","Wilaya","District",NA,NA
+112,227,"TZA","Tanzania",21,"Shinyanga",112,"Maswa","Wilaya","District",NA,NA
+113,227,"TZA","Tanzania",21,"Shinyanga",113,"Meatu","Wilaya","District",NA,NA
+114,227,"TZA","Tanzania",21,"Shinyanga",114,"Shinyanga Rural","Wilaya","District",NA,NA
+115,227,"TZA","Tanzania",21,"Shinyanga",115,"Shinyanga Urban","Wilaya","District",NA,NA
+116,227,"TZA","Tanzania",22,"Singida",116,"Iramba","Wilaya","District",NA,NA
+117,227,"TZA","Tanzania",22,"Singida",117,"Manyoni","Wilaya","District",NA,NA
+118,227,"TZA","Tanzania",22,"Singida",118,"Singida Rural","Wilaya","District",NA,NA
+119,227,"TZA","Tanzania",22,"Singida",119,"Singida Urban","Wilaya","District",NA,NA
+120,227,"TZA","Tanzania",23,"Tabora",120,"Igunga","Wilaya","District",NA,NA
+121,227,"TZA","Tanzania",23,"Tabora",121,"n.a. ( 1081)","Wilaya","District",NA,NA
+122,227,"TZA","Tanzania",23,"Tabora",122,"Nzega","Wilaya","District",NA,NA
+123,227,"TZA","Tanzania",23,"Tabora",123,"Sikonge","Wilaya","District",NA,NA
+124,227,"TZA","Tanzania",23,"Tabora",124,"Tabora Urban","Wilaya","District",NA,NA
+125,227,"TZA","Tanzania",23,"Tabora",125,"Urambo","Wilaya","District",NA,NA
+126,227,"TZA","Tanzania",23,"Tabora",126,"Uyui","Wilaya","District",NA,NA
+127,227,"TZA","Tanzania",24,"Tanga",127,"Handeni","Wilaya","District",NA,NA
+128,227,"TZA","Tanzania",24,"Tanga",128,"Kilindi","Wilaya","District",NA,NA
+129,227,"TZA","Tanzania",24,"Tanga",129,"Korogwe","Wilaya","District",NA,NA
+130,227,"TZA","Tanzania",24,"Tanga",130,"Lushoto","Wilaya","District",NA,NA
+131,227,"TZA","Tanzania",24,"Tanga",131,"Muheza","Wilaya","District",NA,NA
+132,227,"TZA","Tanzania",24,"Tanga",132,"Pangani","Wilaya","District",NA,NA
+133,227,"TZA","Tanzania",24,"Tanga",133,"Tanga","Wilaya","District",NA,NA
+134,227,"TZA","Tanzania",25,"Zanzibar South and Central",134,"Kusini","Wilaya","District",NA,"Zansibar South;South"
+135,227,"TZA","Tanzania",25,"Zanzibar South and Central",135,"Zansibar Central","Wilaya","District",NA,"Kati"
+136,227,"TZA","Tanzania",26,"Zanzibar West",136,"Magharibi","Wilaya","District",NA,NA
+137,227,"TZA","Tanzania",26,"Zanzibar West",137,"Mjini","Wilaya","District",NA,"Zansibar Town;Urban"
