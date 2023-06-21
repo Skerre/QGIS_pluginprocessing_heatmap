@@ -79,10 +79,14 @@ def process(data, ctr):
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
     print(filtered_list)
     layer = QgsVectorLayer("{}".format(ctr), filtered_list[0], "ogr")
-    print("Input Layer Valid?",layer.isValid())
+    if layer.isValid():
+        print("Input Layer is valid")
+    else:
+        print("Input Layer not found or empty")
+        return
     processing.run("qgis:randompointsinsidepolygons", {
         'INPUT': layer,
-        'STRATEGY': 0, 'VALUE': 500,
+        'STRATEGY': 0, 'VALUE': 200,
         'MIN_DISTANCE': None, 'OUTPUT': '{}/randompoints.shp'.format(ctr)})
     processing.run("qgis:heatmapkerneldensityestimation", {
         'INPUT': "{}/randompoints.shp".format(ctr), 'RADIUS': 0.5, 'RADIUS_FIELD': '',
@@ -91,7 +95,7 @@ def process(data, ctr):
     processing.run("gdal:cliprasterbymasklayer", {
         'INPUT': '{}/heatmap.tiff'.format(ctr),
         'MASK': "{}/".format(ctr) + filtered_list[0], 'SOURCE_CRS': None, 'TARGET_CRS': None,
-        'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': False, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
+        'TARGET_EXTENT': None, 'NODATA': -1, 'ALPHA_BAND': True, 'CROP_TO_CUTLINE': True, 'KEEP_RESOLUTION': False,
         'SET_RESOLUTION': False, 'X_RESOLUTION': None, 'Y_RESOLUTION': None, 'MULTITHREADING': False, 'OPTIONS': '',
         'DATA_TYPE': 0, 'EXTRA': '', 'OUTPUT': '{}/clipped_heatmap.tiff'.format(ctr)})
 
@@ -99,13 +103,19 @@ def process(data, ctr):
 
 def cleanworkspace(ctr):
     print("Cleaning Workspace")
-    # os.remove('{}/randompoints.shp'.format(ctr))
-    # os.remove('{}/randompoints.dbf'.format(ctr))
-    # os.remove('{}/randompoints.prj'.format(ctr))
-    # os.remove('{}/randompoints.shx'.format(ctr))
-    os.remove('{}/heatmap.tiff'.format(ctr))
-    os.remove('{}/heatmap.tiff.aux.xml'.format(ctr))
-    print("Successfully cleaned Workspace")
+    try:
+        os.remove('{}/randompoints.shp'.format(ctr))
+        os.remove('{}/randompoints.dbf'.format(ctr))
+        os.remove('{}/randompoints.prj'.format(ctr))
+        os.remove('{}/randompoints.shx'.format(ctr))
+    except:
+        print("Could not delete random points")
+    try:
+        print("Failed to clean Randompoints")
+        os.remove('{}/heatmap.tiff'.format(ctr))
+        os.remove('{}/heatmap.tiff.aux.xml'.format(ctr))
+    finally:
+        print("Successfully cleaned Workspace")
 def plot_map():
     print("entering plotting")
     """This creates a new print layout"""
@@ -113,31 +123,11 @@ def plot_map():
     manager = project.layoutManager()  # gets a reference to the layout manager
     layout = QgsPrintLayout(project)  # makes a new print layout object, takes a QgsProject as argument
     layoutName = "PrintLayout"
-
     layouts_list = manager.printLayouts()
     for layout in layouts_list:
         if layout.name() == layoutName:
             manager.removeLayout(layout)
 
-    # layout = QgsPrintLayout(project)
-    # layout.initializeDefaults()  # create default map canvas
-    # layout.setName(layoutName)
-    # manager.addLayout(layout)
-    # map = QgsLayoutItemMap(layout)
-    # map.setRect(20, 20, 20, 20)
-
-    # Set Extent
-    # an example of how to set map extent with coordinates
-
-    # rectangle = QgsRectangle(1355502, -46398, 1734534, 137094)
-    # map.setExtent(rectangle)
-    # canvas = iface.mapCanvas()
-    #
-    # # sets map extent to current map canvas
-    # map.setExtent(canvas.extent())
-    # layout.addLayoutItem(map)
-    # cleanworkspace()
-    # print("finished plotting")
 def check_value_in_csv(value):
     with open('countries.csv', 'r') as file:
         csv_reader = csv.reader(file)

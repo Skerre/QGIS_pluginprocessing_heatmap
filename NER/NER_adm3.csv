@@ -1,0 +1,132 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,162,"NER","Niger",1,"Agadez",1,"Arlit",1,"ZR Arlit","Commune","Commune",NA,NA
+2,162,"NER","Niger",1,"Agadez",2,"Bilma",2,"Bilma","Commune","Commune",NA,NA
+3,162,"NER","Niger",1,"Agadez",2,"Bilma",3,"Kawar","Commune","Commune",NA,NA
+4,162,"NER","Niger",1,"Agadez",3,"Tchighozerine",4,"ZR Tchirozerine","Commune","Commune",NA,NA
+5,162,"NER","Niger",2,"Diffa",4,"Diffa",5,"Bosso","Commune","Commune",NA,NA
+6,162,"NER","Niger",2,"Diffa",4,"Diffa",6,"Diffa","Commune","Commune",NA,NA
+7,162,"NER","Niger",2,"Diffa",4,"Diffa",7,"Komadougou","Commune","Commune",NA,NA
+8,162,"NER","Niger",2,"Diffa",5,"Maïné-Soroa",8,"Goudoumaria","Commune","Commune",NA,NA
+9,162,"NER","Niger",2,"Diffa",5,"Maïné-Soroa",9,"Maine Soroa","Commune","Commune",NA,NA
+10,162,"NER","Niger",2,"Diffa",6,"N'Guigmi",10,"N' Guigmi","Commune","Commune",NA,NA
+11,162,"NER","Niger",2,"Diffa",6,"N'Guigmi",11,"ZR N' Guigmi","Commune","Commune",NA,NA
+12,162,"NER","Niger",3,"Dosso",7,"Boboye",12,"Birni Ngaoure","Commune","Commune",NA,NA
+13,162,"NER","Niger",3,"Dosso",7,"Boboye",13,"Kiota","Commune","Commune",NA,NA
+14,162,"NER","Niger",3,"Dosso",7,"Boboye",14,"Koygolo","Commune","Commune",NA,NA
+15,162,"NER","Niger",3,"Dosso",8,"Dogon-Doutchi",15,"Dogondoutchi","Commune","Commune",NA,NA
+16,162,"NER","Niger",3,"Dosso",8,"Dogon-Doutchi",16,"Takassaba","Commune","Commune",NA,NA
+17,162,"NER","Niger",3,"Dosso",8,"Dogon-Doutchi",17,"Tchibiri","Commune","Commune",NA,NA
+18,162,"NER","Niger",3,"Dosso",9,"Dosso",18,"Dosso","Commune","Commune",NA,NA
+19,162,"NER","Niger",3,"Dosso",10,"Gaya",19,"Bana","Commune","Commune",NA,NA
+20,162,"NER","Niger",3,"Dosso",10,"Gaya",20,"Dioundou","Commune","Commune",NA,NA
+21,162,"NER","Niger",3,"Dosso",10,"Gaya",21,"Gaya","Commune","Commune",NA,NA
+22,162,"NER","Niger",3,"Dosso",10,"Gaya",22,"Karakara","Commune","Commune",NA,NA
+23,162,"NER","Niger",3,"Dosso",10,"Gaya",23,"Yelou","Commune","Commune",NA,NA
+24,162,"NER","Niger",3,"Dosso",10,"Gaya",24,"Zaboki","Commune","Commune",NA,NA
+25,162,"NER","Niger",3,"Dosso",11,"Loga",25,"Falwel","Commune","Commune",NA,NA
+26,162,"NER","Niger",3,"Dosso",11,"Loga",26,"Goubey","Commune","Commune",NA,NA
+27,162,"NER","Niger",3,"Dosso",11,"Loga",27,"Sokorbe","Commune","Commune",NA,NA
+28,162,"NER","Niger",4,"Maradi",12,"Aguié",28,"Aguie","Commune","Commune",NA,NA
+29,162,"NER","Niger",4,"Maradi",12,"Aguié",29,"Gangara","Commune","Commune",NA,NA
+30,162,"NER","Niger",4,"Maradi",13,"Dakoro",30,"Balder Goula","Commune","Commune",NA,NA
+31,162,"NER","Niger",4,"Maradi",13,"Dakoro",31,"Birni N' Lalle","Commune","Commune",NA,NA
+32,162,"NER","Niger",4,"Maradi",13,"Dakoro",32,"Kornaka","Commune","Commune",NA,NA
+33,162,"NER","Niger",4,"Maradi",13,"Dakoro",33,"Tagris Soli","Commune","Commune",NA,NA
+34,162,"NER","Niger",4,"Maradi",13,"Dakoro",34,"ZR Dakoro","Commune","Commune",NA,NA
+35,162,"NER","Niger",4,"Maradi",14,"Groumdji",35,"Chadakori","Commune","Commune",NA,NA
+36,162,"NER","Niger",4,"Maradi",14,"Groumdji",36,"Guidan Roumdji","Commune","Commune",NA,NA
+37,162,"NER","Niger",4,"Maradi",14,"Groumdji",37,"Guidan Sori","Commune","Commune",NA,NA
+38,162,"NER","Niger",4,"Maradi",14,"Groumdji",38,"Sae Saboua","Commune","Commune",NA,NA
+39,162,"NER","Niger",4,"Maradi",14,"Groumdji",39,"Tibiri","Commune","Commune",NA,NA
+40,162,"NER","Niger",4,"Maradi",15,"Madarounfa",40,"Gabi","Commune","Commune",NA,NA
+41,162,"NER","Niger",4,"Maradi",15,"Madarounfa",41,"Madarounfa","Commune","Commune",NA,NA
+42,162,"NER","Niger",4,"Maradi",15,"Madarounfa",42,"Mjiratawa","Commune","Commune",NA,NA
+43,162,"NER","Niger",4,"Maradi",15,"Madarounfa",43,"Safo","Commune","Commune",NA,NA
+44,162,"NER","Niger",4,"Maradi",15,"Madarounfa",44,"Sarkin Yamma","Commune","Commune",NA,NA
+45,162,"NER","Niger",4,"Maradi",16,"Mayahi",45,"Kanembakache","Commune","Commune",NA,NA
+46,162,"NER","Niger",4,"Maradi",16,"Mayahi",46,"Mayahi","Commune","Commune",NA,NA
+47,162,"NER","Niger",4,"Maradi",17,"Tessaoua",47,"Korghom","Commune","Commune",NA,NA
+48,162,"NER","Niger",4,"Maradi",17,"Tessaoua",48,"Ourafane","Commune","Commune",NA,NA
+49,162,"NER","Niger",4,"Maradi",17,"Tessaoua",49,"Tessaoua","Commune","Commune",NA,NA
+50,162,"NER","Niger",5,"Niamey",18,"Niamey",50,"Lamorde","Commune","Commune",NA,NA
+51,162,"NER","Niger",6,"Tahoua",19,"Bkonni",51,"Birni N' Konni","Commune","Commune",NA,NA
+52,162,"NER","Niger",6,"Tahoua",19,"Bkonni",52,"Doguerawa","Commune","Commune",NA,NA
+53,162,"NER","Niger",6,"Tahoua",20,"Bouza",53,"Bouza","Commune","Commune",NA,NA
+54,162,"NER","Niger",6,"Tahoua",20,"Bouza",54,"Deoul","Commune","Commune",NA,NA
+55,162,"NER","Niger",6,"Tahoua",21,"Illéla",55,"Illela","Commune","Commune",NA,NA
+56,162,"NER","Niger",6,"Tahoua",22,"Keita",56,"Garhanga","Commune","Commune",NA,NA
+57,162,"NER","Niger",6,"Tahoua",22,"Keita",57,"Keita","Commune","Commune",NA,NA
+58,162,"NER","Niger",6,"Tahoua",22,"Keita",58,"Tamaske","Commune","Commune",NA,NA
+59,162,"NER","Niger",6,"Tahoua",23,"Madaoua",59,"Madaoua","Commune","Commune",NA,NA
+60,162,"NER","Niger",6,"Tahoua",24,"Tahoua",60,"Bambeye","Commune","Commune",NA,NA
+61,162,"NER","Niger",6,"Tahoua",24,"Tahoua",61,"Kalfou","Commune","Commune",NA,NA
+62,162,"NER","Niger",6,"Tahoua",24,"Tahoua",62,"Tahoua","Commune","Commune",NA,NA
+63,162,"NER","Niger",6,"Tahoua",25,"Tchin-Tabarade",63,"ZR Tchin-Tabaraden","Commune","Commune",NA,NA
+64,162,"NER","Niger",7,"Tillabéry",26,"Filingué",64,"Imanan","Commune","Commune",NA,NA
+65,162,"NER","Niger",7,"Tillabéry",26,"Filingué",65,"Kourfeye","Commune","Commune",NA,NA
+66,162,"NER","Niger",7,"Tillabéry",26,"Filingué",66,"Tagazar","Commune","Commune",NA,NA
+67,162,"NER","Niger",7,"Tillabéry",26,"Filingué",67,"Tondikandia","Commune","Commune",NA,NA
+68,162,"NER","Niger",7,"Tillabéry",27,"Kollo",68,"Fakara","Commune","Commune",NA,NA
+69,162,"NER","Niger",7,"Tillabéry",27,"Kollo",69,"Hamdallye","Commune","Commune",NA,NA
+70,162,"NER","Niger",7,"Tillabéry",27,"Kollo",70,"Karma","Commune","Commune",NA,NA
+71,162,"NER","Niger",7,"Tillabéry",27,"Kollo",71,"Kirtachi","Commune","Commune",NA,NA
+72,162,"NER","Niger",7,"Tillabéry",27,"Kollo",72,"Koure","Commune","Commune",NA,NA
+73,162,"NER","Niger",7,"Tillabéry",27,"Kollo",73,"Libore","Commune","Commune",NA,NA
+74,162,"NER","Niger",7,"Tillabéry",27,"Kollo",74,"N'Dounga","Commune","Commune",NA,NA
+75,162,"NER","Niger",7,"Tillabéry",27,"Kollo",75,"Namaro","Commune","Commune",NA,NA
+76,162,"NER","Niger",7,"Tillabéry",28,"Ouallam",76,"Ouallam","Commune","Commune",NA,NA
+77,162,"NER","Niger",7,"Tillabéry",28,"Ouallam",77,"Simiri","Commune","Commune",NA,NA
+78,162,"NER","Niger",7,"Tillabéry",28,"Ouallam",78,"Tondikiwindi","Commune","Commune",NA,NA
+79,162,"NER","Niger",7,"Tillabéry",29,"Say",79,"Gueladio","Commune","Commune",NA,NA
+80,162,"NER","Niger",7,"Tillabéry",29,"Say",80,"Parc W","Commune","Commune",NA,NA
+81,162,"NER","Niger",7,"Tillabéry",29,"Say",81,"Say","Commune","Commune",NA,NA
+82,162,"NER","Niger",7,"Tillabéry",29,"Say",82,"Tamou","Commune","Commune",NA,NA
+83,162,"NER","Niger",7,"Tillabéry",29,"Say",83,"Torodi","Commune","Commune",NA,NA
+84,162,"NER","Niger",7,"Tillabéry",30,"Téra",84,"Dargol","Commune","Commune",NA,NA
+85,162,"NER","Niger",7,"Tillabéry",30,"Téra",85,"Diagorou","Commune","Commune",NA,NA
+86,162,"NER","Niger",7,"Tillabéry",30,"Téra",86,"Gorouol","Commune","Commune",NA,NA
+87,162,"NER","Niger",7,"Tillabéry",30,"Téra",87,"Kokoro","Commune","Commune",NA,NA
+88,162,"NER","Niger",7,"Tillabéry",30,"Téra",88,"Tera","Commune","Commune",NA,NA
+89,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",89,"Anzourou","Commune","Commune",NA,NA
+90,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",90,"Ayorou","Commune","Commune",NA,NA
+91,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",91,"Dessa","Commune","Commune",NA,NA
+92,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",92,"Kourtey","Commune","Commune",NA,NA
+93,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",93,"Sinder","Commune","Commune",NA,NA
+94,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry",94,"Tillaberi","Commune","Commune",NA,NA
+95,162,"NER","Niger",8,"Zinder",32,"Gouré",95,"Alakoss","Commune","Commune",NA,NA
+96,162,"NER","Niger",8,"Zinder",32,"Gouré",96,"Boune","Commune","Commune",NA,NA
+97,162,"NER","Niger",8,"Zinder",32,"Gouré",97,"Gamoa","Commune","Commune",NA,NA
+98,162,"NER","Niger",8,"Zinder",32,"Gouré",98,"Goure","Commune","Commune",NA,NA
+99,162,"NER","Niger",8,"Zinder",32,"Gouré",99,"Koutous","Commune","Commune",NA,NA
+100,162,"NER","Niger",8,"Zinder",32,"Gouré",100,"ZR Goure","Commune","Commune",NA,NA
+101,162,"NER","Niger",8,"Zinder",33,"Magaria",101,"Bande","Commune","Commune",NA,NA
+102,162,"NER","Niger",8,"Zinder",33,"Magaria",102,"Dantchiao","Commune","Commune",NA,NA
+103,162,"NER","Niger",8,"Zinder",33,"Magaria",103,"Doungass","Commune","Commune",NA,NA
+104,162,"NER","Niger",8,"Zinder",33,"Magaria",104,"Gouchi","Commune","Commune",NA,NA
+105,162,"NER","Niger",8,"Zinder",33,"Magaria",105,"Magaria","Commune","Commune",NA,NA
+106,162,"NER","Niger",8,"Zinder",33,"Magaria",106,"Mallaoua","Commune","Commune",NA,NA
+107,162,"NER","Niger",8,"Zinder",33,"Magaria",107,"Ouacha","Commune","Commune",NA,NA
+108,162,"NER","Niger",8,"Zinder",34,"Matameye",108,"Kantche","Commune","Commune",NA,NA
+109,162,"NER","Niger",8,"Zinder",35,"Mirriah",109,"Alberkaram","Commune","Commune",NA,NA
+110,162,"NER","Niger",8,"Zinder",35,"Mirriah",110,"Baban Tapki","Commune","Commune",NA,NA
+111,162,"NER","Niger",8,"Zinder",35,"Mirriah",111,"Commune de Zinder","Commune","Commune",NA,NA
+112,162,"NER","Niger",8,"Zinder",35,"Mirriah",112,"Dakoussa","Commune","Commune",NA,NA
+113,162,"NER","Niger",8,"Zinder",35,"Mirriah",113,"Damagaram Takaya","Commune","Commune",NA,NA
+114,162,"NER","Niger",8,"Zinder",35,"Mirriah",114,"Dogo","Commune","Commune",NA,NA
+115,162,"NER","Niger",8,"Zinder",35,"Mirriah",115,"Droum","Commune","Commune",NA,NA
+116,162,"NER","Niger",8,"Zinder",35,"Mirriah",116,"Gafati","Commune","Commune",NA,NA
+117,162,"NER","Niger",8,"Zinder",35,"Mirriah",117,"Garagoumsa","Commune","Commune",NA,NA
+118,162,"NER","Niger",8,"Zinder",35,"Mirriah",118,"Gouna","Commune","Commune",NA,NA
+119,162,"NER","Niger",8,"Zinder",35,"Mirriah",119,"Guidimouni","Commune","Commune",NA,NA
+120,162,"NER","Niger",8,"Zinder",35,"Mirriah",120,"Kissambana","Commune","Commune",NA,NA
+121,162,"NER","Niger",8,"Zinder",35,"Mirriah",121,"Mirria","Commune","Commune",NA,NA
+122,162,"NER","Niger",8,"Zinder",35,"Mirriah",122,"Moa","Commune","Commune",NA,NA
+123,162,"NER","Niger",8,"Zinder",35,"Mirriah",123,"Ouame","Commune","Commune",NA,NA
+124,162,"NER","Niger",8,"Zinder",35,"Mirriah",124,"Tirmini","Commune","Commune",NA,NA
+125,162,"NER","Niger",8,"Zinder",35,"Mirriah",125,"Zermou","Commune","Commune",NA,NA
+126,162,"NER","Niger",8,"Zinder",35,"Mirriah",126,"Zinder","Commune","Commune",NA,NA
+127,162,"NER","Niger",8,"Zinder",36,"Tanout",127,"Gangara","Commune","Commune",NA,NA
+128,162,"NER","Niger",8,"Zinder",36,"Tanout",128,"Ollelawa","Commune","Commune",NA,NA
+129,162,"NER","Niger",8,"Zinder",36,"Tanout",129,"Tanout","Commune","Commune",NA,NA
+130,162,"NER","Niger",8,"Zinder",36,"Tanout",130,"Tarka","Commune","Commune",NA,NA
+131,162,"NER","Niger",8,"Zinder",36,"Tanout",131,"ZR Tanout","Commune","Commune",NA,NA

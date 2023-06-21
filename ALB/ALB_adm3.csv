@@ -1,0 +1,379 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","ID_3","NAME_3","TYPE_3","ENGTYPE_3","NL_NAME_3","VARNAME_3"
+1,4,"ALB","Albania",1,"Berat",1,"Beratit",1,"Berat","Bashkia","Bashkia",NA,NA
+2,4,"ALB","Albania",1,"Berat",1,"Beratit",2,"Cukalat","Commune","Commune",NA,"Cukalt"
+3,4,"ALB","Albania",1,"Berat",1,"Beratit",3,"Kutalli","Commune","Commune",NA,"Kutali"
+4,4,"ALB","Albania",1,"Berat",1,"Beratit",4,"Lumas","Commune","Commune",NA,NA
+5,4,"ALB","Albania",1,"Berat",1,"Beratit",5,"Otllak","Commune","Commune",NA,"Otilak"
+6,4,"ALB","Albania",1,"Berat",1,"Beratit",6,"Poshnjë","Commune","Commune",NA,NA
+7,4,"ALB","Albania",1,"Berat",1,"Beratit",7,"Roshnik","Commune","Commune",NA,NA
+8,4,"ALB","Albania",1,"Berat",1,"Beratit",8,"Sinjë","Commune","Commune",NA,NA
+9,4,"ALB","Albania",1,"Berat",1,"Beratit",9,"Tërpan","Commune","Commune",NA,NA
+10,4,"ALB","Albania",1,"Berat",1,"Beratit",10,"Ura Vajgurorë","Bashkia","Bashkia",NA,NA
+11,4,"ALB","Albania",1,"Berat",1,"Beratit",11,"Velabisht","Commune","Commune",NA,NA
+12,4,"ALB","Albania",1,"Berat",1,"Beratit",12,"Vertop","Commune","Commune",NA,NA
+13,4,"ALB","Albania",1,"Berat",2,"Kuçovës",13,"Kozarë","Commune","Commune",NA,NA
+14,4,"ALB","Albania",1,"Berat",2,"Kuçovës",14,"Kuçovë","Commune","Commune",NA,NA
+15,4,"ALB","Albania",1,"Berat",2,"Kuçovës",15,"Perondi","Commune","Commune",NA,NA
+16,4,"ALB","Albania",1,"Berat",3,"Skraparit",16,"Çepan","Commune","Commune",NA,NA
+17,4,"ALB","Albania",1,"Berat",3,"Skraparit",17,"Çorovodë","Bashkia","Bashkia",NA,NA
+18,4,"ALB","Albania",1,"Berat",3,"Skraparit",18,"Bogovë","Commune","Commune",NA,NA
+19,4,"ALB","Albania",1,"Berat",3,"Skraparit",19,"Gjerbes","Commune","Commune",NA,NA
+20,4,"ALB","Albania",1,"Berat",3,"Skraparit",20,"Leshnjë","Commune","Commune",NA,NA
+21,4,"ALB","Albania",1,"Berat",3,"Skraparit",21,"Poliçan","Commune","Commune",NA,NA
+22,4,"ALB","Albania",1,"Berat",3,"Skraparit",22,"Potom","Commune","Commune",NA,NA
+23,4,"ALB","Albania",1,"Berat",3,"Skraparit",23,"Qendër","Commune","Commune",NA,"Qender Polican"
+24,4,"ALB","Albania",1,"Berat",3,"Skraparit",24,"Vendreshë","Commune","Commune",NA,NA
+25,4,"ALB","Albania",1,"Berat",3,"Skraparit",25,"Zhepë","Commune","Commune",NA,NA
+26,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",26,"Bulqizë","Bashkia","Bashkia",NA,NA
+27,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",27,"Fushë Bulqizë","Commune","Commune",NA,NA
+28,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",28,"Gjoricë","Commune","Commune",NA,NA
+29,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",29,"Ostren","Commune","Commune",NA,NA
+30,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",30,"Shupenzë","Commune","Commune",NA,NA
+31,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",31,"Steblevë","Commune","Commune",NA,NA
+32,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",32,"Trebisht","Commune","Commune",NA,NA
+33,4,"ALB","Albania",2,"Dibër",4,"Bulqizës",33,"Zerqan","Commune","Commune",NA,NA
+34,4,"ALB","Albania",2,"Dibër",5,"Dibrës",34,"Arras","Commune","Commune",NA,NA
+35,4,"ALB","Albania",2,"Dibër",5,"Dibrës",35,"Fushë Çidhen","Commune","Commune",NA,NA
+36,4,"ALB","Albania",2,"Dibër",5,"Dibrës",36,"Kala e Dodës","Commune","Commune",NA,NA
+37,4,"ALB","Albania",2,"Dibër",5,"Dibrës",37,"Kastriot","Commune","Commune",NA,NA
+38,4,"ALB","Albania",2,"Dibër",5,"Dibrës",38,"Lurë","Commune","Commune",NA,NA
+39,4,"ALB","Albania",2,"Dibër",5,"Dibrës",39,"Luzni","Commune","Commune",NA,NA
+40,4,"ALB","Albania",2,"Dibër",5,"Dibrës",40,"Maqellarë","Commune","Commune",NA,NA
+41,4,"ALB","Albania",2,"Dibër",5,"Dibrës",41,"Melan","Commune","Commune",NA,NA
+42,4,"ALB","Albania",2,"Dibër",5,"Dibrës",42,"Muhurr","Commune","Commune",NA,"Muhur| Fushe Muhurr"
+43,4,"ALB","Albania",2,"Dibër",5,"Dibrës",43,"Peshkopi","Bashkia","Bashkia",NA,NA
+44,4,"ALB","Albania",2,"Dibër",5,"Dibrës",44,"Qendër Tomin","Commune","Commune",NA,NA
+45,4,"ALB","Albania",2,"Dibër",5,"Dibrës",45,"Selishtë","Commune","Commune",NA,NA
+46,4,"ALB","Albania",2,"Dibër",5,"Dibrës",46,"Sllovë","Commune","Commune",NA,NA
+47,4,"ALB","Albania",2,"Dibër",5,"Dibrës",47,"Zall Dardhë","Commune","Commune",NA,NA
+48,4,"ALB","Albania",2,"Dibër",5,"Dibrës",48,"Zall Reç","Commune","Commune",NA,NA
+49,4,"ALB","Albania",2,"Dibër",6,"Matit",49,"Baz","Commune","Commune",NA,NA
+50,4,"ALB","Albania",2,"Dibër",6,"Matit",50,"Burrel","Bashkia","Bashkia",NA,NA
+51,4,"ALB","Albania",2,"Dibër",6,"Matit",51,"Derjan","Commune","Commune",NA,NA
+52,4,"ALB","Albania",2,"Dibër",6,"Matit",52,"Gurrë","Commune","Commune",NA,"Gure| Gurra"
+53,4,"ALB","Albania",2,"Dibër",6,"Matit",53,"Klos","Bashkia","Bashkia",NA,NA
+54,4,"ALB","Albania",2,"Dibër",6,"Matit",54,"Komsi","Commune","Commune",NA,NA
+55,4,"ALB","Albania",2,"Dibër",6,"Matit",55,"Lis","Commune","Commune",NA,NA
+56,4,"ALB","Albania",2,"Dibër",6,"Matit",56,"Macukull","Commune","Commune",NA,NA
+57,4,"ALB","Albania",2,"Dibër",6,"Matit",57,"Martanesh","Commune","Commune",NA,NA
+58,4,"ALB","Albania",2,"Dibër",6,"Matit",58,"Rukaj","Commune","Commune",NA,NA
+59,4,"ALB","Albania",2,"Dibër",6,"Matit",59,"Suç","Commune","Commune",NA,NA
+60,4,"ALB","Albania",2,"Dibër",6,"Matit",60,"Ulëz","Commune","Commune",NA,NA
+61,4,"ALB","Albania",2,"Dibër",6,"Matit",61,"Xibër","Commune","Commune",NA,NA
+62,4,"ALB","Albania",3,"Durrës",7,"Durrësit",62,"Durrës","Bashkia","Bashkia",NA,NA
+63,4,"ALB","Albania",3,"Durrës",7,"Durrësit",63,"Gjepalaj","Commune","Commune",NA,"Gjepelaj"
+64,4,"ALB","Albania",3,"Durrës",7,"Durrësit",64,"Ishëm","Commune","Commune",NA,NA
+65,4,"ALB","Albania",3,"Durrës",7,"Durrësit",65,"Katund i Ri","Commune","Commune",NA,"Katundi I Ri"
+66,4,"ALB","Albania",3,"Durrës",7,"Durrësit",66,"Maminas","Commune","Commune",NA,NA
+67,4,"ALB","Albania",3,"Durrës",7,"Durrësit",67,"Manëz","Bashkia","Bashkia",NA,NA
+68,4,"ALB","Albania",3,"Durrës",7,"Durrësit",68,"Rrashbull","Commune","Commune",NA,"Rashbull"
+69,4,"ALB","Albania",3,"Durrës",7,"Durrësit",69,"Shijak","Bashkia","Bashkia",NA,NA
+70,4,"ALB","Albania",3,"Durrës",7,"Durrësit",70,"Sukth","Bashkia","Bashkia",NA,NA
+71,4,"ALB","Albania",3,"Durrës",7,"Durrësit",71,"Xhafzotaj","Commune","Commune",NA,"Xhafzote"
+72,4,"ALB","Albania",3,"Durrës",8,"Krujës",72,"Bubq","Commune","Commune",NA,"Bubuq"
+73,4,"ALB","Albania",3,"Durrës",8,"Krujës",73,"Cudhi","Commune","Commune",NA,NA
+74,4,"ALB","Albania",3,"Durrës",8,"Krujës",74,"Fushë Krujë","Bashkia","Bashkia",NA,NA
+75,4,"ALB","Albania",3,"Durrës",8,"Krujës",75,"Kodër Thumanë","Commune","Commune",NA,"Thumane"
+76,4,"ALB","Albania",3,"Durrës",8,"Krujës",76,"Krujë","Bashkia","Bashkia",NA,NA
+77,4,"ALB","Albania",3,"Durrës",8,"Krujës",77,"Nikël","Commune","Commune",NA,NA
+78,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",78,"Belsh","Bashkia","Bashkia",NA,NA
+79,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",79,"Bradashesh","Commune","Commune",NA,"Bradasesh"
+80,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",80,"Cërrik","Bashkia","Bashkia",NA,NA
+81,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",81,"Elbasan","Bashkia","Bashkia",NA,NA
+82,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",82,"Fierz","Commune","Commune",NA,NA
+83,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",83,"Funarë","Commune","Commune",NA,"Funar"
+84,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",84,"Gjegjan","Commune","Commune",NA,NA
+85,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",85,"Gjinar","Commune","Commune",NA,NA
+86,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",86,"Gostimë","Commune","Commune",NA,"Gostim"
+87,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",87,"Gracen","Commune","Commune",NA,NA
+88,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",88,"Grekan","Commune","Commune",NA,NA
+89,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",89,"Kajan","Commune","Commune",NA,NA
+90,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",90,"Klos","Commune","Commune",NA,NA
+91,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",91,"Labinot Fushë","Commune","Commune",NA,NA
+92,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",92,"Labinot Mal","Commune","Commune",NA,NA
+93,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",93,"Mollas","Commune","Commune",NA,NA
+94,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",94,"Papër","Commune","Commune",NA,NA
+95,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",95,"Rrasë","Commune","Commune",NA,NA
+96,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",96,"Shalës","Commune","Commune",NA,NA
+97,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",97,"Shirgjan","Commune","Commune",NA,NA
+98,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",98,"Shushicë","Commune","Commune",NA,NA
+99,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",99,"Tregan","Commune","Commune",NA,NA
+100,4,"ALB","Albania",4,"Elbasan",9,"Elbasanit",100,"Zavalinë","Commune","Commune",NA,"Zavalin"
+101,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",101,"Gramsh","Bashkia","Bashkia",NA,NA
+102,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",102,"Kodovjat","Commune","Commune",NA,"Kokovjat"
+103,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",103,"Kukur","Commune","Commune",NA,"Kukur |Gramsh"
+104,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",104,"Kushovë","Commune","Commune",NA,NA
+105,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",105,"Lënie","Commune","Commune",NA,"Lenje"
+106,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",106,"Pishaj","Commune","Commune",NA,NA
+107,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",107,"Poroçan","Commune","Commune",NA,NA
+108,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",108,"Skëndërbegas","Commune","Commune",NA,"Skenderbeg| Skenderbej"
+109,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",109,"Sult","Commune","Commune",NA,NA
+110,4,"ALB","Albania",4,"Elbasan",10,"Gramshit",110,"Tunjë","Commune","Commune",NA,NA
+111,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",111,"Hotolisht","Commune","Commune",NA,NA
+112,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",112,"Librazhd","Bashkia","Bashkia",NA,NA
+113,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",113,"Lunik","Commune","Commune",NA,NA
+114,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",114,"Orenjë","Commune","Commune",NA,NA
+115,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",115,"Perrenjas","Bashkia","Bashkia",NA,"Prrenjas"
+116,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",116,"Polis","Commune","Commune",NA,NA
+117,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",117,"Qendër","Bashkia","Bashkia",NA,NA
+118,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",118,"Qukës","Commune","Commune",NA,NA
+119,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",119,"Rrajcë","Commune","Commune",NA,"Rajce"
+120,4,"ALB","Albania",4,"Elbasan",11,"Librazhdit",120,"Stravaj","Commune","Commune",NA,"Stavraj"
+121,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",121,"Gjocaj","Commune","Commune",NA,"Goeaj"
+122,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",122,"Karinë","Commune","Commune",NA,"Karinje"
+123,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",123,"Përparim","Commune","Commune",NA,NA
+124,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",124,"Pajovë","Commune","Commune",NA,NA
+125,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",125,"Peqin","Bashkia","Bashkia",NA,NA
+126,4,"ALB","Albania",4,"Elbasan",12,"Peqinit",126,"Shezë","Commune","Commune",NA,NA
+127,4,"ALB","Albania",5,"Fier",13,"Fierit",127,"Cakran","Commune","Commune",NA,NA
+128,4,"ALB","Albania",5,"Fier",13,"Fierit",128,"Dermenas","Commune","Commune",NA,NA
+129,4,"ALB","Albania",5,"Fier",13,"Fierit",129,"Fier","Bashkia","Bashkia",NA,NA
+130,4,"ALB","Albania",5,"Fier",13,"Fierit",130,"Frakull","Commune","Commune",NA,NA
+131,4,"ALB","Albania",5,"Fier",13,"Fierit",131,"Kuman","Commune","Commune",NA,NA
+132,4,"ALB","Albania",5,"Fier",13,"Fierit",132,"Kurjan","Commune","Commune",NA,NA
+133,4,"ALB","Albania",5,"Fier",13,"Fierit",133,"Levan","Commune","Commune",NA,NA
+134,4,"ALB","Albania",5,"Fier",13,"Fierit",134,"Libofshë","Commune","Commune",NA,NA
+135,4,"ALB","Albania",5,"Fier",13,"Fierit",135,"Mbrostar Ura","Commune","Commune",NA,"Mbrostar| Mbrostar Ure"
+136,4,"ALB","Albania",5,"Fier",13,"Fierit",136,"Patos","Bashkia","Bashkia",NA,NA
+137,4,"ALB","Albania",5,"Fier",13,"Fierit",137,"Portëz","Commune","Commune",NA,NA
+138,4,"ALB","Albania",5,"Fier",13,"Fierit",138,"Qendër","Commune","Commune",NA,NA
+139,4,"ALB","Albania",5,"Fier",13,"Fierit",139,"Roskovec","Bashkia","Bashkia",NA,NA
+140,4,"ALB","Albania",5,"Fier",13,"Fierit",140,"Ruzhdie","Commune","Commune",NA,NA
+141,4,"ALB","Albania",5,"Fier",13,"Fierit",141,"Strum","Commune","Commune",NA,"Strume"
+142,4,"ALB","Albania",5,"Fier",13,"Fierit",142,"Topojë","Commune","Commune",NA,NA
+143,4,"ALB","Albania",5,"Fier",13,"Fierit",143,"Zharrëz","Commune","Commune",NA,"Zharres"
+144,4,"ALB","Albania",5,"Fier",14,"Lushnjës",144,"Allkaj","Commune","Commune",NA,NA
+145,4,"ALB","Albania",5,"Fier",14,"Lushnjës",145,"Ballagat","Commune","Commune",NA,NA
+146,4,"ALB","Albania",5,"Fier",14,"Lushnjës",146,"Bubullimë","Bashkia","Bashkia",NA,NA
+147,4,"ALB","Albania",5,"Fier",14,"Lushnjës",147,"Divjakë","Bashkia","Bashkia",NA,NA
+148,4,"ALB","Albania",5,"Fier",14,"Lushnjës",148,"Dushk","Commune","Commune",NA,NA
+149,4,"ALB","Albania",5,"Fier",14,"Lushnjës",149,"Fier Shegan","Commune","Commune",NA,NA
+150,4,"ALB","Albania",5,"Fier",14,"Lushnjës",150,"Golem","Commune","Commune",NA,NA
+151,4,"ALB","Albania",5,"Fier",14,"Lushnjës",151,"Grabian","Commune","Commune",NA,NA
+152,4,"ALB","Albania",5,"Fier",14,"Lushnjës",152,"Gradishtë","Commune","Commune",NA,"Gradisht| Gradishe"
+153,4,"ALB","Albania",5,"Fier",14,"Lushnjës",153,"Hysgjokaj","Commune","Commune",NA,NA
+154,4,"ALB","Albania",5,"Fier",14,"Lushnjës",154,"Karbunarë","Commune","Commune",NA,NA
+155,4,"ALB","Albania",5,"Fier",14,"Lushnjës",155,"Kolonjë","Commune","Commune",NA,NA
+156,4,"ALB","Albania",5,"Fier",14,"Lushnjës",156,"Krutjë","Commune","Commune",NA,NA
+157,4,"ALB","Albania",5,"Fier",14,"Lushnjës",157,"Lushnjë","Bashkia","Bashkia",NA,NA
+158,4,"ALB","Albania",5,"Fier",14,"Lushnjës",158,"Remas","Commune","Commune",NA,"Rremas"
+159,4,"ALB","Albania",5,"Fier",14,"Lushnjës",159,"Tërbuf","Commune","Commune",NA,NA
+160,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",160,"Aranitas","Commune","Commune",NA,NA
+161,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",161,"Bashkia B","Commune","Commune",NA,NA
+162,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",162,"Fratar","Commune","Commune",NA,NA
+163,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",163,"Greshicë","Commune","Commune",NA,NA
+164,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",164,"Hekal","Commune","Commune",NA,NA
+165,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",165,"Kutë","Commune","Commune",NA,NA
+166,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",166,"Ngraçan","Commune","Commune",NA,NA
+167,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",167,"Qendër","Commune","Commune",NA,"Qender |Ballsh| Qender Dukas"
+168,4,"ALB","Albania",5,"Fier",15,"Mallakastrës",168,"Selitë","Commune","Commune",NA,"Selite |Ballsh"
+169,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",169,"Antigonë","Commune","Commune",NA,"Antigon"
+170,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",170,"Cepo","Commune","Commune",NA,NA
+171,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",171,"Dropull i Poshtëm","Commune","Commune",NA,"Dropulli I Poshte"
+172,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",172,"Dropull i Sipërm","Commune","Commune",NA,"Dropulli I Siperm"
+173,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",173,"Gjirokastër","Bashkia","Bashkia",NA,NA
+174,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",174,"Lazarat","Commune","Commune",NA,NA
+175,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",175,"Libohovë","Bashkia","Bashkia",NA,NA
+176,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",176,"Lunxhëri","Commune","Commune",NA,NA
+177,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",177,"Odrie","Commune","Commune",NA,NA
+178,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",178,"Picar","Commune","Commune",NA,NA
+179,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",179,"Pogon","Commune","Commune",NA,NA
+180,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",180,"Qen.Liboh","Bashkia","Bashkia",NA,NA
+181,4,"ALB","Albania",6,"Gjirokastër",16,"Gjirokastrës",181,"Zagori","Commune","Commune",NA,"Zagorie"
+182,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",182,"Çarshovë","Commune","Commune",NA,NA
+183,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",183,"Ballaban","Commune","Commune",NA,NA
+184,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",184,"Dishnicë","Commune","Commune",NA,"Deshnice"
+185,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",185,"Frashër","Commune","Commune",NA,NA
+186,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",186,"Këlcyrë","Commune","Commune",NA,NA
+187,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",187,"Përmet","Bashkia","Bashkia",NA,NA
+188,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",188,"Petran","Commune","Commune",NA,NA
+189,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",189,"Qendër Piskovë","Commune","Commune",NA,NA
+190,4,"ALB","Albania",6,"Gjirokastër",17,"Përmetit",190,"Sukë","Commune","Commune",NA,NA
+191,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",191,"Buz","Commune","Commune",NA,NA
+192,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",192,"Fshat Mem","Commune","Commune",NA,"Fshat Memaliaj| Memeliaj Fshat"
+193,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",193,"Krahës","Commune","Commune",NA,"Krahez"
+194,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",194,"Kurvelesh","Commune","Commune",NA,NA
+195,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",195,"Lopës","Commune","Commune",NA,"Lopez"
+196,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",196,"Luftinjë","Commune","Commune",NA,NA
+197,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",197,"Memaliaj","Bashkia","Bashkia",NA,NA
+198,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",198,"Qendër","Commune","Commune",NA,"Qender Tepelene|Qender Libohove"
+199,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",199,"Qesarat","Commune","Commune",NA,NA
+200,4,"ALB","Albania",6,"Gjirokastër",18,"Tepelenës",200,"Tepelenë","Bashkia","Bashkia",NA,NA
+201,4,"ALB","Albania",7,"Korçë",19,"Devollit",201,"Ballsh","Bashkia","Bashkia",NA,NA
+202,4,"ALB","Albania",7,"Korçë",19,"Devollit",202,"Bilisht","Bashkia","Bashkia",NA,NA
+203,4,"ALB","Albania",7,"Korçë",19,"Devollit",203,"Hoçisht","Commune","Commune",NA,NA
+204,4,"ALB","Albania",7,"Korçë",19,"Devollit",204,"Miras","Commune","Commune",NA,NA
+205,4,"ALB","Albania",7,"Korçë",19,"Devollit",205,"Progër","Commune","Commune",NA,NA
+206,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",206,"Çlirim","Bashkia","Bashkia",NA,NA
+207,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",207,"Barmash","Commune","Commune",NA,NA
+208,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",208,"Ersekë","Commune","Commune",NA,NA
+209,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",209,"Komuna La","Commune","Commune",NA,NA
+210,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",210,"Leskovik","Bashkia","Bashkia",NA,"Leskovik Bashki"
+211,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",211,"Mollas","Commune","Commune",NA,NA
+212,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",212,"Novoselë","Commune","Commune",NA,NA
+213,4,"ALB","Albania",7,"Korçë",20,"Kolonjës",213,"Qendër Ersekë","Commune","Commune",NA,NA
+214,4,"ALB","Albania",7,"Korçë",21,"Korçës",214,"Drenovë","Commune","Commune",NA,NA
+215,4,"ALB","Albania",7,"Korçë",21,"Korçës",215,"Gore","Commune","Commune",NA,NA
+216,4,"ALB","Albania",7,"Korçë",21,"Korçës",216,"Inland Water Body","Water body","Water body",NA,NA
+217,4,"ALB","Albania",7,"Korçë",21,"Korçës",217,"Korçë","Bashkia","Bashkia",NA,NA
+218,4,"ALB","Albania",7,"Korçë",21,"Korçës",218,"Lekas","Commune","Commune",NA,NA
+219,4,"ALB","Albania",7,"Korçë",21,"Korçës",219,"Libonik","Commune","Commune",NA,NA
+220,4,"ALB","Albania",7,"Korçë",21,"Korçës",220,"Liqenas","Commune","Commune",NA,NA
+221,4,"ALB","Albania",7,"Korçë",21,"Korçës",221,"Maliq","Bashkia","Bashkia",NA,NA
+222,4,"ALB","Albania",7,"Korçë",21,"Korçës",222,"Moglicë","Commune","Commune",NA,NA
+223,4,"ALB","Albania",7,"Korçë",21,"Korçës",223,"Mollaj","Commune","Commune",NA,"Mollas"
+224,4,"ALB","Albania",7,"Korçë",21,"Korçës",224,"Pirg","Commune","Commune",NA,NA
+225,4,"ALB","Albania",7,"Korçë",21,"Korçës",225,"Pojan","Commune","Commune",NA,NA
+226,4,"ALB","Albania",7,"Korçë",21,"Korçës",226,"Qendër","Commune","Commune",NA,"Qender Bulgarec"
+227,4,"ALB","Albania",7,"Korçë",21,"Korçës",227,"Vithkuq","Commune","Commune",NA,NA
+228,4,"ALB","Albania",7,"Korçë",21,"Korçës",228,"Voskop","Commune","Commune",NA,NA
+229,4,"ALB","Albania",7,"Korçë",21,"Korçës",229,"Voskopojë","Commune","Commune",NA,NA
+230,4,"ALB","Albania",7,"Korçë",21,"Korçës",230,"Vreshtas","Commune","Commune",NA,NA
+231,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",231,"Çërravë","Commune","Commune",NA,NA
+232,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",232,"Buçimas","Commune","Commune",NA,NA
+233,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",233,"Dardhas","Commune","Commune",NA,NA
+234,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",234,"Hudenisht","Commune","Commune",NA,"Hoeisht |Morave"
+235,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",235,"Inland Water Body","Water body","Water body",NA,NA
+236,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",236,"Pogradec","Bashkia","Bashkia",NA,NA
+237,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",237,"Proptisht","Commune","Commune",NA,"Propisht"
+238,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",238,"Trebinjë","Commune","Commune",NA,"Trabinje"
+239,4,"ALB","Albania",7,"Korçë",22,"Pogradecit",239,"Velçan","Commune","Commune",NA,NA
+240,4,"ALB","Albania",8,"Kukës",23,"Has",240,"Fajza","Commune","Commune",NA,"Fajze"
+241,4,"ALB","Albania",8,"Kukës",23,"Has",241,"Gjinaj","Commune","Commune",NA,NA
+242,4,"ALB","Albania",8,"Kukës",23,"Has",242,"Golaj","Commune","Commune",NA,NA
+243,4,"ALB","Albania",8,"Kukës",23,"Has",243,"Krumë","Bashkia","Bashkia",NA,NA
+244,4,"ALB","Albania",8,"Kukës",24,"Kukësit",244,"Arrën","Commune","Commune",NA,"Arn"
+245,4,"ALB","Albania",8,"Kukës",24,"Kukësit",245,"Bicaj","Commune","Commune",NA,NA
+246,4,"ALB","Albania",8,"Kukës",24,"Kukësit",246,"Bushtricë","Commune","Commune",NA,NA
+247,4,"ALB","Albania",8,"Kukës",24,"Kukësit",247,"Gryke-Çaje","Commune","Commune",NA,"Gryk-Caje"
+248,4,"ALB","Albania",8,"Kukës",24,"Kukësit",248,"Kalis","Commune","Commune",NA,NA
+249,4,"ALB","Albania",8,"Kukës",24,"Kukësit",249,"Kolsh","Commune","Commune",NA,NA
+250,4,"ALB","Albania",8,"Kukës",24,"Kukësit",250,"Kukës","Bashkia","Bashkia",NA,NA
+251,4,"ALB","Albania",8,"Kukës",24,"Kukësit",251,"Malzi","Commune","Commune",NA,NA
+252,4,"ALB","Albania",8,"Kukës",24,"Kukësit",252,"Shishtavec","Commune","Commune",NA,NA
+253,4,"ALB","Albania",8,"Kukës",24,"Kukësit",253,"Shtiqen","Commune","Commune",NA,"Stiqen"
+254,4,"ALB","Albania",8,"Kukës",24,"Kukësit",254,"Surroj","Commune","Commune",NA,NA
+255,4,"ALB","Albania",8,"Kukës",24,"Kukësit",255,"Terthorë","Commune","Commune",NA,NA
+256,4,"ALB","Albania",8,"Kukës",24,"Kukësit",256,"Topojan","Commune","Commune",NA,NA
+257,4,"ALB","Albania",8,"Kukës",24,"Kukësit",257,"Ujmisht","Commune","Commune",NA,NA
+258,4,"ALB","Albania",8,"Kukës",24,"Kukësit",258,"Zapod","Commune","Commune",NA,NA
+259,4,"ALB","Albania",8,"Kukës",25,"Tropojës",259,"Bajram Curri","Bashkia","Bashkia",NA,NA
+260,4,"ALB","Albania",8,"Kukës",25,"Tropojës",260,"Bujan","Commune","Commune",NA,NA
+261,4,"ALB","Albania",8,"Kukës",25,"Tropojës",261,"Bytyç","Commune","Commune",NA,NA
+262,4,"ALB","Albania",8,"Kukës",25,"Tropojës",262,"Fierzë","Commune","Commune",NA,"Fierze |Bajram Curri"
+263,4,"ALB","Albania",8,"Kukës",25,"Tropojës",263,"Lekbibaj","Commune","Commune",NA,NA
+264,4,"ALB","Albania",8,"Kukës",25,"Tropojës",264,"Llugaj","Commune","Commune",NA,NA
+265,4,"ALB","Albania",8,"Kukës",25,"Tropojës",265,"Margegaj","Commune","Commune",NA,NA
+266,4,"ALB","Albania",8,"Kukës",25,"Tropojës",266,"Topojë","Commune","Commune",NA,NA
+267,4,"ALB","Albania",9,"Lezhë",26,"Kurbinit",267,"Fushë Kuqe","Commune","Commune",NA,NA
+268,4,"ALB","Albania",9,"Lezhë",26,"Kurbinit",268,"Laç","Bashkia","Bashkia",NA,NA
+269,4,"ALB","Albania",9,"Lezhë",26,"Kurbinit",269,"Mamurras","Bashkia","Bashkia",NA,NA
+270,4,"ALB","Albania",9,"Lezhë",26,"Kurbinit",270,"Milot","Commune","Commune",NA,NA
+271,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",271,"Balldren i Ri","Commune","Commune",NA,"Balldren|Balldre i Ri"
+272,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",272,"Blinisht","Commune","Commune",NA,NA
+273,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",273,"Dajç","Commune","Commune",NA,NA
+274,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",274,"Kallmet","Commune","Commune",NA,NA
+275,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",275,"Kolsh","Commune","Commune",NA,NA
+276,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",276,"Lezhë","Bashkia","Bashkia",NA,NA
+277,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",277,"Shëngjin","Commune","Commune",NA,NA
+278,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",278,"Shënkoll","Commune","Commune",NA,NA
+279,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",279,"Ungrej","Commune","Commune",NA,NA
+280,4,"ALB","Albania",9,"Lezhë",27,"Lezhës",280,"Zejmen","Commune","Commune",NA,NA
+281,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",281,"Fan","Commune","Commune",NA,"Fane"
+282,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",282,"Kaçinar","Commune","Commune",NA,NA
+283,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",283,"Kthellë","Commune","Commune",NA,NA
+284,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",284,"Orosh","Commune","Commune",NA,"Orosh |Reps"
+285,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",285,"Rrëshen","Bashkia","Bashkia",NA,NA
+286,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",286,"Rubik","Bashkia","Bashkia",NA,NA
+287,4,"ALB","Albania",9,"Lezhë",28,"Mirditës",287,"Selitë","Commune","Commune",NA,NA
+288,4,"ALB","Albania",9,"Lezhë",29,"Shkodrës",288,"Hajmel","Commune","Commune",NA,NA
+289,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",289,"Gruemirë","Commune","Commune",NA,NA
+290,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",290,"Inland Water Body","Water body","Water body",NA,NA
+291,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",291,"Kastrat","Commune","Commune",NA,NA
+292,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",292,"Kelmend","Commune","Commune",NA,NA
+293,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",293,"Koplik","Bashkia","Bashkia",NA,NA
+294,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",294,"Qendër","Commune","Commune",NA,"Qender Koplik|Qender Koplik"
+295,4,"ALB","Albania",10,"Shkodër",30,"Malësi e Madhe",295,"Shkrel","Commune","Commune",NA,NA
+296,4,"ALB","Albania",10,"Shkodër",31,"Pukës",296,"Blerim","Commune","Commune",NA,NA
+297,4,"ALB","Albania",10,"Shkodër",31,"Pukës",297,"Fierzë","Commune","Commune",NA,NA
+298,4,"ALB","Albania",10,"Shkodër",31,"Pukës",298,"Fushë Arrëz","Bashkia","Bashkia",NA,"Fush Arrez|Fushe Arez"
+299,4,"ALB","Albania",10,"Shkodër",31,"Pukës",299,"Gjegjan","Commune","Commune",NA,NA
+300,4,"ALB","Albania",10,"Shkodër",31,"Pukës",300,"Iballë","Commune","Commune",NA,NA
+301,4,"ALB","Albania",10,"Shkodër",31,"Pukës",301,"Pukë","Bashkia","Bashkia",NA,NA
+302,4,"ALB","Albania",10,"Shkodër",31,"Pukës",302,"Qafë Mali","Commune","Commune",NA,"Qafemali"
+303,4,"ALB","Albania",10,"Shkodër",31,"Pukës",303,"Qelëz","Commune","Commune",NA,"Qellez"
+304,4,"ALB","Albania",10,"Shkodër",31,"Pukës",304,"Qerret","Commune","Commune",NA,NA
+305,4,"ALB","Albania",10,"Shkodër",31,"Pukës",305,"Rrapë","Commune","Commune",NA,NA
+306,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",306,"Ana e Malit","Commune","Commune",NA,"Ana Malit"
+307,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",307,"Barbullush","Commune","Commune",NA,NA
+308,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",308,"Berdicë","Commune","Commune",NA,NA
+309,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",309,"Bushat","Commune","Commune",NA,NA
+310,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",310,"Dajç","Commune","Commune",NA,"Daje |Bregbune"
+311,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",311,"Gur i Zi","Commune","Commune",NA,"Guri I Zi"
+312,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",312,"Postribë","Commune","Commune",NA,NA
+313,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",313,"Pult","Commune","Commune",NA,NA
+314,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",314,"Rrethina","Commune","Commune",NA,"Rrethinat| Rrethine"
+315,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",315,"Shalë","Commune","Commune",NA,NA
+316,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",316,"Shkodër","Bashkia","Bashkia",NA,NA
+317,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",317,"Shllak","Commune","Commune",NA,NA
+318,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",318,"Shosh","Commune","Commune",NA,NA
+319,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",319,"Temal","Commune","Commune",NA,NA
+320,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",320,"Vau i Dejës","Bashkia","Bashkia",NA,"Vau Dejes"
+321,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",321,"Velipojë","Commune","Commune",NA,NA
+322,4,"ALB","Albania",10,"Shkodër",32,"Shkodrës",322,"Vig Mnelë","Commune","Commune",NA,NA
+323,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",323,"Golem","Commune","Commune",NA,NA
+324,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",324,"Gosë","Commune","Commune",NA,NA
+325,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",325,"Helmes","Commune","Commune",NA,"Helmas"
+326,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",326,"Kavajë","Commune","Commune",NA,NA
+327,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",327,"Kryevidh","Commune","Commune",NA,NA
+328,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",328,"Lekaj","Commune","Commune",NA,NA
+329,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",329,"Luz i Vogël","Commune","Commune",NA,NA
+330,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",330,"Rrogozhinë","Bashkia","Bashkia",NA,NA
+331,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",331,"Sinaballaj","Commune","Commune",NA,NA
+332,4,"ALB","Albania",11,"Tiranë",33,"Kavajës",332,"Synej","Commune","Commune",NA,NA
+333,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",333,"Bërxullë","Commune","Commune",NA,"Berxull"
+334,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",334,"Bërzhitë","Commune","Commune",NA,"Berxhite"
+335,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",335,"Baldushk","Commune","Commune",NA,NA
+336,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",336,"Dajt","Commune","Commune",NA,NA
+337,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",337,"Farkë","Commune","Commune",NA,"Sauk"
+338,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",338,"Kamëz","Bashkia","Bashkia",NA,NA
+339,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",339,"Kashar","Commune","Commune",NA,NA
+340,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",340,"Krrabë","Commune","Commune",NA,NA
+341,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",341,"Ndroq","Commune","Commune",NA,NA
+342,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",342,"Paskuqan","Commune","Commune",NA,NA
+343,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",343,"Petrelë","Commune","Commune",NA,"Njesi Bashkiake"
+344,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",344,"Pezë","Commune","Commune",NA,NA
+345,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",345,"Prezë","Commune","Commune",NA,NA
+346,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",346,"Shëngjergj","Commune","Commune",NA,NA
+347,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",347,"Tiranë","Bashkia","Bashkia",NA,NA
+348,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",348,"Vaqarr","Commune","Commune",NA,NA
+349,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",349,"Vorë","Bashkia","Bashkia",NA,NA
+350,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",350,"Zall Bastar","Commune","Commune",NA,NA
+351,4,"ALB","Albania",11,"Tiranë",34,"Tiranës",351,"Zall Herr","Commune","Commune",NA,"Zall Her"
+352,4,"ALB","Albania",12,"Vlorë",35,"Delvinës",352,"Delvinë","Bashkia","Bashkia",NA,NA
+353,4,"ALB","Albania",12,"Vlorë",35,"Delvinës",353,"Finiq","Commune","Commune",NA,NA
+354,4,"ALB","Albania",12,"Vlorë",35,"Delvinës",354,"Mesopotam","Commune","Commune",NA,"Mesapotam"
+355,4,"ALB","Albania",12,"Vlorë",35,"Delvinës",355,"Vergo","Commune","Commune",NA,NA
+356,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",356,"Aliko","Commune","Commune",NA,NA
+357,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",357,"Dhivër","Commune","Commune",NA,"Vidher"
+358,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",358,"Inland Water Body","Water body","Water body",NA,NA
+359,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",359,"Konispol","Bashkia","Bashkia",NA,NA
+360,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",360,"Ksamil","Commune","Commune",NA,NA
+361,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",361,"Livadhja","Commune","Commune",NA,NA
+362,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",362,"Lukovë","Commune","Commune",NA,NA
+363,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",363,"Markat","Commune","Commune",NA,NA
+364,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",364,"Sarandë","Bashkia","Bashkia",NA,NA
+365,4,"ALB","Albania",12,"Vlorë",36,"Sarandës",365,"Xarrë","Commune","Commune",NA,NA
+366,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",366,"Armen","Commune","Commune",NA,NA
+367,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",367,"Brataj","Commune","Commune",NA,NA
+368,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",368,"Himarë","Commune","Commune",NA,NA
+369,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",369,"Hore Vranisht","Commune","Commune",NA,"Vranisht"
+370,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",370,"Kotë","Commune","Commune",NA,NA
+371,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",371,"Novoselë","Commune","Commune",NA,"Piskal Novosele"
+372,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",372,"Orikum","Bashkia","Bashkia",NA,NA
+373,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",373,"Qendër","Commune","Commune",NA,"Qender Pusi"
+374,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",374,"Selenicë","Bashkia","Bashkia",NA,NA
+375,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",375,"Sevaster","Commune","Commune",NA,"Sevastar"
+376,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",376,"Shushicë","Commune","Commune",NA,NA
+377,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",377,"Vllahinë","Commune","Commune",NA,NA
+378,4,"ALB","Albania",12,"Vlorë",37,"Vlorës",378,"Vlorë","Bashkia","Bashkia",NA,NA

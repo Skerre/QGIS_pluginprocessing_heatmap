@@ -1,0 +1,9 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,162,"NER","Niger",1,"Agadez","Département","Department",NA,"Agadès"
+2,162,"NER","Niger",2,"Diffa","Département","Department",NA,NA
+3,162,"NER","Niger",3,"Dosso","Département","Department",NA,NA
+4,162,"NER","Niger",4,"Maradi","Département","Department",NA,NA
+5,162,"NER","Niger",5,"Niamey","Communauté Urbaine","Capital District",NA,NA
+6,162,"NER","Niger",6,"Tahoua","Département","Department",NA,NA
+7,162,"NER","Niger",7,"Tillabéry","Département","Department",NA,"Tillabéri"
+8,162,"NER","Niger",8,"Zinder","Département","Department",NA,NA

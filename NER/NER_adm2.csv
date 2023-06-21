@@ -1,0 +1,37 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,162,"NER","Niger",1,"Agadez",1,"Arlit","Arrondissement","Arrondissement",NA,NA
+2,162,"NER","Niger",1,"Agadez",2,"Bilma","Arrondissement","Arrondissement",NA,NA
+3,162,"NER","Niger",1,"Agadez",3,"Tchighozerine","Arrondissement","Arrondissement",NA,NA
+4,162,"NER","Niger",2,"Diffa",4,"Diffa","Arrondissement","Arrondissement",NA,NA
+5,162,"NER","Niger",2,"Diffa",5,"Maïné-Soroa","Arrondissement","Arrondissement",NA,NA
+6,162,"NER","Niger",2,"Diffa",6,"N'Guigmi","Arrondissement","Arrondissement",NA,NA
+7,162,"NER","Niger",3,"Dosso",7,"Boboye","Arrondissement","Arrondissement",NA,"Birni N'Gaouré"
+8,162,"NER","Niger",3,"Dosso",8,"Dogon-Doutchi","Arrondissement","Arrondissement",NA,NA
+9,162,"NER","Niger",3,"Dosso",9,"Dosso","Arrondissement","Arrondissement",NA,NA
+10,162,"NER","Niger",3,"Dosso",10,"Gaya","Arrondissement","Arrondissement",NA,NA
+11,162,"NER","Niger",3,"Dosso",11,"Loga","Arrondissement","Arrondissement",NA,NA
+12,162,"NER","Niger",4,"Maradi",12,"Aguié","Arrondissement","Arrondissement",NA,NA
+13,162,"NER","Niger",4,"Maradi",13,"Dakoro","Arrondissement","Arrondissement",NA,NA
+14,162,"NER","Niger",4,"Maradi",14,"Groumdji","Arrondissement","Arrondissement",NA,"Guidan-Roumdji"
+15,162,"NER","Niger",4,"Maradi",15,"Madarounfa","Arrondissement","Arrondissement",NA,NA
+16,162,"NER","Niger",4,"Maradi",16,"Mayahi","Arrondissement","Arrondissement",NA,NA
+17,162,"NER","Niger",4,"Maradi",17,"Tessaoua","Arrondissement","Arrondissement",NA,NA
+18,162,"NER","Niger",5,"Niamey",18,"Niamey","Arrondissement","Arrondissement",NA,NA
+19,162,"NER","Niger",6,"Tahoua",19,"Bkonni","Arrondissement","Arrondissement",NA,"Birni N'Konni"
+20,162,"NER","Niger",6,"Tahoua",20,"Bouza","Arrondissement","Arrondissement",NA,NA
+21,162,"NER","Niger",6,"Tahoua",21,"Illéla","Arrondissement","Arrondissement",NA,NA
+22,162,"NER","Niger",6,"Tahoua",22,"Keita","Arrondissement","Arrondissement",NA,NA
+23,162,"NER","Niger",6,"Tahoua",23,"Madaoua","Arrondissement","Arrondissement",NA,NA
+24,162,"NER","Niger",6,"Tahoua",24,"Tahoua","Arrondissement","Arrondissement",NA,NA
+25,162,"NER","Niger",6,"Tahoua",25,"Tchin-Tabarade","Arrondissement","Arrondissement",NA,"Tchin-Tabaraden"
+26,162,"NER","Niger",7,"Tillabéry",26,"Filingué","Arrondissement","Arrondissement",NA,NA
+27,162,"NER","Niger",7,"Tillabéry",27,"Kollo","Arrondissement","Arrondissement",NA,NA
+28,162,"NER","Niger",7,"Tillabéry",28,"Ouallam","Arrondissement","Arrondissement",NA,NA
+29,162,"NER","Niger",7,"Tillabéry",29,"Say","Arrondissement","Arrondissement",NA,NA
+30,162,"NER","Niger",7,"Tillabéry",30,"Téra","Arrondissement","Arrondissement",NA,NA
+31,162,"NER","Niger",7,"Tillabéry",31,"Tillabéry","Arrondissement","Arrondissement",NA,NA
+32,162,"NER","Niger",8,"Zinder",32,"Gouré","Arrondissement","Arrondissement",NA,NA
+33,162,"NER","Niger",8,"Zinder",33,"Magaria","Arrondissement","Arrondissement",NA,NA
+34,162,"NER","Niger",8,"Zinder",34,"Matameye","Arrondissement","Arrondissement",NA,"Matamey"
+35,162,"NER","Niger",8,"Zinder",35,"Mirriah","Arrondissement","Arrondissement",NA,"Miria|Mirria"
+36,162,"NER","Niger",8,"Zinder",36,"Tanout","Arrondissement","Arrondissement",NA,NA
