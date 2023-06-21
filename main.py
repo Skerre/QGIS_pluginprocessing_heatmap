@@ -79,11 +79,13 @@ def process(data, ctr):
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
     print(filtered_list)
     layer = QgsVectorLayer("{}".format(ctr), filtered_list[0], "ogr")
+
     if layer.isValid():
         print("Input Layer is valid")
     else:
         print("Input Layer not found or empty")
         return
+
     processing.run("qgis:randompointsinsidepolygons", {
         'INPUT': layer,
         'STRATEGY': 0, 'VALUE': 200,
@@ -111,7 +113,6 @@ def cleanworkspace(ctr):
     except:
         print("Could not delete random points")
     try:
-        print("Failed to clean Randompoints")
         os.remove('{}/heatmap.tiff'.format(ctr))
         os.remove('{}/heatmap.tiff.aux.xml'.format(ctr))
     finally:
@@ -145,7 +146,6 @@ def main():
     process(admlist, ctr)
     cleanworkspace(ctr)
     # plot_map()
-
 
 if __name__ == "__main__":
     main()
