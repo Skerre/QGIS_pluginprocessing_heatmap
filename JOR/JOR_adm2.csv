@@ -1,0 +1,53 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,116,"JOR","Jordan",1,"Ajlun",1,"Ajloun","Nahia","Sub-Province",NA,"Ajlun"
+2,116,"JOR","Jordan",1,"Ajlun",2,"Kofranjah","Nahia","Sub-Province",NA,NA
+3,116,"JOR","Jordan",2,"Amman",3,"Amman","Nahia","Sub-Province",NA,NA
+4,116,"JOR","Jordan",2,"Amman",4,"Jizeh","Nahia","Sub-Province",NA,"Al-Jiza"
+5,116,"JOR","Jordan",2,"Amman",5,"Mowaqqar","Nahia","Sub-Province",NA,"Al-Mwwqqar"
+6,116,"JOR","Jordan",2,"Amman",6,"Na'oor","Nahia","Sub-Province",NA,NA
+7,116,"JOR","Jordan",2,"Amman",7,"Sahab","Nahia","Sub-Province",NA,NA
+8,116,"JOR","Jordan",2,"Amman",8,"Um El-Basatien","Nahia","Sub-Province",NA,"Um al-Basatin"
+9,116,"JOR","Jordan",2,"Amman",9,"Wadi Essier","Nahia","Sub-Province",NA,"Wadi al-Sayr"
+10,116,"JOR","Jordan",3,"Aqaba",10,"Aqaba","Nahia","Sub-Province",NA,"Al-Aqaba"
+11,116,"JOR","Jordan",3,"Aqaba",11,"Quaira","Nahia","Sub-Province",NA,"Al-Quwayra"
+12,116,"JOR","Jordan",3,"Aqaba",12,"Wadi Arabah","Nahia","Sub-Province",NA,"Wadi Araba|Gharandal"
+13,116,"JOR","Jordan",4,"Balqa",13,"Al-Balqa","Nahia","Sub-Province",NA,NA
+14,116,"JOR","Jordan",4,"Balqa",14,"Ardhah","Nahia","Sub-Province",NA,"Al-Ardhah|Sbaihi"
+15,116,"JOR","Jordan",4,"Balqa",15,"Dair Alla","Nahia","Sub-Province",NA,NA
+16,116,"JOR","Jordan",4,"Balqa",16,"Salt","Nahia","Sub-Province",NA,"As-Salt"
+17,116,"JOR","Jordan",4,"Balqa",17,"Shooneh Janoobiyyeh","Nahia","Sub-Province",NA,"Shuna al-Janibiyya"
+18,116,"JOR","Jordan",5,"Irbid",18,"Aghwar Shamaliyyeh","Nahia","Sub-Province",NA,"Al-Aghwar Shamaliyyeh|Shooneh Shamaliyyeh"
+19,116,"JOR","Jordan",5,"Irbid",19,"Bani Kenanah","Nahia","Sub-Province",NA,"Bani Knana|Sama El-Roosan"
+20,116,"JOR","Jordan",5,"Irbid",20,"Hariema","Nahia","Sub-Province",NA,NA
+21,116,"JOR","Jordan",5,"Irbid",21,"Irbid","Nahia","Sub-Province",NA,NA
+22,116,"JOR","Jordan",5,"Irbid",22,"Kora","Nahia","Sub-Province",NA,"Dair Abi Sa'id"
+23,116,"JOR","Jordan",5,"Irbid",23,"Mazar Shamali","Nahia","Sub-Province",NA,"Mazar Shamaliyyeh"
+24,116,"JOR","Jordan",5,"Irbid",24,"Ramtha","Nahia","Sub-Province",NA,"Ar Ramtha"
+25,116,"JOR","Jordan",5,"Irbid",25,"Tayybeh","Nahia","Sub-Province",NA,NA
+26,116,"JOR","Jordan",5,"Irbid",26,"Wastiyyeh","Nahia","Sub-Province",NA,"Kofor Asad"
+27,116,"JOR","Jordan",6,"Jarash",27,"Jarash","Nahia","Sub-Province",NA,"Jerash"
+28,116,"JOR","Jordan",7,"Karak",28,"Ayy","Nahia","Sub-Province",NA,NA
+29,116,"JOR","Jordan",7,"Karak",29,"Faqqoo'","Nahia","Sub-Province",NA,"Faqqu"
+30,116,"JOR","Jordan",7,"Karak",30,"Ghour El-Mazra'ah","Nahia","Sub-Province",NA,"Al-Mazra'a"
+31,116,"JOR","Jordan",7,"Karak",31,"Ghour Essafi","Nahia","Sub-Province",NA,"Al-Safi"
+32,116,"JOR","Jordan",7,"Karak",32,"Karak","Nahia","Sub-Province",NA,"Al-Karak"
+33,116,"JOR","Jordan",7,"Karak",33,"Mazar Janoobi","Nahia","Sub-Province",NA,"Al-Mazar al-Janubiyya"
+34,116,"JOR","Jordan",7,"Karak",34,"Qasr","Nahia","Sub-Province",NA,"Al-Qasr"
+35,116,"JOR","Jordan",8,"Ma`an",35,"Husseiniyyeh","Nahia","Sub-Province",NA,"Al-Husanyniyya"
+36,116,"JOR","Jordan",8,"Ma`an",36,"Iel","Nahia","Sub-Province",NA,"Ayi"
+37,116,"JOR","Jordan",8,"Ma`an",37,"Ma'an","Nahia","Sub-Province",NA,NA
+38,116,"JOR","Jordan",8,"Ma`an",38,"Shoabak","Nahia","Sub-Province",NA,"Ash-Shibek"
+39,116,"JOR","Jordan",8,"Ma`an",39,"Wadi Musa","Nahia","Sub-Province",NA,NA
+40,116,"JOR","Jordan",9,"Madaba",40,"Dhiban","Nahia","Sub-Province",NA,NA
+41,116,"JOR","Jordan",9,"Madaba",41,"Madaba","Nahia","Sub-Province",NA,NA
+42,116,"JOR","Jordan",10,"Mafraq",42,"Ar-Ruwayshid","Nahia","Sub-Province",NA,NA
+43,116,"JOR","Jordan",10,"Mafraq",43,"Bal'ama","Nahia","Sub-Province",NA,NA
+44,116,"JOR","Jordan",10,"Mafraq",44,"Mafraq","Nahia","Sub-Province",NA,"Al-Mafraq"
+45,116,"JOR","Jordan",10,"Mafraq",45,"Sabha","Nahia","Sub-Province",NA,NA
+46,116,"JOR","Jordan",10,"Mafraq",46,"Sama Serhan","Nahia","Sub-Province",NA,"Sama as-Sarhan"
+47,116,"JOR","Jordan",11,"Tafilah",47,"Bsaira","Nahia","Sub-Province",NA,"Bisaira"
+48,116,"JOR","Jordan",11,"Tafilah",48,"Hesa","Nahia","Sub-Province",NA,"Al-Hasa"
+49,116,"JOR","Jordan",11,"Tafilah",49,"Tafileh","Nahia","Sub-Province",NA,"Al-Tafila"
+50,116,"JOR","Jordan",12,"Zarqa",50,"Azraq","Nahia","Sub-Province",NA,"Al-Azraq"
+51,116,"JOR","Jordan",12,"Zarqa",51,"Bierain","Nahia","Sub-Province",NA,"Birin"
+52,116,"JOR","Jordan",12,"Zarqa",52,"Zarqa","Nahia","Sub-Province",NA,"Az-Zarqa"

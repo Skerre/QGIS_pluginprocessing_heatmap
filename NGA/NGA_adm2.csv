@@ -1,0 +1,776 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,163,"NGA","Nigeria",1,"Abia",1,"Aba North","Local Authority","Local Authority",NA,NA
+2,163,"NGA","Nigeria",1,"Abia",2,"Aba South","Local Authority","Local Authority",NA,NA
+3,163,"NGA","Nigeria",1,"Abia",3,"Arochukw","Local Authority","Local Authority",NA,"Arochukwu"
+4,163,"NGA","Nigeria",1,"Abia",4,"Bende","Local Authority","Local Authority",NA,NA
+5,163,"NGA","Nigeria",1,"Abia",5,"Ikwuano","Local Authority","Local Authority",NA,NA
+6,163,"NGA","Nigeria",1,"Abia",6,"Isiala Ngwa North","Local Authority","Local Authority",NA,NA
+7,163,"NGA","Nigeria",1,"Abia",7,"Isiala Ngwa South","Local Authority","Local Authority",NA,NA
+8,163,"NGA","Nigeria",1,"Abia",8,"Isuikwua","Local Authority","Local Authority",NA,"Isuikwuato"
+9,163,"NGA","Nigeria",1,"Abia",9,"Oboma Ngwa","Local Authority","Local Authority",NA,NA
+10,163,"NGA","Nigeria",1,"Abia",10,"Ohafia Abia","Local Authority","Local Authority",NA,"Ohafia"
+11,163,"NGA","Nigeria",1,"Abia",11,"Osisioma Ngwa","Local Authority","Local Authority",NA,NA
+12,163,"NGA","Nigeria",1,"Abia",12,"Ugwunagbo","Local Authority","Local Authority",NA,NA
+13,163,"NGA","Nigeria",1,"Abia",13,"Ukwa East","Local Authority","Local Authority",NA,NA
+14,163,"NGA","Nigeria",1,"Abia",14,"Ukwa West","Local Authority","Local Authority",NA,NA
+15,163,"NGA","Nigeria",1,"Abia",15,"Umu-Nneochi","Local Authority","Local Authority",NA,NA
+16,163,"NGA","Nigeria",1,"Abia",16,"Umuahia North","Local Authority","Local Authority",NA,NA
+17,163,"NGA","Nigeria",1,"Abia",17,"Umuahia South","Local Authority","Local Authority",NA,NA
+18,163,"NGA","Nigeria",2,"Adamawa",18,"Demsa","Local Authority","Local Authority",NA,NA
+19,163,"NGA","Nigeria",2,"Adamawa",19,"Fufore","Local Authority","Local Authority",NA,NA
+20,163,"NGA","Nigeria",2,"Adamawa",20,"Ganye","Local Authority","Local Authority",NA,NA
+21,163,"NGA","Nigeria",2,"Adamawa",21,"Girie","Local Authority","Local Authority",NA,NA
+22,163,"NGA","Nigeria",2,"Adamawa",22,"Gombi","Local Authority","Local Authority",NA,NA
+23,163,"NGA","Nigeria",2,"Adamawa",23,"Guyuk","Local Authority","Local Authority",NA,NA
+24,163,"NGA","Nigeria",2,"Adamawa",24,"Hong","Local Authority","Local Authority",NA,NA
+25,163,"NGA","Nigeria",2,"Adamawa",25,"Jada","Local Authority","Local Authority",NA,NA
+26,163,"NGA","Nigeria",2,"Adamawa",26,"Lamurde","Local Authority","Local Authority",NA,NA
+27,163,"NGA","Nigeria",2,"Adamawa",27,"Madagali","Local Authority","Local Authority",NA,NA
+28,163,"NGA","Nigeria",2,"Adamawa",28,"Maiha","Local Authority","Local Authority",NA,NA
+29,163,"NGA","Nigeria",2,"Adamawa",29,"Mayo-Bel","Local Authority","Local Authority",NA,"Mayo-Belwa"
+30,163,"NGA","Nigeria",2,"Adamawa",30,"Michika","Local Authority","Local Authority",NA,NA
+31,163,"NGA","Nigeria",2,"Adamawa",31,"Mubi North","Local Authority","Local Authority",NA,NA
+32,163,"NGA","Nigeria",2,"Adamawa",32,"Mubi South","Local Authority","Local Authority",NA,NA
+33,163,"NGA","Nigeria",2,"Adamawa",33,"Numan","Local Authority","Local Authority",NA,NA
+34,163,"NGA","Nigeria",2,"Adamawa",34,"Shelleng","Local Authority","Local Authority",NA,NA
+35,163,"NGA","Nigeria",2,"Adamawa",35,"Song","Local Authority","Local Authority",NA,NA
+36,163,"NGA","Nigeria",2,"Adamawa",36,"Teungo","Local Authority","Local Authority",NA,NA
+37,163,"NGA","Nigeria",2,"Adamawa",37,"Yola North","Local Authority","Local Authority",NA,NA
+38,163,"NGA","Nigeria",2,"Adamawa",38,"Yola South","Local Authority","Local Authority",NA,NA
+39,163,"NGA","Nigeria",3,"Akwa Ibom",39,"Abak","Local Authority","Local Authority",NA,NA
+40,163,"NGA","Nigeria",3,"Akwa Ibom",40,"Eastern Obolo","Local Authority","Local Authority",NA,NA
+41,163,"NGA","Nigeria",3,"Akwa Ibom",41,"Eket","Local Authority","Local Authority",NA,NA
+42,163,"NGA","Nigeria",3,"Akwa Ibom",42,"Esit Eket","Local Authority","Local Authority",NA,NA
+43,163,"NGA","Nigeria",3,"Akwa Ibom",43,"Essien-U","Local Authority","Local Authority",NA,"Essien Udim"
+44,163,"NGA","Nigeria",3,"Akwa Ibom",44,"EtimEkpo","Local Authority","Local Authority",NA,"Etim Ekpo"
+45,163,"NGA","Nigeria",3,"Akwa Ibom",45,"Etinan","Local Authority","Local Authority",NA,NA
+46,163,"NGA","Nigeria",3,"Akwa Ibom",46,"Ibeno","Local Authority","Local Authority",NA,NA
+47,163,"NGA","Nigeria",3,"Akwa Ibom",47,"Ibesikpo Asutan","Local Authority","Local Authority",NA,NA
+48,163,"NGA","Nigeria",3,"Akwa Ibom",48,"Ibiono Ibom","Local Authority","Local Authority",NA,NA
+49,163,"NGA","Nigeria",3,"Akwa Ibom",49,"Ika","Local Authority","Local Authority",NA,NA
+50,163,"NGA","Nigeria",3,"Akwa Ibom",50,"Ikono","Local Authority","Local Authority",NA,NA
+51,163,"NGA","Nigeria",3,"Akwa Ibom",51,"Ikot-Aba","Local Authority","Local Authority",NA,"Ikot Abasi"
+52,163,"NGA","Nigeria",3,"Akwa Ibom",52,"Ikot-Ekp","Local Authority","Local Authority",NA,"Ikot Ekpene"
+53,163,"NGA","Nigeria",3,"Akwa Ibom",53,"Ini","Local Authority","Local Authority",NA,NA
+54,163,"NGA","Nigeria",3,"Akwa Ibom",54,"Itu","Local Authority","Local Authority",NA,NA
+55,163,"NGA","Nigeria",3,"Akwa Ibom",55,"Mbo","Local Authority","Local Authority",NA,NA
+56,163,"NGA","Nigeria",3,"Akwa Ibom",56,"Mkpat Enin","Local Authority","Local Authority",NA,NA
+57,163,"NGA","Nigeria",3,"Akwa Ibom",57,"Nsit Atai","Local Authority","Local Authority",NA,NA
+58,163,"NGA","Nigeria",3,"Akwa Ibom",58,"Nsit Ibom","Local Authority","Local Authority",NA,NA
+59,163,"NGA","Nigeria",3,"Akwa Ibom",59,"Nsit Ubium","Local Authority","Local Authority",NA,NA
+60,163,"NGA","Nigeria",3,"Akwa Ibom",60,"Obot Akara","Local Authority","Local Authority",NA,NA
+61,163,"NGA","Nigeria",3,"Akwa Ibom",61,"Okobo","Local Authority","Local Authority",NA,NA
+62,163,"NGA","Nigeria",3,"Akwa Ibom",62,"Onna","Local Authority","Local Authority",NA,NA
+63,163,"NGA","Nigeria",3,"Akwa Ibom",63,"Oron","Local Authority","Local Authority",NA,NA
+64,163,"NGA","Nigeria",3,"Akwa Ibom",64,"Oruk-Ana","Local Authority","Local Authority",NA,"Oruk Anam"
+65,163,"NGA","Nigeria",3,"Akwa Ibom",65,"Udung Uko","Local Authority","Local Authority",NA,NA
+66,163,"NGA","Nigeria",3,"Akwa Ibom",66,"Ukanafun","Local Authority","Local Authority",NA,NA
+67,163,"NGA","Nigeria",3,"Akwa Ibom",67,"Uruan","Local Authority","Local Authority",NA,NA
+68,163,"NGA","Nigeria",3,"Akwa Ibom",68,"UrueOffo","Local Authority","Local Authority",NA,"Urue Offong|Oruko"
+69,163,"NGA","Nigeria",3,"Akwa Ibom",69,"Uyo","Local Authority","Local Authority",NA,NA
+70,163,"NGA","Nigeria",4,"Anambra",70,"Aguata","Local Authority","Local Authority",NA,NA
+71,163,"NGA","Nigeria",4,"Anambra",71,"Anambra East","Local Authority","Local Authority",NA,NA
+72,163,"NGA","Nigeria",4,"Anambra",72,"Anambra West","Local Authority","Local Authority",NA,NA
+73,163,"NGA","Nigeria",4,"Anambra",73,"Anaocha","Local Authority","Local Authority",NA,NA
+74,163,"NGA","Nigeria",4,"Anambra",74,"AwkaNort","Local Authority","Local Authority",NA,"Awka North"
+75,163,"NGA","Nigeria",4,"Anambra",75,"AwkaSout","Local Authority","Local Authority",NA,"Awka South"
+76,163,"NGA","Nigeria",4,"Anambra",76,"Ayamelum","Local Authority","Local Authority",NA,NA
+77,163,"NGA","Nigeria",4,"Anambra",77,"Dunukofia","Local Authority","Local Authority",NA,NA
+78,163,"NGA","Nigeria",4,"Anambra",78,"Ekwusigo","Local Authority","Local Authority",NA,NA
+79,163,"NGA","Nigeria",4,"Anambra",79,"Idemili North","Local Authority","Local Authority",NA,NA
+80,163,"NGA","Nigeria",4,"Anambra",80,"Idemili South","Local Authority","Local Authority",NA,NA
+81,163,"NGA","Nigeria",4,"Anambra",81,"Ihiala","Local Authority","Local Authority",NA,NA
+82,163,"NGA","Nigeria",4,"Anambra",82,"Njikoka","Local Authority","Local Authority",NA,NA
+83,163,"NGA","Nigeria",4,"Anambra",83,"NnewiNort","Local Authority","Local Authority",NA,"Nnewi North"
+84,163,"NGA","Nigeria",4,"Anambra",84,"NnewiSou","Local Authority","Local Authority",NA,"Nnewi South"
+85,163,"NGA","Nigeria",4,"Anambra",85,"Ogbaru","Local Authority","Local Authority",NA,NA
+86,163,"NGA","Nigeria",4,"Anambra",86,"Onitsha North","Local Authority","Local Authority",NA,NA
+87,163,"NGA","Nigeria",4,"Anambra",87,"Onitsha South","Local Authority","Local Authority",NA,NA
+88,163,"NGA","Nigeria",4,"Anambra",88,"OrumbaNo","Local Authority","Local Authority",NA,"Orumba North"
+89,163,"NGA","Nigeria",4,"Anambra",89,"OrumbaSo","Local Authority","Local Authority",NA,"Orumba South"
+90,163,"NGA","Nigeria",4,"Anambra",90,"Oyi","Local Authority","Local Authority",NA,NA
+91,163,"NGA","Nigeria",5,"Bauchi",91,"Alkaleri","Local Authority","Local Authority",NA,NA
+92,163,"NGA","Nigeria",5,"Bauchi",92,"Bauchi","Local Authority","Local Authority",NA,NA
+93,163,"NGA","Nigeria",5,"Bauchi",93,"Bogoro","Local Authority","Local Authority",NA,NA
+94,163,"NGA","Nigeria",5,"Bauchi",94,"Damban","Local Authority","Local Authority",NA,NA
+95,163,"NGA","Nigeria",5,"Bauchi",95,"Darazo","Local Authority","Local Authority",NA,NA
+96,163,"NGA","Nigeria",5,"Bauchi",96,"Dass","Local Authority","Local Authority",NA,NA
+97,163,"NGA","Nigeria",5,"Bauchi",97,"Gamawa","Local Authority","Local Authority",NA,NA
+98,163,"NGA","Nigeria",5,"Bauchi",98,"Gamjuwa","Local Authority","Local Authority",NA,"Ganjuwa"
+99,163,"NGA","Nigeria",5,"Bauchi",99,"Giade","Local Authority","Local Authority",NA,NA
+100,163,"NGA","Nigeria",5,"Bauchi",100,"Itas/Gad","Local Authority","Local Authority",NA,"Itas/Gadau"
+101,163,"NGA","Nigeria",5,"Bauchi",101,"Jama'are","Local Authority","Local Authority",NA,NA
+102,163,"NGA","Nigeria",5,"Bauchi",102,"Katagum","Local Authority","Local Authority",NA,NA
+103,163,"NGA","Nigeria",5,"Bauchi",103,"Kirfi","Local Authority","Local Authority",NA,NA
+104,163,"NGA","Nigeria",5,"Bauchi",104,"Misau","Local Authority","Local Authority",NA,NA
+105,163,"NGA","Nigeria",5,"Bauchi",105,"Ningi","Local Authority","Local Authority",NA,NA
+106,163,"NGA","Nigeria",5,"Bauchi",106,"Shira","Local Authority","Local Authority",NA,NA
+107,163,"NGA","Nigeria",5,"Bauchi",107,"Tafawa-B","Local Authority","Local Authority",NA,"Tafawa-Balewa"
+108,163,"NGA","Nigeria",5,"Bauchi",108,"Toro","Local Authority","Local Authority",NA,NA
+109,163,"NGA","Nigeria",5,"Bauchi",109,"Warji","Local Authority","Local Authority",NA,NA
+110,163,"NGA","Nigeria",5,"Bauchi",110,"Zaki","Local Authority","Local Authority",NA,NA
+111,163,"NGA","Nigeria",6,"Bayelsa",111,"Brass","Local Authority","Local Authority",NA,NA
+112,163,"NGA","Nigeria",6,"Bayelsa",112,"Ekeremor","Local Authority","Local Authority",NA,NA
+113,163,"NGA","Nigeria",6,"Bayelsa",113,"Kolokuma/Opokuma","Local Authority","Local Authority",NA,NA
+114,163,"NGA","Nigeria",6,"Bayelsa",114,"Nembe","Local Authority","Local Authority",NA,NA
+115,163,"NGA","Nigeria",6,"Bayelsa",115,"Ogbia","Local Authority","Local Authority",NA,NA
+116,163,"NGA","Nigeria",6,"Bayelsa",116,"Sagbama","Local Authority","Local Authority",NA,NA
+117,163,"NGA","Nigeria",6,"Bayelsa",117,"Southern Ijaw","Local Authority","Local Authority",NA,NA
+118,163,"NGA","Nigeria",6,"Bayelsa",118,"Yenegoa","Local Authority","Local Authority",NA,NA
+119,163,"NGA","Nigeria",7,"Benue",119,"Ado","Local Authority","Local Authority",NA,NA
+120,163,"NGA","Nigeria",7,"Benue",120,"Agatu","Local Authority","Local Authority",NA,NA
+121,163,"NGA","Nigeria",7,"Benue",121,"Apa","Local Authority","Local Authority",NA,NA
+122,163,"NGA","Nigeria",7,"Benue",122,"Buruku","Local Authority","Local Authority",NA,"Bukuru"
+123,163,"NGA","Nigeria",7,"Benue",123,"Gboko","Local Authority","Local Authority",NA,NA
+124,163,"NGA","Nigeria",7,"Benue",124,"Guma","Local Authority","Local Authority",NA,NA
+125,163,"NGA","Nigeria",7,"Benue",125,"Gwer East","Local Authority","Local Authority",NA,NA
+126,163,"NGA","Nigeria",7,"Benue",126,"GwerWest","Local Authority","Local Authority",NA,"Gwer West"
+127,163,"NGA","Nigeria",7,"Benue",127,"Katsina (Benue)","Local Authority","Local Authority",NA,"Katsina- Ala"
+128,163,"NGA","Nigeria",7,"Benue",128,"Konshish","Local Authority","Local Authority",NA,"Konshisha"
+129,163,"NGA","Nigeria",7,"Benue",129,"Kwande","Local Authority","Local Authority",NA,NA
+130,163,"NGA","Nigeria",7,"Benue",130,"Logo","Local Authority","Local Authority",NA,NA
+131,163,"NGA","Nigeria",7,"Benue",131,"Makurdi","Local Authority","Local Authority",NA,"Markurdi"
+132,163,"NGA","Nigeria",7,"Benue",132,"Obi","Local Authority","Local Authority",NA,NA
+133,163,"NGA","Nigeria",7,"Benue",133,"Ogbadibo","Local Authority","Local Authority",NA,"Ogbadigbo"
+134,163,"NGA","Nigeria",7,"Benue",134,"Ohimini","Local Authority","Local Authority",NA,NA
+135,163,"NGA","Nigeria",7,"Benue",135,"Oju","Local Authority","Local Authority",NA,NA
+136,163,"NGA","Nigeria",7,"Benue",136,"Okpokwu","Local Authority","Local Authority",NA,NA
+137,163,"NGA","Nigeria",7,"Benue",137,"Oturkpo","Local Authority","Local Authority",NA,NA
+138,163,"NGA","Nigeria",7,"Benue",138,"Tarka","Local Authority","Local Authority",NA,NA
+139,163,"NGA","Nigeria",7,"Benue",139,"Ukum","Local Authority","Local Authority",NA,NA
+140,163,"NGA","Nigeria",7,"Benue",140,"Ushongo","Local Authority","Local Authority",NA,NA
+141,163,"NGA","Nigeria",7,"Benue",141,"Vandeiky","Local Authority","Local Authority",NA,"Vandeikya"
+142,163,"NGA","Nigeria",8,"Borno",142,"Abadam","Local Authority","Local Authority",NA,NA
+143,163,"NGA","Nigeria",8,"Borno",143,"Askira/U","Local Authority","Local Authority",NA,"Askira/Uba"
+144,163,"NGA","Nigeria",8,"Borno",144,"Bama","Local Authority","Local Authority",NA,NA
+145,163,"NGA","Nigeria",8,"Borno",145,"Bayo","Local Authority","Local Authority",NA,NA
+146,163,"NGA","Nigeria",8,"Borno",146,"Biu","Local Authority","Local Authority",NA,NA
+147,163,"NGA","Nigeria",8,"Borno",147,"Chibok","Local Authority","Local Authority",NA,NA
+148,163,"NGA","Nigeria",8,"Borno",148,"Damboa","Local Authority","Local Authority",NA,NA
+149,163,"NGA","Nigeria",8,"Borno",149,"Dikwa","Local Authority","Local Authority",NA,NA
+150,163,"NGA","Nigeria",8,"Borno",150,"Gubio","Local Authority","Local Authority",NA,NA
+151,163,"NGA","Nigeria",8,"Borno",151,"Guzamala","Local Authority","Local Authority",NA,NA
+152,163,"NGA","Nigeria",8,"Borno",152,"Gwoza","Local Authority","Local Authority",NA,NA
+153,163,"NGA","Nigeria",8,"Borno",153,"Hawul","Local Authority","Local Authority",NA,NA
+154,163,"NGA","Nigeria",8,"Borno",154,"Jere","Local Authority","Local Authority",NA,NA
+155,163,"NGA","Nigeria",8,"Borno",155,"Kaga","Local Authority","Local Authority",NA,NA
+156,163,"NGA","Nigeria",8,"Borno",156,"Kala/Balge","Local Authority","Local Authority",NA,NA
+157,163,"NGA","Nigeria",8,"Borno",157,"Konduga","Local Authority","Local Authority",NA,NA
+158,163,"NGA","Nigeria",8,"Borno",158,"Kukawa","Local Authority","Local Authority",NA,NA
+159,163,"NGA","Nigeria",8,"Borno",159,"Kwaya Kusar","Local Authority","Local Authority",NA,NA
+160,163,"NGA","Nigeria",8,"Borno",160,"Mafa","Local Authority","Local Authority",NA,NA
+161,163,"NGA","Nigeria",8,"Borno",161,"Magumeri","Local Authority","Local Authority",NA,NA
+162,163,"NGA","Nigeria",8,"Borno",162,"Maidugur","Local Authority","Local Authority",NA,"Maiduguri"
+163,163,"NGA","Nigeria",8,"Borno",163,"Marte","Local Authority","Local Authority",NA,NA
+164,163,"NGA","Nigeria",8,"Borno",164,"Mobbar","Local Authority","Local Authority",NA,NA
+165,163,"NGA","Nigeria",8,"Borno",165,"Monguno","Local Authority","Local Authority",NA,NA
+166,163,"NGA","Nigeria",8,"Borno",166,"Ngala","Local Authority","Local Authority",NA,NA
+167,163,"NGA","Nigeria",8,"Borno",167,"Nganzai","Local Authority","Local Authority",NA,NA
+168,163,"NGA","Nigeria",8,"Borno",168,"Shani","Local Authority","Local Authority",NA,NA
+169,163,"NGA","Nigeria",9,"Cross River",169,"Abi","Local Authority","Local Authority",NA,NA
+170,163,"NGA","Nigeria",9,"Cross River",170,"Akamkpa","Local Authority","Local Authority",NA,NA
+171,163,"NGA","Nigeria",9,"Cross River",171,"Akpabuyo","Local Authority","Local Authority",NA,NA
+172,163,"NGA","Nigeria",9,"Cross River",172,"Bakassi","Local Authority","Local Authority",NA,NA
+173,163,"NGA","Nigeria",9,"Cross River",173,"Bekwarra","Local Authority","Local Authority",NA,NA
+174,163,"NGA","Nigeria",9,"Cross River",174,"Biase","Local Authority","Local Authority",NA,NA
+175,163,"NGA","Nigeria",9,"Cross River",175,"Boki","Local Authority","Local Authority",NA,NA
+176,163,"NGA","Nigeria",9,"Cross River",176,"Calabar South","Local Authority","Local Authority",NA,NA
+177,163,"NGA","Nigeria",9,"Cross River",177,"Calabar","Local Authority","Local Authority",NA,"Calabar Municipal"
+178,163,"NGA","Nigeria",9,"Cross River",178,"Etung","Local Authority","Local Authority",NA,NA
+179,163,"NGA","Nigeria",9,"Cross River",179,"Ikom","Local Authority","Local Authority",NA,NA
+180,163,"NGA","Nigeria",9,"Cross River",180,"Obanliku","Local Authority","Local Authority",NA,NA
+181,163,"NGA","Nigeria",9,"Cross River",181,"Obubra","Local Authority","Local Authority",NA,NA
+182,163,"NGA","Nigeria",9,"Cross River",182,"Obudu","Local Authority","Local Authority",NA,NA
+183,163,"NGA","Nigeria",9,"Cross River",183,"Odukpani","Local Authority","Local Authority",NA,NA
+184,163,"NGA","Nigeria",9,"Cross River",184,"Ogoja","Local Authority","Local Authority",NA,NA
+185,163,"NGA","Nigeria",9,"Cross River",185,"Yakurr","Local Authority","Local Authority",NA,NA
+186,163,"NGA","Nigeria",9,"Cross River",186,"Yala Cross","Local Authority","Local Authority",NA,"Yala"
+187,163,"NGA","Nigeria",10,"Delta",187,"AniochaN","Local Authority","Local Authority",NA,"Aniocha North"
+188,163,"NGA","Nigeria",10,"Delta",188,"AniochaS","Local Authority","Local Authority",NA,"Aniocha South"
+189,163,"NGA","Nigeria",10,"Delta",189,"Bomadi","Local Authority","Local Authority",NA,NA
+190,163,"NGA","Nigeria",10,"Delta",190,"Burutu","Local Authority","Local Authority",NA,NA
+191,163,"NGA","Nigeria",10,"Delta",191,"Ethiope West","Local Authority","Local Authority",NA,NA
+192,163,"NGA","Nigeria",10,"Delta",192,"EthiopeE","Local Authority","Local Authority",NA,"Ethiope East"
+193,163,"NGA","Nigeria",10,"Delta",193,"IkaNorth","Local Authority","Local Authority",NA,"Ika North East"
+194,163,"NGA","Nigeria",10,"Delta",194,"IkaSouth","Local Authority","Local Authority",NA,"Ika South"
+195,163,"NGA","Nigeria",10,"Delta",195,"IsokoNor","Local Authority","Local Authority",NA,"Isoko North"
+196,163,"NGA","Nigeria",10,"Delta",196,"IsokoSou","Local Authority","Local Authority",NA,"Isoko South"
+197,163,"NGA","Nigeria",10,"Delta",197,"Ndokwa East","Local Authority","Local Authority",NA,NA
+198,163,"NGA","Nigeria",10,"Delta",198,"Ndokwa West","Local Authority","Local Authority",NA,NA
+199,163,"NGA","Nigeria",10,"Delta",199,"Okpe","Local Authority","Local Authority",NA,NA
+200,163,"NGA","Nigeria",10,"Delta",200,"Oshimili North","Local Authority","Local Authority",NA,NA
+201,163,"NGA","Nigeria",10,"Delta",201,"Oshimili South","Local Authority","Local Authority",NA,NA
+202,163,"NGA","Nigeria",10,"Delta",202,"Patani","Local Authority","Local Authority",NA,NA
+203,163,"NGA","Nigeria",10,"Delta",203,"Sapele","Local Authority","Local Authority",NA,NA
+204,163,"NGA","Nigeria",10,"Delta",204,"Udu","Local Authority","Local Authority",NA,NA
+205,163,"NGA","Nigeria",10,"Delta",205,"Ughelli North","Local Authority","Local Authority",NA,NA
+206,163,"NGA","Nigeria",10,"Delta",206,"Ughelli South","Local Authority","Local Authority",NA,NA
+207,163,"NGA","Nigeria",10,"Delta",207,"Ukwuani","Local Authority","Local Authority",NA,NA
+208,163,"NGA","Nigeria",10,"Delta",208,"Uvwie","Local Authority","Local Authority",NA,NA
+209,163,"NGA","Nigeria",10,"Delta",209,"Warri North","Local Authority","Local Authority",NA,NA
+210,163,"NGA","Nigeria",10,"Delta",210,"Warri South-West","Local Authority","Local Authority",NA,NA
+211,163,"NGA","Nigeria",10,"Delta",211,"Warri South","Local Authority","Local Authority",NA,NA
+212,163,"NGA","Nigeria",11,"Ebonyi",212,"Abakalik","Local Authority","Local Authority",NA,"Abakaliki"
+213,163,"NGA","Nigeria",11,"Ebonyi",213,"Afikpo","Local Authority","Local Authority",NA,"Afikpo North"
+214,163,"NGA","Nigeria",11,"Ebonyi",214,"AfikpoSo","Local Authority","Local Authority",NA,"Afikpo South"
+215,163,"NGA","Nigeria",11,"Ebonyi",215,"Ebonyi","Local Authority","Local Authority",NA,NA
+216,163,"NGA","Nigeria",11,"Ebonyi",216,"Ezza North","Local Authority","Local Authority",NA,NA
+217,163,"NGA","Nigeria",11,"Ebonyi",217,"Ezza South","Local Authority","Local Authority",NA,NA
+218,163,"NGA","Nigeria",11,"Ebonyi",218,"Ikwo","Local Authority","Local Authority",NA,NA
+219,163,"NGA","Nigeria",11,"Ebonyi",219,"Ishielu","Local Authority","Local Authority",NA,NA
+220,163,"NGA","Nigeria",11,"Ebonyi",220,"Ivo","Local Authority","Local Authority",NA,NA
+221,163,"NGA","Nigeria",11,"Ebonyi",221,"Izzi","Local Authority","Local Authority",NA,NA
+222,163,"NGA","Nigeria",11,"Ebonyi",222,"Ohaozara","Local Authority","Local Authority",NA,NA
+223,163,"NGA","Nigeria",11,"Ebonyi",223,"Ohaukwu","Local Authority","Local Authority",NA,NA
+224,163,"NGA","Nigeria",11,"Ebonyi",224,"Onicha","Local Authority","Local Authority",NA,NA
+225,163,"NGA","Nigeria",12,"Edo",225,"Akoko-Ed","Local Authority","Local Authority",NA,"Akoko-Edo"
+226,163,"NGA","Nigeria",12,"Edo",226,"Egor","Local Authority","Local Authority",NA,NA
+227,163,"NGA","Nigeria",12,"Edo",227,"EsanCent","Local Authority","Local Authority",NA,"Esan Central"
+228,163,"NGA","Nigeria",12,"Edo",228,"EsanNort","Local Authority","Local Authority",NA,"Esan North-East"
+229,163,"NGA","Nigeria",12,"Edo",229,"EsanSout","Local Authority","Local Authority",NA,"Esan South-East"
+230,163,"NGA","Nigeria",12,"Edo",230,"EsanWest","Local Authority","Local Authority",NA,"Esan West"
+231,163,"NGA","Nigeria",12,"Edo",231,"Etsako Central","Local Authority","Local Authority",NA,NA
+232,163,"NGA","Nigeria",12,"Edo",232,"EtsakoEa","Local Authority","Local Authority",NA,"Etsako East"
+233,163,"NGA","Nigeria",12,"Edo",233,"EtsakoWe","Local Authority","Local Authority",NA,"Etsako West"
+234,163,"NGA","Nigeria",12,"Edo",234,"Igueben","Local Authority","Local Authority",NA,NA
+235,163,"NGA","Nigeria",12,"Edo",235,"Ikpoba-Okha","Local Authority","Local Authority",NA,NA
+236,163,"NGA","Nigeria",12,"Edo",236,"Oredo Edo","Local Authority","Local Authority",NA,"Oredo"
+237,163,"NGA","Nigeria",12,"Edo",237,"Orhionmw","Local Authority","Local Authority",NA,"Orhionmwon"
+238,163,"NGA","Nigeria",12,"Edo",238,"OviaNort","Local Authority","Local Authority",NA,"Ovia North-East"
+239,163,"NGA","Nigeria",12,"Edo",239,"OviaSouth-West","Local Authority","Local Authority",NA,"Ovia South-West"
+240,163,"NGA","Nigeria",12,"Edo",240,"Owan East","Local Authority","Local Authority",NA,NA
+241,163,"NGA","Nigeria",12,"Edo",241,"OwanWest","Local Authority","Local Authority",NA,"Owan West"
+242,163,"NGA","Nigeria",12,"Edo",242,"Uhunmwonde","Local Authority","Local Authority",NA,NA
+243,163,"NGA","Nigeria",13,"Ekiti",243,"Ado-Ekiti","Local Authority","Local Authority",NA,NA
+244,163,"NGA","Nigeria",13,"Ekiti",244,"Efon","Local Authority","Local Authority",NA,NA
+245,163,"NGA","Nigeria",13,"Ekiti",245,"EkitiEas","Local Authority","Local Authority",NA,"Ekiti East"
+246,163,"NGA","Nigeria",13,"Ekiti",246,"EkitiSouth-West","Local Authority","Local Authority",NA,"Ekiti South-West"
+247,163,"NGA","Nigeria",13,"Ekiti",247,"EkitiWest","Local Authority","Local Authority",NA,"Ekiti West"
+248,163,"NGA","Nigeria",13,"Ekiti",248,"Emure/Ise/Orun","Local Authority","Local Authority",NA,"Emure"
+249,163,"NGA","Nigeria",13,"Ekiti",249,"Gboyin","Local Authority","Local Authority",NA,NA
+250,163,"NGA","Nigeria",13,"Ekiti",250,"Ido/Osi","Local Authority","Local Authority",NA,"Ido-Osi"
+251,163,"NGA","Nigeria",13,"Ekiti",251,"Ijero","Local Authority","Local Authority",NA,NA
+252,163,"NGA","Nigeria",13,"Ekiti",252,"Ikere","Local Authority","Local Authority",NA,NA
+253,163,"NGA","Nigeria",13,"Ekiti",253,"Ikole","Local Authority","Local Authority",NA,NA
+254,163,"NGA","Nigeria",13,"Ekiti",254,"Ilejemeje","Local Authority","Local Authority",NA,NA
+255,163,"NGA","Nigeria",13,"Ekiti",255,"Irepodun/Ifelodun","Local Authority","Local Authority",NA,NA
+256,163,"NGA","Nigeria",13,"Ekiti",256,"Ise/Orun","Local Authority","Local Authority",NA,NA
+257,163,"NGA","Nigeria",13,"Ekiti",257,"Moba","Local Authority","Local Authority",NA,NA
+258,163,"NGA","Nigeria",13,"Ekiti",258,"Oye","Local Authority","Local Authority",NA,NA
+259,163,"NGA","Nigeria",14,"Enugu",259,"Aninri","Local Authority","Local Authority",NA,NA
+260,163,"NGA","Nigeria",14,"Enugu",260,"Awgu","Local Authority","Local Authority",NA,NA
+261,163,"NGA","Nigeria",14,"Enugu",261,"Enugu East","Local Authority","Local Authority",NA,NA
+262,163,"NGA","Nigeria",14,"Enugu",262,"Enugu North","Local Authority","Local Authority",NA,NA
+263,163,"NGA","Nigeria",14,"Enugu",263,"EnuguSou","Local Authority","Local Authority",NA,"Enugu South"
+264,163,"NGA","Nigeria",14,"Enugu",264,"Ezeagu","Local Authority","Local Authority",NA,NA
+265,163,"NGA","Nigeria",14,"Enugu",265,"Igbo-Eti","Local Authority","Local Authority",NA,"Igbo-Etiti"
+266,163,"NGA","Nigeria",14,"Enugu",266,"Igbo-eze North","Local Authority","Local Authority",NA,NA
+267,163,"NGA","Nigeria",14,"Enugu",267,"Igbo-eze South","Local Authority","Local Authority",NA,NA
+268,163,"NGA","Nigeria",14,"Enugu",268,"Isi-Uzo","Local Authority","Local Authority",NA,NA
+269,163,"NGA","Nigeria",14,"Enugu",269,"Nkanu East","Local Authority","Local Authority",NA,NA
+270,163,"NGA","Nigeria",14,"Enugu",270,"Nkanu West","Local Authority","Local Authority",NA,NA
+271,163,"NGA","Nigeria",14,"Enugu",271,"Nsukka","Local Authority","Local Authority",NA,NA
+272,163,"NGA","Nigeria",14,"Enugu",272,"Oji-River","Local Authority","Local Authority",NA,NA
+273,163,"NGA","Nigeria",14,"Enugu",273,"Udenu","Local Authority","Local Authority",NA,NA
+274,163,"NGA","Nigeria",14,"Enugu",274,"Udi","Local Authority","Local Authority",NA,NA
+275,163,"NGA","Nigeria",14,"Enugu",275,"Uzo-Uwani","Local Authority","Local Authority",NA,NA
+276,163,"NGA","Nigeria",15,"Federal Capital Territory",276,"Abaji","Local Authority","Local Authority",NA,NA
+277,163,"NGA","Nigeria",15,"Federal Capital Territory",277,"AbujaMun","Local Authority","Local Authority",NA,"Abuja Municipal"
+278,163,"NGA","Nigeria",15,"Federal Capital Territory",278,"Bwari","Local Authority","Local Authority",NA,NA
+279,163,"NGA","Nigeria",15,"Federal Capital Territory",279,"Gwagwala","Local Authority","Local Authority",NA,"Gwagwalada"
+280,163,"NGA","Nigeria",15,"Federal Capital Territory",280,"Kuje","Local Authority","Local Authority",NA,NA
+281,163,"NGA","Nigeria",15,"Federal Capital Territory",281,"Kwali","Local Authority","Local Authority",NA,NA
+282,163,"NGA","Nigeria",16,"Gombe",282,"Akko","Local Authority","Local Authority",NA,NA
+283,163,"NGA","Nigeria",16,"Gombe",283,"Balanga","Local Authority","Local Authority",NA,NA
+284,163,"NGA","Nigeria",16,"Gombe",284,"Billiri","Local Authority","Local Authority",NA,NA
+285,163,"NGA","Nigeria",16,"Gombe",285,"Dukku","Local Authority","Local Authority",NA,NA
+286,163,"NGA","Nigeria",16,"Gombe",286,"Funakaye","Local Authority","Local Authority",NA,NA
+287,163,"NGA","Nigeria",16,"Gombe",287,"Gombe","Local Authority","Local Authority",NA,NA
+288,163,"NGA","Nigeria",16,"Gombe",288,"Kaltungo","Local Authority","Local Authority",NA,NA
+289,163,"NGA","Nigeria",16,"Gombe",289,"Kwami","Local Authority","Local Authority",NA,NA
+290,163,"NGA","Nigeria",16,"Gombe",290,"Nafada","Local Authority","Local Authority",NA,NA
+291,163,"NGA","Nigeria",16,"Gombe",291,"Shomgom","Local Authority","Local Authority",NA,NA
+292,163,"NGA","Nigeria",16,"Gombe",292,"Yamaltu","Local Authority","Local Authority",NA,"Deba"
+293,163,"NGA","Nigeria",17,"Imo",293,"Aboh-Mba","Local Authority","Local Authority",NA,"Aboh-Mbaise"
+294,163,"NGA","Nigeria",17,"Imo",294,"Ahizu-Mb","Local Authority","Local Authority",NA,"Ahiazu-Mbaise"
+295,163,"NGA","Nigeria",17,"Imo",295,"Ehime-Mb","Local Authority","Local Authority",NA,"Ehime-Mbano"
+296,163,"NGA","Nigeria",17,"Imo",296,"Ezinihit","Local Authority","Local Authority",NA,"Ezinihitte Mbaise"
+297,163,"NGA","Nigeria",17,"Imo",297,"Ideato South","Local Authority","Local Authority",NA,NA
+298,163,"NGA","Nigeria",17,"Imo",298,"IdeatoNo","Local Authority","Local Authority",NA,"Ideato North"
+299,163,"NGA","Nigeria",17,"Imo",299,"Ihitte/U","Local Authority","Local Authority",NA,"Ihitte/Uboma"
+300,163,"NGA","Nigeria",17,"Imo",300,"Ikeduru","Local Authority","Local Authority",NA,NA
+301,163,"NGA","Nigeria",17,"Imo",301,"IsialaMb","Local Authority","Local Authority",NA,"Isiala Mbano"
+302,163,"NGA","Nigeria",17,"Imo",302,"Isu","Local Authority","Local Authority",NA,NA
+303,163,"NGA","Nigeria",17,"Imo",303,"Mbaitoli","Local Authority","Local Authority",NA,"Mbatoli"
+304,163,"NGA","Nigeria",17,"Imo",304,"Ngor-Okp","Local Authority","Local Authority",NA,"Ngor-Okpala"
+305,163,"NGA","Nigeria",17,"Imo",305,"Njaba","Local Authority","Local Authority",NA,NA
+306,163,"NGA","Nigeria",17,"Imo",306,"Nkwerre","Local Authority","Local Authority",NA,NA
+307,163,"NGA","Nigeria",17,"Imo",307,"Nwangele","Local Authority","Local Authority",NA,NA
+308,163,"NGA","Nigeria",17,"Imo",308,"Obowo","Local Authority","Local Authority",NA,NA
+309,163,"NGA","Nigeria",17,"Imo",309,"Oguta","Local Authority","Local Authority",NA,NA
+310,163,"NGA","Nigeria",17,"Imo",310,"Ohaji/Eg","Local Authority","Local Authority",NA,"Ohaji /Egbema"
+311,163,"NGA","Nigeria",17,"Imo",311,"Okigwe","Local Authority","Local Authority",NA,NA
+312,163,"NGA","Nigeria",17,"Imo",312,"Orlu","Local Authority","Local Authority",NA,NA
+313,163,"NGA","Nigeria",17,"Imo",313,"Orsu","Local Authority","Local Authority",NA,NA
+314,163,"NGA","Nigeria",17,"Imo",314,"Oru East","Local Authority","Local Authority",NA,NA
+315,163,"NGA","Nigeria",17,"Imo",315,"Oru West","Local Authority","Local Authority",NA,NA
+316,163,"NGA","Nigeria",17,"Imo",316,"Owerri Municipal","Local Authority","Local Authority",NA,NA
+317,163,"NGA","Nigeria",17,"Imo",317,"Owerri North","Local Authority","Local Authority",NA,NA
+318,163,"NGA","Nigeria",17,"Imo",318,"Owerri West","Local Authority","Local Authority",NA,NA
+319,163,"NGA","Nigeria",17,"Imo",319,"Unuimo","Local Authority","Local Authority",NA,NA
+320,163,"NGA","Nigeria",18,"Jigawa",320,"Auyo","Local Authority","Local Authority",NA,NA
+321,163,"NGA","Nigeria",18,"Jigawa",321,"Babura","Local Authority","Local Authority",NA,NA
+322,163,"NGA","Nigeria",18,"Jigawa",322,"Biriniwa","Local Authority","Local Authority",NA,NA
+323,163,"NGA","Nigeria",18,"Jigawa",323,"BirninKu","Local Authority","Local Authority",NA,"Birnin Kudu"
+324,163,"NGA","Nigeria",18,"Jigawa",324,"Buji","Local Authority","Local Authority",NA,NA
+325,163,"NGA","Nigeria",18,"Jigawa",325,"Dutse","Local Authority","Local Authority",NA,NA
+326,163,"NGA","Nigeria",18,"Jigawa",326,"Gagarawa","Local Authority","Local Authority",NA,NA
+327,163,"NGA","Nigeria",18,"Jigawa",327,"Garki","Local Authority","Local Authority",NA,NA
+328,163,"NGA","Nigeria",18,"Jigawa",328,"Gumel","Local Authority","Local Authority",NA,NA
+329,163,"NGA","Nigeria",18,"Jigawa",329,"Guri","Local Authority","Local Authority",NA,NA
+330,163,"NGA","Nigeria",18,"Jigawa",330,"Gwaram","Local Authority","Local Authority",NA,NA
+331,163,"NGA","Nigeria",18,"Jigawa",331,"Gwiwa","Local Authority","Local Authority",NA,NA
+332,163,"NGA","Nigeria",18,"Jigawa",332,"Hadejia","Local Authority","Local Authority",NA,NA
+333,163,"NGA","Nigeria",18,"Jigawa",333,"Jahun","Local Authority","Local Authority",NA,NA
+334,163,"NGA","Nigeria",18,"Jigawa",334,"KafinHau","Local Authority","Local Authority",NA,"Kafin Hausa"
+335,163,"NGA","Nigeria",18,"Jigawa",335,"Kaugama","Local Authority","Local Authority",NA,NA
+336,163,"NGA","Nigeria",18,"Jigawa",336,"Kazaure","Local Authority","Local Authority",NA,NA
+337,163,"NGA","Nigeria",18,"Jigawa",337,"KiriKasa","Local Authority","Local Authority",NA,"Kiri Kasamma"
+338,163,"NGA","Nigeria",18,"Jigawa",338,"Kiyawa","Local Authority","Local Authority",NA,NA
+339,163,"NGA","Nigeria",18,"Jigawa",339,"Maigatari","Local Authority","Local Authority",NA,NA
+340,163,"NGA","Nigeria",18,"Jigawa",340,"MalamMad","Local Authority","Local Authority",NA,"Malam Maduri"
+341,163,"NGA","Nigeria",18,"Jigawa",341,"Miga","Local Authority","Local Authority",NA,NA
+342,163,"NGA","Nigeria",18,"Jigawa",342,"Ringim","Local Authority","Local Authority",NA,NA
+343,163,"NGA","Nigeria",18,"Jigawa",343,"Roni","Local Authority","Local Authority",NA,NA
+344,163,"NGA","Nigeria",18,"Jigawa",344,"Sule-Tan","Local Authority","Local Authority",NA,"Sule Tankarkar"
+345,163,"NGA","Nigeria",18,"Jigawa",345,"Taura","Local Authority","Local Authority",NA,NA
+346,163,"NGA","Nigeria",18,"Jigawa",346,"Yankwashi","Local Authority","Local Authority",NA,NA
+347,163,"NGA","Nigeria",19,"Kaduna",347,"Birnin-G","Local Authority","Local Authority",NA,"Birnin Gwari"
+348,163,"NGA","Nigeria",19,"Kaduna",348,"Chikun","Local Authority","Local Authority",NA,NA
+349,163,"NGA","Nigeria",19,"Kaduna",349,"Giwa","Local Authority","Local Authority",NA,NA
+350,163,"NGA","Nigeria",19,"Kaduna",350,"Igabi","Local Authority","Local Authority",NA,NA
+351,163,"NGA","Nigeria",19,"Kaduna",351,"Ikara","Local Authority","Local Authority",NA,NA
+352,163,"NGA","Nigeria",19,"Kaduna",352,"Jaba","Local Authority","Local Authority",NA,NA
+353,163,"NGA","Nigeria",19,"Kaduna",353,"Jema'a","Local Authority","Local Authority",NA,NA
+354,163,"NGA","Nigeria",19,"Kaduna",354,"Kachia","Local Authority","Local Authority",NA,NA
+355,163,"NGA","Nigeria",19,"Kaduna",355,"Kaduna North","Local Authority","Local Authority",NA,NA
+356,163,"NGA","Nigeria",19,"Kaduna",356,"Kaduna South","Local Authority","Local Authority",NA,NA
+357,163,"NGA","Nigeria",19,"Kaduna",357,"Kagarko","Local Authority","Local Authority",NA,NA
+358,163,"NGA","Nigeria",19,"Kaduna",358,"Kajuru","Local Authority","Local Authority",NA,NA
+359,163,"NGA","Nigeria",19,"Kaduna",359,"Kaura","Local Authority","Local Authority",NA,NA
+360,163,"NGA","Nigeria",19,"Kaduna",360,"Kauru","Local Authority","Local Authority",NA,NA
+361,163,"NGA","Nigeria",19,"Kaduna",361,"Kubau","Local Authority","Local Authority",NA,NA
+362,163,"NGA","Nigeria",19,"Kaduna",362,"Kudan","Local Authority","Local Authority",NA,NA
+363,163,"NGA","Nigeria",19,"Kaduna",363,"Lere","Local Authority","Local Authority",NA,NA
+364,163,"NGA","Nigeria",19,"Kaduna",364,"Makarfi","Local Authority","Local Authority",NA,NA
+365,163,"NGA","Nigeria",19,"Kaduna",365,"Sabon-Ga","Local Authority","Local Authority",NA,"Sabon Gari"
+366,163,"NGA","Nigeria",19,"Kaduna",366,"Sanga","Local Authority","Local Authority",NA,NA
+367,163,"NGA","Nigeria",19,"Kaduna",367,"Soba","Local Authority","Local Authority",NA,NA
+368,163,"NGA","Nigeria",19,"Kaduna",368,"ZangonKa","Local Authority","Local Authority",NA,"Zangon Kataf"
+369,163,"NGA","Nigeria",19,"Kaduna",369,"Zaria","Local Authority","Local Authority",NA,NA
+370,163,"NGA","Nigeria",20,"Kano",370,"Ajingi","Local Authority","Local Authority",NA,NA
+371,163,"NGA","Nigeria",20,"Kano",371,"Albasu","Local Authority","Local Authority",NA,NA
+372,163,"NGA","Nigeria",20,"Kano",372,"Bagwai","Local Authority","Local Authority",NA,NA
+373,163,"NGA","Nigeria",20,"Kano",373,"Bebeji","Local Authority","Local Authority",NA,NA
+374,163,"NGA","Nigeria",20,"Kano",374,"Bichi","Local Authority","Local Authority",NA,NA
+375,163,"NGA","Nigeria",20,"Kano",375,"Bunkure","Local Authority","Local Authority",NA,NA
+376,163,"NGA","Nigeria",20,"Kano",376,"Dala","Local Authority","Local Authority",NA,NA
+377,163,"NGA","Nigeria",20,"Kano",377,"Dambatta","Local Authority","Local Authority",NA,NA
+378,163,"NGA","Nigeria",20,"Kano",378,"DawakinK","Local Authority","Local Authority",NA,"Dawakin Kudu"
+379,163,"NGA","Nigeria",20,"Kano",379,"DawakinT","Local Authority","Local Authority",NA,"Dawakin Tofa"
+380,163,"NGA","Nigeria",20,"Kano",380,"Doguwa","Local Authority","Local Authority",NA,NA
+381,163,"NGA","Nigeria",20,"Kano",381,"Fagge","Local Authority","Local Authority",NA,NA
+382,163,"NGA","Nigeria",20,"Kano",382,"Gabasawa","Local Authority","Local Authority",NA,NA
+383,163,"NGA","Nigeria",20,"Kano",383,"Garko","Local Authority","Local Authority",NA,NA
+384,163,"NGA","Nigeria",20,"Kano",384,"Garum Mallam","Local Authority","Local Authority",NA,NA
+385,163,"NGA","Nigeria",20,"Kano",385,"Gaya","Local Authority","Local Authority",NA,NA
+386,163,"NGA","Nigeria",20,"Kano",386,"Gezawa","Local Authority","Local Authority",NA,NA
+387,163,"NGA","Nigeria",20,"Kano",387,"Gwale","Local Authority","Local Authority",NA,NA
+388,163,"NGA","Nigeria",20,"Kano",388,"Gwarzo","Local Authority","Local Authority",NA,NA
+389,163,"NGA","Nigeria",20,"Kano",389,"Kabo","Local Authority","Local Authority",NA,NA
+390,163,"NGA","Nigeria",20,"Kano",390,"Kano","Local Authority","Local Authority",NA,"Kano Municipal"
+391,163,"NGA","Nigeria",20,"Kano",391,"Karaye","Local Authority","Local Authority",NA,NA
+392,163,"NGA","Nigeria",20,"Kano",392,"Kibiya","Local Authority","Local Authority",NA,NA
+393,163,"NGA","Nigeria",20,"Kano",393,"Kiru","Local Authority","Local Authority",NA,NA
+394,163,"NGA","Nigeria",20,"Kano",394,"Kumbotso","Local Authority","Local Authority",NA,NA
+395,163,"NGA","Nigeria",20,"Kano",395,"Kunchi","Local Authority","Local Authority",NA,NA
+396,163,"NGA","Nigeria",20,"Kano",396,"Kura","Local Authority","Local Authority",NA,NA
+397,163,"NGA","Nigeria",20,"Kano",397,"Madobi","Local Authority","Local Authority",NA,NA
+398,163,"NGA","Nigeria",20,"Kano",398,"Makoda","Local Authority","Local Authority",NA,NA
+399,163,"NGA","Nigeria",20,"Kano",399,"Minjibir","Local Authority","Local Authority",NA,NA
+400,163,"NGA","Nigeria",20,"Kano",400,"Nassaraw","Local Authority","Local Authority",NA,"Nassarawa"
+401,163,"NGA","Nigeria",20,"Kano",401,"Rano","Local Authority","Local Authority",NA,NA
+402,163,"NGA","Nigeria",20,"Kano",402,"RiminGad","Local Authority","Local Authority",NA,"Rimin Gado"
+403,163,"NGA","Nigeria",20,"Kano",403,"Rogo","Local Authority","Local Authority",NA,NA
+404,163,"NGA","Nigeria",20,"Kano",404,"Shanono","Local Authority","Local Authority",NA,NA
+405,163,"NGA","Nigeria",20,"Kano",405,"Sumaila","Local Authority","Local Authority",NA,NA
+406,163,"NGA","Nigeria",20,"Kano",406,"Takai","Local Authority","Local Authority",NA,NA
+407,163,"NGA","Nigeria",20,"Kano",407,"Tarauni","Local Authority","Local Authority",NA,NA
+408,163,"NGA","Nigeria",20,"Kano",408,"Tofa","Local Authority","Local Authority",NA,NA
+409,163,"NGA","Nigeria",20,"Kano",409,"Tsanyawa","Local Authority","Local Authority",NA,NA
+410,163,"NGA","Nigeria",20,"Kano",410,"Tundun Wada","Local Authority","Local Authority",NA,NA
+411,163,"NGA","Nigeria",20,"Kano",411,"Ungogo","Local Authority","Local Authority",NA,NA
+412,163,"NGA","Nigeria",20,"Kano",412,"Warawa","Local Authority","Local Authority",NA,NA
+413,163,"NGA","Nigeria",20,"Kano",413,"Wudil","Local Authority","Local Authority",NA,NA
+414,163,"NGA","Nigeria",21,"Katsina",414,"Bakori","Local Authority","Local Authority",NA,NA
+415,163,"NGA","Nigeria",21,"Katsina",415,"Batagarawa","Local Authority","Local Authority",NA,NA
+416,163,"NGA","Nigeria",21,"Katsina",416,"Batsari","Local Authority","Local Authority",NA,NA
+417,163,"NGA","Nigeria",21,"Katsina",417,"Baure","Local Authority","Local Authority",NA,NA
+418,163,"NGA","Nigeria",21,"Katsina",418,"Bindawa","Local Authority","Local Authority",NA,NA
+419,163,"NGA","Nigeria",21,"Katsina",419,"Charanchi","Local Authority","Local Authority",NA,NA
+420,163,"NGA","Nigeria",21,"Katsina",420,"Dandume","Local Authority","Local Authority",NA,NA
+421,163,"NGA","Nigeria",21,"Katsina",421,"Danja","Local Authority","Local Authority",NA,NA
+422,163,"NGA","Nigeria",21,"Katsina",422,"Danmusa","Local Authority","Local Authority",NA,NA
+423,163,"NGA","Nigeria",21,"Katsina",423,"Daura","Local Authority","Local Authority",NA,NA
+424,163,"NGA","Nigeria",21,"Katsina",424,"Dutsi","Local Authority","Local Authority",NA,NA
+425,163,"NGA","Nigeria",21,"Katsina",425,"Dutsin-M","Local Authority","Local Authority",NA,"Dutsinma"
+426,163,"NGA","Nigeria",21,"Katsina",426,"Faskari","Local Authority","Local Authority",NA,NA
+427,163,"NGA","Nigeria",21,"Katsina",427,"Funtua","Local Authority","Local Authority",NA,NA
+428,163,"NGA","Nigeria",21,"Katsina",428,"Ingawa","Local Authority","Local Authority",NA,NA
+429,163,"NGA","Nigeria",21,"Katsina",429,"Jibia","Local Authority","Local Authority",NA,NA
+430,163,"NGA","Nigeria",21,"Katsina",430,"Kafur","Local Authority","Local Authority",NA,NA
+431,163,"NGA","Nigeria",21,"Katsina",431,"Kaita","Local Authority","Local Authority",NA,NA
+432,163,"NGA","Nigeria",21,"Katsina",432,"Kankara","Local Authority","Local Authority",NA,NA
+433,163,"NGA","Nigeria",21,"Katsina",433,"Kankiya","Local Authority","Local Authority",NA,"Kankia"
+434,163,"NGA","Nigeria",21,"Katsina",434,"Katsina (K)","Local Authority","Local Authority",NA,"Katsina"
+435,163,"NGA","Nigeria",21,"Katsina",435,"Kurfi","Local Authority","Local Authority",NA,NA
+436,163,"NGA","Nigeria",21,"Katsina",436,"Kusada","Local Authority","Local Authority",NA,NA
+437,163,"NGA","Nigeria",21,"Katsina",437,"Mai'Adua","Local Authority","Local Authority",NA,NA
+438,163,"NGA","Nigeria",21,"Katsina",438,"Malumfashi","Local Authority","Local Authority",NA,NA
+439,163,"NGA","Nigeria",21,"Katsina",439,"Mani","Local Authority","Local Authority",NA,NA
+440,163,"NGA","Nigeria",21,"Katsina",440,"Mashi","Local Authority","Local Authority",NA,NA
+441,163,"NGA","Nigeria",21,"Katsina",441,"Matazu","Local Authority","Local Authority",NA,NA
+442,163,"NGA","Nigeria",21,"Katsina",442,"Musawa","Local Authority","Local Authority",NA,NA
+443,163,"NGA","Nigeria",21,"Katsina",443,"Rimi","Local Authority","Local Authority",NA,NA
+444,163,"NGA","Nigeria",21,"Katsina",444,"Sabuwa","Local Authority","Local Authority",NA,NA
+445,163,"NGA","Nigeria",21,"Katsina",445,"Safana","Local Authority","Local Authority",NA,NA
+446,163,"NGA","Nigeria",21,"Katsina",446,"Sandamu","Local Authority","Local Authority",NA,NA
+447,163,"NGA","Nigeria",21,"Katsina",447,"Zango","Local Authority","Local Authority",NA,NA
+448,163,"NGA","Nigeria",22,"Kebbi",448,"Aleiro","Local Authority","Local Authority",NA,NA
+449,163,"NGA","Nigeria",22,"Kebbi",449,"Arewa","Local Authority","Local Authority",NA,"Arewa Dandi"
+450,163,"NGA","Nigeria",22,"Kebbi",450,"Argungu","Local Authority","Local Authority",NA,NA
+451,163,"NGA","Nigeria",22,"Kebbi",451,"Augie","Local Authority","Local Authority",NA,NA
+452,163,"NGA","Nigeria",22,"Kebbi",452,"Bagudo","Local Authority","Local Authority",NA,NA
+453,163,"NGA","Nigeria",22,"Kebbi",453,"BirninKe","Local Authority","Local Authority",NA,"Birnin-Kebbi"
+454,163,"NGA","Nigeria",22,"Kebbi",454,"Bunza","Local Authority","Local Authority",NA,NA
+455,163,"NGA","Nigeria",22,"Kebbi",455,"Dandi","Local Authority","Local Authority",NA,NA
+456,163,"NGA","Nigeria",22,"Kebbi",456,"Danko Wasagu","Local Authority","Local Authority",NA,NA
+457,163,"NGA","Nigeria",22,"Kebbi",457,"Fakai","Local Authority","Local Authority",NA,NA
+458,163,"NGA","Nigeria",22,"Kebbi",458,"Gwandu","Local Authority","Local Authority",NA,NA
+459,163,"NGA","Nigeria",22,"Kebbi",459,"Jega","Local Authority","Local Authority",NA,NA
+460,163,"NGA","Nigeria",22,"Kebbi",460,"Kalgo","Local Authority","Local Authority",NA,NA
+461,163,"NGA","Nigeria",22,"Kebbi",461,"Koko/Bes","Local Authority","Local Authority",NA,"Koko/Besse"
+462,163,"NGA","Nigeria",22,"Kebbi",462,"Maiyama","Local Authority","Local Authority",NA,NA
+463,163,"NGA","Nigeria",22,"Kebbi",463,"Ngaski","Local Authority","Local Authority",NA,NA
+464,163,"NGA","Nigeria",22,"Kebbi",464,"Sakaba","Local Authority","Local Authority",NA,NA
+465,163,"NGA","Nigeria",22,"Kebbi",465,"Shanga","Local Authority","Local Authority",NA,NA
+466,163,"NGA","Nigeria",22,"Kebbi",466,"Suru","Local Authority","Local Authority",NA,NA
+467,163,"NGA","Nigeria",22,"Kebbi",467,"Yauri","Local Authority","Local Authority",NA,NA
+468,163,"NGA","Nigeria",22,"Kebbi",468,"Zuru","Local Authority","Local Authority",NA,NA
+469,163,"NGA","Nigeria",23,"Kogi",469,"Adavi","Local Authority","Local Authority",NA,NA
+470,163,"NGA","Nigeria",23,"Kogi",470,"Ajaokuta","Local Authority","Local Authority",NA,NA
+471,163,"NGA","Nigeria",23,"Kogi",471,"Ankpa","Local Authority","Local Authority",NA,NA
+472,163,"NGA","Nigeria",23,"Kogi",472,"Bassa","Local Authority","Local Authority",NA,NA
+473,163,"NGA","Nigeria",23,"Kogi",473,"Dekina","Local Authority","Local Authority",NA,NA
+474,163,"NGA","Nigeria",23,"Kogi",474,"Ibaji","Local Authority","Local Authority",NA,NA
+475,163,"NGA","Nigeria",23,"Kogi",475,"Idah","Local Authority","Local Authority",NA,NA
+476,163,"NGA","Nigeria",23,"Kogi",476,"Igalamela-Odolu","Local Authority","Local Authority",NA,NA
+477,163,"NGA","Nigeria",23,"Kogi",477,"Ijumu","Local Authority","Local Authority",NA,NA
+478,163,"NGA","Nigeria",23,"Kogi",478,"Kabba/Bu","Local Authority","Local Authority",NA,"Kabba /Bunu"
+479,163,"NGA","Nigeria",23,"Kogi",479,"Kotonkar","Local Authority","Local Authority",NA,"Koton-Karfe"
+480,163,"NGA","Nigeria",23,"Kogi",480,"Lokoja","Local Authority","Local Authority",NA,NA
+481,163,"NGA","Nigeria",23,"Kogi",481,"Mopa-Muro","Local Authority","Local Authority",NA,NA
+482,163,"NGA","Nigeria",23,"Kogi",482,"Ofu","Local Authority","Local Authority",NA,NA
+483,163,"NGA","Nigeria",23,"Kogi",483,"Ogori/Magongo","Local Authority","Local Authority",NA,NA
+484,163,"NGA","Nigeria",23,"Kogi",484,"Okehi","Local Authority","Local Authority",NA,NA
+485,163,"NGA","Nigeria",23,"Kogi",485,"Okene","Local Authority","Local Authority",NA,NA
+486,163,"NGA","Nigeria",23,"Kogi",486,"Olamabor","Local Authority","Local Authority",NA,"Olamaboro"
+487,163,"NGA","Nigeria",23,"Kogi",487,"Omala","Local Authority","Local Authority",NA,NA
+488,163,"NGA","Nigeria",23,"Kogi",488,"Yagba East","Local Authority","Local Authority",NA,NA
+489,163,"NGA","Nigeria",23,"Kogi",489,"Yagba West","Local Authority","Local Authority",NA,NA
+490,163,"NGA","Nigeria",24,"Kwara",490,"Asa","Local Authority","Local Authority",NA,NA
+491,163,"NGA","Nigeria",24,"Kwara",491,"Baruten","Local Authority","Local Authority",NA,NA
+492,163,"NGA","Nigeria",24,"Kwara",492,"Edu","Local Authority","Local Authority",NA,NA
+493,163,"NGA","Nigeria",24,"Kwara",493,"Ekiti","Local Authority","Local Authority",NA,NA
+494,163,"NGA","Nigeria",24,"Kwara",494,"Ifelodun","Local Authority","Local Authority",NA,NA
+495,163,"NGA","Nigeria",24,"Kwara",495,"Ilorin East","Local Authority","Local Authority",NA,NA
+496,163,"NGA","Nigeria",24,"Kwara",496,"Ilorin South","Local Authority","Local Authority",NA,NA
+497,163,"NGA","Nigeria",24,"Kwara",497,"IlorinWe","Local Authority","Local Authority",NA,"Ilorin West"
+498,163,"NGA","Nigeria",24,"Kwara",498,"Irepodun","Local Authority","Local Authority",NA,NA
+499,163,"NGA","Nigeria",24,"Kwara",499,"Isin","Local Authority","Local Authority",NA,NA
+500,163,"NGA","Nigeria",24,"Kwara",500,"Kaiama","Local Authority","Local Authority",NA,NA
+501,163,"NGA","Nigeria",24,"Kwara",501,"Moro","Local Authority","Local Authority",NA,NA
+502,163,"NGA","Nigeria",24,"Kwara",502,"Offa","Local Authority","Local Authority",NA,NA
+503,163,"NGA","Nigeria",24,"Kwara",503,"Oke-Ero","Local Authority","Local Authority",NA,NA
+504,163,"NGA","Nigeria",24,"Kwara",504,"Oyun","Local Authority","Local Authority",NA,NA
+505,163,"NGA","Nigeria",24,"Kwara",505,"Pategi","Local Authority","Local Authority",NA,NA
+506,163,"NGA","Nigeria",25,"Lagos",506,"Agege","Local Authority","Local Authority",NA,NA
+507,163,"NGA","Nigeria",25,"Lagos",507,"Ajeromi/Ifelodun","Local Authority","Local Authority",NA,NA
+508,163,"NGA","Nigeria",25,"Lagos",508,"Alimosho","Local Authority","Local Authority",NA,NA
+509,163,"NGA","Nigeria",25,"Lagos",509,"Amuwo Odofin","Local Authority","Local Authority",NA,NA
+510,163,"NGA","Nigeria",25,"Lagos",510,"Apapa","Local Authority","Local Authority",NA,NA
+511,163,"NGA","Nigeria",25,"Lagos",511,"Badagary","Local Authority","Local Authority",NA,"Badagry"
+512,163,"NGA","Nigeria",25,"Lagos",512,"Epe","Local Authority","Local Authority",NA,NA
+513,163,"NGA","Nigeria",25,"Lagos",513,"Eti-Osa","Local Authority","Local Authority",NA,NA
+514,163,"NGA","Nigeria",25,"Lagos",514,"Ibeju/Lekki","Local Authority","Local Authority",NA,"Ibeju Lekki"
+515,163,"NGA","Nigeria",25,"Lagos",515,"Ifako/Ijaye","Local Authority","Local Authority",NA,NA
+516,163,"NGA","Nigeria",25,"Lagos",516,"Ikeja","Local Authority","Local Authority",NA,NA
+517,163,"NGA","Nigeria",25,"Lagos",517,"Ikorodu","Local Authority","Local Authority",NA,NA
+518,163,"NGA","Nigeria",25,"Lagos",518,"Kosofe","Local Authority","Local Authority",NA,NA
+519,163,"NGA","Nigeria",25,"Lagos",519,"LagosIsland","Local Authority","Local Authority",NA,"Lagos Island"
+520,163,"NGA","Nigeria",25,"Lagos",520,"Mainland","Local Authority","Local Authority",NA,"Lagos Mainland"
+521,163,"NGA","Nigeria",25,"Lagos",521,"Mushin","Local Authority","Local Authority",NA,NA
+522,163,"NGA","Nigeria",25,"Lagos",522,"Ojo","Local Authority","Local Authority",NA,NA
+523,163,"NGA","Nigeria",25,"Lagos",523,"Oshodi/Isolo","Local Authority","Local Authority",NA,NA
+524,163,"NGA","Nigeria",25,"Lagos",524,"Shomolu","Local Authority","Local Authority",NA,NA
+525,163,"NGA","Nigeria",25,"Lagos",525,"Surulere","Local Authority","Local Authority",NA,NA
+526,163,"NGA","Nigeria",26,"Nassarawa",526,"Akwanga","Local Authority","Local Authority",NA,NA
+527,163,"NGA","Nigeria",26,"Nassarawa",527,"Awe","Local Authority","Local Authority",NA,NA
+528,163,"NGA","Nigeria",26,"Nassarawa",528,"Doma","Local Authority","Local Authority",NA,NA
+529,163,"NGA","Nigeria",26,"Nassarawa",529,"Karu","Local Authority","Local Authority",NA,NA
+530,163,"NGA","Nigeria",26,"Nassarawa",530,"Keana","Local Authority","Local Authority",NA,NA
+531,163,"NGA","Nigeria",26,"Nassarawa",531,"Keffi","Local Authority","Local Authority",NA,NA
+532,163,"NGA","Nigeria",26,"Nassarawa",532,"Kokona","Local Authority","Local Authority",NA,NA
+533,163,"NGA","Nigeria",26,"Nassarawa",533,"Lafia","Local Authority","Local Authority",NA,NA
+534,163,"NGA","Nigeria",26,"Nassarawa",534,"Nasarawa","Local Authority","Local Authority",NA,"Nassarawa"
+535,163,"NGA","Nigeria",26,"Nassarawa",535,"Nassarawa Egon","Local Authority","Local Authority",NA,NA
+536,163,"NGA","Nigeria",26,"Nassarawa",536,"Obi","Local Authority","Local Authority",NA,NA
+537,163,"NGA","Nigeria",26,"Nassarawa",537,"Toto","Local Authority","Local Authority",NA,NA
+538,163,"NGA","Nigeria",26,"Nassarawa",538,"Wamba","Local Authority","Local Authority",NA,NA
+539,163,"NGA","Nigeria",27,"Niger",539,"Agaie","Local Authority","Local Authority",NA,NA
+540,163,"NGA","Nigeria",27,"Niger",540,"Agwara","Local Authority","Local Authority",NA,NA
+541,163,"NGA","Nigeria",27,"Niger",541,"Bida","Local Authority","Local Authority",NA,NA
+542,163,"NGA","Nigeria",27,"Niger",542,"Borgu","Local Authority","Local Authority",NA,NA
+543,163,"NGA","Nigeria",27,"Niger",543,"Bosso","Local Authority","Local Authority",NA,NA
+544,163,"NGA","Nigeria",27,"Niger",544,"Chanchaga","Local Authority","Local Authority",NA,NA
+545,163,"NGA","Nigeria",27,"Niger",545,"Edati","Local Authority","Local Authority",NA,NA
+546,163,"NGA","Nigeria",27,"Niger",546,"Gbako","Local Authority","Local Authority",NA,NA
+547,163,"NGA","Nigeria",27,"Niger",547,"Gurara","Local Authority","Local Authority",NA,NA
+548,163,"NGA","Nigeria",27,"Niger",548,"Katcha","Local Authority","Local Authority",NA,NA
+549,163,"NGA","Nigeria",27,"Niger",549,"Kontogur","Local Authority","Local Authority",NA,"Kontagora"
+550,163,"NGA","Nigeria",27,"Niger",550,"Lapai","Local Authority","Local Authority",NA,NA
+551,163,"NGA","Nigeria",27,"Niger",551,"Lavun","Local Authority","Local Authority",NA,NA
+552,163,"NGA","Nigeria",27,"Niger",552,"Magama","Local Authority","Local Authority",NA,NA
+553,163,"NGA","Nigeria",27,"Niger",553,"Mariga","Local Authority","Local Authority",NA,NA
+554,163,"NGA","Nigeria",27,"Niger",554,"Mashegu","Local Authority","Local Authority",NA,NA
+555,163,"NGA","Nigeria",27,"Niger",555,"Mokwa","Local Authority","Local Authority",NA,NA
+556,163,"NGA","Nigeria",27,"Niger",556,"Muya","Local Authority","Local Authority",NA,NA
+557,163,"NGA","Nigeria",27,"Niger",557,"Paikoro","Local Authority","Local Authority",NA,NA
+558,163,"NGA","Nigeria",27,"Niger",558,"Rafi","Local Authority","Local Authority",NA,NA
+559,163,"NGA","Nigeria",27,"Niger",559,"Rijau","Local Authority","Local Authority",NA,NA
+560,163,"NGA","Nigeria",27,"Niger",560,"Shiroro","Local Authority","Local Authority",NA,NA
+561,163,"NGA","Nigeria",27,"Niger",561,"Suleja","Local Authority","Local Authority",NA,NA
+562,163,"NGA","Nigeria",27,"Niger",562,"Tafa","Local Authority","Local Authority",NA,NA
+563,163,"NGA","Nigeria",27,"Niger",563,"Wushishi","Local Authority","Local Authority",NA,NA
+564,163,"NGA","Nigeria",28,"Ogun",564,"Abeokuta South","Local Authority","Local Authority",NA,NA
+565,163,"NGA","Nigeria",28,"Ogun",565,"AbeokutaNorth","Local Authority","Local Authority",NA,"Abeokuta North"
+566,163,"NGA","Nigeria",28,"Ogun",566,"AdoOdo/Ota","Local Authority","Local Authority",NA,"Ado Odo/Ota"
+567,163,"NGA","Nigeria",28,"Ogun",567,"EgbadoNorth","Local Authority","Local Authority",NA,"Egbado North"
+568,163,"NGA","Nigeria",28,"Ogun",568,"EgbadoSouth","Local Authority","Local Authority",NA,"Egbado South"
+569,163,"NGA","Nigeria",28,"Ogun",569,"Ewekoro","Local Authority","Local Authority",NA,NA
+570,163,"NGA","Nigeria",28,"Ogun",570,"Ifo","Local Authority","Local Authority",NA,NA
+571,163,"NGA","Nigeria",28,"Ogun",571,"Ijebu North-East","Local Authority","Local Authority",NA,NA
+572,163,"NGA","Nigeria",28,"Ogun",572,"IjebuEast","Local Authority","Local Authority",NA,"Ijebu East"
+573,163,"NGA","Nigeria",28,"Ogun",573,"IjebuNorth","Local Authority","Local Authority",NA,"Ijebu North"
+574,163,"NGA","Nigeria",28,"Ogun",574,"IjebuOde","Local Authority","Local Authority",NA,"Ijebu-Ode"
+575,163,"NGA","Nigeria",28,"Ogun",575,"Ikenne","Local Authority","Local Authority",NA,NA
+576,163,"NGA","Nigeria",28,"Ogun",576,"Imeko-Afon","Local Authority","Local Authority",NA,NA
+577,163,"NGA","Nigeria",28,"Ogun",577,"Ipokia","Local Authority","Local Authority",NA,NA
+578,163,"NGA","Nigeria",28,"Ogun",578,"Obafemi-Owode","Local Authority","Local Authority",NA,NA
+579,163,"NGA","Nigeria",28,"Ogun",579,"Odeda","Local Authority","Local Authority",NA,NA
+580,163,"NGA","Nigeria",28,"Ogun",580,"Odogbolu","Local Authority","Local Authority",NA,NA
+581,163,"NGA","Nigeria",28,"Ogun",581,"OgunWaterside","Local Authority","Local Authority",NA,"Ogun Waterside"
+582,163,"NGA","Nigeria",28,"Ogun",582,"Remo-North","Local Authority","Local Authority",NA,NA
+583,163,"NGA","Nigeria",28,"Ogun",583,"Shagamu","Local Authority","Local Authority",NA,NA
+584,163,"NGA","Nigeria",29,"Ondo",584,"Akoko North-East","Local Authority","Local Authority",NA,NA
+585,163,"NGA","Nigeria",29,"Ondo",585,"Akoko South-East","Local Authority","Local Authority",NA,NA
+586,163,"NGA","Nigeria",29,"Ondo",586,"Akoko South-West","Local Authority","Local Authority",NA,NA
+587,163,"NGA","Nigeria",29,"Ondo",587,"AkokoNorthWest","Local Authority","Local Authority",NA,"Akoko North-West"
+588,163,"NGA","Nigeria",29,"Ondo",588,"Akure North","Local Authority","Local Authority",NA,NA
+589,163,"NGA","Nigeria",29,"Ondo",589,"Akure South","Local Authority","Local Authority",NA,NA
+590,163,"NGA","Nigeria",29,"Ondo",590,"Ese-Odo","Local Authority","Local Authority",NA,NA
+591,163,"NGA","Nigeria",29,"Ondo",591,"Idanre","Local Authority","Local Authority",NA,NA
+592,163,"NGA","Nigeria",29,"Ondo",592,"Ifedore","Local Authority","Local Authority",NA,NA
+593,163,"NGA","Nigeria",29,"Ondo",593,"IlajeEseodo","Local Authority","Local Authority",NA,"Ilaje"
+594,163,"NGA","Nigeria",29,"Ondo",594,"IleOluji/Okeigbo","Local Authority","Local Authority",NA,"Ile-Oluji/Okeigbo"
+595,163,"NGA","Nigeria",29,"Ondo",595,"Irele","Local Authority","Local Authority",NA,NA
+596,163,"NGA","Nigeria",29,"Ondo",596,"Odigbo","Local Authority","Local Authority",NA,NA
+597,163,"NGA","Nigeria",29,"Ondo",597,"Okitipupa","Local Authority","Local Authority",NA,NA
+598,163,"NGA","Nigeria",29,"Ondo",598,"Ondo East","Local Authority","Local Authority",NA,NA
+599,163,"NGA","Nigeria",29,"Ondo",599,"Ondo West","Local Authority","Local Authority",NA,NA
+600,163,"NGA","Nigeria",29,"Ondo",600,"Ose","Local Authority","Local Authority",NA,NA
+601,163,"NGA","Nigeria",29,"Ondo",601,"Owo","Local Authority","Local Authority",NA,NA
+602,163,"NGA","Nigeria",30,"Osun",602,"Atakumosa East","Local Authority","Local Authority",NA,NA
+603,163,"NGA","Nigeria",30,"Osun",603,"Atakumosa West","Local Authority","Local Authority",NA,NA
+604,163,"NGA","Nigeria",30,"Osun",604,"Ayedaade","Local Authority","Local Authority",NA,"Aiyedaade"
+605,163,"NGA","Nigeria",30,"Osun",605,"Ayedire","Local Authority","Local Authority",NA,"Aiyedire"
+606,163,"NGA","Nigeria",30,"Osun",606,"Boluwaduro","Local Authority","Local Authority",NA,NA
+607,163,"NGA","Nigeria",30,"Osun",607,"Boripe","Local Authority","Local Authority",NA,NA
+608,163,"NGA","Nigeria",30,"Osun",608,"Ede North","Local Authority","Local Authority",NA,NA
+609,163,"NGA","Nigeria",30,"Osun",609,"Ede South","Local Authority","Local Authority",NA,NA
+610,163,"NGA","Nigeria",30,"Osun",610,"Egbedore","Local Authority","Local Authority",NA,NA
+611,163,"NGA","Nigeria",30,"Osun",611,"Ejigbo","Local Authority","Local Authority",NA,NA
+612,163,"NGA","Nigeria",30,"Osun",612,"Ife East","Local Authority","Local Authority",NA,NA
+613,163,"NGA","Nigeria",30,"Osun",613,"Ife North","Local Authority","Local Authority",NA,NA
+614,163,"NGA","Nigeria",30,"Osun",614,"Ife South","Local Authority","Local Authority",NA,NA
+615,163,"NGA","Nigeria",30,"Osun",615,"IfeCentral","Local Authority","Local Authority",NA,"Ife Central"
+616,163,"NGA","Nigeria",30,"Osun",616,"Ifedayo","Local Authority","Local Authority",NA,NA
+617,163,"NGA","Nigeria",30,"Osun",617,"Ifelodun","Local Authority","Local Authority",NA,NA
+618,163,"NGA","Nigeria",30,"Osun",618,"Ila","Local Authority","Local Authority",NA,NA
+619,163,"NGA","Nigeria",30,"Osun",619,"Ilesha East","Local Authority","Local Authority",NA,NA
+620,163,"NGA","Nigeria",30,"Osun",620,"Ilesha West","Local Authority","Local Authority",NA,NA
+621,163,"NGA","Nigeria",30,"Osun",621,"Irepodun","Local Authority","Local Authority",NA,NA
+622,163,"NGA","Nigeria",30,"Osun",622,"Irewole","Local Authority","Local Authority",NA,NA
+623,163,"NGA","Nigeria",30,"Osun",623,"Isokan","Local Authority","Local Authority",NA,NA
+624,163,"NGA","Nigeria",30,"Osun",624,"Iwo","Local Authority","Local Authority",NA,NA
+625,163,"NGA","Nigeria",30,"Osun",625,"Obokun","Local Authority","Local Authority",NA,NA
+626,163,"NGA","Nigeria",30,"Osun",626,"Odo0tin","Local Authority","Local Authority",NA,"Odo-Otin"
+627,163,"NGA","Nigeria",30,"Osun",627,"Ola-Oluwa","Local Authority","Local Authority",NA,NA
+628,163,"NGA","Nigeria",30,"Osun",628,"Olorunda","Local Authority","Local Authority",NA,NA
+629,163,"NGA","Nigeria",30,"Osun",629,"Oriade","Local Authority","Local Authority",NA,NA
+630,163,"NGA","Nigeria",30,"Osun",630,"Orolu","Local Authority","Local Authority",NA,NA
+631,163,"NGA","Nigeria",30,"Osun",631,"Osogbo","Local Authority","Local Authority",NA,NA
+632,163,"NGA","Nigeria",31,"Oyo",632,"Afijio","Local Authority","Local Authority",NA,NA
+633,163,"NGA","Nigeria",31,"Oyo",633,"Akinyele","Local Authority","Local Authority",NA,NA
+634,163,"NGA","Nigeria",31,"Oyo",634,"Atiba","Local Authority","Local Authority",NA,NA
+635,163,"NGA","Nigeria",31,"Oyo",635,"Atisbo","Local Authority","Local Authority",NA,NA
+636,163,"NGA","Nigeria",31,"Oyo",636,"Egbeda","Local Authority","Local Authority",NA,NA
+637,163,"NGA","Nigeria",31,"Oyo",637,"IbadanNorth-East","Local Authority","Local Authority",NA,"Ibadan North-East"
+638,163,"NGA","Nigeria",31,"Oyo",638,"IbadanNorth-West","Local Authority","Local Authority",NA,"Ibadan North-West"
+639,163,"NGA","Nigeria",31,"Oyo",639,"IbadanNorth","Local Authority","Local Authority",NA,"Ibadan North"
+640,163,"NGA","Nigeria",31,"Oyo",640,"IbadanSouth-East","Local Authority","Local Authority",NA,"Ibadan South-East"
+641,163,"NGA","Nigeria",31,"Oyo",641,"IbadanSouth-West","Local Authority","Local Authority",NA,"Ibadan South-West"
+642,163,"NGA","Nigeria",31,"Oyo",642,"Ibarapa Central","Local Authority","Local Authority",NA,NA
+643,163,"NGA","Nigeria",31,"Oyo",643,"Ibarapa East","Local Authority","Local Authority",NA,NA
+644,163,"NGA","Nigeria",31,"Oyo",644,"Ibarapa North","Local Authority","Local Authority",NA,NA
+645,163,"NGA","Nigeria",31,"Oyo",645,"Ido","Local Authority","Local Authority",NA,NA
+646,163,"NGA","Nigeria",31,"Oyo",646,"Irepo","Local Authority","Local Authority",NA,NA
+647,163,"NGA","Nigeria",31,"Oyo",647,"Iseyin","Local Authority","Local Authority",NA,NA
+648,163,"NGA","Nigeria",31,"Oyo",648,"Itesiwaju","Local Authority","Local Authority",NA,NA
+649,163,"NGA","Nigeria",31,"Oyo",649,"Iwajowa","Local Authority","Local Authority",NA,NA
+650,163,"NGA","Nigeria",31,"Oyo",650,"Kajola","Local Authority","Local Authority",NA,NA
+651,163,"NGA","Nigeria",31,"Oyo",651,"Lagelu","Local Authority","Local Authority",NA,NA
+652,163,"NGA","Nigeria",31,"Oyo",652,"Ogbomosho North","Local Authority","Local Authority",NA,NA
+653,163,"NGA","Nigeria",31,"Oyo",653,"Ogbomosho South","Local Authority","Local Authority",NA,NA
+654,163,"NGA","Nigeria",31,"Oyo",654,"Ogo-Oluw","Local Authority","Local Authority",NA,"Ogo Oluwa"
+655,163,"NGA","Nigeria",31,"Oyo",655,"Olorunsogo","Local Authority","Local Authority",NA,NA
+656,163,"NGA","Nigeria",31,"Oyo",656,"Oluyole","Local Authority","Local Authority",NA,NA
+657,163,"NGA","Nigeria",31,"Oyo",657,"Ona-Ara","Local Authority","Local Authority",NA,"Ona Ara"
+658,163,"NGA","Nigeria",31,"Oyo",658,"Orelope","Local Authority","Local Authority",NA,NA
+659,163,"NGA","Nigeria",31,"Oyo",659,"Ori-Ire","Local Authority","Local Authority",NA,NA
+660,163,"NGA","Nigeria",31,"Oyo",660,"Oyo East","Local Authority","Local Authority",NA,NA
+661,163,"NGA","Nigeria",31,"Oyo",661,"Oyo West","Local Authority","Local Authority",NA,NA
+662,163,"NGA","Nigeria",31,"Oyo",662,"Saki East","Local Authority","Local Authority",NA,NA
+663,163,"NGA","Nigeria",31,"Oyo",663,"Saki West","Local Authority","Local Authority",NA,NA
+664,163,"NGA","Nigeria",31,"Oyo",664,"Surulere","Local Authority","Local Authority",NA,NA
+665,163,"NGA","Nigeria",32,"Plateau",665,"Barkin Ladi","Local Authority","Local Authority",NA,NA
+666,163,"NGA","Nigeria",32,"Plateau",666,"Bassa","Local Authority","Local Authority",NA,NA
+667,163,"NGA","Nigeria",32,"Plateau",667,"Bokkos","Local Authority","Local Authority",NA,NA
+668,163,"NGA","Nigeria",32,"Plateau",668,"Jos East","Local Authority","Local Authority",NA,NA
+669,163,"NGA","Nigeria",32,"Plateau",669,"Jos North","Local Authority","Local Authority",NA,NA
+670,163,"NGA","Nigeria",32,"Plateau",670,"Jos South","Local Authority","Local Authority",NA,NA
+671,163,"NGA","Nigeria",32,"Plateau",671,"Kanam","Local Authority","Local Authority",NA,NA
+672,163,"NGA","Nigeria",32,"Plateau",672,"Kanke","Local Authority","Local Authority",NA,NA
+673,163,"NGA","Nigeria",32,"Plateau",673,"Langtang North","Local Authority","Local Authority",NA,NA
+674,163,"NGA","Nigeria",32,"Plateau",674,"Langtang South","Local Authority","Local Authority",NA,NA
+675,163,"NGA","Nigeria",32,"Plateau",675,"Mangu","Local Authority","Local Authority",NA,NA
+676,163,"NGA","Nigeria",32,"Plateau",676,"Mikang","Local Authority","Local Authority",NA,NA
+677,163,"NGA","Nigeria",32,"Plateau",677,"Pankshin","Local Authority","Local Authority",NA,NA
+678,163,"NGA","Nigeria",32,"Plateau",678,"Qua'anpa","Local Authority","Local Authority",NA,"Qua'an Pan"
+679,163,"NGA","Nigeria",32,"Plateau",679,"Riyom","Local Authority","Local Authority",NA,NA
+680,163,"NGA","Nigeria",32,"Plateau",680,"Shendam","Local Authority","Local Authority",NA,NA
+681,163,"NGA","Nigeria",32,"Plateau",681,"Wase","Local Authority","Local Authority",NA,NA
+682,163,"NGA","Nigeria",33,"Rivers",682,"Abua/Odu","Local Authority","Local Authority",NA,"Abua / Odual"
+683,163,"NGA","Nigeria",33,"Rivers",683,"Ahoada East","Local Authority","Local Authority",NA,NA
+684,163,"NGA","Nigeria",33,"Rivers",684,"Ahoada West","Local Authority","Local Authority",NA,NA
+685,163,"NGA","Nigeria",33,"Rivers",685,"Akukutor","Local Authority","Local Authority",NA,"Akuku-Toru"
+686,163,"NGA","Nigeria",33,"Rivers",686,"Andoni/O","Local Authority","Local Authority",NA,"Andoni"
+687,163,"NGA","Nigeria",33,"Rivers",687,"Asari-To","Local Authority","Local Authority",NA,"Asari-Toru"
+688,163,"NGA","Nigeria",33,"Rivers",688,"Bonny","Local Authority","Local Authority",NA,NA
+689,163,"NGA","Nigeria",33,"Rivers",689,"Degema","Local Authority","Local Authority",NA,NA
+690,163,"NGA","Nigeria",33,"Rivers",690,"Eleme","Local Authority","Local Authority",NA,NA
+691,163,"NGA","Nigeria",33,"Rivers",691,"Emuoha","Local Authority","Local Authority",NA,NA
+692,163,"NGA","Nigeria",33,"Rivers",692,"Etche","Local Authority","Local Authority",NA,NA
+693,163,"NGA","Nigeria",33,"Rivers",693,"Gokana","Local Authority","Local Authority",NA,NA
+694,163,"NGA","Nigeria",33,"Rivers",694,"Ikwerre","Local Authority","Local Authority",NA,NA
+695,163,"NGA","Nigeria",33,"Rivers",695,"Khana","Local Authority","Local Authority",NA,NA
+696,163,"NGA","Nigeria",33,"Rivers",696,"Obio/Akp","Local Authority","Local Authority",NA,"Obio/Akpor"
+697,163,"NGA","Nigeria",33,"Rivers",697,"Ogba/Egbe","Local Authority","Local Authority",NA,"Ogba/ Egbema/ Ndoni"
+698,163,"NGA","Nigeria",33,"Rivers",698,"Ogu/Bolo","Local Authority","Local Authority",NA,NA
+699,163,"NGA","Nigeria",33,"Rivers",699,"Okrika","Local Authority","Local Authority",NA,NA
+700,163,"NGA","Nigeria",33,"Rivers",700,"Omumma","Local Authority","Local Authority",NA,NA
+701,163,"NGA","Nigeria",33,"Rivers",701,"Opobo/Nkoro","Local Authority","Local Authority",NA,NA
+702,163,"NGA","Nigeria",33,"Rivers",702,"Oyigbo","Local Authority","Local Authority",NA,NA
+703,163,"NGA","Nigeria",33,"Rivers",703,"Port Harcourt","Local Authority","Local Authority",NA,NA
+704,163,"NGA","Nigeria",33,"Rivers",704,"Tai","Local Authority","Local Authority",NA,NA
+705,163,"NGA","Nigeria",34,"Sokoto",705,"Binji","Local Authority","Local Authority",NA,NA
+706,163,"NGA","Nigeria",34,"Sokoto",706,"Bodinga","Local Authority","Local Authority",NA,NA
+707,163,"NGA","Nigeria",34,"Sokoto",707,"Dange-Shuni","Local Authority","Local Authority",NA,NA
+708,163,"NGA","Nigeria",34,"Sokoto",708,"Gada","Local Authority","Local Authority",NA,NA
+709,163,"NGA","Nigeria",34,"Sokoto",709,"Goronyo","Local Authority","Local Authority",NA,NA
+710,163,"NGA","Nigeria",34,"Sokoto",710,"Gudu","Local Authority","Local Authority",NA,NA
+711,163,"NGA","Nigeria",34,"Sokoto",711,"Gwadabaw","Local Authority","Local Authority",NA,"Gwadabawa"
+712,163,"NGA","Nigeria",34,"Sokoto",712,"Illela","Local Authority","Local Authority",NA,NA
+713,163,"NGA","Nigeria",34,"Sokoto",713,"Isa","Local Authority","Local Authority",NA,NA
+714,163,"NGA","Nigeria",34,"Sokoto",714,"Kebbe","Local Authority","Local Authority",NA,NA
+715,163,"NGA","Nigeria",34,"Sokoto",715,"Kware","Local Authority","Local Authority",NA,NA
+716,163,"NGA","Nigeria",34,"Sokoto",716,"Rabah","Local Authority","Local Authority",NA,NA
+717,163,"NGA","Nigeria",34,"Sokoto",717,"Sabon Birni","Local Authority","Local Authority",NA,NA
+718,163,"NGA","Nigeria",34,"Sokoto",718,"Shagari","Local Authority","Local Authority",NA,NA
+719,163,"NGA","Nigeria",34,"Sokoto",719,"Silame","Local Authority","Local Authority",NA,NA
+720,163,"NGA","Nigeria",34,"Sokoto",720,"Sokoto North","Local Authority","Local Authority",NA,NA
+721,163,"NGA","Nigeria",34,"Sokoto",721,"Sokoto South","Local Authority","Local Authority",NA,NA
+722,163,"NGA","Nigeria",34,"Sokoto",722,"Tambawal","Local Authority","Local Authority",NA,"Tambuwal"
+723,163,"NGA","Nigeria",34,"Sokoto",723,"Tangazar","Local Authority","Local Authority",NA,"Tangaza"
+724,163,"NGA","Nigeria",34,"Sokoto",724,"Tureta","Local Authority","Local Authority",NA,NA
+725,163,"NGA","Nigeria",34,"Sokoto",725,"Wamakko","Local Authority","Local Authority",NA,"Wamako"
+726,163,"NGA","Nigeria",34,"Sokoto",726,"Wurno","Local Authority","Local Authority",NA,NA
+727,163,"NGA","Nigeria",34,"Sokoto",727,"Yabo","Local Authority","Local Authority",NA,NA
+728,163,"NGA","Nigeria",35,"Taraba",728,"Ardo-Kola","Local Authority","Local Authority",NA,NA
+729,163,"NGA","Nigeria",35,"Taraba",729,"Bali","Local Authority","Local Authority",NA,NA
+730,163,"NGA","Nigeria",35,"Taraba",730,"Donga","Local Authority","Local Authority",NA,NA
+731,163,"NGA","Nigeria",35,"Taraba",731,"Gashaka","Local Authority","Local Authority",NA,NA
+732,163,"NGA","Nigeria",35,"Taraba",732,"Gassol","Local Authority","Local Authority",NA,NA
+733,163,"NGA","Nigeria",35,"Taraba",733,"Ibi","Local Authority","Local Authority",NA,NA
+734,163,"NGA","Nigeria",35,"Taraba",734,"Jalingo","Local Authority","Local Authority",NA,NA
+735,163,"NGA","Nigeria",35,"Taraba",735,"Karim-La","Local Authority","Local Authority",NA,"Karim Lamido"
+736,163,"NGA","Nigeria",35,"Taraba",736,"Kurmi","Local Authority","Local Authority",NA,NA
+737,163,"NGA","Nigeria",35,"Taraba",737,"Lau","Local Authority","Local Authority",NA,NA
+738,163,"NGA","Nigeria",35,"Taraba",738,"Sardauna","Local Authority","Local Authority",NA,NA
+739,163,"NGA","Nigeria",35,"Taraba",739,"Takum","Local Authority","Local Authority",NA,NA
+740,163,"NGA","Nigeria",35,"Taraba",740,"Ussa","Local Authority","Local Authority",NA,NA
+741,163,"NGA","Nigeria",35,"Taraba",741,"Wukari","Local Authority","Local Authority",NA,NA
+742,163,"NGA","Nigeria",35,"Taraba",742,"Yorro","Local Authority","Local Authority",NA,NA
+743,163,"NGA","Nigeria",35,"Taraba",743,"Zing","Local Authority","Local Authority",NA,NA
+744,163,"NGA","Nigeria",36,"Water body",744,"Lake chad","Local Authority","Local Authority",NA,NA
+745,163,"NGA","Nigeria",37,"Yobe",745,"Bade","Local Authority","Local Authority",NA,NA
+746,163,"NGA","Nigeria",37,"Yobe",746,"Borsari","Local Authority","Local Authority",NA,NA
+747,163,"NGA","Nigeria",37,"Yobe",747,"Damaturu","Local Authority","Local Authority",NA,NA
+748,163,"NGA","Nigeria",37,"Yobe",748,"Fika","Local Authority","Local Authority",NA,NA
+749,163,"NGA","Nigeria",37,"Yobe",749,"Fune","Local Authority","Local Authority",NA,NA
+750,163,"NGA","Nigeria",37,"Yobe",750,"Geidam","Local Authority","Local Authority",NA,NA
+751,163,"NGA","Nigeria",37,"Yobe",751,"Gujba","Local Authority","Local Authority",NA,NA
+752,163,"NGA","Nigeria",37,"Yobe",752,"Gulani","Local Authority","Local Authority",NA,NA
+753,163,"NGA","Nigeria",37,"Yobe",753,"Jakusko","Local Authority","Local Authority",NA,NA
+754,163,"NGA","Nigeria",37,"Yobe",754,"Karasuwa","Local Authority","Local Authority",NA,NA
+755,163,"NGA","Nigeria",37,"Yobe",755,"Machina","Local Authority","Local Authority",NA,NA
+756,163,"NGA","Nigeria",37,"Yobe",756,"Nangere","Local Authority","Local Authority",NA,NA
+757,163,"NGA","Nigeria",37,"Yobe",757,"Nguru","Local Authority","Local Authority",NA,NA
+758,163,"NGA","Nigeria",37,"Yobe",758,"Potiskum","Local Authority","Local Authority",NA,NA
+759,163,"NGA","Nigeria",37,"Yobe",759,"Tarmuwa","Local Authority","Local Authority",NA,NA
+760,163,"NGA","Nigeria",37,"Yobe",760,"Yunusari","Local Authority","Local Authority",NA,NA
+761,163,"NGA","Nigeria",37,"Yobe",761,"Yusufari","Local Authority","Local Authority",NA,NA
+762,163,"NGA","Nigeria",38,"Zamfara",762,"Anka","Local Authority","Local Authority",NA,NA
+763,163,"NGA","Nigeria",38,"Zamfara",763,"Bakura","Local Authority","Local Authority",NA,NA
+764,163,"NGA","Nigeria",38,"Zamfara",764,"Birnin-Magaji/Kiyaw","Local Authority","Local Authority",NA,NA
+765,163,"NGA","Nigeria",38,"Zamfara",765,"Bukkuyum","Local Authority","Local Authority",NA,NA
+766,163,"NGA","Nigeria",38,"Zamfara",766,"Bungudu","Local Authority","Local Authority",NA,NA
+767,163,"NGA","Nigeria",38,"Zamfara",767,"Gummi","Local Authority","Local Authority",NA,NA
+768,163,"NGA","Nigeria",38,"Zamfara",768,"Gusau","Local Authority","Local Authority",NA,NA
+769,163,"NGA","Nigeria",38,"Zamfara",769,"Kaura-Na","Local Authority","Local Authority",NA,"Kaura Namoda"
+770,163,"NGA","Nigeria",38,"Zamfara",770,"Maradun","Local Authority","Local Authority",NA,NA
+771,163,"NGA","Nigeria",38,"Zamfara",771,"Maru","Local Authority","Local Authority",NA,NA
+772,163,"NGA","Nigeria",38,"Zamfara",772,"Shinkafi","Local Authority","Local Authority",NA,NA
+773,163,"NGA","Nigeria",38,"Zamfara",773,"Talata-Mafara","Local Authority","Local Authority",NA,NA
+774,163,"NGA","Nigeria",38,"Zamfara",774,"Tsafe","Local Authority","Local Authority",NA,NA
+775,163,"NGA","Nigeria",38,"Zamfara",775,"Zurmi","Local Authority","Local Authority",NA,NA

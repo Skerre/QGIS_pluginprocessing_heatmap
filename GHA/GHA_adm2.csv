@@ -1,0 +1,138 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,87,"GHA","Ghana",1,"Ashanti",1,"Adansi North","District","District",NA,NA
+2,87,"GHA","Ghana",1,"Ashanti",2,"Adansi South","District","District",NA,NA
+3,87,"GHA","Ghana",1,"Ashanti",3,"Afigya Sekyere","District","District",NA,"Afigya Kwabre"
+4,87,"GHA","Ghana",1,"Ashanti",4,"Ahafo Ano North","District","District",NA,NA
+5,87,"GHA","Ghana",1,"Ashanti",5,"Ahafo Ano South","District","District",NA,NA
+6,87,"GHA","Ghana",1,"Ashanti",6,"Amansie Central","District","District",NA,NA
+7,87,"GHA","Ghana",1,"Ashanti",7,"Amansie East","District","District",NA,NA
+8,87,"GHA","Ghana",1,"Ashanti",8,"Amansie West","District","District",NA,NA
+9,87,"GHA","Ghana",1,"Ashanti",9,"Asante Akim North","District","District",NA,NA
+10,87,"GHA","Ghana",1,"Ashanti",10,"Asante Akim South","District","District",NA,NA
+11,87,"GHA","Ghana",1,"Ashanti",11,"Atwima Mponua","District","District",NA,NA
+12,87,"GHA","Ghana",1,"Ashanti",12,"Atwima","District","District",NA,NA
+13,87,"GHA","Ghana",1,"Ashanti",13,"Bosomtwe-Kwanwoma","District","District",NA,NA
+14,87,"GHA","Ghana",1,"Ashanti",14,"Ejisu-Juabeng","District","District",NA,"Ejisu-Juaben|Ejusu/Juaben"
+15,87,"GHA","Ghana",1,"Ashanti",15,"Ejura Sekyedumase","District","District",NA,"Ejura/Sekyedumasi|Ejura/Sekyeredumasi"
+16,87,"GHA","Ghana",1,"Ashanti",16,"Kumasi","Metropolitan District","Metropolitan District",NA,"Kumasi Metropolitan Assembly"
+17,87,"GHA","Ghana",1,"Ashanti",17,"Kwabre","District","District",NA,"Kwabere|Kwabre-Sekyere"
+18,87,"GHA","Ghana",1,"Ashanti",18,"Obuasi Municipal","District","District",NA,NA
+19,87,"GHA","Ghana",1,"Ashanti",19,"Offinso","District","District",NA,NA
+20,87,"GHA","Ghana",1,"Ashanti",20,"Sekyere East","District","District",NA,NA
+21,87,"GHA","Ghana",1,"Ashanti",21,"Sekyere West","District","District",NA,NA
+22,87,"GHA","Ghana",2,"Brong Ahafo",22,"Asunafo North","District","District",NA,NA
+23,87,"GHA","Ghana",2,"Brong Ahafo",23,"Asunafo South","District","District",NA,NA
+24,87,"GHA","Ghana",2,"Brong Ahafo",24,"Asutifi","District","District",NA,NA
+25,87,"GHA","Ghana",2,"Brong Ahafo",25,"Atebubu-Amantin","District","District",NA,NA
+26,87,"GHA","Ghana",2,"Brong Ahafo",26,"Berekum","District","District",NA,NA
+27,87,"GHA","Ghana",2,"Brong Ahafo",27,"Dormaa","District","District",NA,NA
+28,87,"GHA","Ghana",2,"Brong Ahafo",28,"Jaman North","District","District",NA,NA
+29,87,"GHA","Ghana",2,"Brong Ahafo",29,"Jaman South","District","District",NA,NA
+30,87,"GHA","Ghana",2,"Brong Ahafo",30,"Kintampo North","District","District",NA,NA
+31,87,"GHA","Ghana",2,"Brong Ahafo",31,"Kintampo South","District","District",NA,NA
+32,87,"GHA","Ghana",2,"Brong Ahafo",32,"Nkoranza","District","District",NA,NA
+33,87,"GHA","Ghana",2,"Brong Ahafo",33,"Pru","District","District",NA,NA
+34,87,"GHA","Ghana",2,"Brong Ahafo",34,"Sene","District","District",NA,NA
+35,87,"GHA","Ghana",2,"Brong Ahafo",35,"Sunyani","District","District",NA,NA
+36,87,"GHA","Ghana",2,"Brong Ahafo",36,"Tain","District","District",NA,NA
+37,87,"GHA","Ghana",2,"Brong Ahafo",37,"Tano North","District","District",NA,NA
+38,87,"GHA","Ghana",2,"Brong Ahafo",38,"Tano South","District","District",NA,NA
+39,87,"GHA","Ghana",2,"Brong Ahafo",39,"Techiman","District","District",NA,"Tekyiman"
+40,87,"GHA","Ghana",3,"Central",40,"Abura-Asebu-Kwamankese","District","District",NA,NA
+41,87,"GHA","Ghana",3,"Central",41,"Agona","District","District",NA,"Agona-Swedru"
+42,87,"GHA","Ghana",3,"Central",42,"Ajumako-Enyan-Esiam","District","District",NA,"Ajumako Enyan|Ajumako-Enyan-Asiam|Ajumaku-Enyam-"
+43,87,"GHA","Ghana",3,"Central",43,"Asikuma Odoben Brakwa","District","District",NA,NA
+44,87,"GHA","Ghana",3,"Central",44,"Assin North","District","District",NA,NA
+45,87,"GHA","Ghana",3,"Central",45,"Assin South","District","District",NA,NA
+46,87,"GHA","Ghana",3,"Central",46,"Awutu Efutu Senya","District","District",NA,"Awutu-Afutu-Senya|Awutu/Effutu/Senya"
+47,87,"GHA","Ghana",3,"Central",47,"Cape Coast","Municipal District","Municipal District",NA,NA
+48,87,"GHA","Ghana",3,"Central",48,"Gomoa","District","District",NA,"Gomua"
+49,87,"GHA","Ghana",3,"Central",49,"Komenda-Edina-Eguafo-Abirem","District","District",NA,"Komenda/Edina Aguafo|Komenda/Edina/Eguafo"
+50,87,"GHA","Ghana",3,"Central",50,"Lower Denkyira","District","District",NA,"Twifo-Hemang-Lower Denkyira"
+51,87,"GHA","Ghana",3,"Central",51,"Mfantsiman","District","District",NA,"Mfantseman"
+52,87,"GHA","Ghana",3,"Central",52,"Upper Denkyira","District","District",NA,"Upper Denkhira"
+53,87,"GHA","Ghana",4,"Eastern",53,"Afram Plains","District","District",NA,NA
+54,87,"GHA","Ghana",4,"Eastern",54,"Akwapim North","District","District",NA,NA
+55,87,"GHA","Ghana",4,"Eastern",55,"Akwapim South","District","District",NA,NA
+56,87,"GHA","Ghana",4,"Eastern",56,"Asuogyaman","District","District",NA,NA
+57,87,"GHA","Ghana",4,"Eastern",57,"Atiwa","District","District",NA,NA
+58,87,"GHA","Ghana",4,"Eastern",58,"Birim North","District","District",NA,NA
+59,87,"GHA","Ghana",4,"Eastern",59,"Birim South","District","District",NA,NA
+60,87,"GHA","Ghana",4,"Eastern",60,"East Akim","District","District",NA,NA
+61,87,"GHA","Ghana",4,"Eastern",61,"Fanteakwa","District","District",NA,"Fanteakwah"
+62,87,"GHA","Ghana",4,"Eastern",62,"Kwabibirem","District","District",NA,"Kwaebibirem|Kwaebibirim"
+63,87,"GHA","Ghana",4,"Eastern",63,"Kwahu South","District","District",NA,NA
+64,87,"GHA","Ghana",4,"Eastern",64,"Kwahu West","District","District",NA,NA
+65,87,"GHA","Ghana",4,"Eastern",65,"Manya Krobo","District","District",NA,NA
+66,87,"GHA","Ghana",4,"Eastern",66,"New Juaben","Municipal District","Municipal District",NA,"New Juabem|New Juabeng"
+67,87,"GHA","Ghana",4,"Eastern",67,"Suhum Kraboa Coaltar","District","District",NA,"Suhum/Kroboa/Coaltar"
+68,87,"GHA","Ghana",4,"Eastern",68,"West Akim","District","District",NA,NA
+69,87,"GHA","Ghana",4,"Eastern",69,"Yilo Krobo","District","District",NA,NA
+70,87,"GHA","Ghana",5,"Greater Accra",70,"Accra","Metropolitan District","Metropolitan District",NA,"Accra Metropolitan Assembly"
+71,87,"GHA","Ghana",5,"Greater Accra",71,"Dangbe East","District","District",NA,NA
+72,87,"GHA","Ghana",5,"Greater Accra",72,"Dangbe West","District","District",NA,NA
+73,87,"GHA","Ghana",5,"Greater Accra",73,"Ga East","District","District",NA,NA
+74,87,"GHA","Ghana",5,"Greater Accra",74,"Ga West","District","District",NA,NA
+75,87,"GHA","Ghana",5,"Greater Accra",75,"Tema","Municipal District","Municipal District",NA,NA
+76,87,"GHA","Ghana",6,"Northern",76,"Bole","District","District",NA,NA
+77,87,"GHA","Ghana",6,"Northern",77,"Bunkpurugu Yunyoo","District","District",NA,NA
+78,87,"GHA","Ghana",6,"Northern",78,"Central Gonja","District","District",NA,NA
+79,87,"GHA","Ghana",6,"Northern",79,"East Gonja","District","District",NA,"East Gonga"
+80,87,"GHA","Ghana",6,"Northern",80,"East Mamprusi","District","District",NA,NA
+81,87,"GHA","Ghana",6,"Northern",81,"Gushiegu","District","District",NA,NA
+82,87,"GHA","Ghana",6,"Northern",82,"Karaga","District","District",NA,NA
+83,87,"GHA","Ghana",6,"Northern",83,"Nanumba North","District","District",NA,NA
+84,87,"GHA","Ghana",6,"Northern",84,"Nanumba South","District","District",NA,NA
+85,87,"GHA","Ghana",6,"Northern",85,"Saboba Chereponi","District","District",NA,"Saboba/Cherepon|Saboba/Cheripon"
+86,87,"GHA","Ghana",6,"Northern",86,"Savelugu Nanton","District","District",NA,"Savelgu/Nanton|Savelugu Nantom"
+87,87,"GHA","Ghana",6,"Northern",87,"Sawa-Tuna-Kalba","District","District",NA,NA
+88,87,"GHA","Ghana",6,"Northern",88,"Tamale","District","District",NA,"West Dagomba"
+89,87,"GHA","Ghana",6,"Northern",89,"Tolon-Kumbungu","District","District",NA,"Talon Kumbungu|Tolon Kumbugu"
+90,87,"GHA","Ghana",6,"Northern",90,"West Gonja","District","District",NA,NA
+91,87,"GHA","Ghana",6,"Northern",91,"West Mamprusi","District","District",NA,NA
+92,87,"GHA","Ghana",6,"Northern",92,"Yendi","District","District",NA,"East Dagomba"
+93,87,"GHA","Ghana",6,"Northern",93,"Zabzugu Tatale","District","District",NA,"Zabzugu Tatali"
+94,87,"GHA","Ghana",7,"Upper East",94,"Bawku Municipal","District","District",NA,NA
+95,87,"GHA","Ghana",7,"Upper East",95,"Bawku West","District","District",NA,NA
+96,87,"GHA","Ghana",7,"Upper East",96,"Bolgatanga","District","District",NA,"Bolga"
+97,87,"GHA","Ghana",7,"Upper East",97,"Bongo","District","District",NA,NA
+98,87,"GHA","Ghana",7,"Upper East",98,"Builsa","District","District",NA,NA
+99,87,"GHA","Ghana",7,"Upper East",99,"Garu Tempane","District","District",NA,NA
+100,87,"GHA","Ghana",7,"Upper East",100,"Kassena Nankana","District","District",NA,"Kasena/Nankan|Kassena/Nankani"
+101,87,"GHA","Ghana",7,"Upper East",101,"Talensi Nabdam","District","District",NA,NA
+102,87,"GHA","Ghana",8,"Upper West",102,"Jirapa Lambussie","District","District",NA,"Jirapa-Lambusi|Jirapa-Lumbussie"
+103,87,"GHA","Ghana",8,"Upper West",103,"Lawra","District","District",NA,NA
+104,87,"GHA","Ghana",8,"Upper West",104,"Nadowli","District","District",NA,"Nadawli|Nadawoli"
+105,87,"GHA","Ghana",8,"Upper West",105,"Sissala East","District","District",NA,NA
+106,87,"GHA","Ghana",8,"Upper West",106,"Sissala West","District","District",NA,NA
+107,87,"GHA","Ghana",8,"Upper West",107,"Wa East","District","District",NA,NA
+108,87,"GHA","Ghana",8,"Upper West",108,"Wa West","District","District",NA,NA
+109,87,"GHA","Ghana",8,"Upper West",109,"Wa","District","District",NA,NA
+110,87,"GHA","Ghana",9,"Volta",110,"Adaklu Anyigbe","District","District",NA,NA
+111,87,"GHA","Ghana",9,"Volta",111,"Akatsi","District","District",NA,NA
+112,87,"GHA","Ghana",9,"Volta",112,"Ho","District","District",NA,NA
+113,87,"GHA","Ghana",9,"Volta",113,"Hohoe","District","District",NA,NA
+114,87,"GHA","Ghana",9,"Volta",114,"Jasikan","District","District",NA,NA
+115,87,"GHA","Ghana",9,"Volta",115,"Kadjebi","District","District",NA,NA
+116,87,"GHA","Ghana",9,"Volta",116,"Keta","District","District",NA,NA
+117,87,"GHA","Ghana",9,"Volta",117,"Ketu","District","District",NA,"Denu"
+118,87,"GHA","Ghana",9,"Volta",118,"Kpandu","District","District",NA,"Kpando"
+119,87,"GHA","Ghana",9,"Volta",119,"Krachi East","District","District",NA,NA
+120,87,"GHA","Ghana",9,"Volta",120,"Krachi","District","District",NA,"Kete-Krachi"
+121,87,"GHA","Ghana",9,"Volta",121,"Nkwanta","District","District",NA,NA
+122,87,"GHA","Ghana",9,"Volta",122,"North Tongu","District","District",NA,"Adidome"
+123,87,"GHA","Ghana",9,"Volta",123,"South Dayi","District","District",NA,NA
+124,87,"GHA","Ghana",9,"Volta",124,"South Tongu","District","District",NA,"Sogakope"
+125,87,"GHA","Ghana",10,"Western",125,"Ahanta West","District","District",NA,NA
+126,87,"GHA","Ghana",10,"Western",126,"Aowin-Suaman","District","District",NA,NA
+127,87,"GHA","Ghana",10,"Western",127,"Bia","District","District",NA,NA
+128,87,"GHA","Ghana",10,"Western",128,"Bibiani Anhwiaso Bekwai","District","District",NA,NA
+129,87,"GHA","Ghana",10,"Western",129,"Jomoro","District","District",NA,NA
+130,87,"GHA","Ghana",10,"Western",130,"Juabeso","District","District",NA,NA
+131,87,"GHA","Ghana",10,"Western",131,"Mpohor Wassa East","District","District",NA,"Mpohor Wassa"
+132,87,"GHA","Ghana",10,"Western",132,"Nzema East","District","District",NA,"Nzima East"
+133,87,"GHA","Ghana",10,"Western",133,"Sefwi Wiawso","District","District",NA,"Sefei Wiaso|Sefwi Wiaso"
+134,87,"GHA","Ghana",10,"Western",134,"Shama Ahanta East","Metropolitan District","Metropolitan District",NA,"Shama Ahanta East Metropolitan Assembly"
+135,87,"GHA","Ghana",10,"Western",135,"Wasa Amenfi East","District","District",NA,NA
+136,87,"GHA","Ghana",10,"Western",136,"Wasa Amenfi West","District","District",NA,"Wasa West"
+137,87,"GHA","Ghana",10,"Western",137,"Wassa West","District","District",NA,NA

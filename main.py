@@ -73,7 +73,6 @@ def download():
     admin_bounds = list(admin_bounds)
     return admin_bounds, inputcountry
 
-
 def process(data, ctr):
     print("Entering Processing")
     filtered_list = [item for item in data if item.endswith('2.shp') or item.endswith('0.shp')]
@@ -85,13 +84,12 @@ def process(data, ctr):
     else:
         print("Input Layer not found or empty")
         return
-
     processing.run("qgis:randompointsinsidepolygons", {
         'INPUT': layer,
         'STRATEGY': 0, 'VALUE': 200,
         'MIN_DISTANCE': None, 'OUTPUT': '{}/randompoints.shp'.format(ctr)})
     processing.run("qgis:heatmapkerneldensityestimation", {
-        'INPUT': "{}/randompoints.shp".format(ctr), 'RADIUS': 0.5, 'RADIUS_FIELD': '',
+        'INPUT': "{}/randompoints.shp".format(ctr), 'RADIUS': 1 , 'RADIUS_FIELD': '',
         'PIXEL_SIZE': 0.005, 'WEIGHT_FIELD': '',
         'KERNEL': 0, 'DECAY': 0, 'OUTPUT_VALUE': 0, 'OUTPUT': '{}/heatmap.tiff'.format(ctr)})
     processing.run("gdal:cliprasterbymasklayer", {
@@ -128,7 +126,7 @@ def plot_map():
     for layout in layouts_list:
         if layout.name() == layoutName:
             manager.removeLayout(layout)
-
+    print("left plotting without errors")
 def check_value_in_csv(value):
     with open('countries.csv', 'r') as file:
         csv_reader = csv.reader(file)
@@ -145,9 +143,7 @@ def main():
     admlist, ctr = download()
     process(admlist, ctr)
     cleanworkspace(ctr)
-    # plot_map()
+    plot_map()
 
 if __name__ == "__main__":
     main()
-
-

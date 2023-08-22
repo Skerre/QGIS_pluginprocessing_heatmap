@@ -1,0 +1,269 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,234,"TUN","Tunisia",1,"Ariana",1,"Ariana Médina","Delegation","Delegation",NA,"Ariana Medina"
+2,234,"TUN","Tunisia",1,"Ariana",2,"Ettadhamen","Delegation","Delegation",NA,NA
+3,234,"TUN","Tunisia",1,"Ariana",3,"Kalaat El Andalous","Delegation","Delegation",NA,NA
+4,234,"TUN","Tunisia",1,"Ariana",4,"Mnihla","Delegation","Delegation",NA,NA
+5,234,"TUN","Tunisia",1,"Ariana",5,"Raoued","Delegation","Delegation",NA,NA
+6,234,"TUN","Tunisia",1,"Ariana",6,"Sebkhet Ariana","Water body","Water Body",NA,NA
+7,234,"TUN","Tunisia",1,"Ariana",7,"Sidi Thabet","Delegation","Delegation",NA,NA
+8,234,"TUN","Tunisia",1,"Ariana",8,"Soukra","Delegation","Delegation",NA,NA
+9,234,"TUN","Tunisia",2,"Béja",9,"Amdoun","Delegation","Delegation",NA,NA
+10,234,"TUN","Tunisia",2,"Béja",10,"Béja Nord","Delegation","Delegation",NA,NA
+11,234,"TUN","Tunisia",2,"Béja",11,"Béja Sud","Delegation","Delegation",NA,NA
+12,234,"TUN","Tunisia",2,"Béja",12,"Goubellat","Delegation","Delegation",NA,NA
+13,234,"TUN","Tunisia",2,"Béja",13,"Mejez El Bab","Delegation","Delegation",NA,NA
+14,234,"TUN","Tunisia",2,"Béja",14,"Nefza","Delegation","Delegation",NA,NA
+15,234,"TUN","Tunisia",2,"Béja",15,"Téboursouk","Delegation","Delegation",NA,"Teboursouk"
+16,234,"TUN","Tunisia",2,"Béja",16,"Testour","Delegation","Delegation",NA,NA
+17,234,"TUN","Tunisia",2,"Béja",17,"Thibar","Delegation","Delegation",NA,NA
+18,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",18,"Ben Arous","Delegation","Delegation",NA,NA
+19,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",19,"Boumhel","Delegation","Delegation",NA,NA
+20,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",20,"El Mourouj","Delegation","Delegation",NA,NA
+21,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",21,"Ezzahra","Delegation","Delegation",NA,NA
+22,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",22,"Fouchana","Delegation","Delegation",NA,NA
+23,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",23,"Hammam Chott","Delegation","Delegation",NA,NA
+24,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",24,"Hammam Lif","Delegation","Delegation",NA,NA
+25,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",25,"M'Hamdia","Delegation","Delegation",NA,NA
+26,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",26,"Mégrine","Delegation","Delegation",NA,"Megrine"
+27,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",27,"Mornag","Delegation","Delegation",NA,NA
+28,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",28,"Nouvelle Médina","Delegation","Delegation",NA,"Medina Jedida"
+29,234,"TUN","Tunisia",3,"Ben Arous (Tunis Sud)",29,"Radès","Delegation","Delegation",NA,"Rades"
+30,234,"TUN","Tunisia",4,"Bizerte",30,"Bizerte Nord","Delegation","Delegation",NA,NA
+31,234,"TUN","Tunisia",4,"Bizerte",31,"Bizerte Sud","Delegation","Delegation",NA,NA
+32,234,"TUN","Tunisia",4,"Bizerte",32,"El Alia","Delegation","Delegation",NA,NA
+33,234,"TUN","Tunisia",4,"Bizerte",33,"Ghar El Melh","Delegation","Delegation",NA,NA
+34,234,"TUN","Tunisia",4,"Bizerte",34,"Ghazala","Delegation","Delegation",NA,"Ghezala"
+35,234,"TUN","Tunisia",4,"Bizerte",35,"Joumine","Delegation","Delegation",NA,NA
+36,234,"TUN","Tunisia",4,"Bizerte",36,"Lake Ichkeul","Water Body","Water Body",NA,NA
+37,234,"TUN","Tunisia",4,"Bizerte",37,"Mateur","Delegation","Delegation",NA,NA
+38,234,"TUN","Tunisia",4,"Bizerte",38,"Menzel Bourguiba","Delegation","Delegation",NA,NA
+39,234,"TUN","Tunisia",4,"Bizerte",39,"Menzel Jemil","Delegation","Delegation",NA,NA
+40,234,"TUN","Tunisia",4,"Bizerte",40,"Ras Jebel","Delegation","Delegation",NA,NA
+41,234,"TUN","Tunisia",4,"Bizerte",41,"Sejnane","Delegation","Delegation",NA,NA
+42,234,"TUN","Tunisia",4,"Bizerte",42,"Tinja","Delegation","Delegation",NA,NA
+43,234,"TUN","Tunisia",4,"Bizerte",43,"Utique","Delegation","Delegation",NA,NA
+44,234,"TUN","Tunisia",5,"Gabès",44,"Gabès Médina","Delegation","Delegation",NA,"Gabes Medina"
+45,234,"TUN","Tunisia",5,"Gabès",45,"Gabès Ouest","Delegation","Delegation",NA,"Gabes Ouest"
+46,234,"TUN","Tunisia",5,"Gabès",46,"Gabès Sud","Delegation","Delegation",NA,"Gabes Sud"
+47,234,"TUN","Tunisia",5,"Gabès",47,"Ghannouch","Delegation","Delegation",NA,NA
+48,234,"TUN","Tunisia",5,"Gabès",48,"Hamma","Delegation","Delegation",NA,NA
+49,234,"TUN","Tunisia",5,"Gabès",49,"Mareth","Delegation","Delegation",NA,NA
+50,234,"TUN","Tunisia",5,"Gabès",50,"Matmata Nouvelle","Delegation","Delegation",NA,NA
+51,234,"TUN","Tunisia",5,"Gabès",51,"Matmata","Delegation","Delegation",NA,"Matmata Ancienne"
+52,234,"TUN","Tunisia",5,"Gabès",52,"Menzel Habib","Delegation","Delegation",NA,NA
+53,234,"TUN","Tunisia",5,"Gabès",53,"Metouia","Delegation","Delegation",NA,NA
+54,234,"TUN","Tunisia",6,"Gafsa",54,"Belkhir","Delegation","Delegation",NA,NA
+55,234,"TUN","Tunisia",6,"Gafsa",55,"Gafsa Nord","Delegation","Delegation",NA,NA
+56,234,"TUN","Tunisia",6,"Gafsa",56,"Gafsa Sud","Delegation","Delegation",NA,NA
+57,234,"TUN","Tunisia",6,"Gafsa",57,"Guetar","Delegation","Delegation",NA,NA
+58,234,"TUN","Tunisia",6,"Gafsa",58,"Ksar","Delegation","Delegation",NA,NA
+59,234,"TUN","Tunisia",6,"Gafsa",59,"Mdhilla","Delegation","Delegation",NA,NA
+60,234,"TUN","Tunisia",6,"Gafsa",60,"Metlaoui","Delegation","Delegation",NA,NA
+61,234,"TUN","Tunisia",6,"Gafsa",61,"Oum Larais","Delegation","Delegation",NA,"Moulareb|Oum El Araies|Oum Laarayés"
+62,234,"TUN","Tunisia",6,"Gafsa",62,"Redeyef","Delegation","Delegation",NA,NA
+63,234,"TUN","Tunisia",6,"Gafsa",63,"Sened","Delegation","Delegation",NA,NA
+64,234,"TUN","Tunisia",6,"Gafsa",64,"Sidi Aich","Delegation","Delegation",NA,NA
+65,234,"TUN","Tunisia",7,"Jendouba",65,"Aïn Draham","Delegation","Delegation",NA,"Ain Draham"
+66,234,"TUN","Tunisia",7,"Jendouba",66,"Balta Bou Aouane","Delegation","Delegation",NA,"Balta"
+67,234,"TUN","Tunisia",7,"Jendouba",67,"Bousalem","Delegation","Delegation",NA,NA
+68,234,"TUN","Tunisia",7,"Jendouba",68,"Fernana","Delegation","Delegation",NA,NA
+69,234,"TUN","Tunisia",7,"Jendouba",69,"Ghardimaou","Delegation","Delegation",NA,NA
+70,234,"TUN","Tunisia",7,"Jendouba",70,"Jendouba Nord","Delegation","Delegation",NA,NA
+71,234,"TUN","Tunisia",7,"Jendouba",71,"Jendouba Sud","Delegation","Delegation",NA,NA
+72,234,"TUN","Tunisia",7,"Jendouba",72,"Oued Mliz","Delegation","Delegation",NA,NA
+73,234,"TUN","Tunisia",7,"Jendouba",73,"Tabarka","Delegation","Delegation",NA,NA
+74,234,"TUN","Tunisia",8,"Kairouan",74,"Alaa","Delegation","Delegation",NA,"El  Ala"
+75,234,"TUN","Tunisia",8,"Kairouan",75,"Bouhajla","Delegation","Delegation",NA,NA
+76,234,"TUN","Tunisia",8,"Kairouan",76,"Chebika","Delegation","Delegation",NA,NA
+77,234,"TUN","Tunisia",8,"Kairouan",77,"Chrarda","Delegation","Delegation",NA,"Ch'rarda"
+78,234,"TUN","Tunisia",8,"Kairouan",78,"Haffouz","Delegation","Delegation",NA,NA
+79,234,"TUN","Tunisia",8,"Kairouan",79,"Hajeb El Ayoun","Delegation","Delegation",NA,NA
+80,234,"TUN","Tunisia",8,"Kairouan",80,"Kairouan Nord","Delegation","Delegation",NA,NA
+81,234,"TUN","Tunisia",8,"Kairouan",81,"Kairouan Sud","Delegation","Delegation",NA,NA
+82,234,"TUN","Tunisia",8,"Kairouan",82,"Nasrallah","Delegation","Delegation",NA,NA
+83,234,"TUN","Tunisia",8,"Kairouan",83,"Oueslatia","Delegation","Delegation",NA,NA
+84,234,"TUN","Tunisia",8,"Kairouan",84,"Sbikha","Delegation","Delegation",NA,NA
+85,234,"TUN","Tunisia",9,"Kassérine",85,"Ayoun","Delegation","Delegation",NA,"Elayoun"
+86,234,"TUN","Tunisia",9,"Kassérine",86,"Ezzouhour","Delegation","Delegation",NA,NA
+87,234,"TUN","Tunisia",9,"Kassérine",87,"Feriana","Delegation","Delegation",NA,NA
+88,234,"TUN","Tunisia",9,"Kassérine",88,"Foussana","Delegation","Delegation",NA,NA
+89,234,"TUN","Tunisia",9,"Kassérine",89,"Hassi El Ferid","Delegation","Delegation",NA,NA
+90,234,"TUN","Tunisia",9,"Kassérine",90,"Hidra","Delegation","Delegation",NA,"Haidra"
+91,234,"TUN","Tunisia",9,"Kassérine",91,"Jedeliane","Delegation","Delegation",NA,NA
+92,234,"TUN","Tunisia",9,"Kassérine",92,"Kasserine Nord","Delegation","Delegation",NA,NA
+93,234,"TUN","Tunisia",9,"Kassérine",93,"Kasserine Sud","Delegation","Delegation",NA,NA
+94,234,"TUN","Tunisia",9,"Kassérine",94,"Majel Belabbes","Delegation","Delegation",NA,NA
+95,234,"TUN","Tunisia",9,"Kassérine",95,"Sbeitla","Delegation","Delegation",NA,NA
+96,234,"TUN","Tunisia",9,"Kassérine",96,"Sbiba","Delegation","Delegation",NA,NA
+97,234,"TUN","Tunisia",9,"Kassérine",97,"Thala","Delegation","Delegation",NA,NA
+98,234,"TUN","Tunisia",10,"Kebili",98,"Douz","Delegation","Delegation",NA,NA
+99,234,"TUN","Tunisia",10,"Kebili",99,"Faouar","Delegation","Delegation",NA,NA
+100,234,"TUN","Tunisia",10,"Kebili",100,"Kebili Nord","Delegation","Delegation",NA,"Kebili-North"
+101,234,"TUN","Tunisia",10,"Kebili",101,"Kebili Sud","Delegation","Delegation",NA,"Kebili-South"
+102,234,"TUN","Tunisia",10,"Kebili",102,"Souk El Ahed","Delegation","Delegation",NA,NA
+103,234,"TUN","Tunisia",11,"Le Kef",103,"Dahmani","Delegation","Delegation",NA,NA
+104,234,"TUN","Tunisia",11,"Le Kef",104,"Es Sers","Delegation","Delegation",NA,NA
+105,234,"TUN","Tunisia",11,"Le Kef",105,"Jerissa","Delegation","Delegation",NA,NA
+106,234,"TUN","Tunisia",11,"Le Kef",106,"Kalaa Khesba","Delegation","Delegation",NA,"Kalaa Khasbat"
+107,234,"TUN","Tunisia",11,"Le Kef",107,"Kalaat Senan","Delegation","Delegation",NA,"Kalat Snen|Kalaat Senane"
+108,234,"TUN","Tunisia",11,"Le Kef",108,"Kef Est","Delegation","Delegation",NA,NA
+109,234,"TUN","Tunisia",11,"Le Kef",109,"Kef Ouest","Delegation","Delegation",NA,NA
+110,234,"TUN","Tunisia",11,"Le Kef",110,"Ksour","Delegation","Delegation",NA,NA
+111,234,"TUN","Tunisia",11,"Le Kef",111,"Nebeur","Delegation","Delegation",NA,NA
+112,234,"TUN","Tunisia",11,"Le Kef",112,"Sakiet Sidi Youssef","Delegation","Delegation",NA,NA
+113,234,"TUN","Tunisia",11,"Le Kef",113,"Tajerouine","Delegation","Delegation",NA,"Tejrouine"
+114,234,"TUN","Tunisia",12,"Médenine",114,"Ben Guerdane","Delegation","Delegation",NA,NA
+115,234,"TUN","Tunisia",12,"Médenine",115,"Beni Khedache","Delegation","Delegation",NA,NA
+116,234,"TUN","Tunisia",12,"Médenine",116,"Djerba Ajim","Delegation","Delegation",NA,NA
+117,234,"TUN","Tunisia",12,"Médenine",117,"Djerba Midoun","Delegation","Delegation",NA,NA
+118,234,"TUN","Tunisia",12,"Médenine",118,"Houmt Souk","Delegation","Delegation",NA,"Houmt Souk"
+119,234,"TUN","Tunisia",12,"Médenine",119,"Médenine Nord","Delegation","Delegation",NA,"Medenine Nord"
+120,234,"TUN","Tunisia",12,"Médenine",120,"Médenine Sud","Delegation","Delegation",NA,"Medenine Sud"
+121,234,"TUN","Tunisia",12,"Médenine",121,"Sidi Makhlouf","Delegation","Delegation",NA,NA
+122,234,"TUN","Tunisia",12,"Médenine",122,"Zarzis","Delegation","Delegation",NA,"Larig"
+123,234,"TUN","Tunisia",13,"Mahdia",123,"Boumerdès","Delegation","Delegation",NA,"Boumerdes"
+124,234,"TUN","Tunisia",13,"Mahdia",124,"Chebba","Delegation","Delegation",NA,NA
+125,234,"TUN","Tunisia",13,"Mahdia",125,"Chorbane","Delegation","Delegation",NA,NA
+126,234,"TUN","Tunisia",13,"Mahdia",126,"El Jem","Delegation","Delegation",NA,NA
+127,234,"TUN","Tunisia",13,"Mahdia",127,"Hbira","Delegation","Delegation",NA,NA
+128,234,"TUN","Tunisia",13,"Mahdia",128,"Ksour Essef","Delegation","Delegation",NA,NA
+129,234,"TUN","Tunisia",13,"Mahdia",129,"Mahdia","Delegation","Delegation",NA,NA
+130,234,"TUN","Tunisia",13,"Mahdia",130,"Melloulech","Delegation","Delegation",NA,NA
+131,234,"TUN","Tunisia",13,"Mahdia",131,"Ouled Chamekh","Delegation","Delegation",NA,NA
+132,234,"TUN","Tunisia",13,"Mahdia",132,"Sidi Alouane","Delegation","Delegation",NA,NA
+133,234,"TUN","Tunisia",13,"Mahdia",133,"Souassi","Delegation","Delegation",NA,"Essouassi"
+134,234,"TUN","Tunisia",14,"Manubah",134,"Borj El Amri","Delegation","Delegation",NA,NA
+135,234,"TUN","Tunisia",14,"Manubah",135,"Douar Hicher","Delegation","Delegation",NA,NA
+136,234,"TUN","Tunisia",14,"Manubah",136,"El Battan","Delegation","Delegation",NA,"El Batane"
+137,234,"TUN","Tunisia",14,"Manubah",137,"Jedaida","Delegation","Delegation",NA,"Jdaida"
+138,234,"TUN","Tunisia",14,"Manubah",138,"Manouba","Delegation","Delegation",NA,NA
+139,234,"TUN","Tunisia",14,"Manubah",139,"Mornaguia","Delegation","Delegation",NA,NA
+140,234,"TUN","Tunisia",14,"Manubah",140,"Oued Ellil","Delegation","Delegation",NA,NA
+141,234,"TUN","Tunisia",14,"Manubah",141,"Tebourba","Delegation","Delegation",NA,NA
+142,234,"TUN","Tunisia",15,"Monastir",142,"Bekalta","Delegation","Delegation",NA,NA
+143,234,"TUN","Tunisia",15,"Monastir",143,"Bembla","Delegation","Delegation",NA,NA
+144,234,"TUN","Tunisia",15,"Monastir",144,"Beni Hassen","Delegation","Delegation",NA,NA
+145,234,"TUN","Tunisia",15,"Monastir",145,"Jammel","Delegation","Delegation",NA,NA
+146,234,"TUN","Tunisia",15,"Monastir",146,"Ksar Hellal","Delegation","Delegation",NA,NA
+147,234,"TUN","Tunisia",15,"Monastir",147,"Ksibet El Mediouni","Delegation","Delegation",NA,NA
+148,234,"TUN","Tunisia",15,"Monastir",148,"Moknine","Delegation","Delegation",NA,NA
+149,234,"TUN","Tunisia",15,"Monastir",149,"Monastir","Delegation","Delegation",NA,NA
+150,234,"TUN","Tunisia",15,"Monastir",150,"Ouerdanine","Delegation","Delegation",NA,NA
+151,234,"TUN","Tunisia",15,"Monastir",151,"Sahline","Delegation","Delegation",NA,NA
+152,234,"TUN","Tunisia",15,"Monastir",152,"Sayada-Lamta-Bou Hjar","Delegation","Delegation",NA,NA
+153,234,"TUN","Tunisia",15,"Monastir",153,"Sebkhet El Moknine","Water body","Water body",NA,NA
+154,234,"TUN","Tunisia",15,"Monastir",154,"Teboulba","Delegation","Delegation",NA,NA
+155,234,"TUN","Tunisia",15,"Monastir",155,"Unknown1","Delegation","Delegation",NA,NA
+156,234,"TUN","Tunisia",15,"Monastir",156,"Zeramdine","Delegation","Delegation",NA,NA
+157,234,"TUN","Tunisia",16,"Nabeul",157,"Beni Khalled","Delegation","Delegation",NA,NA
+158,234,"TUN","Tunisia",16,"Nabeul",158,"Beni Khiar","Delegation","Delegation",NA,NA
+159,234,"TUN","Tunisia",16,"Nabeul",159,"Bou Argoub","Delegation","Delegation",NA,NA
+160,234,"TUN","Tunisia",16,"Nabeul",160,"Dar Chaabane El Fehri","Delegation","Delegation",NA,NA
+161,234,"TUN","Tunisia",16,"Nabeul",161,"El Mida","Delegation","Delegation",NA,NA
+162,234,"TUN","Tunisia",16,"Nabeul",162,"Grombalia","Delegation","Delegation",NA,NA
+163,234,"TUN","Tunisia",16,"Nabeul",163,"Hammam Ghezaz","Delegation","Delegation",NA,"Hammam"
+164,234,"TUN","Tunisia",16,"Nabeul",164,"Hammamet","Delegation","Delegation",NA,NA
+165,234,"TUN","Tunisia",16,"Nabeul",165,"Haouaria","Delegation","Delegation",NA,NA
+166,234,"TUN","Tunisia",16,"Nabeul",166,"Kelibia","Delegation","Delegation",NA,NA
+167,234,"TUN","Tunisia",16,"Nabeul",167,"Korba","Delegation","Delegation",NA,NA
+168,234,"TUN","Tunisia",16,"Nabeul",168,"Menzel Bouzelfa","Delegation","Delegation",NA,NA
+169,234,"TUN","Tunisia",16,"Nabeul",169,"Menzel Temime","Delegation","Delegation",NA,NA
+170,234,"TUN","Tunisia",16,"Nabeul",170,"Nabeul","Delegation","Delegation",NA,NA
+171,234,"TUN","Tunisia",16,"Nabeul",171,"Soliman","Delegation","Delegation",NA,NA
+172,234,"TUN","Tunisia",16,"Nabeul",172,"Takelsa","Delegation","Delegation",NA,NA
+173,234,"TUN","Tunisia",17,"Sfax",173,"Agareb","Delegation","Delegation",NA,NA
+174,234,"TUN","Tunisia",17,"Sfax",174,"Bir Ali Ben Khélifa","Delegation","Delegation",NA,"Bir Ali Ben Khelifa"
+175,234,"TUN","Tunisia",17,"Sfax",175,"El Amra","Delegation","Delegation",NA,"Amra"
+176,234,"TUN","Tunisia",17,"Sfax",176,"El Ghraiba","Delegation","Delegation",NA,"Gheriba"
+177,234,"TUN","Tunisia",17,"Sfax",177,"Hencha","Delegation","Delegation",NA,NA
+178,234,"TUN","Tunisia",17,"Sfax",178,"Jebeniana","Delegation","Delegation",NA,NA
+179,234,"TUN","Tunisia",17,"Sfax",179,"Kerkennah","Delegation","Delegation",NA,NA
+180,234,"TUN","Tunisia",17,"Sfax",180,"Mahres","Delegation","Delegation",NA,"El Mahres"
+181,234,"TUN","Tunisia",17,"Sfax",181,"Menzel Chaker","Delegation","Delegation",NA,NA
+182,234,"TUN","Tunisia",17,"Sfax",182,"Sakiet Eddaier","Delegation","Delegation",NA,NA
+183,234,"TUN","Tunisia",17,"Sfax",183,"Sakiet Ezzit","Delegation","Delegation",NA,NA
+184,234,"TUN","Tunisia",17,"Sfax",184,"Sfax Médina","Delegation","Delegation",NA,"Sfax Medina"
+185,234,"TUN","Tunisia",17,"Sfax",185,"Sfax Ouest","Delegation","Delegation",NA,NA
+186,234,"TUN","Tunisia",17,"Sfax",186,"Sfax Sud","Delegation","Delegation",NA,NA
+187,234,"TUN","Tunisia",17,"Sfax",187,"Skhira","Delegation","Delegation",NA,NA
+188,234,"TUN","Tunisia",18,"Sidi Bou Zid",188,"Bir El Hfay","Delegation","Delegation",NA,NA
+189,234,"TUN","Tunisia",18,"Sidi Bou Zid",189,"Jelma","Delegation","Delegation",NA,NA
+190,234,"TUN","Tunisia",18,"Sidi Bou Zid",190,"Mazzouna","Delegation","Delegation",NA,NA
+191,234,"TUN","Tunisia",18,"Sidi Bou Zid",191,"Meknassi","Delegation","Delegation",NA,NA
+192,234,"TUN","Tunisia",18,"Sidi Bou Zid",192,"Menzel Bouzaiene","Delegation","Delegation",NA,NA
+193,234,"TUN","Tunisia",18,"Sidi Bou Zid",193,"Ouled Haffouz","Delegation","Delegation",NA,NA
+194,234,"TUN","Tunisia",18,"Sidi Bou Zid",194,"Regueb","Delegation","Delegation",NA,NA
+195,234,"TUN","Tunisia",18,"Sidi Bou Zid",195,"Sabalat Ouled Asker","Delegation","Delegation",NA,NA
+196,234,"TUN","Tunisia",18,"Sidi Bou Zid",196,"Sidi Ali Ben Aoun","Delegation","Delegation",NA,NA
+197,234,"TUN","Tunisia",18,"Sidi Bou Zid",197,"Sidi Bouzid Est","Delegation","Delegation",NA,NA
+198,234,"TUN","Tunisia",18,"Sidi Bou Zid",198,"Sidi Bouzid Ouest","Delegation","Delegation",NA,NA
+199,234,"TUN","Tunisia",18,"Sidi Bou Zid",199,"Souk Jedid","Delegation","Delegation",NA,"Souk Jdid"
+200,234,"TUN","Tunisia",19,"Siliana",200,"Bargou","Delegation","Delegation",NA,NA
+201,234,"TUN","Tunisia",19,"Siliana",201,"Bouarada","Delegation","Delegation",NA,NA
+202,234,"TUN","Tunisia",19,"Siliana",202,"Bourouis","Delegation","Delegation",NA,NA
+203,234,"TUN","Tunisia",19,"Siliana",203,"El Krib","Delegation","Delegation",NA,NA
+204,234,"TUN","Tunisia",19,"Siliana",204,"Gaafour","Delegation","Delegation",NA,NA
+205,234,"TUN","Tunisia",19,"Siliana",205,"Kesra","Delegation","Delegation",NA,NA
+206,234,"TUN","Tunisia",19,"Siliana",206,"Laroussa","Delegation","Delegation",NA,"Laaroussa"
+207,234,"TUN","Tunisia",19,"Siliana",207,"Makthar","Delegation","Delegation",NA,NA
+208,234,"TUN","Tunisia",19,"Siliana",208,"Rouhia","Delegation","Delegation",NA,NA
+209,234,"TUN","Tunisia",19,"Siliana",209,"Siliana Nord","Delegation","Delegation",NA,NA
+210,234,"TUN","Tunisia",19,"Siliana",210,"Siliana Sud","Delegation","Delegation",NA,NA
+211,234,"TUN","Tunisia",20,"Sousse",211,"Akouda","Delegation","Delegation",NA,NA
+212,234,"TUN","Tunisia",20,"Sousse",212,"Bouficha","Delegation","Delegation",NA,NA
+213,234,"TUN","Tunisia",20,"Sousse",213,"Enfidha","Delegation","Delegation",NA,NA
+214,234,"TUN","Tunisia",20,"Sousse",214,"Hammam Sousse","Delegation","Delegation",NA,NA
+215,234,"TUN","Tunisia",20,"Sousse",215,"Hergla","Delegation","Delegation",NA,NA
+216,234,"TUN","Tunisia",20,"Sousse",216,"Kalaa Kebira","Delegation","Delegation",NA,NA
+217,234,"TUN","Tunisia",20,"Sousse",217,"Kalaa Sghira","Delegation","Delegation",NA,NA
+218,234,"TUN","Tunisia",20,"Sousse",218,"Kondar","Delegation","Delegation",NA,NA
+219,234,"TUN","Tunisia",20,"Sousse",219,"M'Saken","Delegation","Delegation",NA,NA
+220,234,"TUN","Tunisia",20,"Sousse",220,"Sebkhat Sidi El Hani","Water Body","Water Body",NA,NA
+221,234,"TUN","Tunisia",20,"Sousse",221,"Sebkhit El Kabla","Water Body","Water Body",NA,NA
+222,234,"TUN","Tunisia",20,"Sousse",222,"Sidi Bou Ali","Delegation","Delegation",NA,NA
+223,234,"TUN","Tunisia",20,"Sousse",223,"Sidi El Heni","Delegation","Delegation",NA,NA
+224,234,"TUN","Tunisia",20,"Sousse",224,"Sousse Jaouhara","Delegation","Delegation",NA,NA
+225,234,"TUN","Tunisia",20,"Sousse",225,"Sousse Médina","Delegation","Delegation",NA,"Sousse Medina"
+226,234,"TUN","Tunisia",20,"Sousse",226,"Sousse Riadh","Delegation","Delegation",NA,NA
+227,234,"TUN","Tunisia",20,"Sousse",227,"Sousse Sidi Abdelhamid","Delegation","Delegation",NA,NA
+228,234,"TUN","Tunisia",21,"Tataouine",228,"Bir Lahmar","Delegation","Delegation",NA,NA
+229,234,"TUN","Tunisia",21,"Tataouine",229,"Dhiba","Delegation","Delegation",NA,NA
+230,234,"TUN","Tunisia",21,"Tataouine",230,"Ghomrassen","Delegation","Delegation",NA,NA
+231,234,"TUN","Tunisia",21,"Tataouine",231,"Remada","Delegation","Delegation",NA,NA
+232,234,"TUN","Tunisia",21,"Tataouine",232,"Samar","Delegation","Delegation",NA,NA
+233,234,"TUN","Tunisia",21,"Tataouine",233,"Tataouine Nord","Delegation","Delegation",NA,NA
+234,234,"TUN","Tunisia",21,"Tataouine",234,"Tataouine Sud","Delegation","Delegation",NA,NA
+235,234,"TUN","Tunisia",22,"Tozeur",235,"Degueche","Delegation","Delegation",NA,NA
+236,234,"TUN","Tunisia",22,"Tozeur",236,"Hazoua","Delegation","Delegation",NA,NA
+237,234,"TUN","Tunisia",22,"Tozeur",237,"Nefta","Delegation","Delegation",NA,NA
+238,234,"TUN","Tunisia",22,"Tozeur",238,"Tamaghza","Delegation","Delegation",NA,NA
+239,234,"TUN","Tunisia",22,"Tozeur",239,"Tozeur","Delegation","Delegation",NA,NA
+240,234,"TUN","Tunisia",23,"Tunis",240,"Bab Bhar","Delegation","Delegation",NA,NA
+241,234,"TUN","Tunisia",23,"Tunis",241,"Bab Souika","Delegation","Delegation",NA,NA
+242,234,"TUN","Tunisia",23,"Tunis",242,"Bardo","Delegation","Delegation",NA,"Le Bardo"
+243,234,"TUN","Tunisia",23,"Tunis",243,"Bouhaira","Delegation","Delegation",NA,NA
+244,234,"TUN","Tunisia",23,"Tunis",244,"Carthage","Delegation","Delegation",NA,NA
+245,234,"TUN","Tunisia",23,"Tunis",245,"Cité El Khadra","Delegation","Delegation",NA,"Cite El Khadra"
+246,234,"TUN","Tunisia",23,"Tunis",246,"El Menzah","Delegation","Delegation",NA,NA
+247,234,"TUN","Tunisia",23,"Tunis",247,"El Ouardia","Delegation","Delegation",NA,NA
+248,234,"TUN","Tunisia",23,"Tunis",248,"El Tahrir","Delegation","Delegation",NA,NA
+249,234,"TUN","Tunisia",23,"Tunis",249,"Ezzouhour","Delegation","Delegation",NA,NA
+250,234,"TUN","Tunisia",23,"Tunis",250,"Hrairia","Delegation","Delegation",NA,NA
+251,234,"TUN","Tunisia",23,"Tunis",251,"Jebel Jelloud","Delegation","Delegation",NA,NA
+252,234,"TUN","Tunisia",23,"Tunis",252,"Kabaria","Delegation","Delegation",NA,NA
+253,234,"TUN","Tunisia",23,"Tunis",253,"La Goulette","Delegation","Delegation",NA,NA
+254,234,"TUN","Tunisia",23,"Tunis",254,"La Marsa","Delegation","Delegation",NA,NA
+255,234,"TUN","Tunisia",23,"Tunis",255,"Médina","Delegation","Delegation",NA,"Medina"
+256,234,"TUN","Tunisia",23,"Tunis",256,"Omrane Supérieur","Delegation","Delegation",NA,"Omrane Superieur"
+257,234,"TUN","Tunisia",23,"Tunis",257,"Omrane","Delegation","Delegation",NA,NA
+258,234,"TUN","Tunisia",23,"Tunis",258,"Sabkhet Sijoumi","Water body","Water body",NA,NA
+259,234,"TUN","Tunisia",23,"Tunis",259,"Sidi El Béchir","Delegation","Delegation",NA,"Sidi El Bechir"
+260,234,"TUN","Tunisia",23,"Tunis",260,"Sidi Hassine","Delegation","Delegation",NA,NA
+261,234,"TUN","Tunisia",23,"Tunis",261,"Sijoumi","Delegation","Delegation",NA,"Sejoumi"
+262,234,"TUN","Tunisia",23,"Tunis",262,"Unknown","Delegation","Delegation",NA,NA
+263,234,"TUN","Tunisia",24,"Zaghouan",263,"Bir Mchergua","Delegation","Delegation",NA,NA
+264,234,"TUN","Tunisia",24,"Zaghouan",264,"Fahs","Delegation","Delegation",NA,NA
+265,234,"TUN","Tunisia",24,"Zaghouan",265,"Nadhour","Delegation","Delegation",NA,NA
+266,234,"TUN","Tunisia",24,"Zaghouan",266,"Saouaf","Delegation","Delegation",NA,NA
+267,234,"TUN","Tunisia",24,"Zaghouan",267,"Zaghouan","Delegation","Delegation",NA,NA
+268,234,"TUN","Tunisia",24,"Zaghouan",268,"Zriba","Delegation","Delegation",NA,NA
